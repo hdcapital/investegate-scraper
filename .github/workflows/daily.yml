@@ -1,0 +1,44 @@
+name: Daily Investegate Scrape
+
+on:
+  schedule:
+    # GitHub uses UTC. 06:30 UTC ≈ 5:30pm Sydney during AEDT.
+    # If Sydney switches to AEST (UTC+10), change this to '30 07 * * *'.
+    - cron: '30 06 * * *'
+  workflow_dispatch:  # lets you run it manually
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml python-dateutil openai
+
+      - name: Run scraper
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # remove if not using AI
+        run: |
+          python investegate_scraper.py \
+            --pages 2 \
+            --per_page 300 \
+            --since_days 7 \
+            --min_score 1 \
+            --keywords_file keywords.txt \
+            --use_ai true
+
+      - name: Upload output
+        uses: actions/upload-artifact@v4
+        with:
+          name: investegate-out
+          path: out/
