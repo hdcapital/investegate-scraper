@@ -37,6 +37,28 @@ jobs:
             --keywords_file keywords.txt \
             --use_ai true
 
+      - name: Zip report folder
+        run: |
+          zip -r report.zip out/
+
+      - name: Email report
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "Investegate RNS Digest – ${{ github.run_number }} ({{date}})"
+          to: ${{ secrets.TO_EMAIL }}
+          from: ${{ secrets.FROM_EMAIL }}
+          # Simple body; includes a link back to the run
+          body: |
+            Attached is today's Investegate RNS Digest (zipped).
+            Run details: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          content_type: text/plain
+          attachments: report.zip
+
+
       - name: Upload output
         uses: actions/upload-artifact@v4
         with:
