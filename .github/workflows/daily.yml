@@ -27,7 +27,7 @@ jobs:
 
       - name: Run scraper
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # remove if not using AI
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # keep AI ON
         run: |
           python investegate_scraper.py \
             --pages 2 \
@@ -46,18 +46,16 @@ jobs:
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
           server_port: ${{ secrets.SMTP_PORT }}
+          secure: false  # 587 uses STARTTLS; set true if you switch to port 465
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "Investegate RNS Digest – ${{ github.run_number }} ({{date}})"
+          subject: "Investegate RNS Digest – ${{ github.run_number }}"
           to: ${{ secrets.TO_EMAIL }}
-          from: ${{ secrets.FROM_EMAIL }}
-          # Simple body; includes a link back to the run
+          from: "${{ secrets.FROM_NAME }} <${{ secrets.SMTP_USERNAME }}>"
           body: |
             Attached is today's Investegate RNS Digest (zipped).
             Run details: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          content_type: text/plain
           attachments: report.zip
-
 
       - name: Upload output
         uses: actions/upload-artifact@v4
