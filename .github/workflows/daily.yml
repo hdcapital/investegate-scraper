@@ -37,26 +37,45 @@ jobs:
             --keywords_file keywords.txt \
             --use_ai true
 
-      - name: Zip report folder
+      # --- NEW: find the latest generated HTML (expects out/YYYY-MM-DD/site/index.html) ---
+      - name: Locate latest index.html
+        id: find_html
         run: |
-          zip -r report.zip out/
+          set -e
+          latest_dir="$(ls -td out/* 2>/dev/null | head -1)"
+          if [ -z "$latest_dir" ] || [ ! -f "$latest_dir/site/index.html" ]; then
+            echo "No index.html found under out/*/site/. Make sure your scraper writes to out/<DATE>/site/index.html" >&2
+            exit 1
+          fi
+          echo "INDEX_FILE=$latest_dir/site/index.html" >> "$GITHUB_ENV"
+          echo "Latest HTML: $latest_dir/site/index.html"
 
+      # --- NEW: read that HTML into a step output so we can embed it in the email ---
+      - name: Read HTML into output
+        id: html
+        run: |
+          {
+            echo 'content<<EOF'
+            cat "$INDEX_FILE"
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      # Email with inline HTML + attach the same HTML file
       - name: Email report
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
           server_port: ${{ secrets.SMTP_PORT }}
-          secure: false  # 587 uses STARTTLS; set true if you switch to port 465
+          secure: false                  # 587 = STARTTLS; set true if you switch to 465
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "Investegate RNS Digest – ${{ github.run_number }}"
+          subject: "Investegate RNS Digest – run #${{ github.run_number }}"
           to: ${{ secrets.TO_EMAIL }}
           from: "${{ secrets.FROM_NAME }} <${{ secrets.SMTP_USERNAME }}>"
-          body: |
-            Attached is today's Investegate RNS Digest (zipped).
-            Run details: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          attachments: report.zip
+          html_body: ${{ steps.html.outputs.content }}
+          attachments: ${{ env.INDEX_FILE }}
 
+      # Keep artifact upload so you can always download the full folder from GitHub
       - name: Upload output
         uses: actions/upload-artifact@v4
         with:
