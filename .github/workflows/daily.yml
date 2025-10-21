@@ -37,30 +37,54 @@ jobs:
             --keywords_file keywords.txt \
             --use_ai true
 
-      # --- NEW: find the latest generated HTML (expects out/YYYY-MM-DD/site/index.html) ---
+      # Find latest out/<date>/site/index.html
       - name: Locate latest index.html
         id: find_html
         run: |
           set -e
           latest_dir="$(ls -td out/* 2>/dev/null | head -1)"
           if [ -z "$latest_dir" ] || [ ! -f "$latest_dir/site/index.html" ]; then
-            echo "No index.html found under out/*/site/. Make sure your scraper writes to out/<DATE>/site/index.html" >&2
+            echo "No index.html found under out/*/site/" >&2
             exit 1
           fi
           echo "INDEX_FILE=$latest_dir/site/index.html" >> "$GITHUB_ENV"
           echo "Latest HTML: $latest_dir/site/index.html"
 
-      # --- NEW: read that HTML into a step output so we can embed it in the email ---
-      - name: Read HTML into output
+      # Minify + cap HTML so the email input isn't too large
+      - name: Prepare inline HTML (minify + cap)
         id: html
+        shell: bash
         run: |
+          set -e
+          python - << 'PY'
+          import os, re, html
+          path = os.environ['INDEX_FILE']
+          with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+              s = f.read()
+          # strip HTML comments
+          s = re.sub(r'<!--.*?-->', '', s, flags=re.S)
+          # collapse whitespace between tags and long runs
+          s = re.sub(r'>\s+<', '><', s)
+          s = re.sub(r'\s{2,}', ' ', s)
+          MAX = 90000  # ~90 KB inline to avoid GitHub arg limits
+          clipped = len(s) > MAX
+          if clipped:
+              s = s[:MAX] + '...<!-- clipped for email; full HTML attached -->'
+              note = ('<div style="padding:12px;border:1px solid #ddd;'
+                      'background:#fffbe6;margin:0 0 12px 0;">'
+                      'Email preview truncated. Full report attached as index.html.'
+                      '</div>')
+              s = note + s
+          with open('email_inline.html','w',encoding='utf-8') as f:
+              f.write(s)
+          PY
           {
             echo 'content<<EOF'
-            cat "$INDEX_FILE"
+            cat email_inline.html
             echo 'EOF'
           } >> "$GITHUB_OUTPUT"
 
-      # Email with inline HTML + attach the same HTML file
+      # Email with inline HTML + attach the full HTML file
       - name: Email report
         uses: dawidd6/action-send-mail@v3
         with:
@@ -75,7 +99,7 @@ jobs:
           html_body: ${{ steps.html.outputs.content }}
           attachments: ${{ env.INDEX_FILE }}
 
-      # Keep artifact upload so you can always download the full folder from GitHub
+      # Keep artifact upload for backup/downloads
       - name: Upload output
         uses: actions/upload-artifact@v4
         with:
