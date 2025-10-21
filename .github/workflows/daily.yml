@@ -50,55 +50,74 @@ jobs:
           echo "INDEX_FILE=$latest_dir/site/index.html" >> "$GITHUB_ENV"
           echo "Latest HTML: $latest_dir/site/index.html"
 
-      # Minify + cap HTML so the email input isn't too large
-      - name: Prepare inline HTML (minify + cap)
-        id: html
-        shell: bash
+      # Email with inline HTML + attach full file (Python SMTP)
+      - name: Email report (inline HTML + attach full file) via Python SMTP
+        env:
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          FROM_NAME: ${{ secrets.FROM_NAME }}
+          GITHUB_RUN_NUMBER: ${{ github.run_number }}
+          INDEX_FILE: ${{ env.INDEX_FILE }}
         run: |
-          set -e
           python - << 'PY'
-          import os, re
-          path = os.environ['INDEX_FILE']
-          with open(path, 'r', encoding='utf-8', errors='ignore') as f:
-              s = f.read()
-          # strip comments and compress whitespace a bit
-          s = re.sub(r'<!--.*?-->', '', s, flags=re.S)
-          s = re.sub(r'>\s+<', '><', s)
-          s = re.sub(r'\s{2,}', ' ', s)
-          MAX = 90000  # ~90 KB inline to stay below GitHub arg limits
-          if len(s) > MAX:
-              note = ('<div style="padding:12px;border:1px solid #ddd;'
-                      'background:#fffbe6;margin:0 0 12px 0;">'
-                      'Email preview truncated. Full report attached as index.html.'
-                      '</div>')
-              s = note + s[:MAX] + '...'
-          with open('email_inline.html','w',encoding='utf-8') as f:
-              f.write(s)
+          import os, smtplib, mimetypes
+          from email.mime.multipart import MIMEMultipart
+          from email.mime.text import MIMEText
+          from email.mime.base import MIMEBase
+          from email import encoders
+          from email.utils import formataddr
+
+          smtp_server = os.environ["SMTP_SERVER"]
+          smtp_port   = int(os.environ["SMTP_PORT"])
+          username    = os.environ["SMTP_USERNAME"]
+          password    = os.environ["SMTP_PASSWORD"]
+          to_email    = os.environ["TO_EMAIL"]
+          from_name   = os.environ.get("FROM_NAME","HD Capital")
+          run_num     = os.environ.get("GITHUB_RUN_NUMBER","?")
+          index_path  = os.environ["INDEX_FILE"]
+
+          # Read the full HTML
+          with open(index_path, "r", encoding="utf-8", errors="ignore") as f:
+            html_body = f.read()
+
+          # Build MIME message
+          msg = MIMEMultipart("mixed")
+          msg["Subject"] = f"Investegate RNS Digest – run #{run_num}"
+          msg["From"]    = formataddr((from_name, username))
+          msg["To"]      = to_email
+
+          # Inline HTML body
+          alt = MIMEMultipart("alternative")
+          alt.attach(MIMEText(html_body, "html", "utf-8"))
+          msg.attach(alt)
+
+          # Attach the full HTML file
+          ctype, _ = mimetypes.guess_type(index_path)
+          if ctype is None:
+              ctype = "application/octet-stream"
+          maintype, subtype = ctype.split("/", 1)
+          with open(index_path, "rb") as f:
+              part = MIMEBase(maintype, subtype)
+              part.set_payload(f.read())
+          encoders.encode_base64(part)
+          part.add_header("Content-Disposition", "attachment", filename="index.html")
+          msg.attach(part)
+
+          # Send via SMTP (STARTTLS on 587)
+          with smtplib.SMTP(smtp_server, smtp_port) as server:
+              server.ehlo()
+              try:
+                  server.starttls()
+                  server.ehlo()
+              except smtplib.SMTPException:
+                  pass  # if TLS already enforced
+              server.login(username, password)
+              server.sendmail(username, [to_email], msg.as_string())
+          print("Email sent.")
           PY
-
-          # Write a safe multiline output using a UNIQUE boundary
-          BOUNDARY="HTML_BOUNDARY_$(date +%s%N)_$$"
-          {
-            echo "content<<$BOUNDARY"
-            cat email_inline.html
-            echo "$BOUNDARY"
-          } >> "$GITHUB_OUTPUT"
-
-
-      # Email with inline HTML + attach the full HTML file
-      - name: Email report
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
-          secure: false                  # 587 = STARTTLS; set true if you switch to 465
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "Investegate RNS Digest – run #${{ github.run_number }}"
-          to: ${{ secrets.TO_EMAIL }}
-          from: "${{ secrets.FROM_NAME }} <${{ secrets.SMTP_USERNAME }}>"
-          html_body: ${{ steps.html.outputs.content }}
-          attachments: ${{ env.INDEX_FILE }}
 
       # Keep artifact upload for backup/downloads
       - name: Upload output
