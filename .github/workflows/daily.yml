@@ -57,32 +57,33 @@ jobs:
         run: |
           set -e
           python - << 'PY'
-          import os, re, html
+          import os, re
           path = os.environ['INDEX_FILE']
           with open(path, 'r', encoding='utf-8', errors='ignore') as f:
               s = f.read()
-          # strip HTML comments
+          # strip comments and compress whitespace a bit
           s = re.sub(r'<!--.*?-->', '', s, flags=re.S)
-          # collapse whitespace between tags and long runs
           s = re.sub(r'>\s+<', '><', s)
           s = re.sub(r'\s{2,}', ' ', s)
-          MAX = 90000  # ~90 KB inline to avoid GitHub arg limits
-          clipped = len(s) > MAX
-          if clipped:
-              s = s[:MAX] + '...<!-- clipped for email; full HTML attached -->'
+          MAX = 90000  # ~90 KB inline to stay below GitHub arg limits
+          if len(s) > MAX:
               note = ('<div style="padding:12px;border:1px solid #ddd;'
                       'background:#fffbe6;margin:0 0 12px 0;">'
                       'Email preview truncated. Full report attached as index.html.'
                       '</div>')
-              s = note + s
+              s = note + s[:MAX] + '...'
           with open('email_inline.html','w',encoding='utf-8') as f:
               f.write(s)
           PY
+
+          # Write a safe multiline output using a UNIQUE boundary
+          BOUNDARY="HTML_BOUNDARY_$(date +%s%N)_$$"
           {
-            echo 'content<<EOF'
+            echo "content<<$BOUNDARY"
             cat email_inline.html
-            echo 'EOF'
+            echo "$BOUNDARY"
           } >> "$GITHUB_OUTPUT"
+
 
       # Email with inline HTML + attach the full HTML file
       - name: Email report
