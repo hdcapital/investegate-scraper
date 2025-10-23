@@ -1,0 +1,176 @@
+name: Investegate – Evening (19:45 London)
+
+on:
+  schedule:
+    # BST: 19:45 London = 18:45 UTC
+    - cron: '45 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Show current UTC & London time
+        run: |
+          date -u +"UTC now: %Y-%m-%d %H:%M:%S"
+          TZ=Europe/London date +"London now: %Y-%m-%d %H:%M:%S %Z"
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml python-dateutil openai
+
+      - name: Run scraper
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # keep AI ON
+        run: |
+          python investegate_scraper.py \
+            --pages 2 \
+            --per_page 300 \
+            --since_days 7 \
+            --min_score 1 \
+            --keywords_file keywords.txt \
+            --use_ai true
+
+      - name: Locate latest index.html
+        id: find_html
+        run: |
+          set -e
+          latest_dir="$(ls -td out/* 2>/dev/null | head -1)"
+          if [ -z "$latest_dir" ] || [ ! -f "$latest_dir/site/index.html" ]; then
+            echo "No index.html found under out/*/site/" >&2
+            exit 1
+          fi
+          echo "INDEX_FILE=$latest_dir/site/index.html" >> "$GITHUB_ENV"
+          echo "Latest HTML: $latest_dir/site/index.html"
+
+      - name: Restore seen URL cache
+        uses: actions/cache@v4
+        with:
+          path: .state/seen_urls.json
+          key: seen-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            seen-${{ github.ref_name }}-
+            seen-
+
+      - name: Email NEW items only (inline HTML + attach full file)
+        env:
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          FROM_NAME: ${{ secrets.FROM_NAME }}
+          GITHUB_RUN_NUMBER: ${{ github.run_number }}
+          INDEX_FILE: ${{ env.INDEX_FILE }}
+        run: |
+          python - << 'PY'
+          # same Python email code as in morning.yml
+          import os, csv, json, smtplib, mimetypes
+          from pathlib import Path
+          from email.mime.multipart import MIMEMultipart
+          from email.mime.text import MIMEText
+          from email.mime.base import MIMEBase
+          from email import encoders
+          from email.utils import formataddr
+
+          smtp_server = os.environ["SMTP_SERVER"]
+          smtp_port   = int(os.environ["SMTP_PORT"])
+          username    = os.environ["SMTP_USERNAME"]
+          password    = os.environ["SMTP_PASSWORD"]
+          to_email    = os.environ["TO_EMAIL"]
+          from_name   = os.environ.get("FROM_NAME","HD Capital")
+          run_num     = os.environ.get("GITHUB_RUN_NUMBER","?")
+          index_path  = Path(os.environ["INDEX_FILE"])
+
+          hits_csv = index_path.parents[1] / "investegate_hits.csv"
+
+          from pathlib import Path
+          state_dir = Path(".state"); state_dir.mkdir(parents=True, exist_ok=True)
+          seen_file = state_dir / "seen_urls.json"
+          if seen_file.exists():
+            try: seen = set(json.loads(seen_file.read_text(encoding="utf-8")))
+            except Exception: seen = set()
+          else:
+            seen = set()
+
+          rows = []
+          if hits_csv.exists():
+            with hits_csv.open("r", encoding="utf-8", newline="") as f:
+              for row in csv.DictReader(f):
+                if row.get("url"): rows.append(row)
+
+          new_rows = [r for r in rows if r["url"] not in seen]
+
+          if new_rows:
+            lines = []
+            lines.append('<div style="font:14px/1.5 -apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif">')
+            lines.append(f'<h2 style="margin:0 0 10px">Investegate – NEW since last email (run #{run_num})</h2>')
+            lines.append('<ol style="padding-left:20px">')
+            for r in new_rows:
+              title   = (r.get("title") or "").strip()
+              company = (r.get("company") or "").strip()
+              url     = (r.get("url") or "").strip()
+              when    = (r.get("time") or r.get("published") or "").strip()
+              label = f"{company} — {title}" if company else title
+              meta  = f" <span style='color:#888'>({when})</span>" if when else ""
+              lines.append(f'<li><a href="{url}" target="_blank" rel="noopener">{label}</a>{meta}</li>')
+            lines.append('</ol>')
+            lines.append('<p style="margin-top:12px;color:#666">Full report attached as <code>index.html</code>.</p>')
+            lines.append('</div>')
+            html_body = "\n".join(lines)
+          else:
+            html_body = (
+              '<div style="font:14px/1.5 -apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif">'
+              '<h2 style="margin:0 0 10px">No new items since the last email</h2>'
+              '<p>We deduplicated against previously emailed URLs.</p>'
+              '</div>'
+            )
+
+          msg = MIMEMultipart("mixed")
+          msg["Subject"] = f"Investegate RNS Digest – run #{run_num}"
+          msg["From"]    = formataddr((from_name, username))
+          msg["To"]      = to_email
+
+          alt = MIMEMultipart("alternative")
+          alt.attach(MIMEText(html_body, "html", "utf-8"))
+          msg.attach(alt)
+
+          ctype, _ = mimetypes.guess_type(index_path.as_posix())
+          if ctype is None: ctype = "application/octet-stream"
+          maintype, subtype = ctype.split("/", 1)
+          with index_path.open("rb") as f:
+            part = MIMEBase(maintype, subtype); part.set_payload(f.read())
+          encoders.encode_base64(part)
+          part.add_header("Content-Disposition", "attachment", filename="index.html")
+          msg.attach(part)
+
+          with smtplib.SMTP(smtp_server, smtp_port) as server:
+              server.ehlo()
+              try: server.starttls(); server.ehlo()
+              except smtplib.SMTPException: pass
+              server.login(username, password)
+              server.sendmail(username, [to_email], msg.as_string())
+
+          print(f"Email sent. New items included: {len(new_rows)}; Total hits this run: {len(rows)}")
+
+          for r in rows:
+            u = r.get("url")
+            if u: seen.add(u)
+          seen_file.write_text(json.dumps(sorted(list(seen))), encoding="utf-8")
+          PY
+
+      - name: Upload output
+        uses: actions/upload-artifact@v4
+        with:
+          name: investegate-out
+          path: out/
