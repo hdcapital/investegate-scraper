@@ -1,19 +1,21 @@
-name: Daily Investegate Scrape
+name: Investegate – Morning (07:45 London)
 
 on:
   schedule:
-    # London 07:45 (BST, UTC+1) = 06:45 UTC
+    # BST: 07:45 London = 06:45 UTC
     - cron: '45 06 * * *'
-    # London 19:45 (BST, UTC+1) = 18:45 UTC
-    - cron: '45 18 * * *'
-  workflow_dispatch:  # lets you run it manually
-
+  workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Show current UTC & London time
+        run: |
+          date -u +"UTC now: %Y-%m-%d %H:%M:%S"
+          TZ=Europe/London date +"London now: %Y-%m-%d %H:%M:%S %Z"
+
       - name: Checkout repo
         uses: actions/checkout@v4
 
@@ -52,7 +54,7 @@ jobs:
           echo "INDEX_FILE=$latest_dir/site/index.html" >> "$GITHUB_ENV"
           echo "Latest HTML: $latest_dir/site/index.html"
 
-      # Restore a small 'seen URLs' state file across runs (morning -> evening)
+      # Restore a small 'seen URLs' state file across runs
       - name: Restore seen URL cache
         uses: actions/cache@v4
         with:
@@ -62,8 +64,7 @@ jobs:
             seen-${{ github.ref_name }}-
             seen-
 
-
-      # Email only "new" items (not emailed before) + update seen_urls.json
+      # Email only NEW items (deduped) + attach full HTML
       - name: Email NEW items only (inline HTML + attach full file)
         env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
@@ -84,7 +85,6 @@ jobs:
           from email import encoders
           from email.utils import formataddr
 
-          # ------------ config / env ------------
           smtp_server = os.environ["SMTP_SERVER"]
           smtp_port   = int(os.environ["SMTP_PORT"])
           username    = os.environ["SMTP_USERNAME"]
@@ -92,53 +92,38 @@ jobs:
           to_email    = os.environ["TO_EMAIL"]
           from_name   = os.environ.get("FROM_NAME","HD Capital")
           run_num     = os.environ.get("GITHUB_RUN_NUMBER","?")
-          index_path  = Path(os.environ["INDEX_FILE"])  # e.g. out/YYYY-MM-DD/site/index.html
+          index_path  = Path(os.environ["INDEX_FILE"])
 
-          # We’ll read URLs from the CSV the scraper wrote:
-          #   out/YYYY-MM-DD/investegate_hits.csv
           hits_csv = index_path.parents[1] / "investegate_hits.csv"
 
-          # ------------ load seen URLs ------------
           state_dir = Path(".state"); state_dir.mkdir(parents=True, exist_ok=True)
           seen_file = state_dir / "seen_urls.json"
           if seen_file.exists():
-            try:
-              seen = set(json.loads(seen_file.read_text(encoding="utf-8")))
-            except Exception:
-              seen = set()
+            try: seen = set(json.loads(seen_file.read_text(encoding="utf-8")))
+            except Exception: seen = set()
           else:
             seen = set()
 
-          # ------------ load current run hits ------------
           rows = []
           if hits_csv.exists():
             with hits_csv.open("r", encoding="utf-8", newline="") as f:
-              r = csv.DictReader(f)
-              for row in r:
-                # Expect columns like: title, company, url, time, score, ...
-                if "url" in row and row["url"]:
-                  rows.append(row)
-          else:
-            rows = []
+              for row in csv.DictReader(f):
+                if row.get("url"): rows.append(row)
 
-          # ------------ filter to NEW items only ------------
-          # Use URL as stable ID
-          new_rows = [row for row in rows if row.get("url") not in seen]
+          new_rows = [r for r in rows if r["url"] not in seen]
 
-          # ------------ build email (inline HTML) ------------
           if new_rows:
-            # Small readable HTML with links to each new item
             lines = []
             lines.append('<div style="font:14px/1.5 -apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif">')
             lines.append(f'<h2 style="margin:0 0 10px">Investegate – NEW since last email (run #{run_num})</h2>')
             lines.append('<ol style="padding-left:20px">')
-            for row in new_rows:
-              title = (row.get("title") or "").strip()
-              company = (row.get("company") or "").strip()
-              url = (row.get("url") or "").strip()
-              when = (row.get("time") or row.get("published") or "").strip()
+            for r in new_rows:
+              title   = (r.get("title") or "").strip()
+              company = (r.get("company") or "").strip()
+              url     = (r.get("url") or "").strip()
+              when    = (r.get("time") or r.get("published") or "").strip()
               label = f"{company} — {title}" if company else title
-              meta = f" <span style='color:#888'>({when})</span>" if when else ""
+              meta  = f" <span style='color:#888'>({when})</span>" if when else ""
               lines.append(f'<li><a href="{url}" target="_blank" rel="noopener">{label}</a>{meta}</li>')
             lines.append('</ol>')
             lines.append('<p style="margin-top:12px;color:#666">Full report attached as <code>index.html</code>.</p>')
@@ -152,7 +137,6 @@ jobs:
               '</div>'
             )
 
-          # ------------ build MIME with inline HTML + attach full page ------------
           msg = MIMEMultipart("mixed")
           msg["Subject"] = f"Investegate RNS Digest – run #{run_num}"
           msg["From"]    = formataddr((from_name, username))
@@ -162,7 +146,6 @@ jobs:
           alt.attach(MIMEText(html_body, "html", "utf-8"))
           msg.attach(alt)
 
-          # attach the full HTML page for completeness
           ctype, _ = mimetypes.guess_type(index_path.as_posix())
           if ctype is None: ctype = "application/octet-stream"
           maintype, subtype = ctype.split("/", 1)
@@ -172,28 +155,21 @@ jobs:
           part.add_header("Content-Disposition", "attachment", filename="index.html")
           msg.attach(part)
 
-          # ------------ send ------------
           with smtplib.SMTP(smtp_server, smtp_port) as server:
               server.ehlo()
-              try:
-                  server.starttls(); server.ehlo()
-              except smtplib.SMTPException:
-                  pass
+              try: server.starttls(); server.ehlo()
+              except smtplib.SMTPException: pass
               server.login(username, password)
               server.sendmail(username, [to_email], msg.as_string())
 
           print(f"Email sent. New items included: {len(new_rows)}; Total hits this run: {len(rows)}")
 
-          # ------------ update seen with ALL current URLs ------------
-          # (So future emails won’t resend them.)
-          for row in rows:
-            u = row.get("url")
+          for r in rows:
+            u = r.get("url")
             if u: seen.add(u)
           seen_file.write_text(json.dumps(sorted(list(seen))), encoding="utf-8")
           PY
 
-
-      # Keep artifact upload for backup/downloads
       - name: Upload output
         uses: actions/upload-artifact@v4
         with:
