@@ -61,3 +61,5 @@ leaseback
 restructuring
 spinoff
 sportech
+tender offer
+
