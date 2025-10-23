@@ -2,10 +2,12 @@ name: Daily Investegate Scrape
 
 on:
   schedule:
-    # GitHub uses UTC. 06:30 UTC ≈ 5:30pm Sydney during AEDT.
-    # If Sydney switches to AEST (UTC+10), change this to '30 07 * * *'.
-    - cron: '30 06 * * *'
+    # London 07:45 (BST, UTC+1) = 06:45 UTC
+    - cron: '45 06 * * *'
+    # London 19:45 (BST, UTC+1) = 18:45 UTC
+    - cron: '45 18 * * *'
   workflow_dispatch:  # lets you run it manually
+
 
 jobs:
   run:
