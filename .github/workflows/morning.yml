@@ -3,7 +3,7 @@ name: Investegate – Morning (07:45 London)
 on:
   schedule:
     # BST: 07:45 London = 06:45 UTC
-    - cron: '45 06 * * *'
+    - cron: '55 07 * * *'
   workflow_dispatch:
 
 jobs:
