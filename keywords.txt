@@ -62,4 +62,57 @@ restructuring
 spinoff
 sportech
 tender offer
+sale of 
+asset sale
+disposal of
+divestment of
+proposed sale
+proposed disposal
+proposed divestment
+completed sale
+completed disposal
+combination
+proposed combination
+scheme of arrangement
+merger
+proposed merger
+tie-up
+takeover offer
+recommended offer
+refinancing
+refinanc(e|ed)
+sale of interest
+exit of investment
+investment exit
+realisation of investment
+portfolio realisation
+circular regarding
+shareholder circular
+EGM
+irrevocable undertaking
+irrevocable undertakings
+requisitioned general meeting
+requisition of general meeting
+shareholder requisition
+requisition notice
+EGM requisition
+GM requisition
+shareholder action
+shareholder proposal
+shareholder resolutions
+dissident shareholders
+opposes the proposal
+opposes the transaction
+calls for board change
+calls for strategic review
+investor group demands
+commencement of strategic review
+review of strategic options
+exploring strategic alternatives
+strategic alternatives review
+open letter to shareholders
+letter to the board
+statement from shareholder group
+
+
 
