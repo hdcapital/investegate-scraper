@@ -456,6 +456,12 @@ def run(pages: int, per_page: int, since_days: Optional[int], min_score: int,
         body = detail["body"]
         teaser = (title + "\n" + (body or "")[:2000])
 
+        # --- HARD IGNORE: voting-rights TR-1 boilerplate ---
+        if body and re.search(r"\bacquisition or disposal of voting rights\b", body, flags=re.IGNORECASE):
+            # Skip this announcement entirely — routine TR-1 disclosure, not strategic.
+            continue
+        # ---------------------------------------------------
+
         # Scores
         user_score = count_matches(teaser, user_kw_patterns) if user_kw_patterns else 0
         trigger_score = count_matches(teaser, trigger_patterns)
