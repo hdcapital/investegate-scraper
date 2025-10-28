@@ -1,118 +1,160 @@
+# =========================
+# WATCHLIST — INVESTORS / FUNDS / INDIVIDUALS
+# =========================
+Christopher Harwood Bernard Mills
+christopher mills
+harwood capital
+gate city capital
+peter kamin
+Weiss Asset Management
+samuel terry
+Troy Harry
+MOAT Investments Pty Ltd
 3K Limited Partnership
+Rocket Science Pty Ltd
+Saba Capital
+Metage Capital
+Alluvial
+Milkwood
+Almitas
+
+# =========================
+# WATCHLIST — COMPANIES / NAMED ENTITIES
+# =========================
 ainsworth gaming
 airtasker
 Amcomri Entertainment
-appointed advisors
-capital return
-Christopher Harwood Bernard Mills
-christopher mills
 cogstate
-Contingent Value Right
-currency exchange international
-definitive agreement to sell
-dissolution proposal
-distribute the net proceeds
-emerged from Chapter 11
-exchange bank of canada
-formally explore
-gate city capital
-go-shop
-harwood capital
-hidden gem
-inflection point
-liquidation
-managed wind-down
-maximise shareholder value
-maximize shareholder value
-members' voluntary liquidation
-MOAT Investments Pty Ltd
-odd lot
-orderly realisation
-orderly wind-down of the Company
-orderly wind-down
-peter kamin
-post-bankruptcy
-potential disposal
 praemium
 property franchise group
-Proposed cancellation of admission
-Publication of Circular
-pursue the sale of
-return of capital
-Rocket Science Pty Ltd
-sale of assets
-samuel terry
+sportech
+currency exchange international
+exchange bank of canada
 sky ranch
-spin off
-split off
-squeeze out
+hidden gem   # keep if you want broad idea-sourcing hits
+
+# =========================
+# STRATEGIC REVIEW / ALTERNATIVES / VALUE MAXIMISATION
+# =========================
 strategic alternatives
 strategic review
-Troy Harry
-Weiss Asset Management
-wind-down
-bankruptcy
-demerger
-divest
-goodco badco
-insolvency
-layoffs
-leaseback
-restructuring
-spinoff
-sportech
-tender offer
+commencement of strategic review
+review of strategic options
+exploring strategic alternatives
+strategic alternatives review
+maximise shareholder value
+maximize shareholder value
+formally explore
+pursue the sale of
+appointed advisors
+go-shop
+inflection point
+
+# =========================
+# M&A / COMBINATIONS / SCHEMES / OFFERS
+# =========================
+merger
+proposed merger
+combination
+proposed combination
+tie-up
+scheme of arrangement
+takeover offer
+recommended offer
+
+# =========================
+# DISPOSALS / DIVESTMENTS / EXITS (COMPANY OR PORTFOLIO LEVEL)
+# =========================
 sale of 
+sale of assets
 asset sale
 disposal of
+divest
 divestment of
 proposed sale
 proposed disposal
 proposed divestment
 completed sale
 completed disposal
-combination
-proposed combination
-scheme of arrangement
-merger
-proposed merger
-tie-up
-takeover offer
-recommended offer
-refinancing
-refinanc(e|ed)
+definitive agreement to sell
 sale of interest
+potential disposal
 exit of investment
 investment exit
 realisation of investment
 portfolio realisation
+distribute the net proceeds
+return of capital
+capital return
+
+# =========================
+# SEPARATIONS / DEMERGERS / SPIN-OFFS / SQUEEZE-OUTS
+# =========================
+demerger
+spinoff
+spin off
+split off
+squeeze out
+
+# =========================
+# RESTRUCTURING / WIND-DOWN / INSOLVENCY
+# =========================
+restructuring
+wind-down
+orderly wind-down
+orderly wind-down of the Company
+managed wind-down
+orderly realisation
+liquidation
+members' voluntary liquidation
+dissolution proposal
+bankruptcy
+insolvency
+post-bankruptcy
+emerged from Chapter 11
+goodco badco
+layoffs
+
+# =========================
+# FINANCING / REFINANCING / BALANCE SHEET ACTIONS
+# =========================
+refinancing
+refinanc(e|ed)
+leaseback
+
+# =========================
+# GOVERNANCE / CIRCULARS / ADMISSIONS
+# =========================
 circular regarding
 shareholder circular
+Publication of Circular
+Proposed cancellation of admission
+
+# =========================
+# MEETINGS / REQUISITIONS / UNDERTAKINGS / SHAREHOLDER ACTION
+# =========================
 EGM
-irrevocable undertaking
-irrevocable undertakings
+EGM requisition
+GM requisition
 requisitioned general meeting
 requisition of general meeting
 shareholder requisition
 requisition notice
-EGM requisition
-GM requisition
 shareholder action
 shareholder proposal
 shareholder resolutions
+irrevocable undertaking
+irrevocable undertakings
+
+# =========================
+# ACTIVISM / PUBLIC PRESSURE / OPPOSITION
+# =========================
 dissident shareholders
 opposes the proposal
 opposes the transaction
 calls for board change
 calls for strategic review
 investor group demands
-commencement of strategic review
-review of strategic options
-exploring strategic alternatives
-strategic alternatives review
 open letter to shareholders
 letter to the board
 statement from shareholder group
-
-
-
