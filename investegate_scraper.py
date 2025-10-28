@@ -356,6 +356,53 @@ def within_since_days(dt_iso: Optional[str], since_days: Optional[int]) -> bool:
     cutoff = datetime.now(timezone.utc) - timedelta(days=since_days)
     return dt_parsed >= cutoff
 
+
+def build_watchlist_pattern_from_keywords_file(path: Optional[str]) -> Optional[re.Pattern]:
+    """
+    Parse the keywords file and build a regex that matches ANY name listed under the section:
+      '# WATCHLIST — INVESTORS / FUNDS / INDIVIDUALS'
+    Stops collecting when the next header line that starts with '#' is seen.
+    Returns a compiled case-insensitive regex, or None if not found/empty.
+    """
+    if not path or not os.path.isfile(path):
+        return None
+
+    header_re = re.compile(r"^#\s*WATCHLIST\s*[-—]\s*INVESTORS\s*/\s*FUNDS\s*/\s*INDIVIDUALS\s*$", re.IGNORECASE)
+    names: list[str] = []
+    in_section = False
+
+    with open(path, "r", encoding="utf-8") as f:
+        for raw in f:
+            line = raw.rstrip("\n")
+            if header_re.match(line.strip()):
+                in_section = True
+                continue
+            if in_section:
+                # Next header ends the section
+                if line.strip().startswith("#"):
+                    break
+                s = line.strip()
+                if not s or s.startswith("#"):
+                    continue
+                names.append(s)
+
+    if not names:
+        return None
+
+    # Build robust word-boundary patterns allowing flexible whitespace between tokens
+    def name_to_pattern(n: str) -> str:
+        tokens = [re.escape(t) for t in re.split(r"\s+", n.strip()) if t]
+        if not tokens:
+            return ""
+        return r"\b" + r"\s+".join(tokens) + r"\b"
+
+    parts = [p for n in names if (p := name_to_pattern(n))]
+    if not parts:
+        return None
+
+    return re.compile(r"(?:%s)" % "|".join(parts), flags=re.IGNORECASE)
+
+
 # ----------------------------
 # Optional OpenAI
 # ----------------------------
@@ -413,6 +460,9 @@ def run(pages: int, per_page: int, since_days: Optional[int], min_score: int,
     user_keywords = load_keywords(keywords_csv, keywords_file)
     user_kw_patterns = compile_phrase_patterns(user_keywords)
     trigger_patterns = [re.compile(rx, flags=re.IGNORECASE) for rx in BUILTIN_INVESTOR_TRIGGERS]
+    # Build watchlist pattern from the keywords file section (dynamic, user-editable)
+    watchlist_rx = build_watchlist_pattern_from_keywords_file(keywords_file)
+
 
     session = requests.Session()
     session.headers.update(DEFAULT_HEADERS)
@@ -456,11 +506,15 @@ def run(pages: int, per_page: int, since_days: Optional[int], min_score: int,
         body = detail["body"]
         teaser = (title + "\n" + (body or "")[:2000])
 
-        # --- HARD IGNORE: voting-rights TR-1 boilerplate ---
-        if body and re.search(r"\bacquisition or disposal of voting rights\b", body, flags=re.IGNORECASE):
-            # Skip this announcement entirely — routine TR-1 disclosure, not strategic.
-            continue
-        # ---------------------------------------------------
+        # --- HARD IGNORE: routine TR-1 voting-rights *unless* a watchlist investor is named ---
+        if body:
+            tr1_boilerplate = re.search(r"\bacquisition or disposal of voting rights\b", body, flags=re.IGNORECASE)
+            watchlist_hit = watchlist_rx.search(body) if watchlist_rx else None
+            if tr1_boilerplate and not watchlist_hit:
+                # Routine institutional churn → skip
+                continue
+        # --------------------------------------------------------------------------------------
+
 
         # Scores
         user_score = count_matches(teaser, user_kw_patterns) if user_kw_patterns else 0
@@ -599,3 +653,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
