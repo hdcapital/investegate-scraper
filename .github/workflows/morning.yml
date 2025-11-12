@@ -88,3 +88,7 @@ jobs:
           if state_file.exists():
               try:
                   seen = set(json.loads(state_file.read_text(encoding="utf-8")))
+              except Exception as e:
+                  print("Warning: could not read seen_urls.json:", e)
+                  seen = set()
+
