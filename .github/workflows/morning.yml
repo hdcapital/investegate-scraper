@@ -1,9 +1,8 @@
-name: Investegate – Morning (07:45 London)
+name: Investegate – Morning (07:55 London)
 
 on:
   schedule:
-    # 07:45 London (06:45 UTC)
-    - cron: "45 06 * * *"
+    - cron: "55 07 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,11 +15,9 @@ jobs:
           date -u +"UTC now: %Y-%m-%d %H:%M:%S"
           TZ=Europe/London date +"London now: %Y-%m-%d %H:%M:%S %Z"
 
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -29,46 +26,29 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-dateutil
 
-      # 🔥 SAME SHARED STATE AS EVENING
-      - name: Restore seen_url master state
-        uses: actions/cache@v4
-        with:
-          path: .state/seen_urls.json
-          key: investegate-seen-urls
-          restore-keys: |
-            investegate-seen-
-
       - name: Run scraper
         run: |
           python investegate_scraper.py \
-            --pages 2 \
-            --per_page 300 \
-            --since_days 7 \
-            --min_score 1 \
-            --keywords_file keywords.txt
+            --pages 2 --per_page 300 --since_days 7 \
+            --min_score 1 --keywords_file keywords.txt
 
       - name: Locate latest CSV
         id: find_csv
         run: |
           set -e
-          latest_dir="$(ls -td out/* | head -1)"
-          echo "CSV_FILE=$latest_dir/investegate_hits.csv" >> $GITHUB_ENV
+          latest="$(ls -td out/* | head -1)"
+          echo "CSV_FILE=$latest/investegate_hits.csv" >> $GITHUB_ENV
 
-      - name: Email NEW items only
+      - name: Email NEW items
         env:
+          CSV_FILE: ${{ env.CSV_FILE }}
+          STATE_MODE: "morning"
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           FROM_NAME: ${{ secrets.FROM_NAME }}
-          CSV_FILE: ${{ env.CSV_FILE }}
           GITHUB_RUN_NUMBER: ${{ github.run_number }}
         run: |
-          python .github/email_send.py morning
-
-      - name: Save dedupe state
-        uses: actions/cache@v4
-        with:
-          path: .state/seen_urls.json
-          key: investegate-seen-urls
+          python .github/scripts/email_investegate.py
