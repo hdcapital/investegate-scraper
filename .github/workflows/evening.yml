@@ -2,7 +2,8 @@ name: Investegate – Evening (19:45 London)
 
 on:
   schedule:
-    - cron: "45 18 * * *"
+    # BST: 19:45 London = 18:45 UTC
+    - cron: '45 18 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,34 +16,60 @@ jobs:
           date -u +"UTC now: %Y-%m-%d %H:%M:%S"
           TZ=Europe/London date +"London now: %Y-%m-%d %H:%M:%S %Z"
 
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-dateutil
 
+      # Persistent scraper-level dedupe (seen.json)
+      - name: Restore seen.json cache
+        uses: actions/cache@v4
+        with:
+          path: seen.json
+          key: seen-${{ github.ref_name }}
+          restore-keys: |
+            seen-
+
       - name: Run scraper
         run: |
           python investegate_scraper.py \
-            --pages 2 --per_page 300 --since_days 7 \
-            --min_score 1 --keywords_file keywords.txt
+            --pages 2 \
+            --per_page 300 \
+            --since_days 7 \
+            --min_score 1 \
+            --keywords_file keywords.txt
 
       - name: Locate latest CSV
         id: find_csv
         run: |
           set -e
-          latest="$(ls -td out/* | head -1)"
-          echo "CSV_FILE=$latest/investegate_hits.csv" >> $GITHUB_ENV
+          latest_dir="$(ls -td out/* 2>/dev/null | head -1)"
+          if [ -z "$latest_dir" ] || [ ! -f "$latest_dir/investegate_hits.csv" ]; then
+            echo "No hits CSV found under out/*/" >&2
+            exit 1
+          fi
+          echo "CSV_FILE=$latest_dir/investegate_hits.csv" >> "$GITHUB_ENV"
+          echo "Latest CSV: $latest_dir/investegate_hits.csv"
 
-      - name: Email NEW items
+      # Cross-run email dedupe: evening compares against last morning email
+      - name: Restore email state (.state)
+        uses: actions/cache@v4
+        with:
+          path: .state
+          key: email-state-${{ github.ref_name }}
+          restore-keys: |
+            email-state-
+
+      - name: Email NEW items only (evening vs last morning)
         env:
-          CSV_FILE: ${{ env.CSV_FILE }}
-          STATE_MODE: "evening"
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
@@ -50,5 +77,13 @@ jobs:
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           FROM_NAME: ${{ secrets.FROM_NAME }}
           GITHUB_RUN_NUMBER: ${{ github.run_number }}
+          CSV_FILE: ${{ env.CSV_FILE }}
+          STATE_MODE: evening
         run: |
-          python .github/scripts/email_investegate.py
+          python email_investegate.py
+
+      - name: Upload output
+        uses: actions/upload-artifact@v4
+        with:
+          name: investegate-evening-out
+          path: out/
