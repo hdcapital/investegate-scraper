@@ -2,8 +2,8 @@ name: Investegate – Morning (07:45 London)
 
 on:
   schedule:
-    # BST: 07:45 London = 06:45 UTC
-    - cron: '55 07 * * *'
+    # 07:45 London (06:45 UTC)
+    - cron: "45 06 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,21 +22,21 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-dateutil
 
-      # Restore seen.json across runs to prevent re-reporting
-      - name: Restore seen.json state
+      # 🔥 SAME SHARED STATE AS EVENING
+      - name: Restore seen_url master state
         uses: actions/cache@v4
         with:
-          path: seen.json
-          key: seen-${{ github.ref_name }}
+          path: .state/seen_urls.json
+          key: investegate-seen-urls
           restore-keys: |
-            seen-
+            investegate-seen-
 
       - name: Run scraper
         run: |
@@ -47,20 +47,14 @@ jobs:
             --min_score 1 \
             --keywords_file keywords.txt
 
-      # Locate the latest CSV file
       - name: Locate latest CSV
         id: find_csv
         run: |
           set -e
-          latest_dir="$(ls -td out/* 2>/dev/null | head -1)"
-          if [ -z "$latest_dir" ] || [ ! -f "$latest_dir/investegate_hits.csv" ]; then
-            echo "No hits CSV found under out/*/" >&2
-            exit 1
-          fi
-          echo "CSV_FILE=$latest_dir/investegate_hits.csv" >> "$GITHUB_ENV"
-          echo "Latest CSV: $latest_dir/investegate_hits.csv"
+          latest_dir="$(ls -td out/* | head -1)"
+          echo "CSV_FILE=$latest_dir/investegate_hits.csv" >> $GITHUB_ENV
 
-      - name: Email NEW items only (inline HTML + attach CSV)
+      - name: Email NEW items only
         env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -68,27 +62,13 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           FROM_NAME: ${{ secrets.FROM_NAME }}
-          GITHUB_RUN_NUMBER: ${{ github.run_number }}
           CSV_FILE: ${{ env.CSV_FILE }}
+          GITHUB_RUN_NUMBER: ${{ github.run_number }}
         run: |
-          python - << 'PY'
-          import os, csv, json, smtplib, mimetypes
-          from pathlib import Path
-          from email.mime.multipart import MIMEMultipart
-          from email.mime.text import MIMEText
-          from email.mime.base import MIMEBase
-          from email import encoders
-          from email.utils import formataddr
+          python .github/email_send.py morning
 
-          csv_path = Path(os.environ["CSV_FILE"])
-          state_file = Path(".state/seen_urls.json")
-          state_file.parent.mkdir(parents=True, exist_ok=True)
-
-          seen = set()
-          if state_file.exists():
-              try:
-                  seen = set(json.loads(state_file.read_text(encoding="utf-8")))
-              except Exception as e:
-                  print("Warning: could not read seen_urls.json:", e)
-                  seen = set()
-
+      - name: Save dedupe state
+        uses: actions/cache@v4
+        with:
+          path: .state/seen_urls.json
+          key: investegate-seen-urls
