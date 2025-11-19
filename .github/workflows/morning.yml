@@ -76,6 +76,7 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           FROM_NAME: ${{ secrets.FROM_NAME }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_RUN_NUMBER: ${{ github.run_number }}
           CSV_FILE: ${{ env.CSV_FILE }}
           STATE_MODE: morning
