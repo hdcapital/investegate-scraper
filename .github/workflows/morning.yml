@@ -34,8 +34,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: seen.json
-          key: seen-${{ github.ref_name }}
+          key: seen-${{ github.ref_name }}-${{ github.run_number }}
           restore-keys: |
+            seen-${{ github.ref_name }}-
             seen-
 
       - name: Run scraper
@@ -64,8 +65,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .state
-          key: email-state-${{ github.ref_name }}
+          key: email-state-${{ github.ref_name }}-${{ github.run_number }}
           restore-keys: |
+            email-state-${{ github.ref_name }}-
             email-state-
 
       - name: Email NEW items only (morning vs last evening)
