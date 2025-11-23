@@ -12,7 +12,6 @@ Troy Harry
 MOAT Investments Pty Ltd
 3K Limited Partnership
 Rocket Science Pty Ltd
-Saba Capital
 Metage Capital
 Alluvial
 Milkwood
@@ -158,3 +157,4 @@ investor group demands
 open letter to shareholders
 letter to the board
 statement from shareholder group
+
