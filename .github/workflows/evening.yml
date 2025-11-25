@@ -70,7 +70,7 @@ jobs:
             email-state-${{ github.ref_name }}-
             email-state-
 
-      - name: Email NEW items only (evening vs last morning)
+      - name: Email NEW items only
         env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -81,9 +81,10 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_RUN_NUMBER: ${{ github.run_number }}
           CSV_FILE: ${{ env.CSV_FILE }}
-          STATE_MODE: evening
+          MAX_HISTORY_EMAILS: 6
         run: |
           python email_investegate.py
+
 
       - name: Upload output
         uses: actions/upload-artifact@v4
