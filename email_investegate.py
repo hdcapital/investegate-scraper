@@ -180,7 +180,10 @@ new_rows = [r for r in rows if r["url"] not in ref_seen]
 # ------------------------------------------------
 if new_rows:
     html_parts = ['<div style="font:14px/1.5 -apple-system,Segoe UI,Roboto,Arial,Helvetica,sans-serif">']
-    html_parts.append(f'<h2>Investegate – NEW since last {state_mode} reference (run #{run_num})</h2>')
+    html_parts.append(
+        f'<h2>Investegate – NEW vs last {MAX_HISTORY_EMAILS} emails (run #{run_num})</h2>'
+    )
+
     html_parts.append("<ol>")
 
     for r in new_rows:
