@@ -29,18 +29,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-dateutil openai>=1.40.0
 
-      # Persistent scraper-level dedupe (seen.json)
-      - name: Restore seen.json cache
+      # Unified Cache: Restores both Scraper History (seen.json) and Email History (email_history_urls.json)
+      # They now both live in the .state/ folder
+      - name: Restore/Save .state folder
         uses: actions/cache@v4
         with:
-          path: seen.json
-          key: seen-${{ github.ref_name }}-${{ github.run_number }}
+          path: .state
+          # Key includes run number to always save a new cache at the end
+          key: state-${{ github.ref_name }}-${{ github.run_number }}
+          # Restore keys allow it to grab the cache from the PREVIOUS run (morning or evening)
           restore-keys: |
-            seen-${{ github.ref_name }}-
-            seen-
+            state-${{ github.ref_name }}-
+            state-
 
       - name: Run scraper
         run: |
+          # Scraper will now look in .state/seen.json automatically
           python investegate_scraper.py \
             --pages 2 \
             --per_page 300 \
@@ -60,16 +64,6 @@ jobs:
           echo "CSV_FILE=$latest_dir/investegate_hits.csv" >> "$GITHUB_ENV"
           echo "Latest CSV: $latest_dir/investegate_hits.csv"
 
-      # Cross-run email dedupe: morning compares against last evening email
-      - name: Restore email state (.state)
-        uses: actions/cache@v4
-        with:
-          path: .state
-          key: email-state-${{ github.ref_name }}-${{ github.run_number }}
-          restore-keys: |
-            email-state-${{ github.ref_name }}-
-            email-state-
-
       - name: Email NEW items only
         env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
@@ -83,8 +77,8 @@ jobs:
           CSV_FILE: ${{ env.CSV_FILE }}
           MAX_HISTORY_EMAILS: 6
         run: |
+          # Emailer reads/writes to .state/email_history_urls.json
           python email_investegate.py
-
 
       - name: Upload output
         uses: actions/upload-artifact@v4
