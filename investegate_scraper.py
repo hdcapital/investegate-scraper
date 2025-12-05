@@ -3,14 +3,7 @@
 
 """
 Investegate scraper — STRICT + Watchlist Prioritisation + Persistent Seen-History
-
-Key behaviours:
-- Only items where *your* keywords hit are shown.
-- TR-1 holdings / Director dealing only shown when watchlist names appear.
-- Buybacks ALWAYS kept.
-- Duplicate announcements are removed using canonical RNS ID.
-- Previously-seen announcements are skipped via seen.json.
-
+Updated to store history in .state/seen.json for better caching.
 """
 
 import os, re, json, csv, time, argparse, pathlib, html
@@ -27,7 +20,6 @@ DEFAULT_HEADERS = {
 REQUEST_TIMEOUT = 20
 SLEEP_BETWEEN_ITEM_SEC = 0.8
 
-
 BUILTIN_INVESTOR_TRIGGERS = [
     r"\b(merger|acquisition|takeover|bid|scheme of arrangement)\b",
     r"\b(buyback|repurchase|tender offer)\b",
@@ -42,10 +34,14 @@ BUILTIN_INVESTOR_TRIGGERS = [
 ]
 
 def canonical_rns_id(url: str) -> str:
+    """Extracts ID like 9272576 from url."""
     parts = url.rstrip("/").split("/")
     return parts[-1].split("?")[0].lower()
 
-def load_seen(path="seen.json") -> set:
+def ensure_dir(p: pathlib.Path): 
+    p.mkdir(parents=True, exist_ok=True)
+
+def load_seen(path) -> set:
     if os.path.isfile(path):
         try:
             return set(json.load(open(path, "r", encoding="utf-8")))
@@ -53,11 +49,11 @@ def load_seen(path="seen.json") -> set:
             return set()
     return set()
 
-def save_seen(ids, path="seen.json"):
+def save_seen(ids, path):
+    # Ensure the folder exists before writing
+    pathlib.Path(path).parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(sorted(ids), f, indent=2)
-
-def ensure_dir(p: pathlib.Path): p.mkdir(parents=True, exist_ok=True)
 
 def clean_text(s: str) -> str:
     s = html.unescape(s or "")
@@ -78,7 +74,7 @@ def parse_list_page(html_text: str):
         href = urljoin("https://www.investegate.co.uk", a.get("href",""))
         headline = a.get_text(strip=True)
         rows.append({"href": href, "headline": headline})
-    # dedupe list by canonical ID
+    
     out, seen = [], set()
     for r in rows:
         cid = canonical_rns_id(r["href"])
@@ -141,7 +137,7 @@ def build_watchlist_pattern(keywords_file):
 
 def within_since_days(dt_iso, days):
     if not days: return True
-    if not dt_iso: return False  # stricter
+    if not dt_iso: return False
     try:
         dt = dtparse.parse(dt_iso)
         if dt.tzinfo is None: dt=dt.replace(tzinfo=timezone.utc)
@@ -149,9 +145,7 @@ def within_since_days(dt_iso, days):
     except:
         return False
 
-
 def run(pages, per_page, since_days, min_score, keywords_file, out_dir, throttle):
-
     session=requests.Session()
     user_keywords=load_keywords(keywords_file)
     user_kw_patterns=compile_phrase_patterns(user_keywords)
@@ -162,7 +156,11 @@ def run(pages, per_page, since_days, min_score, keywords_file, out_dir, throttle
     out_base=pathlib.Path(out_dir)/today
     ensure_dir(out_base)
 
-    seen_ids=load_seen()
+    # UPDATED: Path is now .state/seen.json
+    state_dir = pathlib.Path(".state")
+    ensure_dir(state_dir)
+    seen_path = state_dir / "seen.json"
+    seen_ids = load_seen(seen_path)
 
     # Fetch list
     rows=[]
@@ -211,7 +209,8 @@ def run(pages, per_page, since_days, min_score, keywords_file, out_dir, throttle
 
         time.sleep(throttle)
 
-    save_seen(seen_ids)
+    # Save updated seen list to .state/seen.json
+    save_seen(seen_ids, seen_path)
 
     # Output CSV (matches only)
     hits_path=out_base/"investegate_hits.csv"
