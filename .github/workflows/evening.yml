@@ -29,15 +29,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-dateutil openai>=1.40.0
 
-      # Persistent scraper-level dedupe (seen.json)
-      - name: Restore seen.json cache
+      # Unified Cache: Restores .state folder (seen.json + email history)
+      # 'restore-keys' allows this Evening run to pick up the cache saved by the Morning run
+      - name: Restore/Save .state folder
         uses: actions/cache@v4
         with:
-          path: seen.json
-          key: seen-${{ github.ref_name }}-${{ github.run_number }}
+          path: .state
+          key: state-${{ github.ref_name }}-${{ github.run_number }}
           restore-keys: |
-            seen-${{ github.ref_name }}-
-            seen-
+            state-${{ github.ref_name }}-
+            state-
 
       - name: Run scraper
         run: |
@@ -60,16 +61,6 @@ jobs:
           echo "CSV_FILE=$latest_dir/investegate_hits.csv" >> "$GITHUB_ENV"
           echo "Latest CSV: $latest_dir/investegate_hits.csv"
 
-      # Cross-run email dedupe: evening compares against last morning email
-      - name: Restore email state (.state)
-        uses: actions/cache@v4
-        with:
-          path: .state
-          key: email-state-${{ github.ref_name }}-${{ github.run_number }}
-          restore-keys: |
-            email-state-${{ github.ref_name }}-
-            email-state-
-
       - name: Email NEW items only
         env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
@@ -84,7 +75,6 @@ jobs:
           MAX_HISTORY_EMAILS: 6
         run: |
           python email_investegate.py
-
 
       - name: Upload output
         uses: actions/upload-artifact@v4
