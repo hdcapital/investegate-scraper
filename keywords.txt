@@ -67,7 +67,6 @@ recommended offer
 sale of 
 sale of assets
 asset sale
-disposal of
 divest
 divestment of
 proposed sale
@@ -85,6 +84,83 @@ portfolio realisation
 distribute the net proceeds
 return of capital
 capital return
+
+# =========================
+# DISPOSALS / DIVESTMENTS
+# (Refined “disposal of X” phrases – avoids buyback / PDMR / TR-1 noise)
+# =========================
+
+# 1) Business / division disposals
+disposal of the business and assets
+disposal of the business and assets of
+disposal of its business and assets
+disposal of its business
+disposal of the business
+disposal of wealth management business
+disposal of the wealth management business
+disposal of capital markets division
+disposal of its capital markets division
+disposal of sme business
+disposal of its sme business
+disposal of operating business
+disposal of operating businesses
+disposal of its operating business
+disposal of its operating businesses
+disposal of operating subsidiaries
+disposal of its operating subsidiaries
+
+# 2) Asset-package / portfolio disposals
+disposal of non-core assets
+disposal of non core assets
+disposal of legacy assets
+disposal of its legacy assets
+disposal of remaining assets
+disposal of its remaining assets
+disposal of material assets
+disposal of the companys assets
+disposal of the company's assets
+disposal of the groups assets
+disposal of the group's assets
+disposal of the companys remaining assets
+disposal of the group's remaining assets
+disposal of investment property
+disposal of investment properties
+disposal of property assets
+disposal of property portfolio
+
+# 3) Subsidiary / share-capital disposals
+disposal of the entire issued share capital
+disposal of its entire issued share capital
+disposal of the entire issued share capital of
+disposal of the entire share capital
+disposal of its entire share capital
+
+disposal of a subsidiary
+disposal of its subsidiary
+disposal of subsidiaries
+disposal of its subsidiaries
+disposal of its operating subsidiary
+disposal of its operating subsidiaries
+disposal of the groups subsidiary
+disposal of the group's subsidiaries
+
+disposal of shares in subsidiary
+disposal of its shares in subsidiary
+disposal of shares in joint venture
+disposal of shares in associate
+
+# 4) Stakes / interests in businesses, JVs, funds etc.
+disposal of its entire interest in
+disposal of its entire stake in
+disposal of its remaining interest in
+disposal of its remaining stake in
+disposal of its stake in
+disposal of its interest in
+disposal of its holding in
+disposal of its remaining holding in
+disposal of its shareholding in
+disposal of its shareholding
+
 
 # =========================
 # SEPARATIONS / DEMERGERS / SPIN-OFFS / SQUEEZE-OUTS
@@ -157,4 +233,5 @@ investor group demands
 open letter to shareholders
 letter to the board
 statement from shareholder group
+
 
