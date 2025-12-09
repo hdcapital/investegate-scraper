@@ -7,6 +7,7 @@ harwood capital
 gate city capital
 peter kamin
 Weiss Asset Management
+Weiss
 samuel terry
 Troy Harry
 MOAT Investments Pty Ltd
@@ -30,6 +31,7 @@ sportech
 currency exchange international
 exchange bank of canada
 sky ranch
+smiths news
 hidden gem   # keep if you want broad idea-sourcing hits
 
 # =========================
@@ -48,6 +50,16 @@ pursue the sale of
 appointed advisors
 go-shop
 inflection point
+formal sale process
+strategic review and formal sale process
+strategic review and formal sale process under the code
+initiation of strategic review
+initiation of a strategic review
+outcome of strategic review
+update on strategic review
+exploring a possible sale of the company
+exploring a potential sale of the company
+
 
 # =========================
 # M&A / COMBINATIONS / SCHEMES / OFFERS
@@ -60,6 +72,23 @@ tie-up
 scheme of arrangement
 takeover offer
 recommended offer
+recommended cash offer
+recommended cash acquisition
+recommended all-share offer
+recommended offer for the entire issued and to be issued share capital
+recommended offer for the entire issued share capital
+firm intention to make an offer
+possible offer under rule 2.4
+announcement under rule 2.7 of the code
+take private
+take-private
+public-to-private
+management buyout
+management buy-out
+mbo
+merger of equals
+all-share merger
+
 
 # =========================
 # DISPOSALS / DIVESTMENTS / EXITS (COMPANY OR PORTFOLIO LEVEL)
@@ -84,6 +113,11 @@ portfolio realisation
 distribute the net proceeds
 return of capital
 capital return
+carve-out
+carve out
+business carve-out
+asset carve-out
+
 
 # =========================
 # DISPOSALS / DIVESTMENTS
@@ -170,6 +204,15 @@ spinoff
 spin off
 split off
 squeeze out
+squeeze-out
+spin-off
+spin-off of
+demerger of
+separation of
+separation of the business
+distribution in specie
+distribution in-specie
+
 
 # =========================
 # RESTRUCTURING / WIND-DOWN / INSOLVENCY
@@ -233,5 +276,196 @@ investor group demands
 open letter to shareholders
 letter to the board
 statement from shareholder group
+concerned shareholder
+concerned shareholders
+seeks representation on the board
+seeks board representation
+intends to vote against
+intends to vote against the proposed
+urges the board to
+calls on the board to
+nomination of directors
+nominates directors for election
+slate of directors
+proxy contest
+proxy fight
+
+# =========================
+# PROFIT WARNINGS / GUIDANCE CHANGES
+# =========================
+materially below current market expectations
+materially below market expectations
+significantly below current market expectations
+significantly below market expectations
+below current market expectations
+below market expectations
+trading below expectations
+performance below expectations
+results below expectations
+
+materially ahead of current market expectations
+materially ahead of market expectations
+ahead of current market expectations
+ahead of market expectations
+trading ahead of expectations
+performance ahead of expectations
+
+revised guidance
+updated guidance
+withdrawn guidance
+withdrawal of guidance
+suspension of guidance
+no longer providing guidance
+profit forecast withdrawn
+earnings guidance withdrawn
+
+# =========================
+# MAJOR CUSTOMERS / CONTRACTS
+# =========================
+loss of a major customer
+loss of a key customer
+loss of a significant customer
+loss of its largest customer
+loss of its largest customers
+
+termination of a material contract
+termination of a major contract
+termination of a key contract
+termination of a significant contract
+non-renewal of a material contract
+non renewal of a material contract
+non-renewal of a key customer contract
+non renewal of a key customer contract
+
+significant contract win
+major contract win
+material contract win
+award of a major contract
+award of a material contract
+framework agreement
+long-term framework agreement
+master services agreement
+preferred bidder status
+preferred supplier status
+letter of intent for a major contract
+
+# =========================
+# CAPITAL STRUCTURE / EQUITY RAISES / DELISTINGS
+# =========================
+proposed cancellation of admission to trading on aim
+proposed cancellation of admission to trading on the main market
+proposed cancellation of listing
+cancellation of admission to trading
+cancellation of listing
+delisting of the companys shares
+delist the companys shares
+return to private ownership
+transition to a standard listing
+
+# =========================
+# MANAGEMENT / GOVERNANCE INFLECTION POINTS
+# =========================
+chief executive officer to step down
+ceo to step down
+ceo resigns with immediate effect
+chief financial officer to step down
+cfo to step down
+cfo resigns with immediate effect
+executive chair to step down
+executive chairman to step down
+chairman to step down
+board overhaul
+board restructuring
+board refresh
+board changes to enhance governance
+new strategic direction under new ceo
+
+
+# =========================
+# LITIGATION / REGULATORY / ENFORCEMENT
+# =========================
+regulatory investigation
+fca investigation
+sec investigation
+formal investigation by
+investigation by the serious fraud office
+enforcement action
+civil enforcement action
+class action lawsuit
+securities class action
+settlement agreement with
+consent order
+consent decree
+warning letter from
+material litigation
+material legal proceedings
+
+
+# =========================
+# DIVIDEND CUTS / SUSPENSIONS / RESETS
+# =========================
+
+# 1) Explicit suspensions / cancellations
+dividend suspended
+dividends suspended
+dividend payments suspended
+final dividend suspended
+interim dividend suspended
+suspend payment of the dividend
+suspend payment of the interim dividend
+cancel the interim dividend
+cancel the dividend
+dividend has been cancelled
+
+# 2) “No dividend” / board choosing not to declare
+no final dividend will be paid
+no interim dividend will be paid
+no dividend will be paid
+no final dividend will be paid for the year
+no final dividend will be paid for the year ended
+no final dividend will be paid in respect of the financial year
+has decided not to declare a final dividend
+has decided not to declare an interim dividend
+has decided not to declare a dividend
+has decided not to declare any dividend
+board has decided not to declare a final dividend
+board has decided not to declare an interim dividend
+
+# 3) Withdrawing / not proposing dividends already trailed
+will not be recommending a dividend
+will not be recommending a final dividend
+will not propose a final dividend
+will not be proposing a final dividend
+will not be recommending the payment of a final dividend
+will not be recommending the payment of the final dividend
+will not pay the final dividend previously declared
+withdraw its recommendation to pay a final dividend
+withdraw its recommendation to pay the final dividend
+
+# 4) Rebased / reset dividends (usually a cut or structural reset)
+rebase the dividend
+rebase the dividend per share
+rebase the dividend by one third
+rebase the dividend payout
+rebase the dividend over the next two years
+rebase the dividend going forward
+reduce or rebase the dividend level
+
+reset the dividend
+reset our dividend
+reset the dividend payout
+dividend reset
+reset our dividend policy
+reset the dividend policy
+
+# 5) Dividend policy under stress / review
+dividend policy under review
+dividend policy will be kept under review
+keep our dividend policy under review
+modify the dividend policy
+dividend policy will be modified
+review of our dividend policy
+review of the companys dividend policy
+
 
 
