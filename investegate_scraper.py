@@ -160,6 +160,16 @@ def run(pages, per_page, since_days, min_score, keywords_file, out_dir, throttle
     state_dir = pathlib.Path(".state")
     ensure_dir(state_dir)
     seen_path = state_dir / "seen.json"
+    
+    # ----------------------------------------------------
+    # COLD START PROTECTION
+    # If file doesn't exist, we assume this is a fresh run/reset.
+    # We force since_days to 1 (24h) to avoid spamming 7 days of old news.
+    # ----------------------------------------------------
+    if not os.path.isfile(seen_path):
+        print("[INFO] No history file found (.state/seen.json). Forcing lookback to 1 day to prevent duplicate spam.")
+        since_days = 1
+    
     seen_ids = load_seen(seen_path)
 
     # Fetch list
@@ -205,7 +215,8 @@ def run(pages, per_page, since_days, min_score, keywords_file, out_dir, throttle
                 "dt_iso":dt_iso,"url":url,"title":title,"score":total,
                 "user_score":user_score,"trigger_score":trigger_score
             })
-            seen_ids.add(cid)  # mark as processed
+            # IMPORTANT: Mark as seen immediately so it is saved to JSON even if filtered out later
+            seen_ids.add(cid)  
 
         time.sleep(throttle)
 
