@@ -6,6 +6,10 @@ on:
     - cron: '55 07 * * *'
   workflow_dispatch:
 
+# REQUIRED: Permissions to commit back to the repo
+permissions:
+  contents: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -29,22 +33,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml python-dateutil openai>=1.40.0
 
-      # Unified Cache: Restores both Scraper History (seen.json) and Email History (email_history_urls.json)
-      # They now both live in the .state/ folder
-      - name: Restore/Save .state folder
-        uses: actions/cache@v4
-        with:
-          path: .state
-          # Key includes run number to always save a new cache at the end
-          key: state-${{ github.ref_name }}-${{ github.run_number }}
-          # Restore keys allow it to grab the cache from the PREVIOUS run (morning or evening)
-          restore-keys: |
-            state-${{ github.ref_name }}-
-            state-
-
+      # Step 1: Run Scraper
+      # It will look for .state/seen.json. If missing, it defaults to 24h lookback.
       - name: Run scraper
         run: |
-          # Scraper will now look in .state/seen.json automatically
           python investegate_scraper.py \
             --pages 2 \
             --per_page 300 \
@@ -64,6 +56,7 @@ jobs:
           echo "CSV_FILE=$latest_dir/investegate_hits.csv" >> "$GITHUB_ENV"
           echo "Latest CSV: $latest_dir/investegate_hits.csv"
 
+      # Step 2: Email
       - name: Email NEW items only
         env:
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
@@ -77,8 +70,27 @@ jobs:
           CSV_FILE: ${{ env.CSV_FILE }}
           MAX_HISTORY_EMAILS: 6
         run: |
-          # Emailer reads/writes to .state/email_history_urls.json
           python email_investegate.py
+
+      # Step 3: COMMIT STATE TO REPO (Fix for duplicates)
+      # This runs even if the emailer fails, ensuring the scraper doesn't re-fetch items next time.
+      - name: Commit and Push State
+        if: always()
+        run: |
+          git config --global user.name "Investegate Bot"
+          git config --global user.email "bot@noreply.github.com"
+          
+          # Add the state folder containing seen.json and email_history_urls.json
+          git add .state/
+          
+          # Commit only if changes exist
+          if git diff --staged --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "Update scraper state (run ${{ github.run_number }}) [skip ci]"
+            git pull --rebase
+            git push
+          fi
 
       - name: Upload output
         uses: actions/upload-artifact@v4
