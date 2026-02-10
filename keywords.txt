@@ -32,7 +32,7 @@ currency exchange international
 exchange bank of canada
 sky ranch
 smiths news
-hidden gem   # keep if you want broad idea-sourcing hits
+hidden gem
 
 # =========================
 # STRATEGIC REVIEW / ALTERNATIVES / VALUE MAXIMISATION
@@ -93,7 +93,7 @@ all-share merger
 # =========================
 # DISPOSALS / DIVESTMENTS / EXITS (COMPANY OR PORTFOLIO LEVEL)
 # =========================
-sale of 
+sale of
 sale of assets
 asset sale
 divest
@@ -237,7 +237,8 @@ layoffs
 # FINANCING / REFINANCING / BALANCE SHEET ACTIONS
 # =========================
 refinancing
-refinanc(e|ed)
+refinance
+refinanced
 leaseback
 
 # =========================
@@ -466,6 +467,3 @@ modify the dividend policy
 dividend policy will be modified
 review of our dividend policy
 review of the companys dividend policy
-
-
-
