@@ -102,14 +102,19 @@ def detect_keyword_hits(text: str, keywords: list[str]) -> list[str]:
 def summary_text_to_html(text: str) -> str:
     if not text:
         return ""
+
     safe = esc(text).strip()
     paras = [p.strip() for p in re.split(r"\n\s*\n", safe) if p.strip()]
+
     if not paras:
         return safe.replace("\n", "<br>")
-    return "\n".join(
-        f'<p style="margin:0 0 8px 0;">{p.replace("\n", "<br>")}</p>'
-        for p in paras
-    )
+
+    html_paras = []
+    for para in paras:
+        para_html = para.replace("\n", "<br>")
+        html_paras.append(f'<p style="margin:0 0 8px 0;">{para_html}</p>')
+
+    return "\n".join(html_paras)
 
 
 def extract_json_object(s: str) -> dict:
