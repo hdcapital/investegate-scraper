@@ -16,7 +16,9 @@ What it does:
 Key hardening:
 - Inline comments in keywords file are stripped correctly (e.g. "hidden gem # note").
 - WATCHLIST pattern includes *all* WATCHLIST sections in the keywords file.
-- count_matches() included (fixes NameError).
+- Matched user keywords are written to CSV, so the emailer no longer guesses triggers.
+- Built-in trigger labels are also written to CSV for AI context.
+- Basic issuer/ticker hints are parsed from Investegate URLs, e.g. /rns/ensilica--ensi/.
 - min_score is enforced.
 - Marks items seen even if filtered out (prevents repeated refetch/noise loops).
 """
@@ -31,7 +33,7 @@ import pathlib
 import html
 from datetime import datetime, timedelta, timezone
 from typing import List, Optional, Pattern, Tuple
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -46,19 +48,22 @@ SLEEP_BETWEEN_ITEM_SEC = 0.8
 
 INVESTEGATE_BASE = "https://www.investegate.co.uk"
 
-# Broad “investor triggers” (extra scoring)
-BUILTIN_INVESTOR_TRIGGERS = [
-    r"\b(merger|acquisition|takeover|bid|scheme of arrangement)\b",
-    r"\b(buyback|repurchase|tender offer)\b",
-    r"\b(fundraise|placing|rights issue)\b",
-    r"\b(trading update|guidance|profit warning)\b",
-    r"\b(earnings|cash flow|margin|EBITDA)\b",
-    r"\b(net debt|liquidity|refinancing|covenant)\b",
-    r"\b(contract win|order book|framework)\b",
-    r"\b(CEO|CFO|chair|resign|appointment|board change)\b",
-    r"\b(TR-1|holding\(s\) in company)\b",
-    r"\b(dividend|capital return)\b",
+# Broad “investor triggers” (extra scoring). Labels are written to CSV for context.
+BUILTIN_INVESTOR_TRIGGERS: List[Tuple[str, str]] = [
+    ("M&A / takeover / scheme", r"\b(merger|acquisition|takeover|bid|scheme of arrangement)\b"),
+    ("buyback / tender", r"\b(buyback|buy-back|repurchase|tender offer)\b"),
+    ("fundraising / placing", r"\b(fundraise|fundraising|placing|rights issue|subscription|ABB|accelerated bookbuild)\b"),
+    ("trading update / guidance", r"\b(trading update|guidance|profit warning)\b"),
+    ("earnings / cash flow / margin", r"\b(earnings|cash flow|cashflow|margin|EBITDA|EBIT|profit)\b"),
+    ("debt / liquidity / covenant", r"\b(net debt|liquidity|refinancing|covenant|going concern|working capital)\b"),
+    ("contract win / order book", r"\b(contract win|order book|framework|award)\b"),
+    ("management / board change", r"\b(CEO|CFO|chair|resign|resignation|appointment|board change|directorate change)\b"),
+    ("TR-1 / holdings", r"\b(TR-1|holding\(s\) in company|holding in company)\b"),
+    ("dividend / capital return", r"\b(dividend|capital return|special dividend)\b"),
+    ("asset sale / disposal", r"\b(sale of|disposal|divestment|completion date for sale)\b"),
 ]
+
+NamedPattern = Tuple[str, Pattern]
 
 
 # -----------------------------
@@ -71,8 +76,10 @@ def canonical_rns_id(url: str) -> str:
     last = parts[-1] if parts else url
     return last.split("?")[0].strip().lower()
 
+
 def ensure_dir(p: pathlib.Path):
     p.mkdir(parents=True, exist_ok=True)
+
 
 def load_seen(path: pathlib.Path) -> set:
     if path.is_file():
@@ -83,15 +90,18 @@ def load_seen(path: pathlib.Path) -> set:
             return set()
     return set()
 
+
 def save_seen(ids: set, path: pathlib.Path):
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(sorted(ids), f, indent=2)
 
+
 def clean_text(s: str) -> str:
     s = html.unescape(s or "")
     s = re.sub(r"[ \t]{2,}", " ", s)
     return s.strip()
+
 
 def fetch(url: str, session: requests.Session) -> Optional[str]:
     try:
@@ -102,11 +112,6 @@ def fetch(url: str, session: requests.Session) -> Optional[str]:
     except Exception:
         return None
 
-def count_matches(text: str, patterns: List[Pattern]) -> int:
-    """Count how many patterns match at least once."""
-    if not text or not patterns:
-        return 0
-    return sum(1 for rx in patterns if rx.search(text))
 
 def strip_inline_comment(line: str) -> str:
     """
@@ -114,6 +119,52 @@ def strip_inline_comment(line: str) -> str:
     Example: 'hidden gem   # keep this' -> 'hidden gem'
     """
     return line.split("#", 1)[0].strip()
+
+
+def slug_to_name(slug: str) -> str:
+    """Best-effort conversion of an Investegate URL slug into a company name hint."""
+    if not slug:
+        return ""
+    s = slug.replace("-", " ").strip()
+    s = re.sub(r"\s+", " ", s)
+    return s.title()
+
+
+def parse_issuer_ticker_from_url(url: str) -> tuple[str, str, str]:
+    """
+    Best-effort parse from Investegate URL path.
+    Example:
+      /announcement/rns/ensilica--ensi/proposed-equity.../9272576
+    returns:
+      issuer_hint='Ensilica', ticker_hint='ENSI', eodhd_symbol='ENSI.LSE'
+
+    We assume LSE for the EODHD symbol because Investegate is mostly UK RNS/AIM.
+    The enrichment step will simply leave market cap blank if the symbol fails.
+    """
+    try:
+        parts = [p for p in urlparse(url).path.split("/") if p]
+        if "rns" not in [p.lower() for p in parts]:
+            return "", "", ""
+
+        idx = [p.lower() for p in parts].index("rns")
+        issuer_seg = parts[idx + 1] if idx + 1 < len(parts) else ""
+        if not issuer_seg:
+            return "", "", ""
+
+        issuer_hint = ""
+        ticker_hint = ""
+
+        if "--" in issuer_seg:
+            left, right = issuer_seg.rsplit("--", 1)
+            issuer_hint = slug_to_name(left)
+            ticker_hint = re.sub(r"[^A-Za-z0-9]", "", right).upper()
+        else:
+            issuer_hint = slug_to_name(issuer_seg)
+
+        eodhd_symbol = f"{ticker_hint}.LSE" if ticker_hint else ""
+        return issuer_hint, ticker_hint, eodhd_symbol
+    except Exception:
+        return "", "", ""
 
 
 # -----------------------------
@@ -139,6 +190,7 @@ def parse_list_page(html_text: str):
             seen.add(cid)
             out.append(r)
     return out
+
 
 def parse_detail_page(html_text: str):
     soup = BeautifulSoup(html_text, "lxml")
@@ -177,7 +229,6 @@ def load_keywords(keywords_file: str) -> List[str]:
                 s = strip_inline_comment(raw)
                 if not s:
                     continue
-                # Allow section headers like "# =====" to be ignored
                 if s.startswith("#"):
                     continue
                 kws.append(s)
@@ -190,6 +241,7 @@ def load_keywords(keywords_file: str) -> List[str]:
             out.append(k)
     return out
 
+
 def looks_like_regex(s: str) -> bool:
     """
     Heuristic: if keyword contains regex metacharacters, treat as regex.
@@ -197,40 +249,11 @@ def looks_like_regex(s: str) -> bool:
     """
     return any(ch in s for ch in r"\[](){}|?+*.^$")
 
-def compile_phrase_patterns(words: List[str]) -> List[Pattern]:
-    """
-    Compile a list of patterns:
-    - If keyword looks regex-y, compile as given (case-insensitive).
-    - Else compile as a "phrase" with word boundaries and flexible whitespace.
-    """
-    pats: List[Pattern] = []
-    for w in words:
-        w = w.strip()
-        if not w:
-            continue
-
-        if looks_like_regex(w):
-            try:
-                pats.append(re.compile(w, re.I))
-            except re.error:
-                # Fallback: treat as literal phrase if their regex is invalid
-                toks = [re.escape(t) for t in w.split()]
-                if toks:
-                    pats.append(re.compile(r"\b" + r"\s+".join(toks) + r"\b", re.I))
-            continue
-
-        toks = [re.escape(t) for t in w.split()]
-        if toks:
-            pats.append(re.compile(r"\b" + r"\s+".join(toks) + r"\b", re.I))
-    return pats
-
-NamedPattern = Tuple[str, Pattern]
-
 
 def compile_named_phrase_patterns(words: List[str]) -> List[NamedPattern]:
     """
     Compile keywords while retaining the original keyword label,
-    so we can later report exactly what matched.
+    so the CSV can report exactly what matched.
     """
     named: List[NamedPattern] = []
 
@@ -255,10 +278,8 @@ def compile_named_phrase_patterns(words: List[str]) -> List[NamedPattern]:
     return named
 
 
-def list_named_matches(text: str, named_patterns: List[NamedPattern], max_items: int = 20) -> List[str]:
-    """
-    Return the actual labels/keywords whose regex matched the text.
-    """
+def list_named_matches(text: str, named_patterns: List[NamedPattern], max_items: int = 25) -> List[str]:
+    """Return the labels/keywords whose regex matched the text."""
     if not text or not named_patterns:
         return []
 
@@ -267,9 +288,9 @@ def list_named_matches(text: str, named_patterns: List[NamedPattern], max_items:
 
     for label, rx in named_patterns:
         if rx.search(text):
-            k = label.lower()
-            if k not in seen:
-                seen.add(k)
+            key = label.lower()
+            if key not in seen:
+                seen.add(key)
                 out.append(label)
 
         if len(out) >= max_items:
@@ -277,14 +298,10 @@ def list_named_matches(text: str, named_patterns: List[NamedPattern], max_items:
 
     return out
 
+
 def build_watchlist_pattern(keywords_file: str) -> Optional[Pattern]:
     """
     Build a regex that matches any entry inside ANY section whose header begins with "# ... WATCHLIST".
-    This includes both:
-      - WATCHLIST — INVESTORS / FUNDS / INDIVIDUALS
-      - WATCHLIST — COMPANIES / NAMED ENTITIES
-
-    Inline comments are stripped.
     """
     if not keywords_file or not os.path.isfile(keywords_file):
         return None
@@ -296,12 +313,10 @@ def build_watchlist_pattern(keywords_file: str) -> Optional[Pattern]:
         for raw in f:
             l = raw.strip()
 
-            # Enter a WATCHLIST section
             if re.match(r"^#\s*WATCHLIST\b", l, flags=re.I):
                 in_watchlist = True
                 continue
 
-            # Exit WATCHLIST when next header begins (and is not another WATCHLIST header)
             if in_watchlist and l.startswith("#") and not re.match(r"^#\s*WATCHLIST\b", l, flags=re.I):
                 in_watchlist = False
                 continue
@@ -313,7 +328,6 @@ def build_watchlist_pattern(keywords_file: str) -> Optional[Pattern]:
             if clean_name:
                 names.append(clean_name)
 
-    # Dedup (case-insensitive)
     seen = set()
     deduped = []
     for n in names:
@@ -371,14 +385,13 @@ def run(pages: int,
 
     user_keywords = load_keywords(keywords_file)
     user_kw_patterns = compile_named_phrase_patterns(user_keywords)
-    trigger_patterns = [(rx, re.compile(rx, re.I)) for rx in BUILTIN_INVESTOR_TRIGGERS]
+    trigger_patterns: List[NamedPattern] = [(label, re.compile(rx, re.I)) for label, rx in BUILTIN_INVESTOR_TRIGGERS]
     watchlist_rx = build_watchlist_pattern(keywords_file)
 
     today = datetime.now().strftime("%Y-%m-%d")
     out_base = pathlib.Path(out_dir) / today
     ensure_dir(out_base)
 
-    # Persistent history path: .state/seen.json
     state_dir = pathlib.Path(".state")
     ensure_dir(state_dir)
     seen_path = state_dir / "seen.json"
@@ -390,7 +403,6 @@ def run(pages: int,
 
     seen_ids = load_seen(seen_path)
 
-    # Fetch list pages
     rows = []
     for p in range(1, pages + 1):
         html_text = fetch(f"{INVESTEGATE_BASE}/?perPage={per_page}&page={p}", session)
@@ -405,26 +417,24 @@ def run(pages: int,
         if not cid:
             continue
         if cid in seen_ids:
-            continue  # persistent skip
+            continue
 
         html_text = fetch(url, session)
         if not html_text:
-            # Don't mark seen if we couldn't fetch details (transient failure)
             continue
 
         title, body, dt_iso = parse_detail_page(html_text)
+        issuer_hint, ticker_hint, eodhd_symbol = parse_issuer_ticker_from_url(url)
 
         # Mark seen early so we don't refetch this same item next run,
         # even if it gets filtered out or doesn't match.
         seen_ids.add(cid)
 
-        teaser = (title + "\n" + (body or "")).lower()
+        teaser = title + "\n" + (body or "")
 
         # ----------------------------
         # Noise filters
         # ----------------------------
-
-        # Routine TR-1 filter unless watchlist mentioned in body
         if body:
             tr1 = re.search(r"\bacquisition or disposal of voting rights\b", body, re.I)
             wl = watchlist_rx.search(body) if (watchlist_rx and body) else None
@@ -432,7 +442,6 @@ def run(pages: int,
                 time.sleep(throttle)
                 continue
 
-        # PDMR / director dealings filter unless watchlist mentioned
         title_l = (title or "").lower()
         is_pdmr = title_l.startswith((
             "director/pdmr", "pdmr", "director dealings", "share dealings", "shareholding of directors"
@@ -443,55 +452,54 @@ def run(pages: int,
             continue
 
         # ----------------------------
-        # Scoring
+        # Scoring + actual matched labels
         # ----------------------------
-        user_kw_patterns = compile_named_phrase_patterns(user_keywords)
-        trigger_patterns = [(rx, re.compile(rx, re.I)) for rx in BUILTIN_INVESTOR_TRIGGERS]
+        matched_keywords = list_named_matches(teaser, user_kw_patterns)
+        matched_builtin_triggers = list_named_matches(teaser, trigger_patterns)
 
-        # Enforce: must match at least one user keyword, meet min_score, and be recent enough
+        user_score = len(matched_keywords)
+        trigger_score = len(matched_builtin_triggers)
+        total = user_score + trigger_score
+
         if user_score >= 1 and total >= min_score and within_since_days(dt_iso, since_days):
             results.append({
-            "dt_iso": dt_iso,
-            "url": url,
-            "title": title,
-            "score": total,
-            "user_score": user_score,
-            "trigger_score": trigger_score,
-            "matched_keywords": ", ".join(matched_keywords),
-            "matched_builtin_triggers": ", ".join(matched_builtin_triggers),
-        })
+                "dt_iso": dt_iso,
+                "url": url,
+                "title": title,
+                "issuer_hint": issuer_hint,
+                "ticker_hint": ticker_hint,
+                "eodhd_symbol": eodhd_symbol,
+                "score": total,
+                "user_score": user_score,
+                "trigger_score": trigger_score,
+                "matched_keywords": ", ".join(matched_keywords),
+                "matched_builtin_triggers": ", ".join(matched_builtin_triggers),
+            })
 
         time.sleep(throttle)
 
-    # Save updated history
     save_seen(seen_ids, seen_path)
 
-    # Output CSV (matches only)
     hits_path = out_base / "investegate_hits.csv"
-    with open(hits_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow([
-            "dt_iso",
-            "title",
-            "score",
-            "user_score",
-            "trigger_score",
-            "matched_keywords",
-            "matched_builtin_triggers",
-            "url",
-        ])
+    fieldnames = [
+        "dt_iso",
+        "title",
+        "issuer_hint",
+        "ticker_hint",
+        "eodhd_symbol",
+        "score",
+        "user_score",
+        "trigger_score",
+        "matched_keywords",
+        "matched_builtin_triggers",
+        "url",
+    ]
 
-for r in sorted(results, key=lambda x: (x["score"], x["dt_iso"] or ""), reverse=True):
-    w.writerow([
-        r["dt_iso"],
-        r["title"],
-        r["score"],
-        r["user_score"],
-        r["trigger_score"],
-        r.get("matched_keywords", ""),
-        r.get("matched_builtin_triggers", ""),
-        r["url"],
-    ])
+    with open(hits_path, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=fieldnames)
+        w.writeheader()
+        for r in sorted(results, key=lambda x: (x["score"], x["dt_iso"] or ""), reverse=True):
+            w.writerow(r)
 
     print(f"[DONE] New matches: {len(results)} (duplicates & previously seen suppressed)")
     print(f"Seen history: {seen_path}")
