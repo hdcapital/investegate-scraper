@@ -30,7 +30,7 @@ import argparse
 import pathlib
 import html
 from datetime import datetime, timedelta, timezone
-from typing import List, Optional, Pattern
+from typing import List, Optional, Pattern, Tuple
 from urllib.parse import urljoin
 
 import requests
@@ -224,6 +224,59 @@ def compile_phrase_patterns(words: List[str]) -> List[Pattern]:
             pats.append(re.compile(r"\b" + r"\s+".join(toks) + r"\b", re.I))
     return pats
 
+NamedPattern = Tuple[str, Pattern]
+
+
+def compile_named_phrase_patterns(words: List[str]) -> List[NamedPattern]:
+    """
+    Compile keywords while retaining the original keyword label,
+    so we can later report exactly what matched.
+    """
+    named: List[NamedPattern] = []
+
+    for w in words:
+        original = w.strip()
+        if not original:
+            continue
+
+        if looks_like_regex(original):
+            try:
+                named.append((original, re.compile(original, re.I)))
+            except re.error:
+                toks = [re.escape(t) for t in original.split()]
+                if toks:
+                    named.append((original, re.compile(r"\b" + r"\s+".join(toks) + r"\b", re.I)))
+            continue
+
+        toks = [re.escape(t) for t in original.split()]
+        if toks:
+            named.append((original, re.compile(r"\b" + r"\s+".join(toks) + r"\b", re.I)))
+
+    return named
+
+
+def list_named_matches(text: str, named_patterns: List[NamedPattern], max_items: int = 20) -> List[str]:
+    """
+    Return the actual labels/keywords whose regex matched the text.
+    """
+    if not text or not named_patterns:
+        return []
+
+    out = []
+    seen = set()
+
+    for label, rx in named_patterns:
+        if rx.search(text):
+            k = label.lower()
+            if k not in seen:
+                seen.add(k)
+                out.append(label)
+
+        if len(out) >= max_items:
+            break
+
+    return out
+
 def build_watchlist_pattern(keywords_file: str) -> Optional[Pattern]:
     """
     Build a regex that matches any entry inside ANY section whose header begins with "# ... WATCHLIST".
@@ -317,8 +370,8 @@ def run(pages: int,
     session = requests.Session()
 
     user_keywords = load_keywords(keywords_file)
-    user_kw_patterns = compile_phrase_patterns(user_keywords)
-    trigger_patterns = [re.compile(rx, re.I) for rx in BUILTIN_INVESTOR_TRIGGERS]
+    user_kw_patterns = compile_named_phrase_patterns(user_keywords)
+    trigger_patterns = [(rx, re.compile(rx, re.I)) for rx in BUILTIN_INVESTOR_TRIGGERS]
     watchlist_rx = build_watchlist_pattern(keywords_file)
 
     today = datetime.now().strftime("%Y-%m-%d")
@@ -392,20 +445,21 @@ def run(pages: int,
         # ----------------------------
         # Scoring
         # ----------------------------
-        user_score = count_matches(teaser, user_kw_patterns)
-        trigger_score = count_matches(teaser, trigger_patterns)
-        total = user_score + trigger_score
+        user_kw_patterns = compile_named_phrase_patterns(user_keywords)
+        trigger_patterns = [(rx, re.compile(rx, re.I)) for rx in BUILTIN_INVESTOR_TRIGGERS]
 
         # Enforce: must match at least one user keyword, meet min_score, and be recent enough
         if user_score >= 1 and total >= min_score and within_since_days(dt_iso, since_days):
             results.append({
-                "dt_iso": dt_iso,
-                "url": url,
-                "title": title,
-                "score": total,
-                "user_score": user_score,
-                "trigger_score": trigger_score,
-            })
+            "dt_iso": dt_iso,
+            "url": url,
+            "title": title,
+            "score": total,
+            "user_score": user_score,
+            "trigger_score": trigger_score,
+            "matched_keywords": ", ".join(matched_keywords),
+            "matched_builtin_triggers": ", ".join(matched_builtin_triggers),
+        })
 
         time.sleep(throttle)
 
@@ -416,9 +470,28 @@ def run(pages: int,
     hits_path = out_base / "investegate_hits.csv"
     with open(hits_path, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["dt_iso", "title", "score", "user_score", "trigger_score", "url"])
-        for r in sorted(results, key=lambda x: (x["score"], x["dt_iso"] or ""), reverse=True):
-            w.writerow([r["dt_iso"], r["title"], r["score"], r["user_score"], r["trigger_score"], r["url"]])
+        w.writerow([
+            "dt_iso",
+            "title",
+            "score",
+            "user_score",
+            "trigger_score",
+            "matched_keywords",
+            "matched_builtin_triggers",
+            "url",
+        ])
+
+for r in sorted(results, key=lambda x: (x["score"], x["dt_iso"] or ""), reverse=True):
+    w.writerow([
+        r["dt_iso"],
+        r["title"],
+        r["score"],
+        r["user_score"],
+        r["trigger_score"],
+        r.get("matched_keywords", ""),
+        r.get("matched_builtin_triggers", ""),
+        r["url"],
+    ])
 
     print(f"[DONE] New matches: {len(results)} (duplicates & previously seen suppressed)")
     print(f"Seen history: {seen_path}")
