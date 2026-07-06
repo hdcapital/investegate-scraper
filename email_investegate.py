@@ -277,6 +277,7 @@ def summarize_rns(
     url: str,
     body: str,
     matched_keywords: list[str],
+    matched_builtin_triggers: list[str] | None = None,
     supplied_company: str = "",
     supplied_market_cap: str = ""
 ) -> dict:
@@ -291,6 +292,7 @@ def summarize_rns(
     """
 
     trigger_text = ", ".join(matched_keywords) if matched_keywords else "No explicit keyword detected"
+    builtin_trigger_text = ", ".join(matched_builtin_triggers or []) if matched_builtin_triggers else "n/a"
 
     prompt = f"""
 You are a buy-side analyst writing an automated RNS digest for a PM.
@@ -311,19 +313,17 @@ Rules:
   3. current market cap if supplied below or explicitly stated in the announcement.
 - If market cap is not supplied and not explicitly stated in the announcement, write: "Market cap: n/a".
 - Do not hallucinate a market cap.
-- The "trigger" field must use the matched keyword/keywords supplied below. Do not list the full keyword universe.
-- The "summary" field should explain:
-  1. what actually happened;
-  2. why it matters;
-  3. how it relates to the trigger keyword/keywords;
-  4. any financial, liquidity, governance, competitive, or timing signals;
-  5. what a PM should pay attention to.
-- The summary should be concise but genuinely analytical.
-- No fluff. Interpret, do not just describe.
+- The "trigger" field must use the actual matched keyword/keywords supplied below.
+- The "summary" field should be 90-160 words, or up to 190 words only if the announcement is complex.
+- The summary must preserve enough context for the PM to understand the actual announcement without opening the link.
+- The summary must explicitly connect the announcement back to the matched keyword/keywords.
+- Include key numbers, dates, consideration, funding amount, dilution, completion timing, covenants, liquidity or deal terms where relevant.
+- Avoid generic filler. No long bullet lists. Interpret, do not just describe.
 
 Supplied company, if any: {supplied_company or "n/a"}
 Supplied market cap, if any: {supplied_market_cap or "n/a"}
 Matched keyword/keywords: {trigger_text}
+Built-in investor trigger flags: {builtin_trigger_text}
 
 RNS Title: {title}
 URL: {url}
@@ -463,11 +463,22 @@ if new_rows:
             ]
         )
 
+        supplied_builtin_trigger_string = row_first(
+            r,
+            [
+                "matched_builtin_triggers",
+                "builtin_triggers",
+                "investor_triggers",
+                "trigger_types",
+            ]
+        )
+
         body = fetch_article_text(url)
 
         # Prefer explicit matched-keyword CSV column if present.
         # Otherwise detect actual hits from title + fetched article body.
         matched_keywords = split_keywords(supplied_keyword_string)
+        matched_builtin_triggers = split_keywords(supplied_builtin_trigger_string)
 
         if not matched_keywords:
             matched_keywords = detect_keyword_hits(
@@ -480,6 +491,7 @@ if new_rows:
             url=url,
             body=body,
             matched_keywords=matched_keywords,
+            matched_builtin_triggers=matched_builtin_triggers,
             supplied_company=supplied_company,
             supplied_market_cap=supplied_market_cap
         )
