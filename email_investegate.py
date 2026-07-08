@@ -100,6 +100,7 @@ def detect_keyword_hits(text: str, keywords: list[str]) -> list[str]:
 
 
 def summary_text_to_html(text: str) -> str:
+    """Convert plain text with newlines into safe email HTML."""
     if not text:
         return ""
 
@@ -136,21 +137,57 @@ def extract_json_object(s: str) -> dict:
     return {}
 
 
-def build_company_line(row: dict, title: str) -> str:
+def normalise_missing_desc(desc: str) -> str:
+    desc = re.sub(r"\s+", " ", desc or "").strip()
+    if not desc:
+        return ""
+    bad = {
+        "business description unavailable",
+        "description unavailable",
+        "unavailable",
+        "n/a",
+        "na",
+        "none",
+    }
+    if desc.lower().rstrip(".") in bad:
+        return ""
+    return desc
+
+
+def build_company_parts(row: dict, title: str) -> dict:
     company_name = row_first(row, [
         "company_name", "company", "issuer", "issuer_name", "issuer_hint", "name"
     ]) or guess_company_from_title(title) or "Unknown company"
 
-    description = row_first(row, [
+    description = normalise_missing_desc(row_first(row, [
         "business_description", "company_description", "description"
-    ]) or "Business description unavailable"
+    ]))
 
     market_cap = row_first(row, [
         "market_cap_display", "market_cap", "mkt_cap", "marketcap",
         "current_market_cap", "market_capitalisation", "market_capitalization"
     ]) or "n/a"
 
-    return f"{company_name} — {description}. Market cap: {market_cap}"
+    ticker = row_first(row, ["ticker", "ticker_hint", "epic", "symbol"])
+    enrichment_status = row_first(row, ["enrichment_status"])
+    data_source = row_first(row, ["data_source"])
+
+    return {
+        "company_name": company_name,
+        "description": description,
+        "market_cap": market_cap,
+        "ticker": ticker,
+        "enrichment_status": enrichment_status,
+        "data_source": data_source,
+    }
+
+
+def build_company_line(parts: dict, ai_description: str = "") -> str:
+    desc = normalise_missing_desc(parts.get("description", "")) or normalise_missing_desc(ai_description)
+    if not desc:
+        desc = "Business description unavailable"
+
+    return f"{parts.get('company_name') or 'Unknown company'} — {desc}. Market cap: {parts.get('market_cap') or 'n/a'}"
 
 
 # ------------------------------------------------
@@ -186,7 +223,6 @@ def load_keywords(path="keywords.txt") -> list[str]:
     if os.path.isfile(path):
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
-                # Keep this simple for backwards fallback only.
                 s = line.split("#", 1)[0].strip()
                 if s:
                     out.append(s)
@@ -221,16 +257,19 @@ def fetch_article_text(url: str) -> str:
         return ""
 
 
-def summarize_rns(
+def analyze_rns(
     title: str,
     url: str,
     body: str,
-    company_line: str,
+    company_parts: dict,
     matched_keywords: list[str],
     matched_builtin_triggers: list[str] | None = None,
-) -> str:
+) -> dict:
     trigger_text = ", ".join(matched_keywords) if matched_keywords else "No explicit keyword detected"
     builtin_trigger_text = ", ".join(matched_builtin_triggers or []) if matched_builtin_triggers else "n/a"
+
+    current_description = normalise_missing_desc(company_parts.get("description", ""))
+    needs_description = "yes" if not current_description else "no"
 
     prompt = f"""
 You are a buy-side analyst writing an automated RNS digest for a PM.
@@ -239,19 +278,34 @@ Return VALID JSON ONLY. No markdown. No code fences.
 
 Use this exact JSON schema:
 {{
+  "company_description": "short business description, or empty string if already supplied",
   "summary": "Analyst-quality review of the announcement."
 }}
 
-Rules:
+Rules for company_description:
+- Need company description? {needs_description}
+- Company name: {company_parts.get('company_name') or 'Unknown company'}
+- If a description is already supplied, return an empty string for company_description.
+- If no description is supplied, infer a super short business description from the announcement text/company boilerplate only.
+- Do not use stale outside knowledge. If the announcement text does not support a description, return "Business description unavailable".
+- Do not invent market cap.
+
+Rules for summary:
 - Write 90-160 words, or up to 190 words only if the announcement is complex.
 - Preserve enough context for the PM to understand the actual announcement without opening the link.
 - Explicitly connect the announcement back to the matched keyword/keywords.
 - Include key numbers, dates, consideration, funding amount, dilution, completion timing, covenants, liquidity, NAV, valuation or deal terms where relevant.
 - Focus on what happened, why it matters, whether the keyword hit is meaningful, and what a PM should check next.
+- If a keyword hit is a weak/false positive, say so briefly and then explain the real announcement.
 - No long bullet lists. No generic filler. Interpret, do not just describe.
 
-Company line supplied by deterministic data/enrichment step:
-{company_line}
+Deterministic company data supplied:
+Company name: {company_parts.get('company_name') or 'Unknown company'}
+Ticker: {company_parts.get('ticker') or 'n/a'}
+Existing description: {current_description or 'n/a'}
+Market cap: {company_parts.get('market_cap') or 'n/a'}
+Enrichment status: {company_parts.get('enrichment_status') or 'n/a'}
+Data source: {company_parts.get('data_source') or 'n/a'}
 
 Actual matched keyword/keywords:
 {trigger_text}
@@ -270,14 +324,21 @@ Announcement text:
         resp = client.responses.create(
             model="gpt-5.1",
             input=prompt,
-            max_output_tokens=450,
+            max_output_tokens=520,
         )
         raw = resp.output_text.strip()
         data = extract_json_object(raw)
         summary = str(data.get("summary", "")).strip()
-        return summary or raw or "Summary unavailable."
+        company_description = str(data.get("company_description", "")).strip()
+        return {
+            "summary": summary or raw or "Summary unavailable.",
+            "company_description": company_description,
+        }
     except Exception as e:
-        return f"Summary unavailable: {e}"
+        return {
+            "summary": f"Summary unavailable: {e}",
+            "company_description": "",
+        }
 
 
 # ------------------------------------------------
@@ -340,16 +401,19 @@ if new_rows:
             matched_keywords = detect_keyword_hits(f"{title}\n{body}", user_keywords)
 
         trigger_display = ", ".join(matched_keywords) if matched_keywords else "No explicit keyword detected"
-        company_line = build_company_line(r, title)
+        company_parts = build_company_parts(r, title)
 
-        summary = summarize_rns(
+        analysis = analyze_rns(
             title=title,
             url=url,
             body=body,
-            company_line=company_line,
+            company_parts=company_parts,
             matched_keywords=matched_keywords,
             matched_builtin_triggers=matched_builtin_triggers,
         )
+
+        company_line = build_company_line(company_parts, analysis.get("company_description", ""))
+        summary = analysis.get("summary", "")
 
         html_parts.append(f"""
         <li style="margin:0 0 24px 0; padding-bottom:18px; border-bottom:1px solid #eee;">
