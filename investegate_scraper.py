@@ -317,7 +317,12 @@ def build_watchlist_pattern(keywords_file: str) -> Optional[Pattern]:
                 in_watchlist = True
                 continue
 
-            if in_watchlist and l.startswith("#") and not re.match(r"^#\s*WATCHLIST\b", l, flags=re.I):
+            if in_watchlist and l.startswith("#"):
+                # Ignore banner / decoration lines (e.g. "# =========") so the
+                # banner directly under a "# WATCHLIST" header does not prematurely
+                # close the section. A comment line with real words still ends it.
+                if re.match(r"^#\s*=+\s*$", l):
+                    continue
                 in_watchlist = False
                 continue
 
@@ -359,7 +364,9 @@ def within_since_days(dt_iso: Optional[str], days: int) -> bool:
     if not days:
         return True
     if not dt_iso:
-        return False
+        # No parseable date: include the item (.state/seen.json already prevents
+        # duplicate alerts, so we would rather keep a keyword match than drop it).
+        return True
     try:
         dt = dtparse.parse(dt_iso)
         if dt.tzinfo is None:
