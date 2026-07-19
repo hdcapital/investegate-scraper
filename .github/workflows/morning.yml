@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: investegate-morning
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -20,16 +24,27 @@ jobs:
         id: london_time
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual run - proceeding."
             echo "should_run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          london_time="$(TZ=Europe/London date +'%H:%M')"
-          echo "London time is $london_time"
+          scheduled="${{ github.event.schedule }}"
+          london_offset="$(TZ=Europe/London date +'%z')"
 
-          if [ "$london_time" = "07:45" ]; then
+          echo "Scheduled cron: $scheduled"
+          echo "London offset now: $london_offset"
+
+          # Avoid exact HH:MM checks because GitHub scheduled workflows can start late.
+          # Instead, run the BST cron only during BST and the GMT cron only during GMT.
+          if [ "$scheduled" = "45 06 * * *" ] && [ "$london_offset" = "+0100" ]; then
+            echo "BST morning run - proceeding."
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$scheduled" = "45 07 * * *" ] && [ "$london_offset" = "+0000" ]; then
+            echo "GMT morning run - proceeding."
             echo "should_run=true" >> "$GITHUB_OUTPUT"
           else
+            echo "Wrong seasonal cron for current London offset - skipping."
             echo "should_run=false" >> "$GITHUB_OUTPUT"
           fi
 
