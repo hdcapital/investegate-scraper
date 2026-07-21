@@ -1,11 +1,6 @@
 name: Investegate – Evening (19:45 London)
 
 on:
-  schedule:
-    # 19:45 London during BST = 18:45 UTC
-    - cron: '45 18 * * *'
-    # 19:45 London during GMT = 19:45 UTC
-    - cron: '45 19 * * *'
   workflow_dispatch:
 
 permissions:
