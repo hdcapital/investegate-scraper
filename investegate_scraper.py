@@ -31,7 +31,7 @@ import time
 import argparse
 import pathlib
 import html
-from datetime import datetime, timedelta, timezone
+from datetime import datetime
 from typing import List, Optional, Pattern, Tuple
 from urllib.parse import urljoin, urlparse
 
@@ -357,32 +357,11 @@ def build_watchlist_pattern(keywords_file: str) -> Optional[Pattern]:
 
 
 # -----------------------------
-# Time filtering
-# -----------------------------
-
-def within_since_days(dt_iso: Optional[str], days: int) -> bool:
-    if not days:
-        return True
-    if not dt_iso:
-        # No parseable date: include the item (.state/seen.json already prevents
-        # duplicate alerts, so we would rather keep a keyword match than drop it).
-        return True
-    try:
-        dt = dtparse.parse(dt_iso)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt >= (datetime.now(timezone.utc) - timedelta(days=days))
-    except Exception:
-        return False
-
-
-# -----------------------------
 # Core runner
 # -----------------------------
 
 def run(pages: int,
         per_page: int,
-        since_days: int,
         min_score: int,
         keywords_file: str,
         out_dir: str,
@@ -402,11 +381,6 @@ def run(pages: int,
     state_dir = pathlib.Path(".state")
     ensure_dir(state_dir)
     seen_path = state_dir / "seen.json"
-
-    # Cold-start protection: avoid spamming old items on first ever run
-    if not seen_path.is_file():
-        print("[INFO] No history file found (.state/seen.json). Forcing lookback to 1 day to prevent duplicate spam.")
-        since_days = 1
 
     seen_ids = load_seen(seen_path)
 
@@ -468,7 +442,11 @@ def run(pages: int,
         trigger_score = len(matched_builtin_triggers)
         total = user_score + trigger_score
 
-        if user_score >= 1 and total >= min_score and within_since_days(dt_iso, since_days):
+        # No freshness/date filter here: the seen-ID history is the sole dedup
+        # mechanism. Date extraction from RNS bodies is unreliable (e.g. period-end
+        # dates like "six months ended 30 June" get mistaken for publication dates)
+        # and a wrongly-dated announcement would be dropped silently and permanently.
+        if user_score >= 1 and total >= min_score:
             results.append({
                 "dt_iso": dt_iso,
                 "url": url,
@@ -517,7 +495,6 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--pages", type=int, default=2)
     ap.add_argument("--per_page", type=int, default=300)
-    ap.add_argument("--since_days", type=int, default=1)
     ap.add_argument("--min_score", type=int, default=1)
     ap.add_argument("--keywords_file", type=str, default="keywords.txt")
     ap.add_argument("--out", type=str, default="out")
@@ -527,7 +504,6 @@ def main():
     run(
         pages=a.pages,
         per_page=a.per_page,
-        since_days=a.since_days,
         min_score=a.min_score,
         keywords_file=a.keywords_file,
         out_dir=a.out,

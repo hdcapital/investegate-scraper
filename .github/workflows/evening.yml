@@ -70,7 +70,6 @@ jobs:
           python investegate_scraper.py \
             --pages 2 \
             --per_page 300 \
-            --since_days 7 \
             --min_score 1 \
             --keywords_file keywords.txt
 
