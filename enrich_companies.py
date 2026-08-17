@@ -14,13 +14,16 @@ Output:
   enrichment_attempted_symbols, enrichment_error
 
 Data source:
-  EODHD fundamentals API, if EODHD_API_KEY or EODHD_TOKEN is set.
+  Yahoo Finance via the yfinance package. No API key required.
 
 Important behaviour:
-- Even WITHOUT an API key, this still rewrites the CSV and adds enrichment columns.
-  That makes failures visible and gives the emailer deterministic fields to read.
-- It caches successful EODHD lookups in .state/company_cache.json.
-- It assumes Investegate RNS tickers are usually London-listed and tries TICKER.LSE first.
+- Even if yfinance is missing or lookups fail, this still rewrites the CSV and
+  adds enrichment columns. That makes failures visible and gives the emailer
+  deterministic fields to read.
+- It caches successful lookups in .state/company_cache.json.
+- It assumes Investegate RNS tickers are usually London-listed and uses
+  Yahoo's .L suffix (e.g. TIME.L). Legacy .LSE/.LON suffixes from older CSVs
+  are converted to .L.
 """
 
 import csv
@@ -33,12 +36,14 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-import requests
+try:
+    import yfinance as yf
+except Exception:  # pragma: no cover - import failure handled at runtime
+    yf = None
 
-API_BASE = os.environ.get("EODHD_API_BASE", "https://eodhd.com/api/v1.1")
 CACHE_PATH = Path(".state/company_cache.json")
 CACHE_DAYS = int(os.environ.get("COMPANY_CACHE_DAYS", "7"))
-REQUEST_TIMEOUT = 20
+REQUEST_PAUSE = 0.5
 
 EXTRA_FIELDS = [
     "company_name",
@@ -136,6 +141,19 @@ def fallback_company_fields(row: dict, status: str, error: str = "") -> dict:
     }
 
 
+def to_yahoo_symbol(raw: str) -> str:
+    """Convert a ticker or legacy EODHD-style symbol to Yahoo's convention."""
+    raw = (raw or "").strip().upper()
+    if not raw:
+        return ""
+    if "." in raw:
+        base, suffix = raw.rsplit(".", 1)
+        if suffix in ("LSE", "LON", "L"):
+            return f"{base}.L"
+        return raw
+    return f"{raw}.L"
+
+
 def symbol_candidates(row: dict) -> list[str]:
     out: list[str] = []
 
@@ -149,15 +167,9 @@ def symbol_candidates(row: dict) -> list[str]:
         raw_values.append(ticker_from_url)
 
     for raw in raw_values:
-        raw = (raw or "").strip().upper()
-        if not raw:
-            continue
-        if "." in raw:
-            out.append(raw)
-        else:
-            # EODHD usually uses .LSE for London. Keep a couple of fallbacks because
-            # some data vendors / caches use alternate suffix conventions.
-            out.extend([f"{raw}.LSE", f"{raw}.L", f"{raw}.LON"])
+        sym = to_yahoo_symbol(raw)
+        if sym:
+            out.append(sym)
 
     seen = set()
     deduped = []
@@ -190,9 +202,8 @@ def format_market_cap(value, currency: str) -> str:
     if v <= 0:
         return ""
 
-    # EODHD MarketCapitalization should generally be in the listing currency units.
-    # If currency is GBX, market cap is normally still economically GBP-equivalent in
-    # many vendor feeds, but label it with £ to avoid silly "GBX m" displays.
+    # Yahoo reports marketCap in major currency units (GBP, not pence) even
+    # when the quote currency is GBp, so no pence conversion is needed here.
     sym = currency_symbol(currency)
     abs_v = abs(v)
     if abs_v >= 1_000_000_000:
@@ -216,45 +227,37 @@ def clean_description(desc: str, max_chars: int = 220) -> str:
     return cut + "…"
 
 
-def get_eodhd_fundamentals(symbol: str, token: str) -> tuple[dict | None, str]:
-    url = f"{API_BASE}/fundamentals/{symbol}"
+def get_yahoo_info(symbol: str) -> tuple[dict | None, str]:
     try:
-        r = requests.get(
-            url,
-            params={"api_token": token, "fmt": "json"},
-            timeout=REQUEST_TIMEOUT,
-            headers={"User-Agent": "HD-Capital-Investegate-Bot/1.0"},
-        )
-        if r.status_code != 200:
-            return None, f"{symbol}:HTTP_{r.status_code}"
-        data = r.json()
-        if not isinstance(data, dict):
-            return None, f"{symbol}:non_dict_response"
-        if data.get("code") == 404 or data.get("message"):
-            return None, f"{symbol}:{data.get('message') or data.get('code')}"
-        if not (data.get("General") or data.get("Highlights")):
-            return None, f"{symbol}:no_general_or_highlights"
-        return data, ""
+        info = yf.Ticker(symbol).get_info()
     except Exception as e:
-        return None, f"{symbol}:{type(e).__name__}:{e}"
+        msg = f"{type(e).__name__}:{e}"
+        # One gentle retry on rate limiting, which Yahoo applies per-IP.
+        if "429" in msg or "rate" in msg.lower():
+            time.sleep(5)
+            try:
+                info = yf.Ticker(symbol).get_info()
+            except Exception as e2:
+                return None, f"{symbol}:{type(e2).__name__}:{e2}"
+        else:
+            return None, f"{symbol}:{msg}"
+
+    if not isinstance(info, dict):
+        return None, f"{symbol}:non_dict_response"
+    # Unknown symbols come back as a near-empty dict rather than an error.
+    if not (info.get("longName") or info.get("shortName") or info.get("marketCap")):
+        return None, f"{symbol}:no_name_or_market_cap"
+    return info, ""
 
 
-def extract_company_fields(symbol: str, data: dict) -> dict:
-    general = data.get("General") or {}
-    highlights = data.get("Highlights") or {}
+def extract_company_fields(symbol: str, info: dict) -> dict:
+    company_name = info.get("longName") or info.get("shortName") or ""
+    ticker = symbol.split(".")[0]
+    exchange = info.get("fullExchangeName") or info.get("exchange") or symbol.split(".")[-1]
+    currency = info.get("currency") or info.get("financialCurrency") or ""
+    description = clean_description(info.get("longBusinessSummary") or "")
 
-    company_name = general.get("Name") or general.get("CompanyName") or ""
-    ticker = general.get("Code") or symbol.split(".")[0]
-    exchange = general.get("Exchange") or symbol.split(".")[-1]
-    currency = general.get("CurrencyCode") or general.get("CurrencyName") or ""
-    description = clean_description(general.get("Description") or "")
-
-    market_cap = (
-        highlights.get("MarketCapitalization")
-        or highlights.get("MarketCapitalisation")
-        or highlights.get("MarketCap")
-        or ""
-    )
+    market_cap = info.get("marketCap") or ""
     market_cap_display = format_market_cap(market_cap, currency)
 
     status = "ok" if (company_name or description or market_cap_display) else "empty_response"
@@ -266,14 +269,14 @@ def extract_company_fields(symbol: str, data: dict) -> dict:
         "market_cap": str(market_cap or ""),
         "market_cap_display": market_cap_display,
         "currency": currency,
-        "data_source": f"EODHD fundamentals:{symbol}",
+        "data_source": f"yfinance:{symbol}",
         "enrichment_status": status,
         "enrichment_error": "",
         "last_updated": datetime.now(timezone.utc).isoformat(),
     }
 
 
-def enrich_row(row: dict, token: str | None, cache: dict) -> dict:
+def enrich_row(row: dict, cache: dict) -> dict:
     # Ensure all fields exist from the outset.
     for f in EXTRA_FIELDS:
         row.setdefault(f, "")
@@ -285,12 +288,12 @@ def enrich_row(row: dict, token: str | None, cache: dict) -> dict:
         row["enrichment_status"] = row.get("enrichment_status") or "already_present"
         return row
 
-    # Always populate deterministic fallback fields even if no API key exists.
+    # Always populate deterministic fallback fields even if lookups fail.
     row.update({k: v for k, v in fallback_company_fields(row, "pending").items() if v})
 
-    if not token:
-        row["enrichment_status"] = "no_api_key"
-        row["enrichment_error"] = "EODHD_API_KEY/EODHD_TOKEN not set"
+    if yf is None:
+        row["enrichment_status"] = "yfinance_unavailable"
+        row["enrichment_error"] = "yfinance package not installed"
         return row
 
     if not candidates:
@@ -307,14 +310,14 @@ def enrich_row(row: dict, token: str | None, cache: dict) -> dict:
             row["enrichment_status"] = "ok_cached" if fields.get("enrichment_status") == "ok" else fields.get("enrichment_status", "cached")
             return row
 
-        data, err = get_eodhd_fundamentals(symbol, token)
-        time.sleep(0.15)
+        info, err = get_yahoo_info(symbol)
+        time.sleep(REQUEST_PAUSE)
         if err:
             errors.append(err)
-        if not data:
+        if not info:
             continue
 
-        fields = extract_company_fields(symbol, data)
+        fields = extract_company_fields(symbol, info)
         cache[symbol] = fields
         row.update({k: v for k, v in fields.items() if k != "last_updated"})
         return row
@@ -333,9 +336,8 @@ def main() -> int:
         print(f"CSV not found: {csv_path}", file=sys.stderr)
         return 1
 
-    token = os.environ.get("EODHD_API_KEY") or os.environ.get("EODHD_TOKEN")
-    if not token:
-        print("[WARN] EODHD_API_KEY not set. CSV will still be rewritten with enrichment columns and fallback issuer/ticker fields.")
+    if yf is None:
+        print("[WARN] yfinance not installed. CSV will still be rewritten with enrichment columns and fallback issuer/ticker fields.")
 
     with csv_path.open("r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
@@ -343,7 +345,7 @@ def main() -> int:
         original_fields = reader.fieldnames or []
 
     cache = load_cache()
-    enriched = [enrich_row(dict(row), token, cache) for row in rows]
+    enriched = [enrich_row(dict(row), cache) for row in rows]
     save_cache(cache)
 
     fieldnames = original_fields + [f for f in EXTRA_FIELDS if f not in original_fields]
@@ -358,9 +360,8 @@ def main() -> int:
     tmp_path.replace(csv_path)
 
     ok_count = sum(1 for r in enriched if str(r.get("enrichment_status", "")).startswith("ok"))
-    no_key_count = sum(1 for r in enriched if r.get("enrichment_status") == "no_api_key")
     failed_count = sum(1 for r in enriched if r.get("enrichment_status") == "lookup_failed")
-    print(f"[DONE] Company enrichment columns written. ok={ok_count}, no_api_key={no_key_count}, lookup_failed={failed_count}, total={len(enriched)}")
+    print(f"[DONE] Company enrichment columns written. ok={ok_count}, lookup_failed={failed_count}, total={len(enriched)}")
 
     if enriched:
         sample = enriched[0]
