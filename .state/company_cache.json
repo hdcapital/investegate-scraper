@@ -12,6 +12,19 @@
     "market_cap_display": "$5.52bn",
     "ticker": "37QB"
   },
+  "46UR.L": {
+    "business_description": "",
+    "company_name": "NEWDAY FUNDING 2018-1 PLC CLASS",
+    "currency": "USD",
+    "data_source": "yfinance:46UR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:48.203003+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "46UR"
+  },
   "AAIF.L": {
     "business_description": "Aberdeen Asian Income Fund Limited is a closed ended balanced mutual fund launched by Aberdeen Private Wealth Management Limited. It is managed by Aberdeen Standard Investments (Asia) Limited. The fund invests in the\u2026",
     "company_name": "Aberdeen Asian Income Fund Limited",
@@ -24,6 +37,32 @@
     "market_cap": "451775296",
     "market_cap_display": "\u00a3451.8m",
     "ticker": "AAIF"
+  },
+  "AIRE.L": {
+    "business_description": "",
+    "company_name": "Alternative Income REIT Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:AIRE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:44.155757+00:00",
+    "market_cap": "58765000",
+    "market_cap_display": "\u00a358.8m",
+    "ticker": "AIRE"
+  },
+  "ASPL.L": {
+    "business_description": "Aseana Properties Limited, an investment holding company, operates in property development activities in Malaysia. The company engages in the development of upscale residential and hospitality projects; and sale of\u2026",
+    "company_name": "Aseana Properties Limited",
+    "currency": "USD",
+    "data_source": "yfinance:ASPL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:44.844590+00:00",
+    "market_cap": "21723936",
+    "market_cap_display": "$21.7m",
+    "ticker": "ASPL"
   },
   "BHP.L": {
     "business_description": "BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore,\u2026",
@@ -51,6 +90,19 @@
     "market_cap_display": "\u00a347.9m",
     "ticker": "CBA"
   },
+  "CNE.L": {
+    "business_description": "Capricorn Energy PLC, an independent energy company, engages in the exploration, development, production, and sale of oil and gas the United Kingdom and internationally. It holds a portfolio of onshore development and\u2026",
+    "company_name": "Capricorn Energy PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CNE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:41.710836+00:00",
+    "market_cap": "235523776",
+    "market_cap_display": "\u00a3235.5m",
+    "ticker": "CNE"
+  },
   "FRAS.L": {
     "business_description": "Frasers Group Plc, together with its subsidiaries, engages in the retail and wholesale of sports and leisure clothing, footwear and equipment, and apparel through department stores, shops, and online. The company\u2026",
     "company_name": "Frasers Group Plc",
@@ -63,6 +115,19 @@
     "market_cap": "3414731776",
     "market_cap_display": "\u00a33.41bn",
     "ticker": "FRAS"
+  },
+  "HCM.L": {
+    "business_description": "HUTCHMED (China) Limited, together with its subsidiaries, discovers, develops, and commercializes targeted therapeutics and immunotherapies to treat cancer and immunological diseases in Hong Kong, the United States, and\u2026",
+    "company_name": "HUTCHMED (China) Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:HCM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:47.525767+00:00",
+    "market_cap": "1642543872",
+    "market_cap_display": "\u00a31.64bn",
+    "ticker": "HCM"
   },
   "KNOS.L": {
     "business_description": "Kainos Group plc engages in the provision of information technology services in the United Kingdom, Ireland, North Americas, Central Europe, and internationally. The company operates through Digital Services, Workday\u2026",
@@ -77,6 +142,19 @@
     "market_cap_display": "\u00a31.12bn",
     "ticker": "KNOS"
   },
+  "MCG.L": {
+    "business_description": "Mobico Group Plc designs, mobilizes, and operates transport services worldwide. The company operates through UK, German Rail, ALSA, and North America segments. It owns and leases vehicles. The company also provides\u2026",
+    "company_name": "Mobico Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MCG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:42.387355+00:00",
+    "market_cap": "154015152",
+    "market_cap_display": "\u00a3154.0m",
+    "ticker": "MCG"
+  },
   "MTEC.L": {
     "business_description": "Made Tech Group Plc, through its subsidiaries, engages in the provision of digital, data, and technology services to the public sector in the United Kingdom. It offers repairs, voids, evidence, Awaab's law, inspection\u2026",
     "company_name": "Made Tech Group Plc",
@@ -89,6 +167,19 @@
     "market_cap": "57102300",
     "market_cap_display": "\u00a357.1m",
     "ticker": "MTEC"
+  },
+  "NBS.L": {
+    "business_description": "Nationwide Building Society, together with its subsidiaries, provides retail banking products and services in the United Kingdom. The company offers current, savings, and individual savings accounts; residential\u2026",
+    "company_name": "Nationwide Building Society",
+    "currency": "GBP",
+    "data_source": "yfinance:NBS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:46.189250+00:00",
+    "market_cap": "1172221312",
+    "market_cap_display": "\u00a31.17bn",
+    "ticker": "NBS"
   },
   "NEO.L": {
     "business_description": "Neo Energy Metals Plc operates as a mining and exploration company in South Africa. It explores for uranium, gold, and strategic metals. The company was formerly known as Stranger Holdings PLC and changed its name to\u2026",
@@ -116,6 +207,19 @@
     "market_cap_display": "\u00a379.0m",
     "ticker": "PEBB"
   },
+  "PINE.L": {
+    "business_description": "Pinewood Technologies Group PLC operates as a cloud-based dealer management software provider in the United Kingdom, rest of Europe, Africa, Asia, the Middle East, and internationally. The company primarily offers\u2026",
+    "company_name": "Pinewood Technologies Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PINE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:46.870296+00:00",
+    "market_cap": "491466208",
+    "market_cap_display": "\u00a3491.5m",
+    "ticker": "PINE"
+  },
   "RHIM.L": {
     "business_description": "RHI Magnesita N.V., together with its subsidiaries, develops, produces, sells, installs, and maintains refractory products and systems used in industrial high-temperature processes worldwide. The company offers\u2026",
     "company_name": "RHI Magnesita N.V.",
@@ -128,6 +232,19 @@
     "market_cap": "1379862656",
     "market_cap_display": "\u00a31.38bn",
     "ticker": "RHIM"
+  },
+  "ROC.L": {
+    "business_description": "Rockpool Acquisitions Plc does not have significant operations. It intends to undertake an acquisition of a company or business. The company was incorporated in 2017 and is based in Belfast, the United Kingdom.",
+    "company_name": "Rockpool Acquisitions Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ROC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:45.541689+00:00",
+    "market_cap": "362663",
+    "market_cap_display": "\u00a3362.7k",
+    "ticker": "ROC"
   },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
@@ -193,5 +310,18 @@
     "market_cap": "253355088",
     "market_cap_display": "\u00a3253.4m",
     "ticker": "WVIA"
+  },
+  "XGDU.L": {
+    "business_description": "",
+    "company_name": "Xtrackers IE Physical Gold ETC",
+    "currency": "USD",
+    "data_source": "yfinance:XGDU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-18T18:49:43.321148+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "XGDU"
   }
 }
