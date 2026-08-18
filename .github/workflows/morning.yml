@@ -63,7 +63,7 @@ jobs:
         if: steps.london_time.outputs.should_run == 'true'
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml python-dateutil "openai>=1.40.0"
+          pip install requests beautifulsoup4 lxml python-dateutil "openai>=1.40.0" yfinance
 
       - name: Run scraper
         if: steps.london_time.outputs.should_run == 'true'
@@ -89,8 +89,6 @@ jobs:
 
       - name: Enrich company data
         if: steps.london_time.outputs.should_run == 'true'
-        env:
-          EODHD_API_KEY: ${{ secrets.EODHD_API_KEY }}
         run: |
           python enrich_companies.py "$CSV_FILE"
 
