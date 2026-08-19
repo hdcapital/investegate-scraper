@@ -38,6 +38,19 @@
     "market_cap_display": "\u00a3451.8m",
     "ticker": "AAIF"
   },
+  "AIC.L": {
+    "business_description": "Achilles Investment Company Limited invests in the shares of closed-ended investment companies. The company was incorporated in 2025 and is based in St Peter Port, Guernsey.",
+    "company_name": "Achilles Investment Company Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:AIC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:32.100257+00:00",
+    "market_cap": "52515000",
+    "market_cap_display": "\u00a352.5m",
+    "ticker": "AIC"
+  },
   "AIRE.L": {
     "business_description": "",
     "company_name": "Alternative Income REIT Ord",
@@ -50,6 +63,32 @@
     "market_cap": "58765000",
     "market_cap_display": "\u00a358.8m",
     "ticker": "AIRE"
+  },
+  "ALRT.L": {
+    "business_description": "Defence Holdings PLC develops and acquires defence technologies, focusing on AI-enabled systems, cyber-defence, secure communications, autonomous drone systems, and critical infrastructure protection. The company's\u2026",
+    "company_name": "Defence Holdings PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ALRT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:21.840578+00:00",
+    "market_cap": "18551144",
+    "market_cap_display": "\u00a318.6m",
+    "ticker": "ALRT"
+  },
+  "AMCO.L": {
+    "business_description": "Amcomri Group plc engages in the engineering and industrial manufacturing businesses in the United Kingdom. The company operates in two divisions: Embedded Engineering Division and B2B Manufacturing Division. It offers\u2026",
+    "company_name": "Amcomri Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AMCO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:23.041990+00:00",
+    "market_cap": "100026768",
+    "market_cap_display": "\u00a3100.0m",
+    "ticker": "AMCO"
   },
   "ASPL.L": {
     "business_description": "Aseana Properties Limited, an investment holding company, operates in property development activities in Malaysia. The company engages in the development of upscale residential and hospitality projects; and sale of\u2026",
@@ -103,6 +142,32 @@
     "market_cap_display": "\u00a3235.5m",
     "ticker": "CNE"
   },
+  "DGI9.L": {
+    "business_description": "Digital 9 Infrastructure PLC specializes in investment in digital infrastructure assets.",
+    "company_name": "Digital 9 Infrastructure PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:DGI9.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:22.449462+00:00",
+    "market_cap": "24488126",
+    "market_cap_display": "\u00a324.5m",
+    "ticker": "DGI9"
+  },
+  "EEE.L": {
+    "business_description": "Empire Metals Limited engages in the exploration and development of properties in the United Kingdom, Australia, and Austria. The company explores for copper, lithium, gold, titanium, and other minerals. Its flagship\u2026",
+    "company_name": "Empire Metals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:EEE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:24.835419+00:00",
+    "market_cap": "338540000",
+    "market_cap_display": "\u00a3338.5m",
+    "ticker": "EEE"
+  },
   "FRAS.L": {
     "business_description": "Frasers Group Plc, together with its subsidiaries, engages in the retail and wholesale of sports and leisure clothing, footwear and equipment, and apparel through department stores, shops, and online. The company\u2026",
     "company_name": "Frasers Group Plc",
@@ -116,6 +181,32 @@
     "market_cap_display": "\u00a33.41bn",
     "ticker": "FRAS"
   },
+  "GV1O.L": {
+    "business_description": "",
+    "company_name": "Gresham House Renewable Energy VCT 1 Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:GV1O.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:24.239707+00:00",
+    "market_cap": "3521499",
+    "market_cap_display": "\u00a33.5m",
+    "ticker": "GV1O"
+  },
+  "GV2O.L": {
+    "business_description": "",
+    "company_name": "Gresham House Renewable Energy VCT 2 Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:GV2O.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:23.642114+00:00",
+    "market_cap": "9146563",
+    "market_cap_display": "\u00a39.1m",
+    "ticker": "GV2O"
+  },
   "HCM.L": {
     "business_description": "HUTCHMED (China) Limited, together with its subsidiaries, discovers, develops, and commercializes targeted therapeutics and immunotherapies to treat cancer and immunological diseases in Hong Kong, the United States, and\u2026",
     "company_name": "HUTCHMED (China) Limited",
@@ -128,6 +219,71 @@
     "market_cap": "1642543872",
     "market_cap_display": "\u00a31.64bn",
     "ticker": "HCM"
+  },
+  "HFG.L": {
+    "business_description": "Hilton Food Group plc, together with its subsidiaries, engages in the multi-protein food business. The company offers meat products; seafood products, such as smoked salmon, wet fish, shellfish, coated fish, and fish\u2026",
+    "company_name": "Hilton Food Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HFG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:31.502165+00:00",
+    "market_cap": "553227648",
+    "market_cap_display": "\u00a3553.2m",
+    "ticker": "HFG"
+  },
+  "IFRX.L": {
+    "business_description": "iFOREX Financial Trading Holdings Ltd. operates as a financial technology company that develops and operates an online and mobile CFD trading platform. The company's platform enables retail clients to trade CFDs across\u2026",
+    "company_name": "IFOREX FINANCIAL TRADING HOLDIN",
+    "currency": "GBp",
+    "data_source": "yfinance:IFRX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:26.647701+00:00",
+    "market_cap": "41458528",
+    "market_cap_display": "\u00a341.5m",
+    "ticker": "IFRX"
+  },
+  "INPP.L": {
+    "business_description": "International Public Partnerships Limited specializes in investments in broader infrastructure sector with a focus on public or social infrastructure. The fund seeks acquisition opportunities that may be single assets,\u2026",
+    "company_name": "International Public Partnerships Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:INPP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:29.643872+00:00",
+    "market_cap": "2488399872",
+    "market_cap_display": "\u00a32.49bn",
+    "ticker": "INPP"
+  },
+  "ITH.L": {
+    "business_description": "Ithaca Energy plc, together with its subsidiaries, engages in the development and production of oil and gas in the North Sea. It owns a portfolio of assets located in the Northern, Central, and Southern North Sea, as\u2026",
+    "company_name": "Ithaca Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ITH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:30.906199+00:00",
+    "market_cap": "4152909568",
+    "market_cap_display": "\u00a34.15bn",
+    "ticker": "ITH"
+  },
+  "JAM.L": {
+    "business_description": "",
+    "company_name": "JPMorgan American Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:JAM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:20.647171+00:00",
+    "market_cap": "2043862016",
+    "market_cap_display": "\u00a32.04bn",
+    "ticker": "JAM"
   },
   "KNOS.L": {
     "business_description": "Kainos Group plc engages in the provision of information technology services in the United Kingdom, Ireland, North Americas, Central Europe, and internationally. The company operates through Digital Services, Workday\u2026",
@@ -168,6 +324,19 @@
     "market_cap_display": "\u00a357.1m",
     "ticker": "MTEC"
   },
+  "NANO.L": {
+    "business_description": "Nanoco Group plc, together with its subsidiaries, engages in the research, development, manufacture, and licensing of novel nanomaterials for use in various commercial applications in the United Kingdom and\u2026",
+    "company_name": "Nanoco Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NANO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:27.840392+00:00",
+    "market_cap": "4843817",
+    "market_cap_display": "\u00a34.8m",
+    "ticker": "NANO"
+  },
   "NBS.L": {
     "business_description": "Nationwide Building Society, together with its subsidiaries, provides retail banking products and services in the United Kingdom. The company offers current, savings, and individual savings accounts; residential\u2026",
     "company_name": "Nationwide Building Society",
@@ -193,6 +362,32 @@
     "market_cap": "23904896",
     "market_cap_display": "\u00a323.9m",
     "ticker": "NEO"
+  },
+  "OCI.L": {
+    "business_description": "Oakley Capital Investments Limited is a private equity and venture capital firm specializing in investments in early stage, series B, late stage, emerging growth, mid-markets, corporate carve-outs, buyouts, mezzanine,\u2026",
+    "company_name": "Oakley Capital Investments Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:OCI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:27.245427+00:00",
+    "market_cap": "857699264",
+    "market_cap_display": "\u00a3857.7m",
+    "ticker": "OCI"
+  },
+  "ONT.L": {
+    "business_description": "Oxford Nanopore Technologies plc engages in the research, development, manufacture, and commercialization of a novel generation of deoxyribonucleic acid (DNA) or ribonucleic acid (RNA) sequencing technology that allows\u2026",
+    "company_name": "Oxford Nanopore Technologies plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ONT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:21.244343+00:00",
+    "market_cap": "1191757056",
+    "market_cap_display": "\u00a31.19bn",
+    "ticker": "ONT"
   },
   "PEBB.L": {
     "business_description": "The Pebble Group plc, together with its subsidiaries, engages in the sale of technology solutions, products, and other services to the promotional merchandise industry in the United Kingdom, Continental Europe, North\u2026",
@@ -220,6 +415,19 @@
     "market_cap_display": "\u00a3491.5m",
     "ticker": "PINE"
   },
+  "PRD.L": {
+    "business_description": "Predator Oil & Gas Holdings Plc, together with its subsidiaries, engages in the exploration, appraisal, and development of oil and gas assets in Morrocco, Ireland, and Trinidad and Tobago. It is involved in the\u2026",
+    "company_name": "Predator Oil & Gas Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PRD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:29.045454+00:00",
+    "market_cap": "28818306",
+    "market_cap_display": "\u00a328.8m",
+    "ticker": "PRD"
+  },
   "RHIM.L": {
     "business_description": "RHI Magnesita N.V., together with its subsidiaries, develops, produces, sells, installs, and maintains refractory products and systems used in industrial high-temperature processes worldwide. The company offers\u2026",
     "company_name": "RHI Magnesita N.V.",
@@ -245,6 +453,32 @@
     "market_cap": "362663",
     "market_cap_display": "\u00a3362.7k",
     "ticker": "ROC"
+  },
+  "RSE.L": {
+    "business_description": "Riverstone Energy Limited is a private equity/ buyouts fund. The fund prefers to invest through buyout. It prefers to make investments in energy companies focusing decarbonization, midstream exploration, production,\u2026",
+    "company_name": "Riverstone Energy Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:RSE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:19.393309+00:00",
+    "market_cap": "28256532",
+    "market_cap_display": "\u00a328.3m",
+    "ticker": "RSE"
+  },
+  "SCLP.L": {
+    "business_description": "Scancell Holdings plc, a clinical stage biopharmaceutical company, discovers and develops of immunotherapies for the treatment of cancer in the United Kingdom. Its product candidates include SCIB1/iSCIB1+ that is in\u2026",
+    "company_name": "Scancell Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SCLP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:25.431983+00:00",
+    "market_cap": "98589232",
+    "market_cap_display": "\u00a398.6m",
+    "ticker": "SCLP"
   },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
@@ -297,6 +531,32 @@
     "market_cap": "290071648",
     "market_cap_display": "\u00a3290.1m",
     "ticker": "TPFG"
+  },
+  "TXP.L": {
+    "business_description": "Touchstone Exploration Inc. engages in the exploration, development, acquisition, production, and sale of petroleum and natural gas properties in the Republic of Trinidad and Tobago. The company also operates upstream\u2026",
+    "company_name": "Touchstone Exploration Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:TXP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:26.051230+00:00",
+    "market_cap": "30217384",
+    "market_cap_display": "\u00a330.2m",
+    "ticker": "TXP"
+  },
+  "ULTP.L": {
+    "business_description": "Ultimate Products Plc, together with its subsidiaries, supplies branded household products in the United Kingdom, Rest of Europe, and internationally. The company offers a range of household products, including vacuum\u2026",
+    "company_name": "Ultimate Products Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ULTP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T06:48:28.442093+00:00",
+    "market_cap": "46554700",
+    "market_cap_display": "\u00a346.6m",
+    "ticker": "ULTP"
   },
   "WVIA.L": {
     "business_description": "Winvia Entertainment Plc, together with its subsidiaries, operates as a technology-led entertainment company. It operates prize draws and skill games competitions with prizes and unique formats for a broad audience; the\u2026",
