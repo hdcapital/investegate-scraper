@@ -1,4 +1,17 @@
 {
+  "12WM.L": {
+    "business_description": "",
+    "company_name": "Barclays Bank PLC B008 FTSE YEAR 2 AUTOCALL E2",
+    "currency": "GBP",
+    "data_source": "yfinance:12WM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:49:00.592289+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "12WM"
+  },
   "37QB.L": {
     "business_description": "",
     "company_name": "Halyk Bank of Kazakhstan Joint Stock Company",
@@ -103,6 +116,19 @@
     "market_cap_display": "$21.7m",
     "ticker": "ASPL"
   },
+  "BANK.L": {
+    "business_description": "Fiinu Plc, a fintech company, engages in the development of software. It operates Plugin Overdraft platform, a bank overdraft software to provide open banking. The company was founded in 2017 and is based in Weybridge,\u2026",
+    "company_name": "Fiinu Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BANK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:48:58.316465+00:00",
+    "market_cap": "19800012",
+    "market_cap_display": "\u00a319.8m",
+    "ticker": "BANK"
+  },
   "BHP.L": {
     "business_description": "BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore,\u2026",
     "company_name": "BHP Group Limited",
@@ -141,6 +167,19 @@
     "market_cap": "235523776",
     "market_cap_display": "\u00a3235.5m",
     "ticker": "CNE"
+  },
+  "CYN.L": {
+    "business_description": "",
+    "company_name": "CQS Natural Resources G&I Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:CYN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:48:57.494292+00:00",
+    "market_cap": "147948560",
+    "market_cap_display": "\u00a3147.9m",
+    "ticker": "CYN"
   },
   "DGI9.L": {
     "business_description": "Digital 9 Infrastructure PLC specializes in investment in digital infrastructure assets.",
@@ -285,6 +324,19 @@
     "market_cap_display": "\u00a32.04bn",
     "ticker": "JAM"
   },
+  "JTC.L": {
+    "business_description": "JTC PLC provides fund, corporate, and private capital services to institutional and private clients in the United Kingdom, Channel Islands, the United States, Caribbean, rest of Europe, and internationally. The company\u2026",
+    "company_name": "JTC PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:JTC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:48:55.223455+00:00",
+    "market_cap": "2307134208",
+    "market_cap_display": "\u00a32.31bn",
+    "ticker": "JTC"
+  },
   "KNOS.L": {
     "business_description": "Kainos Group plc engages in the provision of information technology services in the United Kingdom, Ireland, North Americas, Central Europe, and internationally. The company operates through Digital Services, Workday\u2026",
     "company_name": "Kainos Group plc",
@@ -310,6 +362,19 @@
     "market_cap": "154015152",
     "market_cap_display": "\u00a3154.0m",
     "ticker": "MCG"
+  },
+  "MKA.L": {
+    "business_description": "Mkango Resources Ltd., together with its subsidiaries, engages in exploration and development of rare earth elements and associated minerals in Malawi, United Kingdom, and Poland. The company also explores for uranium,\u2026",
+    "company_name": "Mkango Resources Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:MKA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:48:55.971997+00:00",
+    "market_cap": "154072432",
+    "market_cap_display": "\u00a3154.1m",
+    "ticker": "MKA"
   },
   "MTEC.L": {
     "business_description": "Made Tech Group Plc, through its subsidiaries, engages in the provision of digital, data, and technology services to the public sector in the United Kingdom. It offers repairs, voids, evidence, Awaab's law, inspection\u2026",
@@ -441,6 +506,19 @@
     "market_cap_display": "\u00a31.38bn",
     "ticker": "RHIM"
   },
+  "RNK.L": {
+    "business_description": "The Rank Group Plc, together with its subsidiaries, engages in provision of gaming services in the United Kingdom, Europe, and internationally. The company operates through Grosvenor Venues, Mecca Venues, Digital, and\u2026",
+    "company_name": "The Rank Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RNK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:48:56.746504+00:00",
+    "market_cap": "501948672",
+    "market_cap_display": "\u00a3501.9m",
+    "ticker": "RNK"
+  },
   "ROC.L": {
     "business_description": "Rockpool Acquisitions Plc does not have significant operations. It intends to undertake an acquisition of a company or business. The company was incorporated in 2017 and is based in Belfast, the United Kingdom.",
     "company_name": "Rockpool Acquisitions Plc",
@@ -506,6 +584,19 @@
     "market_cap_display": "\u00a335.3m",
     "ticker": "SNX"
   },
+  "TGA.L": {
+    "business_description": "Thungela Resources Limited engages in the mining and production of thermal coal in South Africa and Australia. It owns interests in and produces its thermal coal from mining operations, consisting of underground and\u2026",
+    "company_name": "Thungela Resources Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:TGA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:48:59.077444+00:00",
+    "market_cap": "665987648",
+    "market_cap_display": "\u00a3666.0m",
+    "ticker": "TGA"
+  },
   "TMO.L": {
     "business_description": "Time Out Group plc, together with its subsidiaries, engages in the media and hospitality business worldwide. The company operates through Time Out Market and Time Out Media segments. The Time Out Market segment operates\u2026",
     "company_name": "Time Out Group plc",
@@ -557,6 +648,19 @@
     "market_cap": "46554700",
     "market_cap_display": "\u00a346.6m",
     "ticker": "ULTP"
+  },
+  "VAST.L": {
+    "business_description": "Vast Resources plc engages in the exploration and development of mineral projects in Southern Africa, Europe, and Central Asia. The company explores for copper, zinc, silver, gold, and diamond deposits; as well as\u2026",
+    "company_name": "Vast Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VAST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-19T18:48:59.843433+00:00",
+    "market_cap": "3044992",
+    "market_cap_display": "\u00a33.0m",
+    "ticker": "VAST"
   },
   "WVIA.L": {
     "business_description": "Winvia Entertainment Plc, together with its subsidiaries, operates as a technology-led entertainment company. It operates prize draws and skill games competitions with prizes and unique formats for a broad audience; the\u2026",
