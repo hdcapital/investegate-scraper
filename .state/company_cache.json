@@ -51,6 +51,19 @@
     "market_cap_display": "\u00a3451.8m",
     "ticker": "AAIF"
   },
+  "ABDP.L": {
+    "business_description": "AB Dynamics plc provides vehicle test development and verification products and services for driver assistance systems. The company operates through Testing Products, Testing Services, and Simulation segments. It is\u2026",
+    "company_name": "AB Dynamics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ABDP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:42.192379+00:00",
+    "market_cap": "178771984",
+    "market_cap_display": "\u00a3178.8m",
+    "ticker": "ABDP"
+  },
   "AIC.L": {
     "business_description": "Achilles Investment Company Limited invests in the shares of closed-ended investment companies. The company was incorporated in 2025 and is based in St Peter Port, Guernsey.",
     "company_name": "Achilles Investment Company Limited",
@@ -142,6 +155,45 @@
     "market_cap_display": "\u00a3164.77bn",
     "ticker": "BHP"
   },
+  "BNC.L": {
+    "business_description": "Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments:\u2026",
+    "company_name": "Banco Santander, S.A.",
+    "currency": "GBp",
+    "data_source": "yfinance:BNC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:46.016728+00:00",
+    "market_cap": "149589131264",
+    "market_cap_display": "\u00a3149.59bn",
+    "ticker": "BNC"
+  },
+  "BPCP.L": {
+    "business_description": "BioPharma Credit PLC, an investment trust, primarily invests in interest-bearing debt assets. Its debt assets are secured by royalties or other cash flows derived from the sales of approved life sciences products.\u2026",
+    "company_name": "BioPharma Credit PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BPCP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:47.534846+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "BPCP"
+  },
+  "CAPD.L": {
+    "business_description": "Capital Limited, together with its subsidiaries, provides drilling, mining, mineral assaying, and surveying services. It offers exploration drilling services, including air core, reverse circulation, diamond core,\u2026",
+    "company_name": "Capital Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CAPD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:36.850776+00:00",
+    "market_cap": "242629200",
+    "market_cap_display": "\u00a3242.6m",
+    "ticker": "CAPD"
+  },
   "CBA.L": {
     "business_description": "Ceiba Investments Ltd is a Guernsey based Investment fund dedicated to attract investment and invest in various sectors of the Cuban economy.",
     "company_name": "CEIBA Investments Limited",
@@ -155,6 +207,19 @@
     "market_cap_display": "\u00a347.9m",
     "ticker": "CBA"
   },
+  "CHL.L": {
+    "business_description": "Cloudfield Holdings Limited does not have significant operations. It intends to seek the acquisition of, or a merger with, an existing company or business. Previously, the company provided cyber security services to the\u2026",
+    "company_name": "Cloudfield Holdings Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CHL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:38.382013+00:00",
+    "market_cap": "334790",
+    "market_cap_display": "\u00a3334.8k",
+    "ticker": "CHL"
+  },
   "CNE.L": {
     "business_description": "Capricorn Energy PLC, an independent energy company, engages in the exploration, development, production, and sale of oil and gas the United Kingdom and internationally. It holds a portfolio of onshore development and\u2026",
     "company_name": "Capricorn Energy PLC",
@@ -167,6 +232,19 @@
     "market_cap": "235523776",
     "market_cap_display": "\u00a3235.5m",
     "ticker": "CNE"
+  },
+  "COM.L": {
+    "business_description": "Comptoir Group PLC owns and operates restaurants under the Comptoir Libanais, Yalla Yalla, and Shawa brand names in the United Kingdom. The company offers Lebanese and Eastern Mediterranean cuisine dining services; and\u2026",
+    "company_name": "Comptoir Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:COM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:39.142363+00:00",
+    "market_cap": "6746666",
+    "market_cap_display": "\u00a36.7m",
+    "ticker": "COM"
   },
   "CYN.L": {
     "business_description": "",
@@ -207,6 +285,19 @@
     "market_cap_display": "\u00a3338.5m",
     "ticker": "EEE"
   },
+  "FMET.L": {
+    "business_description": "Fulcrum Metals plc operates as a natural resources company in Canada. It explores for gold and other critical metals. The company's projects include the Teck-Hughes Gold Tailings and Sylvanite Gold Tailings projects,\u2026",
+    "company_name": "Fulcrum Metals plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FMET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:49.859940+00:00",
+    "market_cap": "11698322",
+    "market_cap_display": "\u00a311.7m",
+    "ticker": "FMET"
+  },
   "FRAS.L": {
     "business_description": "Frasers Group Plc, together with its subsidiaries, engages in the retail and wholesale of sports and leisure clothing, footwear and equipment, and apparel through department stores, shops, and online. The company\u2026",
     "company_name": "Frasers Group Plc",
@@ -219,6 +310,19 @@
     "market_cap": "3414731776",
     "market_cap_display": "\u00a33.41bn",
     "ticker": "FRAS"
+  },
+  "FRP.L": {
+    "business_description": "FRP Advisory Group plc, together with its subsidiaries, provides business advisory services to companies, lenders, investors, individuals, and other stakeholders in the United Kingdom. The company's corporate finance\u2026",
+    "company_name": "FRP Advisory Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FRP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:39.913313+00:00",
+    "market_cap": "294038400",
+    "market_cap_display": "\u00a3294.0m",
+    "ticker": "FRP"
   },
   "GV1O.L": {
     "business_description": "",
@@ -271,6 +375,32 @@
     "market_cap": "553227648",
     "market_cap_display": "\u00a3553.2m",
     "ticker": "HFG"
+  },
+  "HSP.L": {
+    "business_description": "Hargreaves Services Plc provides environmental and industrial services in the United Kingdom, Europe, Hong Kong, and internationally. It operates through Services, Hargreaves Land, and Hargreaves Raw Materials Services\u2026",
+    "company_name": "Hargreaves Services Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HSP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:46.778145+00:00",
+    "market_cap": "250548816",
+    "market_cap_display": "\u00a3250.5m",
+    "ticker": "HSP"
+  },
+  "HUI.L": {
+    "business_description": "Hydrogen Utopia International PLC, together with its subsidiaries, utilizes non-recyclable mixed waste plastics and complex waste streams to carbon-free fuels, new materials or distributed renewable heat. It offers\u2026",
+    "company_name": "Hydrogen Utopia International PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:HUI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:40.667576+00:00",
+    "market_cap": "9626134",
+    "market_cap_display": "\u00a39.6m",
+    "ticker": "HUI"
   },
   "IFRX.L": {
     "business_description": "iFOREX Financial Trading Holdings Ltd. operates as a financial technology company that develops and operates an online and mobile CFD trading platform. The company's platform enables retail clients to trade CFDs across\u2026",
@@ -362,6 +492,19 @@
     "market_cap": "154015152",
     "market_cap_display": "\u00a3154.0m",
     "ticker": "MCG"
+  },
+  "MILA.L": {
+    "business_description": "Mila Resources Plc engages in exploration and development of mineral resource properties. The company explores for gold, lithium, and copper deposits. It holds interest in the Kathleen Valley project that consists of\u2026",
+    "company_name": "Mila Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MILA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:48.321406+00:00",
+    "market_cap": "10325852",
+    "market_cap_display": "\u00a310.3m",
+    "ticker": "MILA"
   },
   "MKA.L": {
     "business_description": "Mkango Resources Ltd., together with its subsidiaries, engages in exploration and development of rare earth elements and associated minerals in Malawi, United Kingdom, and Poland. The company also explores for uranium,\u2026",
@@ -493,6 +636,32 @@
     "market_cap_display": "\u00a328.8m",
     "ticker": "PRD"
   },
+  "RBD.L": {
+    "business_description": "Reabold Resources Plc, an investment holding company, engages in the exploration, appraisal, development, and evaluation of oil and gas projects in the United Kingdom, Romania, the United States, and Italy. Its key\u2026",
+    "company_name": "Reabold Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RBD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:44.496818+00:00",
+    "market_cap": "9063260",
+    "market_cap_display": "\u00a39.1m",
+    "ticker": "RBD"
+  },
+  "RBN.L": {
+    "business_description": "Robinson plc manufactures and sells plastic and paperboard packaging products in the United Kingdom, Poland, Denmark, Germany, Hungary, Belgium, and internationally. It offers plastic packaging, including PET, rPET,\u2026",
+    "company_name": "Robinson plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RBN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:37.623451+00:00",
+    "market_cap": "22198316",
+    "market_cap_display": "\u00a322.2m",
+    "ticker": "RBN"
+  },
   "RHIM.L": {
     "business_description": "RHI Magnesita N.V., together with its subsidiaries, develops, produces, sells, installs, and maintains refractory products and systems used in industrial high-temperature processes worldwide. The company offers\u2026",
     "company_name": "RHI Magnesita N.V.",
@@ -545,6 +714,19 @@
     "market_cap_display": "\u00a328.3m",
     "ticker": "RSE"
   },
+  "RSG.L": {
+    "business_description": "Resolute Mining Limited engages in mining, prospecting, and exploration of mineral properties in Africa. The company explores for gold and silver. Its flagship project is the Doropo Gold Project located in C\u00f4te\u2026",
+    "company_name": "Resolute Mining Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:RSG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:43.720174+00:00",
+    "market_cap": "1406420864",
+    "market_cap_display": "\u00a31.41bn",
+    "ticker": "RSG"
+  },
   "SCLP.L": {
     "business_description": "Scancell Holdings plc, a clinical stage biopharmaceutical company, discovers and develops of immunotherapies for the treatment of cancer in the United Kingdom. Its product candidates include SCIB1/iSCIB1+ that is in\u2026",
     "company_name": "Scancell Holdings plc",
@@ -557,6 +739,19 @@
     "market_cap": "98589232",
     "market_cap_display": "\u00a398.6m",
     "ticker": "SCLP"
+  },
+  "SDLF.L": {
+    "business_description": "Standard Life plc operates in the long-term savings and retirement business in Europe. It operates through Retirement Solutions, Pensions & Savings, With-Profits, and Europe & Other segments. The company offers defined\u2026",
+    "company_name": "Standard Life plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SDLF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:41.432060+00:00",
+    "market_cap": "9059546112",
+    "market_cap_display": "\u00a39.06bn",
+    "ticker": "SDLF"
   },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
@@ -583,6 +778,58 @@
     "market_cap": "35289824",
     "market_cap_display": "\u00a335.3m",
     "ticker": "SNX"
+  },
+  "SRES.L": {
+    "business_description": "Sunrise Resources plc, together with its subsidiaries, engages in the acquisition, exploration, and development of mineral projects in the United States and Western Australia. The company explores for gold, copper,\u2026",
+    "company_name": "Sunrise Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SRES.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:50.610833+00:00",
+    "market_cap": "1734399",
+    "market_cap_display": "\u00a31.7m",
+    "ticker": "SRES"
+  },
+  "STX.L": {
+    "business_description": "Shield Therapeutics plc, a commercial stage specialty pharmaceutical company, focuses on development and commercialization of clinical-stage pharmaceuticals to treat unmet medical needs. Its lead product is\u2026",
+    "company_name": "Shield Therapeutics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:STX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:42.959937+00:00",
+    "market_cap": "47076092",
+    "market_cap_display": "\u00a347.1m",
+    "ticker": "STX"
+  },
+  "TAP.L": {
+    "business_description": "Tap Global Group Plc, together with its subsidiaries, provides application and trading platform for crypto currencies in the United Kingdom and internationally. The company was formerly known as Quetzal Capital PLC. Tap\u2026",
+    "company_name": "Tap Global Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TAP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:45.257738+00:00",
+    "market_cap": "8190706",
+    "market_cap_display": "\u00a38.2m",
+    "ticker": "TAP"
+  },
+  "TERA.L": {
+    "business_description": "NeoTerra Group Plc, a junior exploration company, engages in the discovery and development of critical raw materials mining projects in Africa. Its flagship project is the Monte Muambe located in Northwest Mozambique.\u2026",
+    "company_name": "NeoTerra Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TERA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T06:47:49.090562+00:00",
+    "market_cap": "9610988",
+    "market_cap_display": "\u00a39.6m",
+    "ticker": "TERA"
   },
   "TGA.L": {
     "business_description": "Thungela Resources Limited engages in the mining and production of thermal coal in South Africa and Australia. It owns interests in and produces its thermal coal from mining operations, consisting of underground and\u2026",
