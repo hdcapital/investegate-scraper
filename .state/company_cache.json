@@ -116,6 +116,19 @@
     "market_cap_display": "\u00a3100.0m",
     "ticker": "AMCO"
   },
+  "ASLI.L": {
+    "business_description": "",
+    "company_name": "abrdn European Logistics Income PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ASLI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T18:49:18.545414+00:00",
+    "market_cap": "77159040",
+    "market_cap_display": "\u00a377.2m",
+    "ticker": "ASLI"
+  },
   "ASPL.L": {
     "business_description": "Aseana Properties Limited, an investment holding company, operates in property development activities in Malaysia. The company engages in the development of upscale residential and hospitality projects; and sale of\u2026",
     "company_name": "Aseana Properties Limited",
@@ -246,6 +259,19 @@
     "market_cap_display": "\u00a36.7m",
     "ticker": "COM"
   },
+  "CYAN.L": {
+    "business_description": "CyanConnode Holdings plc designs, develops, and sells narrowband radio frequency (RF) mesh and cellular networks that enable Omni Internet of Things (IoT) communications in India, the United Arab Emirates, and\u2026",
+    "company_name": "CyanConnode Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CYAN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T18:49:17.801652+00:00",
+    "market_cap": "34675076",
+    "market_cap_display": "\u00a334.7m",
+    "ticker": "CYAN"
+  },
   "CYN.L": {
     "business_description": "",
     "company_name": "CQS Natural Resources G&I Ord",
@@ -324,6 +350,19 @@
     "market_cap_display": "\u00a3294.0m",
     "ticker": "FRP"
   },
+  "GSF.L": {
+    "business_description": "",
+    "company_name": "Gore Street Energy Storage Fund Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:GSF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T18:49:20.114281+00:00",
+    "market_cap": "239669712",
+    "market_cap_display": "\u00a3239.7m",
+    "ticker": "GSF"
+  },
   "GV1O.L": {
     "business_description": "",
     "company_name": "Gresham House Renewable Energy VCT 1 Ord",
@@ -401,6 +440,19 @@
     "market_cap": "9626134",
     "market_cap_display": "\u00a39.6m",
     "ticker": "HUI"
+  },
+  "HWG.L": {
+    "business_description": "Harworth Group plc operates as a regeneration, strategic land, and development businesses. It operates through two segments, Income Generation and Capital Growth. The Income Generation segment is involved in generating\u2026",
+    "company_name": "Harworth Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HWG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T18:49:20.879539+00:00",
+    "market_cap": "581500736",
+    "market_cap_display": "\u00a3581.5m",
+    "ticker": "HWG"
   },
   "IFRX.L": {
     "business_description": "iFOREX Financial Trading Holdings Ltd. operates as a financial technology company that develops and operates an online and mobile CFD trading platform. The company's platform enables retail clients to trade CFDs across\u2026",
@@ -518,6 +570,19 @@
     "market_cap": "154072432",
     "market_cap_display": "\u00a3154.1m",
     "ticker": "MKA"
+  },
+  "MODE.L": {
+    "business_description": "R8 Capital Investments plc does not have significant operations. It intends to identify and complete an acquisition or reverse merger as an LSE-listed cash shell. Previously, it was involved in the crypto-related\u2026",
+    "company_name": "R8 Capital Investments plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MODE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T18:49:21.814524+00:00",
+    "market_cap": "375938",
+    "market_cap_display": "\u00a3375.9k",
+    "ticker": "MODE"
   },
   "MTEC.L": {
     "business_description": "Made Tech Group Plc, through its subsidiaries, engages in the provision of digital, data, and technology services to the public sector in the United Kingdom. It offers repairs, voids, evidence, Awaab's law, inspection\u2026",
@@ -817,6 +882,19 @@
     "market_cap": "8190706",
     "market_cap_display": "\u00a38.2m",
     "ticker": "TAP"
+  },
+  "TCF.L": {
+    "business_description": "Theracryf Plc, a clinical stage therapeutics company, engages in the development of therapeutics for oncology and behavioural brain disorders. The company develops orexin-1 antagonist for the treatment of binge eating\u2026",
+    "company_name": "Theracryf Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TCF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-20T18:49:19.322500+00:00",
+    "market_cap": "4083031",
+    "market_cap_display": "\u00a34.1m",
+    "ticker": "TCF"
   },
   "TERA.L": {
     "business_description": "NeoTerra Group Plc, a junior exploration company, engages in the discovery and development of critical raw materials mining projects in Africa. Its flagship project is the Monte Muambe located in Northwest Mozambique.\u2026",
