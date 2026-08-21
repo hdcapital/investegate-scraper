@@ -194,6 +194,19 @@
     "market_cap_display": "",
     "ticker": "BPCP"
   },
+  "BTG.L": {
+    "business_description": "BTG Consulting plc operates as a financial and real estate advisory company in the United Kingdom. It operates in two segments, Restructuring and Advisory, and Real Estate Advisory. The company offers business\u2026",
+    "company_name": "BTG Consulting plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BTG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:24.957611+00:00",
+    "market_cap": "175684304",
+    "market_cap_display": "\u00a3175.7m",
+    "ticker": "BTG"
+  },
   "CAPD.L": {
     "business_description": "Capital Limited, together with its subsidiaries, provides drilling, mining, mineral assaying, and surveying services. It offers exploration drilling services, including air core, reverse circulation, diamond core,\u2026",
     "company_name": "Capital Limited",
@@ -285,6 +298,19 @@
     "market_cap_display": "\u00a3147.9m",
     "ticker": "CYN"
   },
+  "DCC.L": {
+    "business_description": "DCC Energy plc engages in the sales, marketing, and distribution of carbon energy solutions in the Republic of Ireland, the United Kingdom, France, the United States, and internationally. The company operates in two\u2026",
+    "company_name": "DCC Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DCC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:24.311682+00:00",
+    "market_cap": "5445788672",
+    "market_cap_display": "\u00a35.45bn",
+    "ticker": "DCC"
+  },
   "DGI9.L": {
     "business_description": "Digital 9 Infrastructure PLC specializes in investment in digital infrastructure assets.",
     "company_name": "Digital 9 Infrastructure PLC",
@@ -349,6 +375,19 @@
     "market_cap": "294038400",
     "market_cap_display": "\u00a3294.0m",
     "ticker": "FRP"
+  },
+  "GPM.L": {
+    "business_description": "Golden Prospect Precious Metals Ltd. is a close ended equity mutual fund launched and managed by CQS Asset Management Ltd. It is co-managed by CQS Cayman Limited Partnership. The fund invests in public equity markets.\u2026",
+    "company_name": "Golden Prospect Precious Metals Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:GPM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:26.277319+00:00",
+    "market_cap": "91990784",
+    "market_cap_display": "\u00a392.0m",
+    "ticker": "GPM"
   },
   "GSF.L": {
     "business_description": "",
@@ -427,6 +466,19 @@
     "market_cap": "250548816",
     "market_cap_display": "\u00a3250.5m",
     "ticker": "HSP"
+  },
+  "HTG.L": {
+    "business_description": "Hunting PLC, together with its subsidiaries, manufactures components, technology systems, and precision parts worldwide. It operates in five segments: Hunting Titan; North America; Subsea Technologies; Europe, Middle\u2026",
+    "company_name": "Hunting PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:HTG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:21.053578+00:00",
+    "market_cap": "688604864",
+    "market_cap_display": "\u00a3688.6m",
+    "ticker": "HTG"
   },
   "HUI.L": {
     "business_description": "Hydrogen Utopia International PLC, together with its subsidiaries, utilizes non-recyclable mixed waste plastics and complex waste streams to carbon-free fuels, new materials or distributed renewable heat. It offers\u2026",
@@ -518,6 +570,32 @@
     "market_cap": "2307134208",
     "market_cap_display": "\u00a32.31bn",
     "ticker": "JTC"
+  },
+  "KAP.L": {
+    "business_description": "National Atomic Company Kazatomprom JSC explores for, produces, processes, markets, and sells uranium and uranium related products. The company operates through two segments, Uranium and Ulba Metallurgical Plan. It also\u2026",
+    "company_name": "National Atomic Company Kazatomprom JSC",
+    "currency": "USD",
+    "data_source": "yfinance:KAP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:20.402977+00:00",
+    "market_cap": "7635459072",
+    "market_cap_display": "$7.64bn",
+    "ticker": "KAP"
+  },
+  "KGH.L": {
+    "business_description": "Knights Group Holdings plc, together with its subsidiaries, provides legal and professional services in the United Kingdom. The company offers advice to banks, debt funds, direct lenders, borrowers, and financial\u2026",
+    "company_name": "Knights Group Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KGH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:23.002041+00:00",
+    "market_cap": "151302464",
+    "market_cap_display": "\u00a3151.3m",
+    "ticker": "KGH"
   },
   "KNOS.L": {
     "business_description": "Kainos Group plc engages in the provision of information technology services in the United Kingdom, Ireland, North Americas, Central Europe, and internationally. The company operates through Digital Services, Workday\u2026",
@@ -688,6 +766,19 @@
     "market_cap_display": "\u00a3491.5m",
     "ticker": "PINE"
   },
+  "PPH.L": {
+    "business_description": "PPHE Hotel Group Limited owns, co-owns, develops, leases, operates, and franchises hospitality real estate in the Netherlands, the United Kingdom, Germany, Croatia, Austria, Hungary, Italy, and Serbia. The company\u2026",
+    "company_name": "PPHE Hotel Group Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:PPH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:26.919747+00:00",
+    "market_cap": "658854848",
+    "market_cap_display": "\u00a3658.9m",
+    "ticker": "PPH"
+  },
   "PRD.L": {
     "business_description": "Predator Oil & Gas Holdings Plc, together with its subsidiaries, engages in the exploration, appraisal, and development of oil and gas assets in Morrocco, Ireland, and Trinidad and Tobago. It is involved in the\u2026",
     "company_name": "Predator Oil & Gas Holdings Plc",
@@ -739,6 +830,19 @@
     "market_cap": "1379862656",
     "market_cap_display": "\u00a31.38bn",
     "ticker": "RHIM"
+  },
+  "RLE.L": {
+    "business_description": "Real Estate Investors Plc is a publicly quoted, internally managed property investment company and REIT with a portfolio of mixed-use commercial property. It is managed by a highly experienced property team with over\u2026",
+    "company_name": "Real Estate Investors Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RLE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:25.634998+00:00",
+    "market_cap": "53678396",
+    "market_cap_display": "\u00a353.7m",
+    "ticker": "RLE"
   },
   "RNK.L": {
     "business_description": "The Rank Group Plc, together with its subsidiaries, engages in provision of gaming services in the United Kingdom, Europe, and internationally. The company operates through Grosvenor Venues, Mecca Venues, Digital, and\u2026",
@@ -844,6 +948,19 @@
     "market_cap_display": "\u00a335.3m",
     "ticker": "SNX"
   },
+  "SPI.L": {
+    "business_description": "Spire Healthcare Group plc, together with its subsidiaries, owns and operates private hospitals and clinics in the United Kingdom. It operates in two segments: Hospitals Business and Primary Care. The company provides\u2026",
+    "company_name": "Spire Healthcare Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SPI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:21.699238+00:00",
+    "market_cap": "945410816",
+    "market_cap_display": "\u00a3945.4m",
+    "ticker": "SPI"
+  },
   "SRES.L": {
     "business_description": "Sunrise Resources plc, together with its subsidiaries, engages in the acquisition, exploration, and development of mineral projects in the United States and Western Australia. The company explores for gold, copper,\u2026",
     "company_name": "Sunrise Resources plc",
@@ -948,6 +1065,19 @@
     "market_cap_display": "\u00a3290.1m",
     "ticker": "TPFG"
   },
+  "TRUE.L": {
+    "business_description": "Truetide plc is a private equity and venture capital firm specializing in loan, mezzanine, seed/startup, early venture, late stage, emerging growth, turnaround, distress situations, buyout and growth capital companies.\u2026",
+    "company_name": "Truetide plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRUE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:22.356233+00:00",
+    "market_cap": "2550388",
+    "market_cap_display": "\u00a32.6m",
+    "ticker": "TRUE"
+  },
   "TXP.L": {
     "business_description": "Touchstone Exploration Inc. engages in the exploration, development, acquisition, production, and sale of petroleum and natural gas properties in the Republic of Trinidad and Tobago. The company also operates upstream\u2026",
     "company_name": "Touchstone Exploration Inc.",
@@ -1012,5 +1142,18 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
+  },
+  "ZCC.L": {
+    "business_description": "",
+    "company_name": "ZCCM Investments Holdings Plc",
+    "currency": "USD",
+    "data_source": "yfinance:ZCC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T06:47:23.661965+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "ZCC"
   }
 }
