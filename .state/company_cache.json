@@ -25,6 +25,19 @@
     "market_cap_display": "$5.52bn",
     "ticker": "37QB"
   },
+  "3DIE.L": {
+    "business_description": "",
+    "company_name": "Leverage Shares 3x Disney ETP Securities",
+    "currency": "EUR",
+    "data_source": "yfinance:3DIE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T18:49:04.408262+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "3DIE"
+  },
   "46UR.L": {
     "business_description": "",
     "company_name": "NEWDAY FUNDING 2018-1 PLC CLASS",
@@ -142,6 +155,19 @@
     "market_cap_display": "$21.7m",
     "ticker": "ASPL"
   },
+  "AXB.L": {
+    "business_description": "Axis Bank Limited provides various financial products and services in India and internationally. The company operates through four segments: Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking\u2026",
+    "company_name": "Axis Bank Limited",
+    "currency": "USD",
+    "data_source": "yfinance:AXB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T18:49:05.079268+00:00",
+    "market_cap": "27891630080",
+    "market_cap_display": "$27.89bn",
+    "ticker": "AXB"
+  },
   "BANK.L": {
     "business_description": "Fiinu Plc, a fintech company, engages in the development of software. It operates Plugin Overdraft platform, a bank overdraft software to provide open banking. The company was founded in 2017 and is based in Weybridge,\u2026",
     "company_name": "Fiinu Plc",
@@ -154,6 +180,19 @@
     "market_cap": "19800012",
     "market_cap_display": "\u00a319.8m",
     "ticker": "BANK"
+  },
+  "BEZ.L": {
+    "business_description": "Beazley plc, through its subsidiaries, provides risk insurance and reinsurance solutions in the United States, the United Kingdom, and rest of Europe. The company operates through Cyber Risks, Digital, MAP Risks,\u2026",
+    "company_name": "Beazley plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BEZ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T18:49:05.783904+00:00",
+    "market_cap": "7718217216",
+    "market_cap_display": "\u00a37.72bn",
+    "ticker": "BEZ"
   },
   "BHP.L": {
     "business_description": "BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore,\u2026",
@@ -375,6 +414,19 @@
     "market_cap": "294038400",
     "market_cap_display": "\u00a3294.0m",
     "ticker": "FRP"
+  },
+  "GAMA.L": {
+    "business_description": "Gamma Communications plc provides technology-based communications and software services to small, medium, and large-sized organizations in the United Kingdom, rest of Europe, and internationally. The company offers\u2026",
+    "company_name": "Gamma Communications plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GAMA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T18:49:03.736540+00:00",
+    "market_cap": "965099456",
+    "market_cap_display": "\u00a3965.1m",
+    "ticker": "GAMA"
   },
   "GPM.L": {
     "business_description": "Golden Prospect Precious Metals Ltd. is a close ended equity mutual fund launched and managed by CQS Asset Management Ltd. It is co-managed by CQS Cayman Limited Partnership. The fund invests in public equity markets.\u2026",
@@ -674,6 +726,32 @@
     "market_cap": "57102300",
     "market_cap_display": "\u00a357.1m",
     "ticker": "MTEC"
+  },
+  "MTO.L": {
+    "business_description": "Mitie Group plc, together with its subsidiaries, provides facilities management and professional services in the United Kingdom and internationally. It operates through the Business Services, Technical Services, and\u2026",
+    "company_name": "Mitie Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MTO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T18:49:02.989887+00:00",
+    "market_cap": "2588208384",
+    "market_cap_display": "\u00a32.59bn",
+    "ticker": "MTO"
+  },
+  "MYSE.L": {
+    "business_description": "",
+    "company_name": "Ming Yang Smart Energy Group Limited",
+    "currency": "USD",
+    "data_source": "yfinance:MYSE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T18:49:06.438549+00:00",
+    "market_cap": "3075635456",
+    "market_cap_display": "$3.08bn",
+    "ticker": "MYSE"
   },
   "NANO.L": {
     "business_description": "Nanoco Group plc, together with its subsidiaries, engages in the research, development, manufacture, and licensing of novel nanomaterials for use in various commercial applications in the United Kingdom and\u2026",
@@ -1012,6 +1090,19 @@
     "market_cap": "4083031",
     "market_cap_display": "\u00a34.1m",
     "ticker": "TCF"
+  },
+  "TEK.L": {
+    "business_description": "Tekcapital plc, together with its subsidiaries, provides technology transfer services to universities and corporate clients in the United Kingdom and the United States. It operates through two segments, Professional\u2026",
+    "company_name": "Tekcapital plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TEK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-21T18:49:02.334157+00:00",
+    "market_cap": "9258427",
+    "market_cap_display": "\u00a39.3m",
+    "ticker": "TEK"
   },
   "TERA.L": {
     "business_description": "NeoTerra Group Plc, a junior exploration company, engages in the discovery and development of critical raw materials mining projects in Africa. Its flagship project is the Monte Muambe located in Northwest Mozambique.\u2026",
