@@ -337,6 +337,19 @@
     "market_cap_display": "\u00a36.7m",
     "ticker": "COM"
   },
+  "COR.L": {
+    "business_description": "Corpus Resources Plc, a natural resources company, focuses on the oil and gas exploration, acquisition, and development business. The company was formerly known as Curzon Energy Plc and changed its name to Corpus\u2026",
+    "company_name": "Corpus Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:COR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:20.586987+00:00",
+    "market_cap": "792981",
+    "market_cap_display": "\u00a3793.0k",
+    "ticker": "COR"
+  },
   "CYAN.L": {
     "business_description": "CyanConnode Holdings plc designs, develops, and sells narrowband radio frequency (RF) mesh and cellular networks that enable Omni Internet of Things (IoT) communications in India, the United Arab Emirates, and\u2026",
     "company_name": "CyanConnode Holdings plc",
@@ -401,6 +414,32 @@
     "market_cap": "338540000",
     "market_cap_display": "\u00a3338.5m",
     "ticker": "EEE"
+  },
+  "EGL.L": {
+    "business_description": "",
+    "company_name": "Ecofin Global Utilities & Infra Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:EGL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:21.234885+00:00",
+    "market_cap": "242663984",
+    "market_cap_display": "\u00a3242.7m",
+    "ticker": "EGL"
+  },
+  "EPP.L": {
+    "business_description": "EnergyPathways plc, an integrated energy transition company, focuses on lower emission energy solutions in the United Kingdom. It supplies green hydrogen, natural gas, green hydrogen, and compressed air energy. The\u2026",
+    "company_name": "EnergyPathways plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EPP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:24.000612+00:00",
+    "market_cap": "17181524",
+    "market_cap_display": "\u00a317.2m",
+    "ticker": "EPP"
   },
   "FMET.L": {
     "business_description": "Fulcrum Metals plc operates as a natural resources company in Canada. It explores for gold and other critical metals. The company's projects include the Teck-Hughes Gold Tailings and Sylvanite Gold Tailings projects,\u2026",
@@ -532,6 +571,19 @@
     "market_cap_display": "\u00a3553.2m",
     "ticker": "HFG"
   },
+  "HSBA.L": {
+    "business_description": "HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through four segments: Hong Kong, UK, Corporate and Institutional Banking, and International Wealth and\u2026",
+    "company_name": "HSBC Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HSBA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:21.938723+00:00",
+    "market_cap": "262056378368",
+    "market_cap_display": "\u00a3262.06bn",
+    "ticker": "HSBA"
+  },
   "HSP.L": {
     "business_description": "Hargreaves Services Plc provides environmental and industrial services in the United Kingdom, Europe, Hong Kong, and internationally. It operates through Services, Hargreaves Land, and Hargreaves Raw Materials Services\u2026",
     "company_name": "Hargreaves Services Plc",
@@ -635,6 +687,19 @@
     "market_cap": "2043862016",
     "market_cap_display": "\u00a32.04bn",
     "ticker": "JAM"
+  },
+  "JARE.L": {
+    "business_description": "",
+    "company_name": "JPMorgan Global Core Real Assets Limited",
+    "currency": "EUR",
+    "data_source": "yfinance:JARE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:24.651977+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "JARE"
   },
   "JTC.L": {
     "business_description": "JTC PLC provides fund, corporate, and private capital services to institutional and private clients in the United Kingdom, Channel Islands, the United States, Caribbean, rest of Europe, and internationally. The company\u2026",
@@ -778,6 +843,19 @@
     "market_cap": "57102300",
     "market_cap_display": "\u00a357.1m",
     "ticker": "MTEC"
+  },
+  "MTLN.L": {
+    "business_description": "Metlen Energy & Metals PLC operates as an industrial and energy company focusing on the metals and energy sectors worldwide. The company engages in the development, construction, and operation of thermal power plants;\u2026",
+    "company_name": "Metlen Energy & Metals PLC",
+    "currency": "EUR",
+    "data_source": "yfinance:MTLN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:22.683276+00:00",
+    "market_cap": "6925677056",
+    "market_cap_display": "\u20ac6.93bn",
+    "ticker": "MTLN"
   },
   "MTO.L": {
     "business_description": "Mitie Group plc, together with its subsidiaries, provides facilities management and professional services in the United Kingdom and internationally. It operates through the Business Services, Technical Services, and\u2026",
@@ -1273,6 +1351,19 @@
     "market_cap_display": "\u00a330.2m",
     "ticker": "TXP"
   },
+  "UJO.L": {
+    "business_description": "Union Jack Oil plc operates as an onshore oil and gas company in the United Kingdom and the United States. The company focuses on production, drilling, development, and investment in hydrocarbon production projects. Its\u2026",
+    "company_name": "Union Jack Oil plc",
+    "currency": "GBp",
+    "data_source": "yfinance:UJO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:23.339874+00:00",
+    "market_cap": "4690108",
+    "market_cap_display": "\u00a34.7m",
+    "ticker": "UJO"
+  },
   "ULTP.L": {
     "business_description": "Ultimate Products Plc, together with its subsidiaries, supplies branded household products in the United Kingdom, Rest of Europe, and internationally. The company offers a range of household products, including vacuum\u2026",
     "company_name": "Ultimate Products Plc",
@@ -1311,6 +1402,19 @@
     "market_cap": "3044992",
     "market_cap_display": "\u00a33.0m",
     "ticker": "VAST"
+  },
+  "WPHO.L": {
+    "business_description": "Windar Photonics PLC, through its subsidiaries, develops light detection and ranging wind sensors, and related software suite for use on electricity generating wind turbines in Europe, China, the Americas, and rest of\u2026",
+    "company_name": "Windar Photonics PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:WPHO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T18:50:19.935428+00:00",
+    "market_cap": "26032744",
+    "market_cap_display": "\u00a326.0m",
+    "ticker": "WPHO"
   },
   "WVIA.L": {
     "business_description": "Winvia Entertainment Plc, together with its subsidiaries, operates as a technology-led entertainment company. It operates prize draws and skill games competitions with prizes and unique formats for a broad audience; the\u2026",
