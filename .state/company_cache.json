@@ -220,6 +220,19 @@
     "market_cap_display": "\u00a3149.59bn",
     "ticker": "BNC"
   },
+  "BOOK.L": {
+    "business_description": "",
+    "company_name": "Literacy Capital PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BOOK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:25.929130+00:00",
+    "market_cap": "179923248",
+    "market_cap_display": "\u00a3179.9m",
+    "ticker": "BOOK"
+  },
   "BPCP.L": {
     "business_description": "BioPharma Credit PLC, an investment trust, primarily invests in interest-bearing debt assets. Its debt assets are secured by royalties or other cash flows derived from the sales of approved life sciences products.\u2026",
     "company_name": "BioPharma Credit PLC",
@@ -245,6 +258,19 @@
     "market_cap": "175684304",
     "market_cap_display": "\u00a3175.7m",
     "ticker": "BTG"
+  },
+  "BVC.L": {
+    "business_description": "BATM Advanced Communications Ltd., together with its subsidiaries, engages in the development, production, and supply of real-time technologies and associated services in Israel, the United States, and Europe. It\u2026",
+    "company_name": "BATM Advanced Communications Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:BVC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:22.340628+00:00",
+    "market_cap": "40299444",
+    "market_cap_display": "\u00a340.3m",
+    "ticker": "BVC"
   },
   "CAPD.L": {
     "business_description": "Capital Limited, together with its subsidiaries, provides drilling, mining, mineral assaying, and surveying services. It offers exploration drilling services, including air core, reverse circulation, diamond core,\u2026",
@@ -662,6 +688,32 @@
     "market_cap_display": "\u00a31.12bn",
     "ticker": "KNOS"
   },
+  "KZG.L": {
+    "business_description": "Kazera Global plc operates as a mining investment company in the United Kingdom and South Africa. It operates through Holding Company Expenses, Heavy Mineral Sands Mining Activities, and Diamond Mining Activities\u2026",
+    "company_name": "Kazera Global plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KZG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:28.397287+00:00",
+    "market_cap": "17648940",
+    "market_cap_display": "\u00a317.6m",
+    "ticker": "KZG"
+  },
+  "MAC.L": {
+    "business_description": "Marechale Capital Plc provides professional advisory and broking services to companies in the United Kingdom. The company offers capital raising services, including equity financing, mezzanine, and debt financing\u2026",
+    "company_name": "Marechale Capital Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MAC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:23.206654+00:00",
+    "market_cap": "13121650",
+    "market_cap_display": "\u00a313.1m",
+    "ticker": "MAC"
+  },
   "MCG.L": {
     "business_description": "Mobico Group Plc designs, mobilizes, and operates transport services worldwide. The company operates through UK, German Rail, ALSA, and North America segments. It owns and leases vehicles. The company also provides\u2026",
     "company_name": "Mobico Group Plc",
@@ -909,6 +961,19 @@
     "market_cap_display": "\u00a31.38bn",
     "ticker": "RHIM"
   },
+  "RKH.L": {
+    "business_description": "Rockhopper Exploration plc, an oil and gas exploration and production company, engages in the exploration, appraisal, and development of oil and gas acreage. It has operations in the Falkland Islands, the Greater\u2026",
+    "company_name": "Rockhopper Exploration plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RKH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:26.668354+00:00",
+    "market_cap": "629317824",
+    "market_cap_display": "\u00a3629.3m",
+    "ticker": "RKH"
+  },
   "RLE.L": {
     "business_description": "Real Estate Investors Plc is a publicly quoted, internally managed property investment company and REIT with a portfolio of mixed-use commercial property. It is managed by a highly experienced property team with over\u2026",
     "company_name": "Real Estate Investors Plc",
@@ -973,6 +1038,19 @@
     "market_cap": "1406420864",
     "market_cap_display": "\u00a31.41bn",
     "ticker": "RSG"
+  },
+  "SBTX.L": {
+    "business_description": "SkinBioTherapeutics plc, a life science company, engages in research and development, and commercialization of technology that harnesses the microbiome for human health in the United Kingdom, the United States, Europe,\u2026",
+    "company_name": "SkinBioTherapeutics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SBTX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:27.541905+00:00",
+    "market_cap": "24621022",
+    "market_cap_display": "\u00a324.6m",
+    "ticker": "SBTX"
   },
   "SCLP.L": {
     "business_description": "Scancell Holdings plc, a clinical stage biopharmaceutical company, discovers and develops of immunotherapies for the treatment of cancer in the United Kingdom. Its product candidates include SCIB1/iSCIB1+ that is in\u2026",
@@ -1156,6 +1234,19 @@
     "market_cap_display": "\u00a3290.1m",
     "ticker": "TPFG"
   },
+  "TRCS.L": {
+    "business_description": "Tracsis plc, together with its subsidiaries, engages in the provision of software, hardware, data analytics and geographic information systems, and services in the United Kingdom, Ireland, rest of Europe, Europe, North\u2026",
+    "company_name": "Tracsis plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRCS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:24.119801+00:00",
+    "market_cap": "95302032",
+    "market_cap_display": "\u00a395.3m",
+    "ticker": "TRCS"
+  },
   "TRUE.L": {
     "business_description": "Truetide plc is a private equity and venture capital firm specializing in loan, mezzanine, seed/startup, early venture, late stage, emerging growth, turnaround, distress situations, buyout and growth capital companies.\u2026",
     "company_name": "Truetide plc",
@@ -1194,6 +1285,19 @@
     "market_cap": "46554700",
     "market_cap_display": "\u00a346.6m",
     "ticker": "ULTP"
+  },
+  "USA.L": {
+    "business_description": "",
+    "company_name": "Baillie Gifford US Growth Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:USA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-24T06:48:29.150215+00:00",
+    "market_cap": "907653760",
+    "market_cap_display": "\u00a3907.7m",
+    "ticker": "USA"
   },
   "VAST.L": {
     "business_description": "Vast Resources plc engages in the exploration and development of mineral projects in Southern Africa, Europe, and Central Asia. The company explores for copper, zinc, silver, gold, and diamond deposits; as well as\u2026",
