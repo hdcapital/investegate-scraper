@@ -51,6 +51,19 @@
     "market_cap_display": "",
     "ticker": "46UR"
   },
+  "80M.L": {
+    "business_description": "80 Mile Plc, together with its subsidiaries, engages in the exploration and development of precious and base metals in the United Kingdom, Greenland, Finland, and Italy. The company explores for ilmenite, copper,\u2026",
+    "company_name": "80 Mile Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:80M.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:40.001837+00:00",
+    "market_cap": "28648738",
+    "market_cap_display": "\u00a328.6m",
+    "ticker": "80M"
+  },
   "AAIF.L": {
     "business_description": "Aberdeen Asian Income Fund Limited is a closed ended balanced mutual fund launched by Aberdeen Private Wealth Management Limited. It is managed by Aberdeen Standard Investments (Asia) Limited. The fund invests in the\u2026",
     "company_name": "Aberdeen Asian Income Fund Limited",
@@ -167,6 +180,19 @@
     "market_cap": "27891630080",
     "market_cap_display": "$27.89bn",
     "ticker": "AXB"
+  },
+  "AZN.L": {
+    "business_description": "AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi,\u2026",
+    "company_name": "AstraZeneca PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:AZN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:39.302988+00:00",
+    "market_cap": "187812265984",
+    "market_cap_display": "\u00a3187.81bn",
+    "ticker": "AZN"
   },
   "BANK.L": {
     "business_description": "Fiinu Plc, a fintech company, engages in the development of software. It operates Plugin Overdraft platform, a bank overdraft software to provide open banking. The company was founded in 2017 and is based in Weybridge,\u2026",
@@ -350,6 +376,19 @@
     "market_cap_display": "\u00a3793.0k",
     "ticker": "COR"
   },
+  "CSN.L": {
+    "business_description": "Chesnara plc, together with its subsidiaries, operates in life assurance and pension businesses primarily in the United Kingdom, Sweden, and the Netherlands. It underwrites life, health, accident, and disability cover\u2026",
+    "company_name": "Chesnara plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CSN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:33.776730+00:00",
+    "market_cap": "762693696",
+    "market_cap_display": "\u00a3762.7m",
+    "ticker": "CSN"
+  },
   "CYAN.L": {
     "business_description": "CyanConnode Holdings plc designs, develops, and sells narrowband radio frequency (RF) mesh and cellular networks that enable Omni Internet of Things (IoT) communications in India, the United Arab Emirates, and\u2026",
     "company_name": "CyanConnode Holdings plc",
@@ -401,6 +440,19 @@
     "market_cap": "24488126",
     "market_cap_display": "\u00a324.5m",
     "ticker": "DGI9"
+  },
+  "ECOB.L": {
+    "business_description": "Eco Buildings Group plc, together with its subsidiaries, provides solutions for the housing market in Albania, the Republic of Kosovo, and the Republic of North Macedonia. It operates in two segments, Sale of GFRG\u2026",
+    "company_name": "Eco Buildings Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ECOB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:36.518195+00:00",
+    "market_cap": "15693413",
+    "market_cap_display": "\u00a315.7m",
+    "ticker": "ECOB"
   },
   "EEE.L": {
     "business_description": "Empire Metals Limited engages in the exploration and development of properties in the United Kingdom, Australia, and Austria. The company explores for copper, lithium, gold, titanium, and other minerals. Its flagship\u2026",
@@ -518,6 +570,19 @@
     "market_cap": "239669712",
     "market_cap_display": "\u00a3239.7m",
     "ticker": "GSF"
+  },
+  "GTC.L": {
+    "business_description": "Getech Group plc, together with its subsidiaries, provides subsurface and geospatial insight for the natural resources sector in United Kingdom, the United States, rest of Europe, Malaysia, Kazakhstan, Australia, rest\u2026",
+    "company_name": "Getech Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GTC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:38.599038+00:00",
+    "market_cap": "5039678",
+    "market_cap_display": "\u00a35.0m",
+    "ticker": "GTC"
   },
   "GV1O.L": {
     "business_description": "",
@@ -1182,6 +1247,19 @@
     "market_cap_display": "\u00a335.3m",
     "ticker": "SNX"
   },
+  "SOUC.L": {
+    "business_description": "Southern Energy Corp., together with its subsidiaries, operates as an petroleum and natural gas exploration and production company in Canada. The company focuses primarily on acquiring and developing conventional\u2026",
+    "company_name": "Southern Energy Corp.",
+    "currency": "GBp",
+    "data_source": "yfinance:SOUC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:37.222617+00:00",
+    "market_cap": "13734560",
+    "market_cap_display": "\u00a313.7m",
+    "ticker": "SOUC"
+  },
   "SPI.L": {
     "business_description": "Spire Healthcare Group plc, together with its subsidiaries, owns and operates private hospitals and clinics in the United Kingdom. It operates in two segments: Hospitals Business and Primary Care. The company provides\u2026",
     "company_name": "Spire Healthcare Group plc",
@@ -1220,6 +1298,19 @@
     "market_cap": "47076092",
     "market_cap_display": "\u00a347.1m",
     "ticker": "STX"
+  },
+  "SVNS.L": {
+    "business_description": "Solvonis Therapeutics plc, a clinical-stage biopharmaceutical company, develops medicines for addiction, psychiatry, and neurology disorders. The company develops SVN-001, an NMDA receptor antagonist that is in Phase\u2026",
+    "company_name": "Solvonis Therapeutics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SVNS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:35.155224+00:00",
+    "market_cap": "9528965",
+    "market_cap_display": "\u00a39.5m",
+    "ticker": "SVNS"
   },
   "TAP.L": {
     "business_description": "Tap Global Group Plc, together with its subsidiaries, provides application and trading platform for crypto currencies in the United Kingdom and internationally. The company was formerly known as Quetzal Capital PLC. Tap\u2026",
@@ -1285,6 +1376,19 @@
     "market_cap": "665987648",
     "market_cap_display": "\u00a3666.0m",
     "ticker": "TGA"
+  },
+  "TIA.L": {
+    "business_description": "Tialis Essential IT PLC, through its subsidiaries, provides network, cloud, and IT managed services to public and private companies in the United Kingdom. It focuses on the storage, building, configuration, and shipping\u2026",
+    "company_name": "Tialis Essential IT PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:TIA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:34.465264+00:00",
+    "market_cap": "19156720",
+    "market_cap_display": "\u00a319.2m",
+    "ticker": "TIA"
   },
   "TMO.L": {
     "business_description": "Time Out Group plc, together with its subsidiaries, engages in the media and hospitality business worldwide. The company operates through Time Out Market and Time Out Media segments. The Time Out Market segment operates\u2026",
@@ -1402,6 +1506,32 @@
     "market_cap": "3044992",
     "market_cap_display": "\u00a33.0m",
     "ticker": "VAST"
+  },
+  "VLX.L": {
+    "business_description": "Volex plc manufactures and sells power and connectivity in North America, Europe, and Asia. It provides integrated manufacturing services, such as high level assembly, box build, electromechanical assemblies and\u2026",
+    "company_name": "Volex plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VLX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:35.842420+00:00",
+    "market_cap": "977341632",
+    "market_cap_display": "\u00a3977.3m",
+    "ticker": "VLX"
+  },
+  "VNH.L": {
+    "business_description": "VietNam Holding Limited is a closed ended equity mutual fund launched and managed by Vietnam Holding Asset Management Ltd. The fund invests in the public equity markets of Vietnam. It seeks to invest in stocks of\u2026",
+    "company_name": "VietNam Holding Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:VNH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-25T06:47:37.923412+00:00",
+    "market_cap": "61288064",
+    "market_cap_display": "\u00a361.3m",
+    "ticker": "VNH"
   },
   "WPHO.L": {
     "business_description": "Windar Photonics PLC, through its subsidiaries, develops light detection and ranging wind sensors, and related software suite for use on electricity generating wind turbines in Europe, China, the Americas, and rest of\u2026",
