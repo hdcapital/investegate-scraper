@@ -103,6 +103,19 @@
     "market_cap_display": "\u00a3178.8m",
     "ticker": "ABDP"
   },
+  "AEWU.L": {
+    "business_description": "",
+    "company_name": "AEW UK REIT Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:AEWU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:43.752433+00:00",
+    "market_cap": "167877888",
+    "market_cap_display": "\u00a3167.9m",
+    "ticker": "AEWU"
+  },
   "AIC.L": {
     "business_description": "Achilles Investment Company Limited invests in the shares of closed-ended investment companies. The company was incorporated in 2025 and is based in St Peter Port, Guernsey.",
     "company_name": "Achilles Investment Company Limited",
@@ -124,9 +137,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T18:49:44.155757+00:00",
-    "market_cap": "58765000",
-    "market_cap_display": "\u00a358.8m",
+    "last_updated": "2026-08-26T06:47:44.361843+00:00",
+    "market_cap": "56591504",
+    "market_cap_display": "\u00a356.6m",
     "ticker": "AIRE"
   },
   "ALRT.L": {
@@ -154,6 +167,19 @@
     "market_cap": "100026768",
     "market_cap_display": "\u00a3100.0m",
     "ticker": "AMCO"
+  },
+  "APN.L": {
+    "business_description": "Applied Nutrition Plc engages in the manufacture, wholesale, and retail of sports nutritional products in the United Kingdom and internationally. It offers whey protein, whey protein isolate, casein protein powder,\u2026",
+    "company_name": "Applied Nutrition Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:APN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:46.164821+00:00",
+    "market_cap": "803749952",
+    "market_cap_display": "\u00a3803.7m",
+    "ticker": "APN"
   },
   "ASLI.L": {
     "business_description": "",
@@ -219,6 +245,19 @@
     "market_cap": "19800012",
     "market_cap_display": "\u00a319.8m",
     "ticker": "BANK"
+  },
+  "BBSN.L": {
+    "business_description": "Brave Bison Group plc provides digital advertising and technology services in the United Kingdom, Europe, and internationally. The company offers social media advertising, influencer marketing, search engine\u2026",
+    "company_name": "Brave Bison Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BBSN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:42.563074+00:00",
+    "market_cap": "93055808",
+    "market_cap_display": "\u00a393.1m",
+    "ticker": "BBSN"
   },
   "BEZ.L": {
     "business_description": "Beazley plc, through its subsidiaries, provides risk insurance and reinsurance solutions in the United States, the United Kingdom, and rest of Europe. The company operates through Cyber Risks, Digital, MAP Risks,\u2026",
@@ -310,6 +349,19 @@
     "market_cap": "40299444",
     "market_cap_display": "\u00a340.3m",
     "ticker": "BVC"
+  },
+  "CAML.L": {
+    "business_description": "Central Asia Metals plc, together with its subsidiaries, operates as a base metals producer. The company produces copper, zinc, silver, and lead minerals. It also owns a 100% interest in the Kounrad solvent\u2026",
+    "company_name": "Central Asia Metals plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CAML.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:41.372819+00:00",
+    "market_cap": "285601696",
+    "market_cap_display": "\u00a3285.6m",
+    "ticker": "CAML"
   },
   "CAPD.L": {
     "business_description": "Capital Limited, together with its subsidiaries, provides drilling, mining, mineral assaying, and surveying services. It offers exploration drilling services, including air core, reverse circulation, diamond core,\u2026",
@@ -467,6 +519,19 @@
     "market_cap_display": "\u00a315.7m",
     "ticker": "ECOB"
   },
+  "EDEN.L": {
+    "business_description": "Eden Research plc, together with its subsidiaries, engages in the development and sale of biopesticides in Europe and the United Kingdom. The company offers foliar disease and insect control, open field and greenhouses,\u2026",
+    "company_name": "Eden Research plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EDEN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:43.161167+00:00",
+    "market_cap": "18879030",
+    "market_cap_display": "\u00a318.9m",
+    "ticker": "EDEN"
+  },
   "EEE.L": {
     "business_description": "Empire Metals Limited engages in the exploration and development of properties in the United Kingdom, Australia, and Austria. The company explores for copper, lithium, gold, titanium, and other minerals. Its flagship\u2026",
     "company_name": "Empire Metals Limited",
@@ -492,6 +557,19 @@
     "market_cap": "242663984",
     "market_cap_display": "\u00a3242.7m",
     "ticker": "EGL"
+  },
+  "EMR.L": {
+    "business_description": "Empresaria Group plc provides staffing and recruitment services in the United Kingdom, Europe, the Asia Pacific, and the Americas. The company offers permanent placement, temporary and contract staffing, executive\u2026",
+    "company_name": "Empresaria Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EMR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:40.770615+00:00",
+    "market_cap": "12262966",
+    "market_cap_display": "\u00a312.3m",
+    "ticker": "EMR"
   },
   "EPP.L": {
     "business_description": "EnergyPathways plc, an integrated energy transition company, focuses on lower emission energy solutions in the United Kingdom. It supplies green hydrogen, natural gas, green hydrogen, and compressed air energy. The\u2026",
@@ -649,6 +727,19 @@
     "market_cap_display": "\u00a3553.2m",
     "ticker": "HFG"
   },
+  "HOC.L": {
+    "business_description": "Hochschild Mining plc, a precious metals company, engages in the exploration, mining, processing, and sale of gold and silver deposits. The company's flagship asset includes the 100% owned Inmaculada gold and silver\u2026",
+    "company_name": "Hochschild Mining plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HOC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:41.968564+00:00",
+    "market_cap": "3217937408",
+    "market_cap_display": "\u00a33.22bn",
+    "ticker": "HOC"
+  },
   "HSBA.L": {
     "business_description": "HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through four segments: Hong Kong, UK, Corporate and Institutional Banking, and International Wealth and\u2026",
     "company_name": "HSBC Holdings plc",
@@ -779,6 +870,19 @@
     "market_cap_display": "",
     "ticker": "JARE"
   },
+  "JLP.L": {
+    "business_description": "Jubilee Metals Group PLC operates as a diversified metals processing and recovery company. It operates through Copper and Cobalt, PGM and Chrome, and Other segments. The company explores for platinum group metals, such\u2026",
+    "company_name": "Jubilee Metals Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:JLP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:44.962787+00:00",
+    "market_cap": "84533256",
+    "market_cap_display": "\u00a384.5m",
+    "ticker": "JLP"
+  },
   "JTC.L": {
     "business_description": "JTC PLC provides fund, corporate, and private capital services to institutional and private clients in the United Kingdom, Channel Islands, the United States, Caribbean, rest of Europe, and internationally. The company\u2026",
     "company_name": "JTC PLC",
@@ -804,6 +908,19 @@
     "market_cap": "7635459072",
     "market_cap_display": "$7.64bn",
     "ticker": "KAP"
+  },
+  "KEN.L": {
+    "business_description": "Kendrick Resources PLC engages in the exploration and development of mineral resource properties in Norway, Sweden, Finland, and Scandinavia. It explores for nickel, vanadium, cobalt, copper, and platinum group metal\u2026",
+    "company_name": "Kendrick Resources PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:KEN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:47.361025+00:00",
+    "market_cap": "30054456",
+    "market_cap_display": "\u00a330.1m",
+    "ticker": "KEN"
   },
   "KGH.L": {
     "business_description": "Knights Group Holdings plc, together with its subsidiaries, provides legal and professional services in the United Kingdom. The company offers advice to banks, debt funds, direct lenders, borrowers, and financial\u2026",
@@ -1064,6 +1181,19 @@
     "market_cap": "658854848",
     "market_cap_display": "\u00a3658.9m",
     "ticker": "PPH"
+  },
+  "PR1.L": {
+    "business_description": "Pri0r1ty Intelligence Group PLC, a technology and data intelligence company, focuses on the development and commercialisation of software and analytics solutions. It operates through AI and Data Intelligence Services\u2026",
+    "company_name": "Pri0r1ty Intelligence Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PR1.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:45.561800+00:00",
+    "market_cap": "2335396",
+    "market_cap_display": "\u00a32.3m",
+    "ticker": "PR1"
   },
   "PRD.L": {
     "business_description": "Predator Oil & Gas Holdings Plc, together with its subsidiaries, engages in the exploration, appraisal, and development of oil and gas assets in Morrocco, Ireland, and Trinidad and Tobago. It is involved in the\u2026",
@@ -1337,6 +1467,19 @@
     "market_cap": "47076092",
     "market_cap_display": "\u00a347.1m",
     "ticker": "STX"
+  },
+  "SUS.L": {
+    "business_description": "S&U plc, together with its subsidiaries, provides motor, property bridging, and specialist finance services in the United Kingdom. It operates through Motor Finance and Property Bridging Finance. The company was\u2026",
+    "company_name": "S&U plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SUS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T06:47:46.765301+00:00",
+    "market_cap": "239369968",
+    "market_cap_display": "\u00a3239.4m",
+    "ticker": "SUS"
   },
   "SVNS.L": {
     "business_description": "Solvonis Therapeutics plc, a clinical-stage biopharmaceutical company, develops medicines for addiction, psychiatry, and neurology disorders. The company develops SVN-001, an NMDA receptor antagonist that is in Phase\u2026",
