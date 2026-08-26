@@ -38,6 +38,19 @@
     "market_cap_display": "",
     "ticker": "3DIE"
   },
+  "46LT.L": {
+    "business_description": "",
+    "company_name": "Thrive Homes Finance PLC 4.68% BDS 24/03/51 GBP100000",
+    "currency": "GBP",
+    "data_source": "yfinance:46LT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T18:49:17.767474+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "46LT"
+  },
   "46UR.L": {
     "business_description": "",
     "company_name": "NEWDAY FUNDING 2018-1 PLC CLASS",
@@ -402,6 +415,19 @@
     "market_cap_display": "\u00a3334.8k",
     "ticker": "CHL"
   },
+  "CKI.L": {
+    "business_description": "CK Infrastructure Holdings Limited, an infrastructure company, invests in, develops, and operates infrastructure businesses in Hong Kong, Mainland China, the United Kingdom, Continental Europe, Australia, New Zealand,\u2026",
+    "company_name": "CK Infrastructure Holdings Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CKI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T18:49:13.508782+00:00",
+    "market_cap": "15243645952",
+    "market_cap_display": "\u00a315.24bn",
+    "ticker": "CKI"
+  },
   "CNE.L": {
     "business_description": "Capricorn Energy PLC, an independent energy company, engages in the exploration, development, production, and sale of oil and gas the United Kingdom and internationally. It holds a portfolio of onshore development and\u2026",
     "company_name": "Capricorn Energy PLC",
@@ -636,6 +662,19 @@
     "market_cap_display": "\u00a3965.1m",
     "ticker": "GAMA"
   },
+  "GHH.L": {
+    "business_description": "Gooch & Housego PLC engages in the manufacture and sale of acousto-optics, electro-optics, fiber optics, and precision optics and systems in the United Kingdom, North America, Europe, the Asia Pacific, and\u2026",
+    "company_name": "Gooch & Housego PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:GHH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T18:49:14.913032+00:00",
+    "market_cap": "332554336",
+    "market_cap_display": "\u00a3332.6m",
+    "ticker": "GHH"
+  },
   "GPM.L": {
     "business_description": "Golden Prospect Precious Metals Ltd. is a close ended equity mutual fund launched and managed by CQS Asset Management Ltd. It is co-managed by CQS Cayman Limited Partnership. The fund invests in public equity markets.\u2026",
     "company_name": "Golden Prospect Precious Metals Ltd.",
@@ -701,6 +740,19 @@
     "market_cap_display": "\u00a39.1m",
     "ticker": "GV2O"
   },
+  "GWI.L": {
+    "business_description": "Globalworth Real Estate Investments Limited is a listed real estate company active in Central and Eastern Europe. It is quoted on the AIM segment of the London Stock Exchange. It has become the pre-eminent office\u2026",
+    "company_name": "Globalworth Real Estate Investments Limited",
+    "currency": "EUR",
+    "data_source": "yfinance:GWI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T18:49:15.635357+00:00",
+    "market_cap": "552988224",
+    "market_cap_display": "\u20ac553.0m",
+    "ticker": "GWI"
+  },
   "HCM.L": {
     "business_description": "HUTCHMED (China) Limited, together with its subsidiaries, discovers, develops, and commercializes targeted therapeutics and immunotherapies to treat cancer and immunological diseases in Hong Kong, the United States, and\u2026",
     "company_name": "HUTCHMED (China) Limited",
@@ -726,6 +778,19 @@
     "market_cap": "553227648",
     "market_cap_display": "\u00a3553.2m",
     "ticker": "HFG"
+  },
+  "HHPD.L": {
+    "business_description": "Hon Hai Precision Industry Co., Ltd. provides electronic manufacturing services. The company offers consumer electronics, including smartphones, feature phones, wearable devices, televisions, game consoles, set-top\u2026",
+    "company_name": "Hon Hai Precision Industry Co., Ltd.",
+    "currency": "USD",
+    "data_source": "yfinance:HHPD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T18:49:16.344395+00:00",
+    "market_cap": "48949633024",
+    "market_cap_display": "$48.95bn",
+    "ticker": "HHPD"
   },
   "HOC.L": {
     "business_description": "Hochschild Mining plc, a precious metals company, engages in the exploration, mining, processing, and sale of gold and silver deposits. The company's flagship asset includes the 100% owned Inmaculada gold and silver\u2026",
@@ -974,6 +1039,19 @@
     "market_cap_display": "\u00a313.1m",
     "ticker": "MAC"
   },
+  "MAV4.L": {
+    "business_description": "",
+    "company_name": "Maven Income & Growth VCT 4 Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MAV4.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T18:49:12.757238+00:00",
+    "market_cap": "81203376",
+    "market_cap_display": "\u00a381.2m",
+    "ticker": "MAV4"
+  },
   "MCG.L": {
     "business_description": "Mobico Group Plc designs, mobilizes, and operates transport services worldwide. The company operates through UK, German Rail, ALSA, and North America segments. It owns and leases vehicles. The company also provides\u2026",
     "company_name": "Mobico Group Plc",
@@ -1220,6 +1298,19 @@
     "market_cap": "295022848",
     "market_cap_display": "\u00a3295.0m",
     "ticker": "PRTC"
+  },
+  "PRU.L": {
+    "business_description": "Prudential plc, through its subsidiaries, provides life and health insurance, and asset management solutions to individuals in Asia and Africa. It offers savings and investments products; and wealth, health, and\u2026",
+    "company_name": "Prudential plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PRU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-26T18:49:17.044262+00:00",
+    "market_cap": "25780711424",
+    "market_cap_display": "\u00a325.78bn",
+    "ticker": "PRU"
   },
   "RBD.L": {
     "business_description": "Reabold Resources Plc, an investment holding company, engages in the exploration, appraisal, development, and evaluation of oil and gas projects in the United Kingdom, Romania, the United States, and Italy. Its key\u2026",
@@ -1749,7 +1840,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T18:49:43.321148+00:00",
+    "last_updated": "2026-08-26T18:49:14.269142+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
