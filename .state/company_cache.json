@@ -727,6 +727,19 @@
     "market_cap_display": "\u00a3294.0m",
     "ticker": "FRP"
   },
+  "GAID.L": {
+    "business_description": "",
+    "company_name": "GAIL (India) Limited",
+    "currency": "INR",
+    "data_source": "yfinance:GAID.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "YHD",
+    "last_updated": "2026-08-27T18:49:03.509501+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "GAID"
+  },
   "GAL.L": {
     "business_description": "Galantas Gold Corporation engages in the acquisition, exploration, and development of mineral properties. It explores gold, silver, zinc, copper, and lead deposits. The company owns and operates the Omagh Gold Project,\u2026",
     "company_name": "Galantas Gold Corporation",
@@ -1182,6 +1195,19 @@
     "market_cap_display": "\u00a381.2m",
     "ticker": "MAV4"
   },
+  "MBO.L": {
+    "business_description": "MobilityOne Limited, an investment holding company, provides e-commerce infrastructure payment solutions and platforms through its proprietary technology solutions in Malaysia. It operates in two segments,\u2026",
+    "company_name": "MobilityOne Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:MBO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T18:49:04.209909+00:00",
+    "market_cap": "7175168",
+    "market_cap_display": "\u00a37.2m",
+    "ticker": "MBO"
+  },
   "MCG.L": {
     "business_description": "Mobico Group Plc designs, mobilizes, and operates transport services worldwide. The company operates through UK, German Rail, ALSA, and North America segments. It owns and leases vehicles. The company also provides\u2026",
     "company_name": "Mobico Group Plc",
@@ -1337,6 +1363,19 @@
     "market_cap": "23904896",
     "market_cap_display": "\u00a323.9m",
     "ticker": "NEO"
+  },
+  "NICL.L": {
+    "business_description": "Nichols plc, together with its subsidiaries, engages in supply of soft drinks to the retail, wholesale, catering, licensed, and leisure industries in the United Kingdom, the Middle East, Africa, and internationally. It\u2026",
+    "company_name": "Nichols plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NICL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T18:49:04.867193+00:00",
+    "market_cap": "422326688",
+    "market_cap_display": "\u00a3422.3m",
+    "ticker": "NICL"
   },
   "OCI.L": {
     "business_description": "Oakley Capital Investments Limited is a private equity and venture capital firm specializing in investments in early stage, series B, late stage, emerging growth, mid-markets, corporate carve-outs, buyouts, mezzanine,\u2026",
