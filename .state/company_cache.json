@@ -155,6 +155,19 @@
     "market_cap_display": "\u00a356.6m",
     "ticker": "AIRE"
   },
+  "AKN.L": {
+    "business_description": "Arkadian Strategic Metals Plc, together with its subsidiaries, engages in the exploration and development of mining and oil and gas resources in the United Kingdom, Greenland, and Sweden. It explores for gold, critical\u2026",
+    "company_name": "Arkadian Strategic Metals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AKN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:00.315812+00:00",
+    "market_cap": "3061855",
+    "market_cap_display": "\u00a33.1m",
+    "ticker": "AKN"
+  },
   "ALRT.L": {
     "business_description": "Defence Holdings PLC develops and acquires defence technologies, focusing on AI-enabled systems, cyber-defence, secure communications, autonomous drone systems, and critical infrastructure protection. The company's\u2026",
     "company_name": "Defence Holdings PLC",
@@ -233,6 +246,19 @@
     "market_cap_display": "$27.89bn",
     "ticker": "AXB"
   },
+  "AXL.L": {
+    "business_description": "Arrow Exploration Corp. operates a junior oil and gas company that engages in the acquisition, exploration, development, and production of oil and gas properties in Colombia and Western Canada. The company is based in\u2026",
+    "company_name": "Arrow Exploration Corp.",
+    "currency": "GBp",
+    "data_source": "yfinance:AXL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:47:58.694209+00:00",
+    "market_cap": "73610072",
+    "market_cap_display": "\u00a373.6m",
+    "ticker": "AXL"
+  },
   "AZN.L": {
     "business_description": "AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi,\u2026",
     "company_name": "AstraZeneca PLC",
@@ -285,6 +311,19 @@
     "market_cap_display": "\u00a37.72bn",
     "ticker": "BEZ"
   },
+  "BHL.L": {
+    "business_description": "Bradda Head Lithium Limited, together with its subsidiaries, engages in the exploration and development of lithium deposits and resources in the United States. It primarily explores for lithium, brine, pegmatite, and\u2026",
+    "company_name": "Bradda Head Lithium Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:BHL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:47:56.215113+00:00",
+    "market_cap": "12541044",
+    "market_cap_display": "\u00a312.5m",
+    "ticker": "BHL"
+  },
   "BHP.L": {
     "business_description": "BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore,\u2026",
     "company_name": "BHP Group Limited",
@@ -297,6 +336,19 @@
     "market_cap": "164766777344",
     "market_cap_display": "\u00a3164.77bn",
     "ticker": "BHP"
+  },
+  "BILN.L": {
+    "business_description": "Billington Holdings Plc, through its subsidiaries, provides structural steel and construction safety solutions in the United Kingdom. It operates through Structural Steelwork and Safety Solutions. The company designs,\u2026",
+    "company_name": "Billington Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BILN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:08.703747+00:00",
+    "market_cap": "52700340",
+    "market_cap_display": "\u00a352.7m",
+    "ticker": "BILN"
   },
   "BNC.L": {
     "business_description": "Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments:\u2026",
@@ -336,6 +388,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "BPCP"
+  },
+  "BRES.L": {
+    "business_description": "Blencowe Resources Plc engages in the exploration, evaluation, and development of mineral resources in Uganda. The company holds a 100% interest in the Orom-Cross graphite project covering an area of approximately\u2026",
+    "company_name": "Blencowe Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BRES.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:09.518516+00:00",
+    "market_cap": "38901244",
+    "market_cap_display": "\u00a338.9m",
+    "ticker": "BRES"
   },
   "BTG.L": {
     "business_description": "BTG Consulting plc operates as a financial and real estate advisory company in the United Kingdom. It operates in two segments, Restructuring and Advisory, and Real Estate Advisory. The company offers business\u2026",
@@ -427,6 +492,19 @@
     "market_cap": "15243645952",
     "market_cap_display": "\u00a315.24bn",
     "ticker": "CKI"
+  },
+  "CLA.L": {
+    "business_description": "Celsius Resources Limited, together with its subsidiaries, engages in the exploration and extraction of mineral properties in Australia, Namibia, and the Philippines. It primarily explores for nickel, copper, gold, and\u2026",
+    "company_name": "Celsius Resources Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CLA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:05.181640+00:00",
+    "market_cap": "9305517",
+    "market_cap_display": "\u00a39.3m",
+    "ticker": "CLA"
   },
   "CNE.L": {
     "business_description": "Capricorn Energy PLC, an independent energy company, engages in the exploration, development, production, and sale of oil and gas the United Kingdom and internationally. It holds a portfolio of onshore development and\u2026",
@@ -566,9 +644,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:24.835419+00:00",
-    "market_cap": "338540000",
-    "market_cap_display": "\u00a3338.5m",
+    "last_updated": "2026-08-27T06:47:59.507752+00:00",
+    "market_cap": "320838560",
+    "market_cap_display": "\u00a3320.8m",
     "ticker": "EEE"
   },
   "EGL.L": {
@@ -649,6 +727,19 @@
     "market_cap_display": "\u00a3294.0m",
     "ticker": "FRP"
   },
+  "GAL.L": {
+    "business_description": "Galantas Gold Corporation engages in the acquisition, exploration, and development of mineral properties. It explores gold, silver, zinc, copper, and lead deposits. The company owns and operates the Omagh Gold Project,\u2026",
+    "company_name": "Galantas Gold Corporation",
+    "currency": "GBp",
+    "data_source": "yfinance:GAL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:47:57.026027+00:00",
+    "market_cap": "269628320",
+    "market_cap_display": "\u00a3269.6m",
+    "ticker": "GAL"
+  },
   "GAMA.L": {
     "business_description": "Gamma Communications plc provides technology-based communications and software services to small, medium, and large-sized organizations in the United Kingdom, rest of Europe, and internationally. The company offers\u2026",
     "company_name": "Gamma Communications plc",
@@ -661,6 +752,19 @@
     "market_cap": "965099456",
     "market_cap_display": "\u00a3965.1m",
     "ticker": "GAMA"
+  },
+  "GGP.L": {
+    "business_description": "Greatland Resources Limited operates as a gold and copper mining company. The company owns a 100% interest in the Telfer gold-copper mine located in the Paterson region of Western Australia; and in the Havieron\u2026",
+    "company_name": "Greatland Resources Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:GGP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:01.124979+00:00",
+    "market_cap": "4763151872",
+    "market_cap_display": "\u00a34.76bn",
+    "ticker": "GGP"
   },
   "GHH.L": {
     "business_description": "Gooch & Housego PLC engages in the manufacture and sale of acousto-optics, electro-optics, fiber optics, and precision optics and systems in the United Kingdom, North America, Europe, the Asia Pacific, and\u2026",
@@ -765,6 +869,19 @@
     "market_cap": "1642543872",
     "market_cap_display": "\u00a31.64bn",
     "ticker": "HCM"
+  },
+  "HEAD.L": {
+    "business_description": "Headlam Group plc, together with its subsidiaries, engages in the sale, marketing, supply, and distribution of floorcovering and other ancillary products in the United Kingdom and Continental Europe. The company offers\u2026",
+    "company_name": "Headlam Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HEAD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:04.371958+00:00",
+    "market_cap": "8389538",
+    "market_cap_display": "\u00a38.4m",
+    "ticker": "HEAD"
   },
   "HFG.L": {
     "business_description": "Hilton Food Group plc, together with its subsidiaries, engages in the multi-protein food business. The company offers meat products; seafood products, such as smoked salmon, wet fish, shellfish, coated fish, and fish\u2026",
@@ -947,6 +1064,19 @@
     "market_cap": "84533256",
     "market_cap_display": "\u00a384.5m",
     "ticker": "JLP"
+  },
+  "JSE.L": {
+    "business_description": "Jadestone Energy plc operates as an independent oil and gas development and production company in Australia, Malaysia, Indonesia, and Vietnam. Its flagship asset is the 100%-owned Akatara gas, liquefied petroleum gas,\u2026",
+    "company_name": "Jadestone Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JSE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:47:54.536831+00:00",
+    "market_cap": "174377328",
+    "market_cap_display": "\u00a3174.4m",
+    "ticker": "JSE"
   },
   "JTC.L": {
     "business_description": "JTC PLC provides fund, corporate, and private capital services to institutional and private clients in the United Kingdom, Channel Islands, the United States, Caribbean, rest of Europe, and internationally. The company\u2026",
@@ -1156,6 +1286,19 @@
     "market_cap_display": "$3.08bn",
     "ticker": "MYSE"
   },
+  "NAH.L": {
+    "business_description": "NAHL Group Plc operates in the consumer legal services and catastrophic injury markets in the United Kingdom. The company operates through Consumer Legal Services and Critical Care segments. Its Consumer Legal Services\u2026",
+    "company_name": "NAHL Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NAH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:01.934928+00:00",
+    "market_cap": "16235140",
+    "market_cap_display": "\u00a316.2m",
+    "ticker": "NAH"
+  },
   "NANO.L": {
     "business_description": "Nanoco Group plc, together with its subsidiaries, engages in the research, development, manufacture, and licensing of novel nanomaterials for use in various commercial applications in the United Kingdom and\u2026",
     "company_name": "Nanoco Group plc",
@@ -1247,6 +1390,19 @@
     "market_cap_display": "\u00a3491.5m",
     "ticker": "PINE"
   },
+  "PLSR.L": {
+    "business_description": "Pulsar Helium Inc. engages in the identification, acquisition, exploration, and development of helium exploration projects in the United States of America and Greenland. The company's flagship project is the 100% owned\u2026",
+    "company_name": "Pulsar Helium Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:PLSR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:03.561037+00:00",
+    "market_cap": "163761072",
+    "market_cap_display": "\u00a3163.8m",
+    "ticker": "PLSR"
+  },
   "PPH.L": {
     "business_description": "PPHE Hotel Group Limited owns, co-owns, develops, leases, operates, and franchises hospitality real estate in the Netherlands, the United Kingdom, Germany, Croatia, Austria, Hungary, Italy, and Serbia. The company\u2026",
     "company_name": "PPHE Hotel Group Limited",
@@ -1281,9 +1437,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:29.045454+00:00",
-    "market_cap": "28818306",
-    "market_cap_display": "\u00a328.8m",
+    "last_updated": "2026-08-27T06:48:07.056018+00:00",
+    "market_cap": "28489804",
+    "market_cap_display": "\u00a328.5m",
     "ticker": "PRD"
   },
   "PRTC.L": {
@@ -1480,6 +1636,19 @@
     "market_cap": "9059546112",
     "market_cap_display": "\u00a39.06bn",
     "ticker": "SDLF"
+  },
+  "SEI.L": {
+    "business_description": "Sintana Energy Inc. engages in the crude oil and natural gas exploration and development business. It holds various interests in five onshore and offshore petroleum exploration licenses in Namibia, as well as in\u2026",
+    "company_name": "Sintana Energy Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:SEI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:47:55.406016+00:00",
+    "market_cap": "120492992",
+    "market_cap_display": "\u00a3120.5m",
+    "ticker": "SEI"
   },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
@@ -1728,6 +1897,19 @@
     "market_cap_display": "\u00a330.2m",
     "ticker": "TXP"
   },
+  "UFO.L": {
+    "business_description": "Alien Metals Limited, together with its subsidiaries, engages in the exploration and evaluation of mineral resource properties in Australia. The company explores for iron ore, silver, palladium, nickel, copper, gold,\u2026",
+    "company_name": "Alien Metals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:UFO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:48:07.890229+00:00",
+    "market_cap": "10750116",
+    "market_cap_display": "\u00a310.8m",
+    "ticker": "UFO"
+  },
   "UJO.L": {
     "business_description": "Union Jack Oil plc operates as an onshore oil and gas company in the United Kingdom and the United States. The company focuses on production, drilling, development, and investment in hydrocarbon production projects. Its\u2026",
     "company_name": "Union Jack Oil plc",
@@ -1749,9 +1931,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:28.442093+00:00",
-    "market_cap": "46554700",
-    "market_cap_display": "\u00a346.6m",
+    "last_updated": "2026-08-27T06:48:02.749186+00:00",
+    "market_cap": "44051760",
+    "market_cap_display": "\u00a344.1m",
     "ticker": "ULTP"
   },
   "USA.L": {
@@ -1805,6 +1987,19 @@
     "market_cap": "61288064",
     "market_cap_display": "\u00a361.3m",
     "ticker": "VNH"
+  },
+  "VTU.L": {
+    "business_description": "Vertu Motors plc operates as an automotive retailer in the United Kingdom. It sells new and used cars and motorcycles, vans, motability cars, electric vehicles, and commercial vehicles, as well as provides related\u2026",
+    "company_name": "Vertu Motors plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VTU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-27T06:47:57.876255+00:00",
+    "market_cap": "261869008",
+    "market_cap_display": "\u00a3261.9m",
+    "ticker": "VTU"
   },
   "WPHO.L": {
     "business_description": "Windar Photonics PLC, through its subsidiaries, develops light detection and ranging wind sensors, and related software suite for use on electricity generating wind turbines in Europe, China, the Americas, and rest of\u2026",
