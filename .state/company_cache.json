@@ -233,6 +233,19 @@
     "market_cap_display": "$21.7m",
     "ticker": "ASPL"
   },
+  "ATM.L": {
+    "business_description": "Andrada Mining Limited engages in the exploration, development, and production of mineral resources in Namibia. The company explores for lithium, tin, tantalum, rubidium, tungsten, copper, petalite, and spodumene\u2026",
+    "company_name": "Andrada Mining Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ATM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:38.216890+00:00",
+    "market_cap": "138531632",
+    "market_cap_display": "\u00a3138.5m",
+    "ticker": "ATM"
+  },
   "AXB.L": {
     "business_description": "Axis Bank Limited provides various financial products and services in India and internationally. The company operates through four segments: Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking\u2026",
     "company_name": "Axis Bank Limited",
@@ -298,6 +311,19 @@
     "market_cap_display": "\u00a393.1m",
     "ticker": "BBSN"
   },
+  "BEM.L": {
+    "business_description": "Beowulf Mining plc engages in the acquisition, exploration, and evaluation of natural resource assets in Sweden, Finland, and Kosovo. It explores for iron ore, base precious metals, lead, zinc, gold, copper, silver,\u2026",
+    "company_name": "Beowulf Mining plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BEM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:40.154666+00:00",
+    "market_cap": "6793889",
+    "market_cap_display": "\u00a36.8m",
+    "ticker": "BEM"
+  },
   "BEZ.L": {
     "business_description": "Beazley plc, through its subsidiaries, provides risk insurance and reinsurance solutions in the United States, the United Kingdom, and rest of Europe. The company operates through Cyber Risks, Digital, MAP Risks,\u2026",
     "company_name": "Beazley plc",
@@ -349,6 +375,19 @@
     "market_cap": "52700340",
     "market_cap_display": "\u00a352.7m",
     "ticker": "BILN"
+  },
+  "BKY.L": {
+    "business_description": "Berkeley Energia Limited engages in the exploration and development of mineral properties in Spain. The company explores for uranium, lithium, rubidium, tin, tantalum, niobium, tungsten, cobalt, antimony, and other\u2026",
+    "company_name": "Berkeley Energia Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:BKY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:41.478051+00:00",
+    "market_cap": "111573288",
+    "market_cap_display": "\u00a3111.6m",
+    "ticker": "BKY"
   },
   "BNC.L": {
     "business_description": "Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments:\u2026",
@@ -558,6 +597,32 @@
     "market_cap_display": "\u00a3762.7m",
     "ticker": "CSN"
   },
+  "CTPE.L": {
+    "business_description": "CT Private Equity Trust PLC, formerly known as BMO Private Equity Trust Plc specializes in secondary indirect, direct, and investing in other funds. Within investing in other funds, the fund specializes in private\u2026",
+    "company_name": "CT Private Equity Trust PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CTPE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:38.861225+00:00",
+    "market_cap": "345916256",
+    "market_cap_display": "\u00a3345.9m",
+    "ticker": "CTPE"
+  },
+  "CTUK.L": {
+    "business_description": "CT UK Capital And Income Investment Trust Plc is a closed-ended equity mutual fund launched and managed by F&C Investment Business Ltd. The fund invests in the public equity markets of the United Kingdom. It seeks to\u2026",
+    "company_name": "CT UK Capital And Income Investment Trust Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CTUK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:44.287528+00:00",
+    "market_cap": "333407104",
+    "market_cap_display": "\u00a3333.4m",
+    "ticker": "CTUK"
+  },
   "CYAN.L": {
     "business_description": "CyanConnode Holdings plc designs, develops, and sells narrowband radio frequency (RF) mesh and cellular networks that enable Omni Internet of Things (IoT) communications in India, the United Arab Emirates, and\u2026",
     "company_name": "CyanConnode Holdings plc",
@@ -688,6 +753,19 @@
     "market_cap_display": "\u00a317.2m",
     "ticker": "EPP"
   },
+  "FIH.L": {
+    "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism shipping, and fishing agency services in the Falkland Islands and the United Kingdom. It is involved in the retail of\u2026",
+    "company_name": "FIH group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FIH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:36.864710+00:00",
+    "market_cap": "22848816",
+    "market_cap_display": "\u00a322.8m",
+    "ticker": "FIH"
+  },
   "FMET.L": {
     "business_description": "Fulcrum Metals plc operates as a natural resources company in Canada. It explores for gold and other critical metals. The company's projects include the Teck-Hughes Gold Tailings and Sylvanite Gold Tailings projects,\u2026",
     "company_name": "Fulcrum Metals plc",
@@ -700,6 +778,19 @@
     "market_cap": "11698322",
     "market_cap_display": "\u00a311.7m",
     "ticker": "FMET"
+  },
+  "FORG.L": {
+    "business_description": "Forgent plc designs, develops and supplies proprietary advanced gasification technology to customers in the utility, industrial and waste management sectors in the Republic of Ireland, the United Kingdom, European\u2026",
+    "company_name": "Forgent plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FORG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:37.576904+00:00",
+    "market_cap": "2446594",
+    "market_cap_display": "\u00a32.4m",
+    "ticker": "FORG"
   },
   "FRAS.L": {
     "business_description": "Frasers Group Plc, together with its subsidiaries, engages in the retail and wholesale of sports and leisure clothing, footwear and equipment, and apparel through department stores, shops, and online. The company\u2026",
@@ -765,6 +856,32 @@
     "market_cap": "965099456",
     "market_cap_display": "\u00a3965.1m",
     "ticker": "GAMA"
+  },
+  "GDWN.L": {
+    "business_description": "Goodwin PLC, together with its subsidiaries, provides mechanical and refractory engineering solutions in the United Kingdom, rest of Europe, the United States, the Pacific Basin, and internationally. The company\u2026",
+    "company_name": "Goodwin PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:GDWN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:39.506795+00:00",
+    "market_cap": "1389018112",
+    "market_cap_display": "\u00a31.39bn",
+    "ticker": "GDWN"
+  },
+  "GENI.L": {
+    "business_description": "GENinCode Plc engages in the development and commercialization of clinical genetic tests for predictive analysis of risk to a patient's health based on genes in the United Kingdom, Spain, Italy, the United States,\u2026",
+    "company_name": "GENinCode Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GENI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:43.425681+00:00",
+    "market_cap": "7153890",
+    "market_cap_display": "\u00a37.2m",
+    "ticker": "GENI"
   },
   "GGP.L": {
     "business_description": "Greatland Resources Limited operates as a gold and copper mining company. The company owns a 100% interest in the Telfer gold-copper mine located in the Paterson region of Western Australia; and in the Havieron\u2026",
@@ -870,6 +987,19 @@
     "market_cap_display": "\u20ac553.0m",
     "ticker": "GWI"
   },
+  "HALO.L": {
+    "business_description": "Halo Minerals PLC, a mining company, engages in the exploration, development, and production of battery metals, primarily copper. The company's flagship project is the 100% interest in the Playa Verde project, which\u2026",
+    "company_name": "Halo Minerals PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:HALO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:40.830792+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "HALO"
+  },
   "HCM.L": {
     "business_description": "HUTCHMED (China) Limited, together with its subsidiaries, discovers, develops, and commercializes targeted therapeutics and immunotherapies to treat cancer and immunological diseases in Hong Kong, the United States, and\u2026",
     "company_name": "HUTCHMED (China) Limited",
@@ -878,9 +1008,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T18:49:47.525767+00:00",
-    "market_cap": "1642543872",
-    "market_cap_display": "\u00a31.64bn",
+    "last_updated": "2026-08-28T06:47:44.954863+00:00",
+    "market_cap": "1586054272",
+    "market_cap_display": "\u00a31.59bn",
     "ticker": "HCM"
   },
   "HEAD.L": {
@@ -1220,6 +1350,19 @@
     "market_cap": "154015152",
     "market_cap_display": "\u00a3154.0m",
     "ticker": "MCG"
+  },
+  "MGAM.L": {
+    "business_description": "Morgan Advanced Materials plc manufactures and sells various carbon and ceramic products. The company operates through Thermal Products, Performance Carbon, and Technical Ceramics segments. The Thermal Products segment\u2026",
+    "company_name": "Morgan Advanced Materials plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MGAM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:42.769183+00:00",
+    "market_cap": "656485120",
+    "market_cap_display": "\u00a3656.5m",
+    "ticker": "MGAM"
   },
   "MILA.L": {
     "business_description": "Mila Resources Plc engages in exploration and development of mineral resource properties. The company explores for gold, lithium, and copper deposits. It holds interest in the Kathleen Valley project that consists of\u2026",
@@ -1883,6 +2026,19 @@
     "market_cap": "35278552",
     "market_cap_display": "\u00a335.3m",
     "ticker": "TMO"
+  },
+  "TOO.L": {
+    "business_description": "Tooru Plc focuses on the health and wellness sector. It provides gluten-free food products through its brand. Tooru Plc is based in London, United Kingdom.",
+    "company_name": "Tooru Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TOO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T06:47:42.123390+00:00",
+    "market_cap": "4052393",
+    "market_cap_display": "\u00a34.1m",
+    "ticker": "TOO"
   },
   "TPFG.L": {
     "business_description": "The Property Franchise Group PLC engages in residential property franchise, and licensing and financial services businesses in the United Kingdom. It operates through three segments: Property Franchising, Financial\u2026",
