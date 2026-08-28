@@ -64,6 +64,32 @@
     "market_cap_display": "",
     "ticker": "46UR"
   },
+  "49AC.L": {
+    "business_description": "",
+    "company_name": "Lehman Brothers UK Capital Funding II LP 5.125% GTD PERP NTS EUR1000",
+    "currency": "EUR",
+    "data_source": "yfinance:49AC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:51:01.322911+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "49AC"
+  },
+  "73YK.L": {
+    "business_description": "",
+    "company_name": "Lehman Brothers U.K. Capital Funding III L.P. 3.875%-FRN GTD SUB PERP EUR50000",
+    "currency": "EUR",
+    "data_source": "yfinance:73YK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:51:01.924728+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "73YK"
+  },
   "79HG.L": {
     "business_description": "",
     "company_name": "Eversholt Funding plc 6.697% A/BKD GTD SNR 22/02/35 GBP'2011-1",
@@ -688,6 +714,19 @@
     "market_cap_display": "\u00a315.7m",
     "ticker": "ECOB"
   },
+  "ECR.L": {
+    "business_description": "ECR Minerals plc, through its subsidiaries, explores for and develops gold mineral projects in Australia. It explores for gold, silver, antimony, rare earths, and copper deposits in the Australian states of Victoria and\u2026",
+    "company_name": "ECR Minerals plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ECR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:50:58.850245+00:00",
+    "market_cap": "6983462",
+    "market_cap_display": "\u00a37.0m",
+    "ticker": "ECR"
+  },
   "EDEN.L": {
     "business_description": "Eden Research plc, together with its subsidiaries, engages in the development and sale of biopesticides in Europe and the United Kingdom. The company offers foliar disease and insect control, open field and greenhouses,\u2026",
     "company_name": "Eden Research plc",
@@ -1195,6 +1234,19 @@
     "market_cap_display": "",
     "ticker": "JARE"
   },
+  "JIM.L": {
+    "business_description": "Jarvis Securities plc, through its subsidiary, Jarvis Investment Management Limited, provides stock broking services to retail and institutional clients in the United Kingdom. The company offers retail execution-only\u2026",
+    "company_name": "Jarvis Securities plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JIM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:51:03.043132+00:00",
+    "market_cap": "3131170",
+    "market_cap_display": "\u00a33.1m",
+    "ticker": "JIM"
+  },
   "JLP.L": {
     "business_description": "Jubilee Metals Group PLC operates as a diversified metals processing and recovery company. It operates through Copper and Cobalt, PGM and Chrome, and Other segments. The company explores for platinum group metals, such\u2026",
     "company_name": "Jubilee Metals Group PLC",
@@ -1437,9 +1489,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T18:49:02.989887+00:00",
-    "market_cap": "2588208384",
-    "market_cap_display": "\u00a32.59bn",
+    "last_updated": "2026-08-28T18:50:57.623320+00:00",
+    "market_cap": "2603148288",
+    "market_cap_display": "\u00a32.60bn",
     "ticker": "MTO"
   },
   "MYSE.L": {
@@ -1559,6 +1611,19 @@
     "market_cap_display": "\u00a379.0m",
     "ticker": "PEBB"
   },
+  "PHAR.L": {
+    "business_description": "Pharos Energy plc, an independent energy company, explores, develops, and produces oil and gas properties in Vietnam and Egypt. The company was formerly known as SOCO International plc and changed its name to Pharos\u2026",
+    "company_name": "Pharos Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PHAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:50:58.230669+00:00",
+    "market_cap": "124235216",
+    "market_cap_display": "\u00a3124.2m",
+    "ticker": "PHAR"
+  },
   "PINE.L": {
     "business_description": "Pinewood Technologies Group PLC operates as a cloud-based dealer management software provider in the United Kingdom, rest of Europe, Africa, Asia, the Middle East, and internationally. The company primarily offers\u2026",
     "company_name": "Pinewood Technologies Group PLC",
@@ -1567,9 +1632,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T18:49:46.870296+00:00",
-    "market_cap": "491466208",
-    "market_cap_display": "\u00a3491.5m",
+    "last_updated": "2026-08-28T18:50:56.952791+00:00",
+    "market_cap": "520240608",
+    "market_cap_display": "\u00a3520.2m",
     "ticker": "PINE"
   },
   "PLSR.L": {
@@ -1658,9 +1723,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:44.496818+00:00",
-    "market_cap": "9063260",
-    "market_cap_display": "\u00a39.1m",
+    "last_updated": "2026-08-28T18:51:00.722983+00:00",
+    "market_cap": "8918247",
+    "market_cap_display": "\u00a38.9m",
     "ticker": "RBD"
   },
   "RBN.L": {
@@ -1832,6 +1897,19 @@
     "market_cap_display": "\u00a3120.5m",
     "ticker": "SEI"
   },
+  "SF22.L": {
+    "business_description": "",
+    "company_name": "SGA Societe Generale Acceptance NV",
+    "currency": "GBP",
+    "data_source": "yfinance:SF22.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:51:00.051904+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "SF22"
+  },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
     "company_name": "Sabien Technology Group Plc",
@@ -1909,6 +1987,19 @@
     "market_cap": "47076092",
     "market_cap_display": "\u00a347.1m",
     "ticker": "STX"
+  },
+  "SUH.L": {
+    "business_description": "Sutton Harbour Group plc, together with its subsidiaries, engages in the provision of harbour and its ancillary facilities in the United Kingdom. The company operates through Marine, Real Estate, Car Parking, and\u2026",
+    "company_name": "Sutton Harbour Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SUH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:50:56.338588+00:00",
+    "market_cap": "5002846",
+    "market_cap_display": "\u00a35.0m",
+    "ticker": "SUH"
   },
   "SUS.L": {
     "business_description": "S&U plc, together with its subsidiaries, provides motor, property bridging, and specialist finance services in the United Kingdom. It operates through Motor Finance and Property Bridging Finance. The company was\u2026",
@@ -2013,6 +2104,19 @@
     "market_cap": "19156720",
     "market_cap_display": "\u00a319.2m",
     "ticker": "TIA"
+  },
+  "TMIP.L": {
+    "business_description": "Taylor Maritime Limited, an investment company, engages in the acquisition, management, and operation of dry bulk ships in Guernsey. The company owns and operates a fleet of 5 dry bulk vessels consisting of 4 Handysize\u2026",
+    "company_name": "Taylor Maritime Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:TMIP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-08-28T18:50:59.447469+00:00",
+    "market_cap": "49789360",
+    "market_cap_display": "\u00a349.8m",
+    "ticker": "TMIP"
   },
   "TMO.L": {
     "business_description": "Time Out Group plc, together with its subsidiaries, engages in the media and hospitality business worldwide. The company operates through Time Out Market and Time Out Media segments. The Time Out Market segment operates\u2026",
