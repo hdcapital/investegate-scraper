@@ -155,6 +155,19 @@
     "market_cap_display": "\u00a3451.8m",
     "ticker": "AAIF"
   },
+  "AAL.L": {
+    "business_description": "Anglo American plc, a mining company, produces copper, iron ore, and crop nutrients in the United Kingdom and internationally. The company operates through the Premium Iron Ore and the Copper segments. It also explores\u2026",
+    "company_name": "Anglo American plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AAL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-01T18:54:22.978448+00:00",
+    "market_cap": "44070297600",
+    "market_cap_display": "\u00a344.07bn",
+    "ticker": "AAL"
+  },
   "ABDP.L": {
     "business_description": "AB Dynamics plc provides vehicle test development and verification products and services for driver assistance systems. The company operates through Testing Products, Testing Services, and Simulation segments. It is\u2026",
     "company_name": "AB Dynamics plc",
@@ -245,6 +258,19 @@
     "market_cap": "100026768",
     "market_cap_display": "\u00a3100.0m",
     "ticker": "AMCO"
+  },
+  "AMS.L": {
+    "business_description": "Advanced Medical Solutions Group plc, together with its subsidiaries, develops, manufactures, and distributes products for the surgical, woundcare, and wound-closure markets in the United Kingdom, Germany, France,\u2026",
+    "company_name": "Advanced Medical Solutions Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AMS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-01T18:54:27.575318+00:00",
+    "market_cap": "610381184",
+    "market_cap_display": "\u00a3610.4m",
+    "ticker": "AMS"
   },
   "APN.L": {
     "business_description": "Applied Nutrition Plc engages in the manufacture, wholesale, and retail of sports nutritional products in the United Kingdom and internationally. It offers whey protein, whey protein isolate, casein protein powder,\u2026",
@@ -397,9 +423,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T18:49:05.783904+00:00",
-    "market_cap": "7718217216",
-    "market_cap_display": "\u00a37.72bn",
+    "last_updated": "2026-09-01T18:54:29.585021+00:00",
+    "market_cap": "7742416384",
+    "market_cap_display": "\u00a37.74bn",
     "ticker": "BEZ"
   },
   "BHL.L": {
@@ -462,9 +488,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:46.016728+00:00",
-    "market_cap": "149589131264",
-    "market_cap_display": "\u00a3149.59bn",
+    "last_updated": "2026-09-01T18:54:26.926097+00:00",
+    "market_cap": "156381593600",
+    "market_cap_display": "\u00a3156.38bn",
     "ticker": "BNC"
   },
   "BNZL.L": {
@@ -761,9 +787,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T18:48:57.494292+00:00",
-    "market_cap": "147948560",
-    "market_cap_display": "\u00a3147.9m",
+    "last_updated": "2026-09-01T18:54:28.225031+00:00",
+    "market_cap": "163981776",
+    "market_cap_display": "\u00a3164.0m",
     "ticker": "CYN"
   },
   "DCC.L": {
@@ -921,6 +947,19 @@
     "market_cap": "24200568",
     "market_cap_display": "\u00a324.2m",
     "ticker": "EST"
+  },
+  "EXPN.L": {
+    "business_description": "Experian plc, together with its subsidiaries, operates as a data and technology company in North America, Latin America, the United Kingdom, Ireland, Europe, the Middle East, Africa, and the Asia Pacific. It operates\u2026",
+    "company_name": "Experian plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EXPN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-01T18:54:30.533732+00:00",
+    "market_cap": "26251010048",
+    "market_cap_display": "\u00a326.25bn",
+    "ticker": "EXPN"
   },
   "EXR.L": {
     "business_description": "ENGAGE XR Holdings plc engages in the development of the educational virtual reality platform. The company offers ENGAGE, an online virtual learning and corporate training platform that provides educators the tools they\u2026",
@@ -1220,6 +1259,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "HALO"
+  },
+  "HAN.L": {
+    "business_description": "Hansa Investment Company Limited is a closed-ended equity fund of funds launched and managed by Hanseatic Asset Management LBG. The fund is co-managed by Hansa Capital Partners LLP. It invests in public equity markets\u2026",
+    "company_name": "Hansa Investment Company Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:HAN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-01T18:54:26.230992+00:00",
+    "market_cap": "655203648",
+    "market_cap_display": "\u00a3655.2m",
+    "ticker": "HAN"
   },
   "HCM.L": {
     "business_description": "HUTCHMED (China) Limited, together with its subsidiaries, discovers, develops, and commercializes targeted therapeutics and immunotherapies to treat cancer and immunological diseases in Hong Kong, the United States, and\u2026",
@@ -1671,9 +1723,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T18:49:21.814524+00:00",
-    "market_cap": "375938",
-    "market_cap_display": "\u00a3375.9k",
+    "last_updated": "2026-09-01T18:54:28.872887+00:00",
+    "market_cap": "268527",
+    "market_cap_display": "\u00a3268.5k",
     "ticker": "MODE"
   },
   "MTEC.L": {
@@ -2001,6 +2053,19 @@
     "market_cap_display": "\u00a318.1m",
     "ticker": "RENX"
   },
+  "RFX.L": {
+    "business_description": "Ramsdens Holdings PLC engages in the provision of diversified financial services in the United Kingdom and internationally. It operates through four segments: Foreign Currency Exchange, Pawnbroking, Jewellery Retail,\u2026",
+    "company_name": "Ramsdens Holdings PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:RFX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-01T18:54:23.639622+00:00",
+    "market_cap": "217547456",
+    "market_cap_display": "\u00a3217.5m",
+    "ticker": "RFX"
+  },
   "RHIM.L": {
     "business_description": "RHI Magnesita N.V., together with its subsidiaries, develops, produces, sells, installs, and maintains refractory products and systems used in industrial high-temperature processes worldwide. The company offers\u2026",
     "company_name": "RHI Magnesita N.V.",
@@ -2013,6 +2078,19 @@
     "market_cap": "1379862656",
     "market_cap_display": "\u00a31.38bn",
     "ticker": "RHIM"
+  },
+  "RIO.L": {
+    "business_description": "Rio Tinto Group engages in exploring, mining, and processing mineral resources worldwide. The company operates through Iron Ore; Aluminium and lithium; and Copper segments. The Iron Ore segment engages in the iron ore\u2026",
+    "company_name": "Rio Tinto Group",
+    "currency": "GBp",
+    "data_source": "yfinance:RIO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-01T18:54:25.487961+00:00",
+    "market_cap": "123294302208",
+    "market_cap_display": "\u00a3123.29bn",
+    "ticker": "RIO"
   },
   "RKH.L": {
     "business_description": "Rockhopper Exploration plc, an oil and gas exploration and production company, engages in the exploration, appraisal, and development of oil and gas acreage. It has operations in the Falkland Islands, the Greater\u2026",
@@ -2035,9 +2113,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:25.634998+00:00",
-    "market_cap": "53678396",
-    "market_cap_display": "\u00a353.7m",
+    "last_updated": "2026-09-01T18:54:24.347072+00:00",
+    "market_cap": "54552636",
+    "market_cap_display": "\u00a354.6m",
     "ticker": "RLE"
   },
   "RNK.L": {
