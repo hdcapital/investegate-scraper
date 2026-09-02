@@ -142,6 +142,19 @@
     "market_cap_display": "\u00a328.6m",
     "ticker": "80M"
   },
+  "93TH.L": {
+    "business_description": "",
+    "company_name": "Alliance Oil Company Limited 10%-VAR GTD SNR NTS 11/03/2019 USD1000",
+    "currency": "USD",
+    "data_source": "yfinance:93TH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:50:05.676711+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "93TH"
+  },
   "AAIF.L": {
     "business_description": "Aberdeen Asian Income Fund Limited is a closed ended balanced mutual fund launched by Aberdeen Private Wealth Management Limited. It is managed by Aberdeen Standard Investments (Asia) Limited. The fund invests in the\u2026",
     "company_name": "Aberdeen Asian Income Fund Limited",
@@ -232,6 +245,19 @@
     "market_cap": "55142504",
     "market_cap_display": "\u00a355.1m",
     "ticker": "AIRE"
+  },
+  "AJB.L": {
+    "business_description": "AJ Bell plc, through its subsidiaries, operates investment platforms in the United Kingdom. The company offers AJ Bell Investcentre, which offers adviser needs and client service, easy-to-use functionality, and a\u2026",
+    "company_name": "AJ Bell plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AJB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:50:04.016494+00:00",
+    "market_cap": "2336507392",
+    "market_cap_display": "\u00a32.34bn",
+    "ticker": "AJB"
   },
   "AKN.L": {
     "business_description": "Arkadian Strategic Metals Plc, together with its subsidiaries, engages in the exploration and development of mining and oil and gas resources in the United Kingdom, Greenland, and Sweden. It explores for gold, critical\u2026",
@@ -440,6 +466,19 @@
     "market_cap": "7742416384",
     "market_cap_display": "\u00a37.74bn",
     "ticker": "BEZ"
+  },
+  "BGUK.L": {
+    "business_description": "",
+    "company_name": "Baillie Gifford UK Growth Trust plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BGUK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:50:02.405045+00:00",
+    "market_cap": "233302224",
+    "market_cap_display": "\u00a3233.3m",
+    "ticker": "BGUK"
   },
   "BHL.L": {
     "business_description": "Bradda Head Lithium Limited, together with its subsidiaries, engages in the exploration and development of lithium deposits and resources in the United States. It primarily explores for lithium, brine, pegmatite, and\u2026",
@@ -792,6 +831,19 @@
     "market_cap_display": "\u00a39.6m",
     "ticker": "CSSG"
   },
+  "CTHT.L": {
+    "business_description": "CT Healthcare Trust PLC is a closed ended equity mutual fund launched by Bellevue Asset Management AG. The fund is managed by Bellevue Advisors Limited. It invests in public equity markets across the globe. The fund\u2026",
+    "company_name": "CT Healthcare Trust PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CTHT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:50:04.856452+00:00",
+    "market_cap": "63613132",
+    "market_cap_display": "\u00a363.6m",
+    "ticker": "CTHT"
+  },
   "CTPE.L": {
     "business_description": "CT Private Equity Trust PLC, formerly known as BMO Private Equity Trust Plc specializes in secondary indirect, direct, and investing in other funds. Within investing in other funds, the fund specializes in private\u2026",
     "company_name": "CT Private Equity Trust PLC",
@@ -852,9 +904,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:24.311682+00:00",
-    "market_cap": "5445788672",
-    "market_cap_display": "\u00a35.45bn",
+    "last_updated": "2026-09-02T18:49:58.992991+00:00",
+    "market_cap": "5407347712",
+    "market_cap_display": "\u00a35.41bn",
     "ticker": "DCC"
   },
   "DGI9.L": {
@@ -960,6 +1012,19 @@
     "market_cap": "242663984",
     "market_cap_display": "\u00a3242.7m",
     "ticker": "EGL"
+  },
+  "EME.L": {
+    "business_description": "Empyrean Energy Plc engages in the exploration, development, and production of energy resource projects. It holds an 8.5% operating interest in the Duyung PSC project that covers an area of approximately 1,100- square\u2026",
+    "company_name": "Empyrean Energy Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EME.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:49:56.500268+00:00",
+    "market_cap": "2573852",
+    "market_cap_display": "\u00a32.6m",
+    "ticker": "EME"
   },
   "EMR.L": {
     "business_description": "Empresaria Group plc provides staffing and recruitment services in the United Kingdom, Europe, the Asia Pacific, and the Americas. The company offers permanent placement, temporary and contract staffing, executive\u2026",
@@ -1274,27 +1339,27 @@
     "ticker": "GTC"
   },
   "GV1O.L": {
-    "business_description": "",
-    "company_name": "Gresham House Renewable Energy VCT 1 Ord",
+    "business_description": "Gresham House Renewable Energy VCT 1 plc is a venture capital trust specializing in investments in growth capital, long term renewable energy projects including ground mounted solar, roof mounted solar and small wind\u2026",
+    "company_name": "Gresham House Renewable Energy VCT 1 PLC",
     "currency": "GBp",
     "data_source": "yfinance:GV1O.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:24.239707+00:00",
+    "last_updated": "2026-09-02T18:50:06.465136+00:00",
     "market_cap": "3521499",
     "market_cap_display": "\u00a33.5m",
     "ticker": "GV1O"
   },
   "GV2O.L": {
     "business_description": "",
-    "company_name": "Gresham House Renewable Energy VCT 2 Ord",
+    "company_name": "Gresham House Renewable Energy VCT 2 plc",
     "currency": "GBp",
     "data_source": "yfinance:GV2O.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:23.642114+00:00",
+    "last_updated": "2026-09-02T18:50:07.276893+00:00",
     "market_cap": "9146563",
     "market_cap_display": "\u00a39.1m",
     "ticker": "GV2O"
@@ -1468,6 +1533,19 @@
     "market_cap_display": "\u00a3581.5m",
     "ticker": "HWG"
   },
+  "IEM.L": {
+    "business_description": "Impax Environmental Markets plc is a closed ended equity mutual fund launched and managed by Impax Asset Management (AIFM) Limited. The fund invests in public equity markets across the globe. It seeks to invest in\u2026",
+    "company_name": "Impax Environmental Markets Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IEM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:50:01.601677+00:00",
+    "market_cap": "170203328",
+    "market_cap_display": "\u00a3170.2m",
+    "ticker": "IEM"
+  },
   "IFRX.L": {
     "business_description": "iFOREX Financial Trading Holdings Ltd. operates as a financial technology company that develops and operates an online and mobile CFD trading platform. The company's platform enables retail clients to trade CFDs across\u2026",
     "company_name": "IFOREX FINANCIAL TRADING HOLDIN",
@@ -1506,6 +1584,19 @@
     "market_cap": "4152909568",
     "market_cap_display": "\u00a34.15bn",
     "ticker": "ITH"
+  },
+  "ITRK.L": {
+    "business_description": "Intertek Group plc provides quality assurance solutions to various industries in the United Kingdom, the United States, China, Australia, and internationally. It operates through five segments: Consumer Products,\u2026",
+    "company_name": "Intertek Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ITRK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:49:58.187573+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "ITRK"
   },
   "JAM.L": {
     "business_description": "",
@@ -1688,6 +1779,19 @@
     "market_cap": "1980218",
     "market_cap_display": "\u00a32.0m",
     "ticker": "LIT"
+  },
+  "LMP.L": {
+    "business_description": "LondonMetric Property Plc is the UK's leading triple net lease REIT with a 8 billion pounds portfolio. It is aligned to structurally supported sectors of logistics, healthcare, convenience, entertainment and leisure. It\u2026",
+    "company_name": "LondonMetric Property Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LMP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:49:59.794646+00:00",
+    "market_cap": "4265347072",
+    "market_cap_display": "\u00a34.27bn",
+    "ticker": "LMP"
   },
   "MAC.L": {
     "business_description": "Marechale Capital Plc provides professional advisory and broking services to companies in the United Kingdom. The company offers capital raising services, including equity financing, mezzanine, and debt financing\u2026",
@@ -1892,7 +1996,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T18:49:06.438549+00:00",
+    "last_updated": "2026-09-02T18:50:03.205958+00:00",
     "market_cap": "3075635456",
     "market_cap_display": "$3.08bn",
     "ticker": "MYSE"
@@ -2013,6 +2117,19 @@
     "market_cap": "5836467",
     "market_cap_display": "\u00a35.8m",
     "ticker": "OPTI"
+  },
+  "ORNT.L": {
+    "business_description": "Orient Telecoms Plc provides managed telecommunications services in Malaysia, Thailand, and Singapore. The company offers managed broadband services, international managed services; network connectivity and internet\u2026",
+    "company_name": "Orient Telecoms Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ORNT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-02T18:50:00.784218+00:00",
+    "market_cap": "400000",
+    "market_cap_display": "\u00a3400.0k",
+    "ticker": "ORNT"
   },
   "PEBB.L": {
     "business_description": "The Pebble Group plc, together with its subsidiaries, engages in the sale of technology solutions, products, and other services to the promotional merchandise industry in the United Kingdom, Continental Europe, North\u2026",
@@ -2919,7 +3036,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T18:49:14.269142+00:00",
+    "last_updated": "2026-09-02T18:49:57.362598+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
