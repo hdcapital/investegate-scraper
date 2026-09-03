@@ -930,9 +930,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T18:49:17.801652+00:00",
-    "market_cap": "34675076",
-    "market_cap_display": "\u00a334.7m",
+    "last_updated": "2026-09-03T18:51:05.404211+00:00",
+    "market_cap": "35027108",
+    "market_cap_display": "\u00a335.0m",
     "ticker": "CYAN"
   },
   "CYN.L": {
@@ -1312,6 +1312,19 @@
     "market_cap_display": "\u00a32.2m",
     "ticker": "FUM"
   },
+  "FXPO.L": {
+    "business_description": "Ferrexpo plc, together with its subsidiaries, mines for, develops, processes, produces, markets, exports, and sells iron ore pellets to the metallurgical industry. It operates two mines and a processing plant near\u2026",
+    "company_name": "Ferrexpo plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FXPO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T18:51:04.722815+00:00",
+    "market_cap": "168163568",
+    "market_cap_display": "\u00a3168.2m",
+    "ticker": "FXPO"
+  },
   "GAID.L": {
     "business_description": "",
     "company_name": "GAIL (India) Limited",
@@ -1688,6 +1701,19 @@
     "market_cap": "41458528",
     "market_cap_display": "\u00a341.5m",
     "ticker": "IFRX"
+  },
+  "IGG.L": {
+    "business_description": "IG Group Holdings plc, a fintech company, engages in the online trading and investments business in the United Kingdom, Ireland, the Asia-Pacific, the Middle East, the United States, Europe, and institutional and\u2026",
+    "company_name": "IG Group Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IGG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T18:51:09.711674+00:00",
+    "market_cap": "4486324224",
+    "market_cap_display": "\u00a34.49bn",
+    "ticker": "IGG"
   },
   "INPP.L": {
     "business_description": "International Public Partnerships Limited specializes in investments in broader infrastructure sector with a focus on public or social infrastructure. The fund seeks acquisition opportunities that may be single assets,\u2026",
@@ -2274,6 +2300,19 @@
     "market_cap_display": "\u00a354.6m",
     "ticker": "PAT"
   },
+  "PCGH.L": {
+    "business_description": "",
+    "company_name": "Polar Capital Global Healthcare Trust plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PCGH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T18:51:08.997777+00:00",
+    "market_cap": "483949600",
+    "market_cap_display": "\u00a3483.9m",
+    "ticker": "PCGH"
+  },
   "PEBB.L": {
     "business_description": "The Pebble Group plc, together with its subsidiaries, engages in the sale of technology solutions, products, and other services to the promotional merchandise industry in the United Kingdom, Continental Europe, North\u2026",
     "company_name": "The Pebble Group plc",
@@ -2390,6 +2429,19 @@
     "market_cap": "28489804",
     "market_cap_display": "\u00a328.5m",
     "ticker": "PRD"
+  },
+  "PREM.L": {
+    "business_description": "Premier African Minerals Limited, together with its subsidiaries, engages in the investment, mining, exploration, evaluation, and development of natural resource properties on the African continent. The company's\u2026",
+    "company_name": "Premier African Minerals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:PREM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T18:51:06.925184+00:00",
+    "market_cap": "5874469",
+    "market_cap_display": "\u00a35.9m",
+    "ticker": "PREM"
   },
   "PRTC.L": {
     "business_description": "PureTech Health plc, engages in the development and commercialization of biotechnology and pharmaceutical solutions in the United States. It is developing LYT-100, a Phase 3-ready therapeutic candidate with the\u2026",
@@ -2573,6 +2625,19 @@
     "market_cap_display": "\u00a3362.7k",
     "ticker": "ROC"
   },
+  "ROR.L": {
+    "business_description": "Rotork plc manufactures industrial flow control and instrumentation solutions for the oil and gas, water and wastewater, power, chemical process, and industrial markets. It operates through three segments: Oils & Gas;\u2026",
+    "company_name": "Rotork plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ROR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T18:51:07.591703+00:00",
+    "market_cap": "3943451904",
+    "market_cap_display": "\u00a33.94bn",
+    "ticker": "ROR"
+  },
   "ROSE.L": {
     "business_description": "Rosebank Industries plc engages in supply of low-voltage electrical distribution systems, control box assemblies, and engineered components in Jersey, North America, Europe, the Middle East, Asia, Pacific, and\u2026",
     "company_name": "Rosebank Industries plc",
@@ -2646,9 +2711,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:25.431983+00:00",
-    "market_cap": "98589232",
-    "market_cap_display": "\u00a398.6m",
+    "last_updated": "2026-09-03T18:51:08.329066+00:00",
+    "market_cap": "101973584",
+    "market_cap_display": "\u00a3102.0m",
     "ticker": "SCLP"
   },
   "SDLF.L": {
@@ -2742,6 +2807,19 @@
     "market_cap_display": "\u00a3872.5k",
     "ticker": "SNT"
   },
+  "SNWS.L": {
+    "business_description": "Smiths News plc, together with its subsidiaries, engages in the distributing of newspapers and magazines in the United Kingdom and internationally. The company offers plastic and cardboard waste; and is involved in\u2026",
+    "company_name": "Smiths News plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SNWS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T18:51:11.091559+00:00",
+    "market_cap": "168456144",
+    "market_cap_display": "\u00a3168.5m",
+    "ticker": "SNWS"
+  },
   "SNX.L": {
     "business_description": "Synectics plc provides specialist video based electronic surveillance systems and technology for use in security applications, environments, and transport applications in the United Kingdom, Ireland, Europe, North\u2026",
     "company_name": "Synectics plc",
@@ -2776,9 +2854,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:21.699238+00:00",
-    "market_cap": "945410816",
-    "market_cap_display": "\u00a3945.4m",
+    "last_updated": "2026-09-03T18:51:06.068185+00:00",
+    "market_cap": "965440704",
+    "market_cap_display": "\u00a3965.4m",
     "ticker": "SPI"
   },
   "SRES.L": {
@@ -2919,9 +2997,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T18:48:59.077444+00:00",
-    "market_cap": "665987648",
-    "market_cap_display": "\u00a3666.0m",
+    "last_updated": "2026-09-03T18:51:10.390714+00:00",
+    "market_cap": "784187712",
+    "market_cap_display": "\u00a3784.2m",
     "ticker": "TGA"
   },
   "TIA.L": {
