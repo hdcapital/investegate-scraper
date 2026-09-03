@@ -194,6 +194,19 @@
     "market_cap_display": "\u00a3178.8m",
     "ticker": "ABDP"
   },
+  "AC8.L": {
+    "business_description": "Intuitive Investments Group Plc intends to invest in early and later-stage investments. The firm invests in life sciences businesses. It primarily invests in the United Kingdom, continental Europe, and the United\u2026",
+    "company_name": "Intuitive Investments Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AC8.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:32.368940+00:00",
+    "market_cap": "631829696",
+    "market_cap_display": "\u00a3631.8m",
+    "ticker": "AC8"
+  },
   "AEP.L": {
     "business_description": "AEP Plantations Plc, together with its subsidiaries, owns, operates, and develops oil palm plantations in Indonesia and Malaysia. The company primarily includes oil palms, harvesting fresh fruit bunches FFB, shell nuts,\u2026",
     "company_name": "AEP Plantations Plc",
@@ -271,6 +284,19 @@
     "market_cap": "3061855",
     "market_cap_display": "\u00a33.1m",
     "ticker": "AKN"
+  },
+  "ALFA.L": {
+    "business_description": "Alfa Financial Software Holdings PLC, through its subsidiaries, provides software and related services to the auto and equipment finance industry in the United Kingdom, North Americas, Europe, Africa, Australasia and\u2026",
+    "company_name": "Alfa Financial Software Holdings PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ALFA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:29.507906+00:00",
+    "market_cap": "482756800",
+    "market_cap_display": "\u00a3482.8m",
+    "ticker": "ALFA"
   },
   "ALRT.L": {
     "business_description": "Defence Holdings PLC develops and acquires defence technologies, focusing on AI-enabled systems, cyber-defence, secure communications, autonomous drone systems, and critical infrastructure protection. The company's\u2026",
@@ -579,9 +605,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T06:48:25.929130+00:00",
-    "market_cap": "179923248",
-    "market_cap_display": "\u00a3179.9m",
+    "last_updated": "2026-09-03T06:48:37.195436+00:00",
+    "market_cap": "182330240",
+    "market_cap_display": "\u00a3182.3m",
     "ticker": "BOOK"
   },
   "BOY.L": {
@@ -623,6 +649,19 @@
     "market_cap_display": "\u00a338.9m",
     "ticker": "BRES"
   },
+  "BRK.L": {
+    "business_description": "Brooks Macdonald Group plc, through its subsidiaries, provides wealth management and financial planning services to private individuals, trusts, charities, and pension funds in the United Kingdom. The company offers\u2026",
+    "company_name": "Brooks Macdonald Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BRK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:23.746352+00:00",
+    "market_cap": "227090624",
+    "market_cap_display": "\u00a3227.1m",
+    "ticker": "BRK"
+  },
   "BTG.L": {
     "business_description": "BTG Consulting plc operates as a financial and real estate advisory company in the United Kingdom. It operates in two segments, Restructuring and Advisory, and Real Estate Advisory. The company offers business\u2026",
     "company_name": "BTG Consulting plc",
@@ -648,6 +687,19 @@
     "market_cap": "40299444",
     "market_cap_display": "\u00a340.3m",
     "ticker": "BVC"
+  },
+  "CAM.L": {
+    "business_description": "Camellia Plc, together with its subsidiaries, engages in agriculture and engineering business in the United Kingdom, Bangladesh, India, Kenya, Malawi, South Africa, North America, and South America. The company produces\u2026",
+    "company_name": "Camellia Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CAM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:33.853665+00:00",
+    "market_cap": "146612112",
+    "market_cap_display": "\u00a3146.6m",
+    "ticker": "CAM"
   },
   "CAML.L": {
     "business_description": "Central Asia Metals plc, together with its subsidiaries, operates as a base metals producer. The company produces copper, zinc, silver, and lead minerals. It also owns a 100% interest in the Kounrad solvent\u2026",
@@ -935,6 +987,19 @@
     "market_cap_display": "\u00a3222.7m",
     "ticker": "DIA"
   },
+  "ECEL.L": {
+    "business_description": "Eurocell plc engages in manufacturing, distribution, and recycling of building products in the United Kingdom and the Republic of Ireland. The company operates through Profiles, Corporate, Alune, and Building Plastics\u2026",
+    "company_name": "Eurocell plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ECEL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:25.951825+00:00",
+    "market_cap": "122116936",
+    "market_cap_display": "\u00a3122.1m",
+    "ticker": "ECEL"
+  },
   "ECOB.L": {
     "business_description": "Eco Buildings Group plc, together with its subsidiaries, provides solutions for the housing market in Albania, the Republic of Kosovo, and the Republic of North Macedonia. It operates in two segments, Sale of GFRG\u2026",
     "company_name": "Eco Buildings Group plc",
@@ -987,6 +1052,19 @@
     "market_cap_display": "\u00a318.9m",
     "ticker": "EDEN"
   },
+  "EDX.L": {
+    "business_description": "EDX Medical Group Plc engages in developing a range of diagnostics testing solutions in the United Kingdom. It engages in the development of tests for diabetes, obesity, inflammatory disorders, and kidney and liver\u2026",
+    "company_name": "EDX Medical Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EDX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:33.079017+00:00",
+    "market_cap": "38823584",
+    "market_cap_display": "\u00a338.8m",
+    "ticker": "EDX"
+  },
   "EEE.L": {
     "business_description": "Empire Metals Limited engages in the exploration and development of properties in the United Kingdom, Australia, and Austria. The company explores for copper, lithium, gold, titanium, and other minerals. Its flagship\u2026",
     "company_name": "Empire Metals Limited",
@@ -1013,6 +1091,19 @@
     "market_cap_display": "\u00a3242.7m",
     "ticker": "EGL"
   },
+  "EMAN.L": {
+    "business_description": "Everyman Media Group plc, together with its subsidiaries, owns and manages cinemas in the United Kingdom. The company provides mainstream, independent and classic films, special events, launches, and live satellite\u2026",
+    "company_name": "Everyman Media Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EMAN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:30.221477+00:00",
+    "market_cap": "51632308",
+    "market_cap_display": "\u00a351.6m",
+    "ticker": "EMAN"
+  },
   "EME.L": {
     "business_description": "Empyrean Energy Plc engages in the exploration, development, and production of energy resource projects. It holds an 8.5% operating interest in the Duyung PSC project that covers an area of approximately 1,100- square\u2026",
     "company_name": "Empyrean Energy Plc",
@@ -1038,6 +1129,19 @@
     "market_cap": "12262966",
     "market_cap_display": "\u00a312.3m",
     "ticker": "EMR"
+  },
+  "ENQ.L": {
+    "business_description": "EnQuest PLC, an oil and gas production and development company, explores, extracts, and produces hydrocarbons in the North Sea and Malaysia. The company primarily holds interests in the Magnus, Kraken, Golden Eagle,\u2026",
+    "company_name": "EnQuest PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ENQ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:27.375444+00:00",
+    "market_cap": "509005792",
+    "market_cap_display": "\u00a3509.0m",
+    "ticker": "ENQ"
   },
   "ENRG.L": {
     "business_description": "",
@@ -1260,6 +1364,19 @@
     "market_cap_display": "\u00a31.39bn",
     "ticker": "GDWN"
   },
+  "GEMD.L": {
+    "business_description": "Gem Diamonds Limited, together with its subsidiaries, operates diamond mines. The company also produces, manufactures, sells, and markets rough and polished diamonds; and provides technical, financial, and management\u2026",
+    "company_name": "Gem Diamonds Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:GEMD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:28.086055+00:00",
+    "market_cap": "8750303",
+    "market_cap_display": "\u00a38.8m",
+    "ticker": "GEMD"
+  },
   "GENI.L": {
     "business_description": "GENinCode Plc engages in the development and commercialization of clinical genetic tests for predictive analysis of risk to a patient's health based on genes in the United Kingdom, Spain, Italy, the United States,\u2026",
     "company_name": "GENinCode Plc",
@@ -1272,6 +1389,19 @@
     "market_cap": "7153890",
     "market_cap_display": "\u00a37.2m",
     "ticker": "GENI"
+  },
+  "GFTU.L": {
+    "business_description": "Grafton Group plc distributes and sells building materials and construction related products in Ireland, the United Kingdom, Ireland, the Netherlands, Finland, and Spain. The company provides tools, ironmongery and\u2026",
+    "company_name": "Grafton Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GFTU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:24.530906+00:00",
+    "market_cap": "2003429888",
+    "market_cap_display": "\u00a32.00bn",
+    "ticker": "GFTU"
   },
   "GGP.L": {
     "business_description": "Greatland Resources Limited operates as a gold and copper mining company. The company owns a 100% interest in the Telfer gold-copper mine located in the Paterson region of Western Australia; and in the Havieron\u2026",
@@ -1437,9 +1567,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:31.502165+00:00",
-    "market_cap": "553227648",
-    "market_cap_display": "\u00a3553.2m",
+    "last_updated": "2026-09-03T06:48:26.660249+00:00",
+    "market_cap": "567620544",
+    "market_cap_display": "\u00a3567.6m",
     "ticker": "HFG"
   },
   "HHPD.L": {
@@ -1580,9 +1710,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:30.906199+00:00",
-    "market_cap": "4152909568",
-    "market_cap_display": "\u00a34.15bn",
+    "last_updated": "2026-09-03T06:48:39.333800+00:00",
+    "market_cap": "4720715776",
+    "market_cap_display": "\u00a34.72bn",
     "ticker": "ITH"
   },
   "ITRK.L": {
@@ -1658,9 +1788,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:47:54.536831+00:00",
-    "market_cap": "174377328",
-    "market_cap_display": "\u00a3174.4m",
+    "last_updated": "2026-09-03T06:48:34.808463+00:00",
+    "market_cap": "196174496",
+    "market_cap_display": "\u00a3196.2m",
     "ticker": "JSE"
   },
   "JTC.L": {
@@ -2131,6 +2261,19 @@
     "market_cap_display": "\u00a3400.0k",
     "ticker": "ORNT"
   },
+  "PAT.L": {
+    "business_description": "Panthera Resources PLC primarily engages in the exploration and development of gold projects in India and West Africa. Its flagship property is the Bhukia Project located in the state of Rajasthan, India. The company\u2026",
+    "company_name": "Panthera Resources PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PAT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:30.947442+00:00",
+    "market_cap": "54620960",
+    "market_cap_display": "\u00a354.6m",
+    "ticker": "PAT"
+  },
   "PEBB.L": {
     "business_description": "The Pebble Group plc, together with its subsidiaries, engages in the sale of technology solutions, products, and other services to the promotional merchandise industry in the United Kingdom, Continental Europe, North\u2026",
     "company_name": "The Pebble Group plc",
@@ -2273,6 +2416,19 @@
     "market_cap": "25780711424",
     "market_cap_display": "\u00a325.78bn",
     "ticker": "PRU"
+  },
+  "PTAL.L": {
+    "business_description": "PetroTal Corp. engages in the acquisition, exploration, appraisal, development, and production of oil and natural gas properties in Peru. Its flagship property is the 100%-owned Breta\u00f1a Norte oil field located within\u2026",
+    "company_name": "PetroTal Corp.",
+    "currency": "GBp",
+    "data_source": "yfinance:PTAL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:36.484519+00:00",
+    "market_cap": "266895120",
+    "market_cap_display": "\u00a3266.9m",
+    "ticker": "PTAL"
   },
   "RBD.L": {
     "business_description": "Reabold Resources Plc, an investment holding company, engages in the exploration, appraisal, development, and evaluation of oil and gas projects in the United Kingdom, Romania, the United States, and Italy. Its key\u2026",
@@ -2417,6 +2573,19 @@
     "market_cap_display": "\u00a3362.7k",
     "ticker": "ROC"
   },
+  "ROSE.L": {
+    "business_description": "Rosebank Industries plc engages in supply of low-voltage electrical distribution systems, control box assemblies, and engineered components in Jersey, North America, Europe, the Middle East, Asia, Pacific, and\u2026",
+    "company_name": "Rosebank Industries plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ROSE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:25.242120+00:00",
+    "market_cap": "3380400384",
+    "market_cap_display": "\u00a33.38bn",
+    "ticker": "ROSE"
+  },
   "RSE.L": {
     "business_description": "Riverstone Energy Limited is a private equity/ buyouts fund. The fund prefers to invest through buyout. It prefers to make investments in energy companies focusing decarbonization, midstream exploration, production,\u2026",
     "company_name": "Riverstone Energy Limited",
@@ -2547,6 +2716,19 @@
     "market_cap_display": "\u00a313.00bn",
     "ticker": "SGRO"
   },
+  "SML.L": {
+    "business_description": "Strategic Minerals Plc engages in the exploration, development, and operation of mining projects. The company operates the Cobre mine in New Mexico, which sells magnetite for use in the cement, fertilizer, dense\u2026",
+    "company_name": "Strategic Minerals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SML.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:35.773935+00:00",
+    "market_cap": "155032672",
+    "market_cap_display": "\u00a3155.0m",
+    "ticker": "SML"
+  },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
     "company_name": "Sabien Technology Group Plc",
@@ -2568,9 +2750,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:00.024438+00:00",
-    "market_cap": "35289824",
-    "market_cap_display": "\u00a335.3m",
+    "last_updated": "2026-09-03T06:48:37.907791+00:00",
+    "market_cap": "32738752",
+    "market_cap_display": "\u00a332.7m",
     "ticker": "SNX"
   },
   "SOUC.L": {
@@ -2820,6 +3002,19 @@
     "market_cap_display": "\u00a3290.1m",
     "ticker": "TPFG"
   },
+  "TRB.L": {
+    "business_description": "Tribal Group plc, through its subsidiaries, provides software and services to education institutions internationally. The company operates in two segments: Student Information Systems (SIS) and Etio. The Student\u2026",
+    "company_name": "Tribal Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:31.657020+00:00",
+    "market_cap": "135059344",
+    "market_cap_display": "\u00a3135.1m",
+    "ticker": "TRB"
+  },
   "TRCS.L": {
     "business_description": "Tracsis plc, together with its subsidiaries, engages in the provision of software, hardware, data analytics and geographic information systems, and services in the United Kingdom, Ireland, rest of Europe, Europe, North\u2026",
     "company_name": "Tracsis plc",
@@ -2871,6 +3066,19 @@
     "market_cap": "14158348288",
     "market_cap_display": "$14.16bn",
     "ticker": "TTST"
+  },
+  "TUN.L": {
+    "business_description": "Tungsten West PLC operates as a mining development company in the United Kingdom. It owns and operates a Hemerdon tungsten and tin mine located near the village of Plympton, in South Devon, England. Tungsten West PLC\u2026",
+    "company_name": "Tungsten West PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:TUN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:28.793776+00:00",
+    "market_cap": "653621376",
+    "market_cap_display": "\u00a3653.6m",
+    "ticker": "TUN"
   },
   "TXP.L": {
     "business_description": "Touchstone Exploration Inc. engages in the exploration, development, acquisition, production, and sale of petroleum and natural gas properties in the Republic of Trinidad and Tobago. The company also operates upstream\u2026",
@@ -3040,6 +3248,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
+  },
+  "XSG.L": {
+    "business_description": "Xeros Technology Group plc, together with its subsidiaries, provides technologies for the laundry and apparel industries in Europe, North America, and internationally. The company offers XOrbs, a reusable polymer\u2026",
+    "company_name": "Xeros Technology Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:XSG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-03T06:48:38.620082+00:00",
+    "market_cap": "12496982",
+    "market_cap_display": "\u00a312.5m",
+    "ticker": "XSG"
   },
   "ZCC.L": {
     "business_description": "",
