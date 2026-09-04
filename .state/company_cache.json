@@ -709,9 +709,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T06:47:41.372819+00:00",
-    "market_cap": "285601696",
-    "market_cap_display": "\u00a3285.6m",
+    "last_updated": "2026-09-04T18:49:30.115418+00:00",
+    "market_cap": "303324000",
+    "market_cap_display": "\u00a3303.3m",
     "ticker": "CAML"
   },
   "CAPD.L": {
@@ -1403,6 +1403,19 @@
     "market_cap_display": "\u00a37.2m",
     "ticker": "GENI"
   },
+  "GENL.L": {
+    "business_description": "Genel Energy plc, together with its subsidiaries, operates as an independent oil and gas exploration and production company. It operates through two segments: Production and Pre-production. Genel Energy plc was formerly\u2026",
+    "company_name": "Genel Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GENL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T18:49:28.723818+00:00",
+    "market_cap": "152666096",
+    "market_cap_display": "\u00a3152.7m",
+    "ticker": "GENL"
+  },
   "GFTU.L": {
     "business_description": "Grafton Group plc distributes and sells building materials and construction related products in Ireland, the United Kingdom, Ireland, the Netherlands, Finland, and Spain. The company provides tools, ironmongery and\u2026",
     "company_name": "Grafton Group plc",
@@ -2092,6 +2105,19 @@
     "market_cap_display": "\u00a3145.4m",
     "ticker": "MKA"
   },
+  "MNKS.L": {
+    "business_description": "",
+    "company_name": "Monks Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MNKS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T18:49:29.476514+00:00",
+    "market_cap": "2472887040",
+    "market_cap_display": "\u00a32.47bn",
+    "ticker": "MNKS"
+  },
   "MODE.L": {
     "business_description": "R8 Capital Investments plc does not have significant operations. It intends to identify and complete an acquisition or reverse merger as an LSE-listed cash shell. Previously, it was involved in the crypto-related\u2026",
     "company_name": "R8 Capital Investments plc",
@@ -2559,6 +2585,19 @@
     "market_cap": "18136276",
     "market_cap_display": "\u00a318.1m",
     "ticker": "RENX"
+  },
+  "RFG.L": {
+    "business_description": "Roebuck Food Group plc, together with its subsidiaries, provides functional ingredients to food manufacturing and wholesale companies in the United Kingdom, Ireland, and internationally. The company operates through\u2026",
+    "company_name": "Roebuck Food Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RFG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T18:49:30.795467+00:00",
+    "market_cap": "26297426",
+    "market_cap_display": "\u00a326.3m",
+    "ticker": "RFG"
   },
   "RFX.L": {
     "business_description": "Ramsdens Holdings PLC engages in the provision of diversified financial services in the United Kingdom and internationally. It operates through four segments: Foreign Currency Exchange, Pawnbroking, Jewellery Retail,\u2026",
