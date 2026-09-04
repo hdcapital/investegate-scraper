@@ -449,9 +449,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T18:48:58.316465+00:00",
-    "market_cap": "19800012",
-    "market_cap_display": "\u00a319.8m",
+    "last_updated": "2026-09-04T06:47:21.705721+00:00",
+    "market_cap": "14850008",
+    "market_cap_display": "\u00a314.9m",
     "ticker": "BANK"
   },
   "BBSN.L": {
@@ -2027,6 +2027,32 @@
     "market_cap_display": "\u00a3113.7m",
     "ticker": "MERC"
   },
+  "MET1.L": {
+    "business_description": "Metals One PLC operates as a minerals company in the United States, Finland, Norway, Peru, Tanzania, and South Africa. It explores for uranium, gold, graphite, copper, nickel, vanadium, cobalt, zinc, silver, and\u2026",
+    "company_name": "Metals One PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:MET1.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T06:47:20.221253+00:00",
+    "market_cap": "15704689",
+    "market_cap_display": "\u00a315.7m",
+    "ticker": "MET1"
+  },
+  "MFX.L": {
+    "business_description": "Manx Financial Group PLC, through its subsidiaries, provides asset and personal finance, investing, foreign exchange brokerage, and wealth management services in the Isle of Man, the United Kingdom, and the Channel\u2026",
+    "company_name": "Manx Financial Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:MFX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T06:47:19.478308+00:00",
+    "market_cap": "29584866",
+    "market_cap_display": "\u00a329.6m",
+    "ticker": "MFX"
+  },
   "MGAM.L": {
     "business_description": "Morgan Advanced Materials plc manufactures and sells various carbon and ceramic products. The company operates through Thermal Products, Performance Carbon, and Technical Ceramics segments. The Thermal Products segment\u2026",
     "company_name": "Morgan Advanced Materials plc",
@@ -2481,6 +2507,19 @@
     "market_cap": "266895120",
     "market_cap_display": "\u00a3266.9m",
     "ticker": "PTAL"
+  },
+  "QDE.L": {
+    "business_description": "Quantum Data Energy PLC engages in the development and production of power generation projects in the United Kingdom. It operates Pyebridge project, a 9 MW gas-powered reserve power (RP) site located in Derbyshire;\u2026",
+    "company_name": "Quantum Data Energy PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:QDE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T06:47:18.735428+00:00",
+    "market_cap": "2677550",
+    "market_cap_display": "\u00a32.7m",
+    "ticker": "QDE"
   },
   "RBD.L": {
     "business_description": "Reabold Resources Plc, an investment holding company, engages in the exploration, appraisal, development, and evaluation of oil and gas projects in the United Kingdom, Romania, the United States, and Italy. Its key\u2026",
@@ -2984,9 +3023,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:49.090562+00:00",
-    "market_cap": "9610988",
-    "market_cap_display": "\u00a39.6m",
+    "last_updated": "2026-09-04T06:47:23.183797+00:00",
+    "market_cap": "7551490",
+    "market_cap_display": "\u00a37.6m",
     "ticker": "TERA"
   },
   "TGA.L": {
@@ -3236,6 +3275,19 @@
     "market_cap_display": "\u00a33.0m",
     "ticker": "VAST"
   },
+  "VCP.L": {
+    "business_description": "Victoria PLC designs, manufactures, and distributes flooring products in the United Kingdom, Italy, Belgium, Spain, Australia, the Netherlands, Turkey, France, Ireland, Portugal, and the United States. The company\u2026",
+    "company_name": "Victoria PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:VCP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T06:47:22.442608+00:00",
+    "market_cap": "66838604",
+    "market_cap_display": "\u00a366.8m",
+    "ticker": "VCP"
+  },
   "VLX.L": {
     "business_description": "Volex plc manufactures and sells power and connectivity in North America, Europe, and Asia. It provides integrated manufacturing services, such as high level assembly, box build, electromechanical assemblies and\u2026",
     "company_name": "Volex plc",
@@ -3339,6 +3391,19 @@
     "market_cap": "12496982",
     "market_cap_display": "\u00a312.5m",
     "ticker": "XSG"
+  },
+  "YCA.L": {
+    "business_description": "Yellow Cake plc operates in the uranium sector. The company purchases and holds uranium oxide concentrates, and commercial opportunities. Yellow Cake plc was incorporated in 2018 and is headquartered in Saint Helier,\u2026",
+    "company_name": "Yellow Cake plc",
+    "currency": "GBp",
+    "data_source": "yfinance:YCA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-04T06:47:20.957327+00:00",
+    "market_cap": "1452486272",
+    "market_cap_display": "\u00a31.45bn",
+    "ticker": "YCA"
   },
   "ZCC.L": {
     "business_description": "",
