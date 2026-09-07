@@ -207,6 +207,19 @@
     "market_cap_display": "\u00a3631.8m",
     "ticker": "AC8"
   },
+  "ADF.L": {
+    "business_description": "Facilities by ADF plc provides premium serviced production facilities, location, and equipment hire to the film and high-end television industry in the United Kingdom and Europe. The company's fleet consists of costume,\u2026",
+    "company_name": "Facilities by ADF plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ADF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-07T18:50:14.885123+00:00",
+    "market_cap": "14066154",
+    "market_cap_display": "\u00a314.1m",
+    "ticker": "ADF"
+  },
   "AEP.L": {
     "business_description": "AEP Plantations Plc, together with its subsidiaries, owns, operates, and develops oil palm plantations in Indonesia and Malaysia. The company primarily includes oil palms, harvesting fresh fruit bunches FFB, shell nuts,\u2026",
     "company_name": "AEP Plantations Plc",
@@ -492,6 +505,19 @@
     "market_cap": "14850008",
     "market_cap_display": "\u00a314.9m",
     "ticker": "BANK"
+  },
+  "BBIL.L": {
+    "business_description": "",
+    "company_name": "JPM BetaBuilders US Treasury Bond 0-1 yr UCITS ETF USD Acc",
+    "currency": "USD",
+    "data_source": "yfinance:BBIL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-07T18:50:18.229610+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "BBIL"
   },
   "BBSN.L": {
     "business_description": "Brave Bison Group plc provides digital advertising and technology services in the United Kingdom, Europe, and internationally. The company offers social media advertising, influencer marketing, search engine\u2026",
@@ -1038,6 +1064,19 @@
     "market_cap": "5407347712",
     "market_cap_display": "\u00a35.41bn",
     "ticker": "DCC"
+  },
+  "DGE.L": {
+    "business_description": "Diageo plc, together with its subsidiaries, engages in the production, marketing, and distribution of alcoholic beverages in North America, Europe, the Asia Pacific, Latin America and Caribbean, and Africa. It offers\u2026",
+    "company_name": "Diageo plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DGE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-07T18:50:16.901901+00:00",
+    "market_cap": "36244733952",
+    "market_cap_display": "\u00a336.24bn",
+    "ticker": "DGE"
   },
   "DGI9.L": {
     "business_description": "Digital 9 Infrastructure PLC specializes in investment in digital infrastructure assets.",
@@ -2581,9 +2620,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:03.125039+00:00",
-    "market_cap": "78963816",
-    "market_cap_display": "\u00a379.0m",
+    "last_updated": "2026-09-07T18:50:15.543181+00:00",
+    "market_cap": "84505136",
+    "market_cap_display": "\u00a384.5m",
     "ticker": "PEBB"
   },
   "PEN.L": {
@@ -2741,6 +2780,19 @@
     "market_cap": "266895120",
     "market_cap_display": "\u00a3266.9m",
     "ticker": "PTAL"
+  },
+  "PTSB.L": {
+    "business_description": "Permanent TSB Group Holdings plc operates in the retail, and small and medium sized enterprises (SME) banking sectors in the Republic of Ireland. The company offers transactional banking, lending, saving, and deposit\u2026",
+    "company_name": "Permanent TSB Group Holdings plc",
+    "currency": "EUR",
+    "data_source": "yfinance:PTSB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-07T18:50:16.223109+00:00",
+    "market_cap": "1632249856",
+    "market_cap_display": "\u20ac1.63bn",
+    "ticker": "PTSB"
   },
   "QDE.L": {
     "business_description": "Quantum Data Energy PLC engages in the development and production of power generation projects in the United Kingdom. It operates Pyebridge project, a 9 MW gas-powered reserve power (RP) site located in Derbyshire;\u2026",
