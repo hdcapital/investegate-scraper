@@ -319,9 +319,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:21.840578+00:00",
-    "market_cap": "18551144",
-    "market_cap_display": "\u00a318.6m",
+    "last_updated": "2026-09-08T18:50:01.497078+00:00",
+    "market_cap": "23003420",
+    "market_cap_display": "\u00a323.0m",
     "ticker": "ALRT"
   },
   "AMCO.L": {
@@ -488,9 +488,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:29.831526+00:00",
-    "market_cap": "185641041920",
-    "market_cap_display": "\u00a3185.64bn",
+    "last_updated": "2026-09-08T18:50:00.848891+00:00",
+    "market_cap": "184183209984",
+    "market_cap_display": "\u00a3184.18bn",
     "ticker": "AZN"
   },
   "BANK.L": {
@@ -909,6 +909,19 @@
     "market_cap_display": "\u00a39.3m",
     "ticker": "CLA"
   },
+  "CMET.L": {
+    "business_description": "Capital Metals Limited engages in the mineral sands project. The company is based in British Virgin Islands.",
+    "company_name": "Capital Metals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CMET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T18:49:56.831528+00:00",
+    "market_cap": "19199678",
+    "market_cap_display": "\u00a319.2m",
+    "ticker": "CMET"
+  },
   "CMPG.L": {
     "business_description": "",
     "company_name": "CT Global Managed Portfolio Growth Ord",
@@ -1255,9 +1268,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T18:50:21.234885+00:00",
-    "market_cap": "242663984",
-    "market_cap_display": "\u00a3242.7m",
+    "last_updated": "2026-09-08T18:49:58.813345+00:00",
+    "market_cap": "241788656",
+    "market_cap_display": "\u00a3241.8m",
     "ticker": "EGL"
   },
   "EMAN.L": {
@@ -2690,6 +2703,19 @@
     "market_cap_display": "\u00a3422.3m",
     "ticker": "NICL"
   },
+  "NOG.L": {
+    "business_description": "Nostrum Oil & Gas PLC, together with its subsidiaries, operates as a mixed-asset energy company in the United Kingdom and internationally. Its product portfolio comprises crude oil, stabilized condensate, LPG, and dry\u2026",
+    "company_name": "Nostrum Oil & Gas PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:NOG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T18:49:57.473756+00:00",
+    "market_cap": "1154650",
+    "market_cap_display": "\u00a31.2m",
+    "ticker": "NOG"
+  },
   "OBI.L": {
     "business_description": "Ondine Biomedical Inc., a life-sciences company, engages in the development of activated antimicrobial therapies for the prevention and treatment of infections in Canada and internationally. Its primary product is\u2026",
     "company_name": "Ondine Biomedical Inc.",
@@ -3075,9 +3101,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:15.381512+00:00",
-    "market_cap": "18136276",
-    "market_cap_display": "\u00a318.1m",
+    "last_updated": "2026-09-08T18:49:59.493693+00:00",
+    "market_cap": "23599010",
+    "market_cap_display": "\u00a323.6m",
     "ticker": "RENX"
   },
   "RFG.L": {
@@ -3274,6 +3300,19 @@
     "market_cap": "12097571840",
     "market_cap_display": "\u00a312.10bn",
     "ticker": "S32"
+  },
+  "SATS.L": {
+    "business_description": "Satsuma Technology PLC operates as an AI-focused software development company in the United Kingdom. It provides subnet infrastructure and AI agent development, as well as deploying and managing subnet alpha tokens. The\u2026",
+    "company_name": "Satsuma Technology PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:SATS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T18:50:00.190000+00:00",
+    "market_cap": "23416154",
+    "market_cap_display": "\u00a323.4m",
+    "ticker": "SATS"
   },
   "SBTX.L": {
     "business_description": "SkinBioTherapeutics plc, a life science company, engages in research and development, and commercialization of technology that harnesses the microbiome for human health in the United Kingdom, the United States, Europe,\u2026",
@@ -3924,6 +3963,19 @@
     "market_cap": "907653760",
     "market_cap_display": "\u00a3907.7m",
     "ticker": "USA"
+  },
+  "VANQ.L": {
+    "business_description": "Vanquis Banking Group plc engages in the provision of personal credit products to the non-standard lending market in the United Kingdom and the Republic of Ireland. The company offers credit cards, saving account,\u2026",
+    "company_name": "Vanquis Banking Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VANQ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T18:49:58.171865+00:00",
+    "market_cap": "192505152",
+    "market_cap_display": "\u00a3192.5m",
+    "ticker": "VANQ"
   },
   "VAST.L": {
     "business_description": "Vast Resources plc engages in the exploration and development of mineral projects in Southern Africa, Europe, and Central Asia. The company explores for copper, zinc, silver, gold, and diamond deposits; as well as\u2026",
