@@ -137,9 +137,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T06:47:40.001837+00:00",
-    "market_cap": "28648738",
-    "market_cap_display": "\u00a328.6m",
+    "last_updated": "2026-09-08T06:48:27.106781+00:00",
+    "market_cap": "38261392",
+    "market_cap_display": "\u00a338.3m",
     "ticker": "80M"
   },
   "93TH.L": {
@@ -818,6 +818,19 @@
     "market_cap_display": "\u00a347.9m",
     "ticker": "CBA"
   },
+  "CCC.L": {
+    "business_description": "Computacenter plc provides technology and services to corporate and public sector organizations in the United Kingdom, Germany, Western Europe, North America, and internationally. It offers procurement, specialist,\u2026",
+    "company_name": "Computacenter plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CCC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:27.766708+00:00",
+    "market_cap": "5877123072",
+    "market_cap_display": "\u00a35.88bn",
+    "ticker": "CCC"
+  },
   "CHAR.L": {
     "business_description": "Chariot Limited, together with its subsidiaries, engages in exploration, appraisal and development of upstream oil and gas assets. The company operates through Upstream Oil & Gas, Renewable Power, and Green Hydrogen\u2026",
     "company_name": "Chariot Limited",
@@ -869,6 +882,19 @@
     "market_cap": "15243645952",
     "market_cap_display": "\u00a315.24bn",
     "ticker": "CKI"
+  },
+  "CKT.L": {
+    "business_description": "Checkit plc, together with its subsidiaries, operates as a provider of predictive operations for large facilities and multi-site locations in the United Kingdom, the Americas, and internationally. Its platform provides\u2026",
+    "company_name": "Checkit plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CKT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:43.035419+00:00",
+    "market_cap": "22681798",
+    "market_cap_display": "\u00a322.7m",
+    "ticker": "CKT"
   },
   "CLA.L": {
     "business_description": "Celsius Resources Limited, together with its subsidiaries, engages in the exploration and extraction of mineral properties in Australia, Namibia, and the Philippines. It primarily explores for nickel, copper, gold, and\u2026",
@@ -934,6 +960,19 @@
     "market_cap": "235523776",
     "market_cap_display": "\u00a3235.5m",
     "ticker": "CNE"
+  },
+  "CNSL.L": {
+    "business_description": "Cambridge Nutritional Sciences plc, together with its subsidiaries, develops, manufactures, and distributes medical diagnostics products for the food sensitivity testing market. The company is involved in the research,\u2026",
+    "company_name": "Cambridge Nutritional Sciences plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CNSL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:32.343120+00:00",
+    "market_cap": "4402087",
+    "market_cap_display": "\u00a34.4m",
+    "ticker": "CNSL"
   },
   "COM.L": {
     "business_description": "Comptoir Group PLC owns and operates restaurants under the Comptoir Libanais, Yalla Yalla, and Shawa brand names in the United Kingdom. The company offers Lebanese and Eastern Mediterranean cuisine dining services; and\u2026",
@@ -1104,6 +1143,19 @@
     "market_cap_display": "\u00a3222.7m",
     "ticker": "DIA"
   },
+  "DNLM.L": {
+    "business_description": "Dunelm Group plc engages in the retail of homewares in the United Kingdom. The company offers furniture and beds products, which include bedroom, living room, dining room, and other furniture, as well as bed and\u2026",
+    "company_name": "Dunelm Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DNLM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:33.679065+00:00",
+    "market_cap": "1787189376",
+    "market_cap_display": "\u00a31.79bn",
+    "ticker": "DNLM"
+  },
   "ECEL.L": {
     "business_description": "Eurocell plc engages in manufacturing, distribution, and recycling of building products in the United Kingdom and the Republic of Ireland. The company operates through Profiles, Corporate, Alune, and Building Plastics\u2026",
     "company_name": "Eurocell plc",
@@ -1151,9 +1203,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T18:50:58.850245+00:00",
-    "market_cap": "6983462",
-    "market_cap_display": "\u00a37.0m",
+    "last_updated": "2026-09-08T06:48:38.830649+00:00",
+    "market_cap": "6778066",
+    "market_cap_display": "\u00a36.8m",
     "ticker": "ECR"
   },
   "EDEN.L": {
@@ -1281,9 +1333,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T18:50:24.000612+00:00",
-    "market_cap": "17181524",
-    "market_cap_display": "\u00a317.2m",
+    "last_updated": "2026-09-08T06:48:40.765459+00:00",
+    "market_cap": "16554461",
+    "market_cap_display": "\u00a316.6m",
     "ticker": "EPP"
   },
   "EST.L": {
@@ -1338,6 +1390,19 @@
     "market_cap_display": "\u00a35.04bn",
     "ticker": "EZJ"
   },
+  "FCH.L": {
+    "business_description": "Funding Circle Holdings plc, together with its subsidiaries, provides online lending platforms in the United Kingdom and internationally. The company offers small business loans, recovery loan schemes, government backed\u2026",
+    "company_name": "Funding Circle Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FCH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:33.036649+00:00",
+    "market_cap": "651072320",
+    "market_cap_display": "\u00a3651.1m",
+    "ticker": "FCH"
+  },
   "FIH.L": {
     "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism shipping, and fishing agency services in the Falkland Islands and the United Kingdom. It is involved in the retail of\u2026",
     "company_name": "FIH group plc",
@@ -1363,6 +1428,19 @@
     "market_cap": "7571539",
     "market_cap_display": "\u00a37.6m",
     "ticker": "FIN"
+  },
+  "FLO.L": {
+    "business_description": "Flowtech Fluidpower plc, together with its subsidiaries, engages in the distribution of engineering components and assemblies in the areas of fluid power industry in the United Kingdom, The Netherlands, Belgium, and\u2026",
+    "company_name": "Flowtech Fluidpower plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FLO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:31.696418+00:00",
+    "market_cap": "55376736",
+    "market_cap_display": "\u00a355.4m",
+    "ticker": "FLO"
   },
   "FMET.L": {
     "business_description": "Fulcrum Metals plc operates as a natural resources company in Canada. It explores for gold and other critical metals. The company's projects include the Teck-Hughes Gold Tailings and Sylvanite Gold Tailings projects,\u2026",
@@ -1441,6 +1519,19 @@
     "market_cap": "528872736",
     "market_cap_display": "\u00a3528.9m",
     "ticker": "FSG"
+  },
+  "FSJ.L": {
+    "business_description": "James Fisher and Sons plc operates as a marine services company in the United Kingdom, Europe, the Middle East, Africa, the Americas, and the Asia-Pacific. It operates through Energy, Defence, and Maritime Transport\u2026",
+    "company_name": "James Fisher and Sons plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FSJ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:28.416185+00:00",
+    "market_cap": "229705952",
+    "market_cap_display": "\u00a3229.7m",
+    "ticker": "FSJ"
   },
   "FUM.L": {
     "business_description": "Futura Medical plc research, develops, and commercializes pharmaceutical and healthcare products for sexual health. The company's lead product includes Eroxon, a topical treatment for erectile dysfunction. It also\u2026",
@@ -1533,6 +1624,19 @@
     "market_cap_display": "\u00a38.8m",
     "ticker": "GEMD"
   },
+  "GEMR.L": {
+    "business_description": "Gem Resources Plc operates as a mining and mineral exploration company in the United Kingdom, South Africa, Zambia, Australia, and Hong Kong. The company explores for emeralds, graphite, coltan, lithium, niobium,\u2026",
+    "company_name": "Gem Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GEMR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:39.470329+00:00",
+    "market_cap": "4210377",
+    "market_cap_display": "\u00a34.2m",
+    "ticker": "GEMR"
+  },
   "GENI.L": {
     "business_description": "GENinCode Plc engages in the development and commercialization of clinical genetic tests for predictive analysis of risk to a patient's health based on genes in the United Kingdom, Spain, Italy, the United States,\u2026",
     "company_name": "GENinCode Plc",
@@ -1586,16 +1690,16 @@
     "ticker": "GFTU"
   },
   "GGP.L": {
-    "business_description": "Greatland Resources Limited operates as a gold and copper mining company. The company owns a 100% interest in the Telfer gold-copper mine located in the Paterson region of Western Australia; and in the Havieron\u2026",
+    "business_description": "Greatland Resources Limited operates as a gold and copper mining company. The company's flagship project is Havieron Project, a gold-copper deposit located in Western Australia. Greatland Resources Limited was\u2026",
     "company_name": "Greatland Resources Limited",
     "currency": "GBp",
     "data_source": "yfinance:GGP.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:01.124979+00:00",
-    "market_cap": "4763151872",
-    "market_cap_display": "\u00a34.76bn",
+    "last_updated": "2026-09-08T06:48:43.682506+00:00",
+    "market_cap": "4189684480",
+    "market_cap_display": "\u00a34.19bn",
     "ticker": "GGP"
   },
   "GHH.L": {
@@ -1610,6 +1714,19 @@
     "market_cap": "332554336",
     "market_cap_display": "\u00a3332.6m",
     "ticker": "GHH"
+  },
+  "GMR.L": {
+    "business_description": "Gaming Realms plc, together with its subsidiaries, develops, publishes, and licenses mobile gaming content in the United Kingdom, Channel Islands, the United States, Isle of Man, Malta, Gibraltar, and internationally.\u2026",
+    "company_name": "Gaming Realms plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GMR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:35.607167+00:00",
+    "market_cap": "81340384",
+    "market_cap_display": "\u00a381.3m",
+    "ticker": "GMR"
   },
   "GMS.L": {
     "business_description": "Gulf Marine Services PLC, together with its subsidiaries, operates self-propelled self-elevating support vessels (SESVs) in the United Arab Emirates, the Kingdom of Saudi Arabia, Qatar, and Europe. It operates through\u2026",
@@ -1762,8 +1879,8 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:04.371958+00:00",
-    "market_cap": "8389538",
+    "last_updated": "2026-09-08T06:48:36.895548+00:00",
+    "market_cap": "8429680",
     "market_cap_display": "\u00a38.4m",
     "ticker": "HEAD"
   },
@@ -1910,6 +2027,19 @@
     "market_cap_display": "\u00a34.49bn",
     "ticker": "IGG"
   },
+  "IHC.L": {
+    "business_description": "Inspiration Healthcare Group plc designs, manufactures, and sells medical technology products worldwide. The company offers products for acute care comprising developmental and intensive care, monitoring, neonatal,\u2026",
+    "company_name": "Inspiration Healthcare Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IHC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:40.123722+00:00",
+    "market_cap": "16587725",
+    "market_cap_display": "\u00a316.6m",
+    "ticker": "IHC"
+  },
   "INPP.L": {
     "business_description": "International Public Partnerships Limited specializes in investments in broader infrastructure sector with a focus on public or social infrastructure. The fund seeks acquisition opportunities that may be single assets,\u2026",
     "company_name": "International Public Partnerships Limited",
@@ -1961,6 +2091,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "ITRK"
+  },
+  "ITX.L": {
+    "business_description": "Itaconix plc, together with its subsidiaries, engages in the development of plant-based polymers for homecare and personal care applications in North America, Europe, Middle East, Africa, and internationally. It offers\u2026",
+    "company_name": "Itaconix plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ITX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:34.323155+00:00",
+    "market_cap": "27916272",
+    "market_cap_display": "\u00a327.9m",
+    "ticker": "ITX"
   },
   "JAM.L": {
     "business_description": "",
@@ -2027,6 +2170,19 @@
     "market_cap_display": "\u00a384.5m",
     "ticker": "JLP"
   },
+  "JNEO.L": {
+    "business_description": "Journeo plc provides solutions to the transport community that captures, processes, and displays essential information to enhance journeys in the United Kingdom and internationally. The company operates through the\u2026",
+    "company_name": "Journeo plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JNEO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:37.537886+00:00",
+    "market_cap": "96504360",
+    "market_cap_display": "\u00a396.5m",
+    "ticker": "JNEO"
+  },
   "JSE.L": {
     "business_description": "Jadestone Energy plc operates as an independent oil and gas development and production company in Australia, Malaysia, Indonesia, and Vietnam. Its flagship asset is the 100%-owned Akatara gas, liquefied petroleum gas,\u2026",
     "company_name": "Jadestone Energy plc",
@@ -2039,6 +2195,19 @@
     "market_cap": "196174496",
     "market_cap_display": "\u00a3196.2m",
     "ticker": "JSE"
+  },
+  "JSG.L": {
+    "business_description": "Johnson Service Group PLC, together with its subsidiaries, provides textile rental and related services in the United Kingdom and Ireland. The company provides workwear and protective wear rental; and workplace hygiene\u2026",
+    "company_name": "Johnson Service Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:JSG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:25.803773+00:00",
+    "market_cap": "519128704",
+    "market_cap_display": "\u00a3519.1m",
+    "ticker": "JSG"
   },
   "JTC.L": {
     "business_description": "JTC PLC provides fund, corporate, and private capital services to institutional and private clients in the United Kingdom, Channel Islands, the United States, Caribbean, rest of Europe, and internationally. The company\u2026",
@@ -2196,6 +2365,19 @@
     "market_cap_display": "\u00a313.1m",
     "ticker": "MAC"
   },
+  "MANO.L": {
+    "business_description": "Manolete Partners Plc operates as an insolvency litigation financing company in the United Kingdom. It is involved in the acquisition and funding of insolvency litigation cases. Manolete Partners Plc was founded in 2009\u2026",
+    "company_name": "Manolete Partners Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MANO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:42.082836+00:00",
+    "market_cap": "16274808",
+    "market_cap_display": "\u00a316.3m",
+    "ticker": "MANO"
+  },
   "MAV4.L": {
     "business_description": "",
     "company_name": "Maven Income & Growth VCT 4 Ord",
@@ -2236,16 +2418,16 @@
     "ticker": "MBO"
   },
   "MCG.L": {
-    "business_description": "Mobico Group Plc designs, mobilizes, and operates transport services worldwide. The company operates through UK, German Rail, ALSA, and North America segments. It owns and leases vehicles. The company also provides\u2026",
+    "business_description": "Mobico Group Plc designs, mobilizes, and operates transport services in the United Kingdom, Germany, Spain, Morocco, the United States, Portugal, Switzerland, and France. The company operates through UK Bus, UK Coach,\u2026",
     "company_name": "Mobico Group Plc",
     "currency": "GBp",
     "data_source": "yfinance:MCG.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T18:49:42.387355+00:00",
-    "market_cap": "154015152",
-    "market_cap_display": "\u00a3154.0m",
+    "last_updated": "2026-09-08T06:48:38.186619+00:00",
+    "market_cap": "142439632",
+    "market_cap_display": "\u00a3142.4m",
     "ticker": "MCG"
   },
   "MERC.L": {
@@ -2547,6 +2729,19 @@
     "market_cap_display": "\u00a361.2m",
     "ticker": "OMI"
   },
+  "OMU.L": {
+    "business_description": "Old Mutual Limited, together with its subsidiaries, provides financial solutions to retail and corporate customers in South Africa and rest of Africa. It operates through Old Mutual Life and Savings, Old Mutual\u2026",
+    "company_name": "Old Mutual Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:OMU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:36.250626+00:00",
+    "market_cap": "2393153024",
+    "market_cap_display": "\u00a32.39bn",
+    "ticker": "OMU"
+  },
   "ONT.L": {
     "business_description": "Oxford Nanopore Technologies plc engages in the research, development, manufacture, and commercialization of a novel generation of deoxyribonucleic acid (DNA) or ribonucleic acid (RNA) sequencing technology that allows\u2026",
     "company_name": "Oxford Nanopore Technologies plc",
@@ -2559,6 +2754,19 @@
     "market_cap": "1191757056",
     "market_cap_display": "\u00a31.19bn",
     "ticker": "ONT"
+  },
+  "ONWD.L": {
+    "business_description": "Onward Opportunities Limited operates as an investment fund. The fund was incorporated in 2023 and is based in St Peter Port, Guernsey.",
+    "company_name": "Onward Opportunities Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ONWD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:26.464330+00:00",
+    "market_cap": "54074800",
+    "market_cap_display": "\u00a354.1m",
+    "ticker": "ONWD"
   },
   "OPTI.L": {
     "business_description": "OptiBiotix Health Plc, a life sciences company, engages in the discovery and development of microbiome modulation products in the United Kingdom, the United States, India, China, and internationally. The company\u2026",
@@ -2637,6 +2845,19 @@
     "market_cap": "13812855",
     "market_cap_display": "\u00a313.8m",
     "ticker": "PEN"
+  },
+  "PEYS.L": {
+    "business_description": "Princess Private Equity Holding Limited specializes in private equity and debt investments in non-public companies or assets through privately negotiated transactions. The fund invests in primary and secondary fund\u2026",
+    "company_name": "Partners Group Private Equity Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:PEYS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:34.961895+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "PEYS"
   },
   "PHAR.L": {
     "business_description": "Pharos Energy plc, an independent energy company, explores, develops, and produces oil and gas properties in Vietnam and Egypt. The company was formerly known as SOCO International plc and changed its name to Pharos\u2026",
@@ -2741,6 +2962,19 @@
     "market_cap": "5874469",
     "market_cap_display": "\u00a35.9m",
     "ticker": "PREM"
+  },
+  "PRO.L": {
+    "business_description": "ProService Building Services Marketplace Plc, together with its subsidiaries, provides tool and equipment hire, and related services in the United Kingdom and the Republic of Ireland. It operates through HSS ProService,\u2026",
+    "company_name": "ProService Building Services Marketplace Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PRO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:25.158163+00:00",
+    "market_cap": "19660332",
+    "market_cap_display": "\u00a319.7m",
+    "ticker": "PRO"
   },
   "PRTC.L": {
     "business_description": "PureTech Health plc, engages in the development and commercialization of biotechnology and pharmaceutical solutions in the United States. It is developing LYT-100, a Phase 3-ready therapeutic candidate with the\u2026",
@@ -2884,6 +3118,19 @@
     "market_cap": "126744928",
     "market_cap_display": "\u00a3126.7m",
     "ticker": "RGG"
+  },
+  "RGL.L": {
+    "business_description": "Regional REIT Limited (Regional REIT or the Company) and its subsidiaries (the Group) is a United Kingdom (UK) based real estate investment trust that launched in November 2015. It is managed by ESR Europe LSPIM\u2026",
+    "company_name": "Regional REIT Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:RGL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:30.360781+00:00",
+    "market_cap": "153011520",
+    "market_cap_display": "\u00a3153.0m",
+    "ticker": "RGL"
   },
   "RHIM.L": {
     "business_description": "RHI Magnesita N.V., together with its subsidiaries, develops, produces, sells, installs, and maintains refractory products and systems used in industrial high-temperature processes worldwide. The company offers\u2026",
@@ -3171,6 +3418,19 @@
     "market_cap_display": "\u00a332.7m",
     "ticker": "SNX"
   },
+  "SOM.L": {
+    "business_description": "Somero Enterprises, Inc. designs, assembles, remanufactures, sells, and distributes concrete leveling, contouring, and placing equipment in North America, Europe, Australia, Latin America, India, China, the Middle East,\u2026",
+    "company_name": "Somero Enterprises, Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:SOM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:29.066745+00:00",
+    "market_cap": "124262440",
+    "market_cap_display": "\u00a3124.3m",
+    "ticker": "SOM"
+  },
   "SOUC.L": {
     "business_description": "Southern Energy Corp., together with its subsidiaries, operates as an petroleum and natural gas exploration and production company in Canada. The company focuses primarily on acquiring and developing conventional\u2026",
     "company_name": "Southern Energy Corp.",
@@ -3235,6 +3495,19 @@
     "market_cap": "277578976",
     "market_cap_display": "\u00a3277.6m",
     "ticker": "STB"
+  },
+  "STVG.L": {
+    "business_description": "STV Group plc, together with its subsidiaries, produces content and broadcasts programs in the United Kingdom. The company operates through Audience and Studios segments. It provides news, current affairs, and\u2026",
+    "company_name": "STV Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:STVG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:29.715414+00:00",
+    "market_cap": "51269432",
+    "market_cap_display": "\u00a351.3m",
+    "ticker": "STVG"
   },
   "STX.L": {
     "business_description": "Shield Therapeutics plc, a commercial stage specialty pharmaceutical company, focuses on development and commercialization of clinical-stage pharmaceuticals to treat unmet medical needs. Its lead product is\u2026",
@@ -3335,9 +3608,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T18:49:02.334157+00:00",
-    "market_cap": "9258427",
-    "market_cap_display": "\u00a39.3m",
+    "last_updated": "2026-09-08T06:48:41.439744+00:00",
+    "market_cap": "8615480",
+    "market_cap_display": "\u00a38.6m",
     "ticker": "TEK"
   },
   "TENG.L": {
@@ -3625,6 +3898,19 @@
     "market_cap": "7881237",
     "market_cap_display": "\u00a37.9m",
     "ticker": "UOG"
+  },
+  "UPR.L": {
+    "business_description": "Uniphar plc, together with its subsidiaries, operates as a diversified healthcare services company in the Republic of Ireland, the United Kingdom, the Netherlands, and internationally. It operates through three\u2026",
+    "company_name": "Uniphar plc",
+    "currency": "GBp",
+    "data_source": "yfinance:UPR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-08T06:48:31.054559+00:00",
+    "market_cap": "946291840",
+    "market_cap_display": "\u00a3946.3m",
+    "ticker": "UPR"
   },
   "USA.L": {
     "business_description": "",
