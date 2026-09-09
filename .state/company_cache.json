@@ -220,6 +220,19 @@
     "market_cap_display": "\u00a314.1m",
     "ticker": "ADF"
   },
+  "AEG.L": {
+    "business_description": "Active Energy Group Plc does not have significant operations. Previously, the company was engaged in the development and production of CoalSwitch, a renewable biomass fuel. The company was formerly known as Cinpart plc\u2026",
+    "company_name": "Active Energy Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AEG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:42.057691+00:00",
+    "market_cap": "6120641",
+    "market_cap_display": "\u00a36.1m",
+    "ticker": "AEG"
+  },
   "AEP.L": {
     "business_description": "AEP Plantations Plc, together with its subsidiaries, owns, operates, and develops oil palm plantations in Indonesia and Malaysia. The company primarily includes oil palms, harvesting fresh fruit bunches FFB, shell nuts,\u2026",
     "company_name": "AEP Plantations Plc",
@@ -267,9 +280,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:14.609274+00:00",
-    "market_cap": "55142504",
-    "market_cap_display": "\u00a355.1m",
+    "last_updated": "2026-09-09T06:48:38.185481+00:00",
+    "market_cap": "55545000",
+    "market_cap_display": "\u00a355.5m",
     "ticker": "AIRE"
   },
   "AJB.L": {
@@ -363,6 +376,19 @@
     "market_cap_display": "\u00a3610.4m",
     "ticker": "AMS"
   },
+  "ANP.L": {
+    "business_description": "Anpario plc, together with its subsidiaries, manufactures and distributes animal feed additives for animal health, nutrition, and biosecurity in the Americas, Asia, Europe, the Middle East, and Africa. The company\u2026",
+    "company_name": "Anpario plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ANP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:35.597106+00:00",
+    "market_cap": "88534936",
+    "market_cap_display": "\u00a388.5m",
+    "ticker": "ANP"
+  },
   "APN.L": {
     "business_description": "Applied Nutrition Plc engages in the manufacture, wholesale, and retail of sports nutritional products in the United Kingdom and internationally. It offers whey protein, whey protein isolate, casein protein powder,\u2026",
     "company_name": "Applied Nutrition Plc",
@@ -388,6 +414,19 @@
     "market_cap": "55997968",
     "market_cap_display": "\u00a356.0m",
     "ticker": "ARS"
+  },
+  "ASAI.L": {
+    "business_description": "ASA International Group PLC operates as a microfinance institution in Asia and Africa. It provides various collateral-free loans, such as small business and MSME loans to start or grow businesses. The company serves\u2026",
+    "company_name": "ASA International Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ASAI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:39.479965+00:00",
+    "market_cap": "247453568",
+    "market_cap_display": "\u00a3247.5m",
+    "ticker": "ASAI"
   },
   "ASHM.L": {
     "business_description": "Ashmore Group plc is a publicly owned investment manager. The firm primarily provides its services to retail and institutional clients. It manages separate client-focused equity and fixed income portfolios. The firm\u2026",
@@ -870,6 +909,19 @@
     "market_cap_display": "\u00a3334.8k",
     "ticker": "CHL"
   },
+  "CHP.L": {
+    "business_description": "Caledonian Holdings PLC is a venture capital and private equity firm specializing in early, mid, late, growth capital, and special situation investments. The firm focuses on disruptive technology businesses; pre-IPO\u2026",
+    "company_name": "Caledonian Holdings PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CHP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:45.300991+00:00",
+    "market_cap": "2341564",
+    "market_cap_display": "\u00a32.3m",
+    "ticker": "CHP"
+  },
   "CKI.L": {
     "business_description": "CK Infrastructure Holdings Limited, an infrastructure company, invests in, develops, and operates infrastructure businesses in Hong Kong, Mainland China, the United Kingdom, Continental Europe, Australia, New Zealand,\u2026",
     "company_name": "CK Infrastructure Holdings Limited",
@@ -904,9 +956,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:05.181640+00:00",
-    "market_cap": "9305517",
-    "market_cap_display": "\u00a39.3m",
+    "last_updated": "2026-09-09T06:48:46.606735+00:00",
+    "market_cap": "11166620",
+    "market_cap_display": "\u00a311.2m",
     "ticker": "CLA"
   },
   "CMET.L": {
@@ -973,6 +1025,19 @@
     "market_cap": "235523776",
     "market_cap_display": "\u00a3235.5m",
     "ticker": "CNE"
+  },
+  "CNS.L": {
+    "business_description": "Corero Network Security plc, together with its subsidiaries, provides network security solutions in the United States, the United Kingdom, and internationally. The company offers SmartWall One, a distributed denial of\u2026",
+    "company_name": "Corero Network Security plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CNS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:41.416361+00:00",
+    "market_cap": "43534032",
+    "market_cap_display": "\u00a343.5m",
+    "ticker": "CNS"
   },
   "CNSL.L": {
     "business_description": "Cambridge Nutritional Sciences plc, together with its subsidiaries, develops, manufactures, and distributes medical diagnostics products for the food sensitivity testing market. The company is involved in the research,\u2026",
@@ -1116,6 +1181,19 @@
     "market_cap": "5407347712",
     "market_cap_display": "\u00a35.41bn",
     "ticker": "DCC"
+  },
+  "DEVO.L": {
+    "business_description": "Devolver Digital, Inc. develops and publishes digital video games for PC, console, and mobile platforms. It also offers project and lifecycle management; development and production assistance; publishing; and technical\u2026",
+    "company_name": "Devolver Digital, Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:DEVO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:40.124670+00:00",
+    "market_cap": "42362992",
+    "market_cap_display": "\u00a342.4m",
+    "ticker": "DEVO"
   },
   "DGE.L": {
     "business_description": "Diageo plc, together with its subsidiaries, engages in the production, marketing, and distribution of alcoholic beverages in North America, Europe, the Asia Pacific, Latin America and Caribbean, and Africa. It offers\u2026",
@@ -1312,6 +1390,19 @@
     "market_cap_display": "\u00a312.3m",
     "ticker": "EMR"
   },
+  "ENOG.L": {
+    "business_description": "Energean plc engages in the exploration, production, and development of oil and gas. The company operates through Europe, Israel, and New Ventures segments. Its flagship project is the 100% owned Karish and Karish North\u2026",
+    "company_name": "Energean plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ENOG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:33.658672+00:00",
+    "market_cap": "1462026752",
+    "market_cap_display": "\u00a31.46bn",
+    "ticker": "ENOG"
+  },
   "ENQ.L": {
     "business_description": "EnQuest PLC, an oil and gas production and development company, explores, extracts, and produces hydrocarbons in the North Sea and Malaysia. The company primarily holds interests in the Magnus, Kraken, Golden Eagle,\u2026",
     "company_name": "EnQuest PLC",
@@ -1364,6 +1455,19 @@
     "market_cap_display": "\u00a324.2m",
     "ticker": "EST"
   },
+  "EWG.L": {
+    "business_description": "W.A.G payment solutions plc develops and sells integrated digital platform, payment, mobility, and financial solutions for the commercial road transport (CRT) industry in Europe. It operates through two segments:\u2026",
+    "company_name": "W.A.G payment solutions plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EWG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:30.280549+00:00",
+    "market_cap": "695792192",
+    "market_cap_display": "\u00a3695.8m",
+    "ticker": "EWG"
+  },
   "EXPN.L": {
     "business_description": "Experian plc, together with its subsidiaries, operates as a data and technology company in North America, Latin America, the United Kingdom, Ireland, Europe, the Middle East, Africa, and the Asia Pacific. It operates\u2026",
     "company_name": "Experian plc",
@@ -1372,9 +1476,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:30.533732+00:00",
-    "market_cap": "26251010048",
-    "market_cap_display": "\u00a326.25bn",
+    "last_updated": "2026-09-09T06:48:47.246925+00:00",
+    "market_cap": "24804345856",
+    "market_cap_display": "\u00a324.80bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -1415,6 +1519,19 @@
     "market_cap": "651072320",
     "market_cap_display": "\u00a3651.1m",
     "ticker": "FCH"
+  },
+  "FDEV.L": {
+    "business_description": "Frontier Developments plc develops and publishes video games for the interactive entertainment sector. It develops games using its cross-platform technology, Cobra. The company was incorporated in 1994 and is\u2026",
+    "company_name": "Frontier Developments plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FDEV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:36.250228+00:00",
+    "market_cap": "154911248",
+    "market_cap_display": "\u00a3154.9m",
+    "ticker": "FDEV"
   },
   "FIH.L": {
     "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism shipping, and fishing agency services in the Falkland Islands and the United Kingdom. It is involved in the retail of\u2026",
@@ -1845,6 +1962,19 @@
     "market_cap_display": "\u20ac553.0m",
     "ticker": "GWI"
   },
+  "GYM.L": {
+    "business_description": "The Gym Group plc, together with its subsidiaries, operates a network of gym facilities under the Gym Group brand name in the United Kingdom. It also acts as fitness operator. The Gym Group plc was founded in 2007 and\u2026",
+    "company_name": "The Gym Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GYM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:33.008179+00:00",
+    "market_cap": "334309504",
+    "market_cap_display": "\u00a3334.3m",
+    "ticker": "GYM"
+  },
   "HALO.L": {
     "business_description": "Halo Minerals PLC, a mining company, engages in the exploration, development, and production of battery metals, primarily copper. The company's flagship project is the 100% interest in the Playa Verde project, which\u2026",
     "company_name": "Halo Minerals PLC",
@@ -1910,6 +2040,19 @@
     "market_cap_display": "\u00a3567.6m",
     "ticker": "HFG"
   },
+  "HHI.L": {
+    "business_description": "",
+    "company_name": "Henderson High Income Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:HHI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:38.829696+00:00",
+    "market_cap": "347513984",
+    "market_cap_display": "\u00a3347.5m",
+    "ticker": "HHI"
+  },
   "HHPD.L": {
     "business_description": "Hon Hai Precision Industry Co., Ltd. provides electronic manufacturing services. The company offers consumer electronics, including smartphones, feature phones, wearable devices, televisions, game consoles, set-top\u2026",
     "company_name": "Hon Hai Precision Industry Co., Ltd.",
@@ -1935,6 +2078,19 @@
     "market_cap": "3217937408",
     "market_cap_display": "\u00a33.22bn",
     "ticker": "HOC"
+  },
+  "HOME.L": {
+    "business_description": "",
+    "company_name": "Home REIT Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:HOME.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:44.651563+00:00",
+    "market_cap": "75104192",
+    "market_cap_display": "\u00a375.1m",
+    "ticker": "HOME"
   },
   "HSBA.L": {
     "business_description": "HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through four segments: Hong Kong, UK, Corporate and Institutional Banking, and International Wealth and\u2026",
@@ -1996,9 +2152,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T18:49:20.879539+00:00",
-    "market_cap": "581500736",
-    "market_cap_display": "\u00a3581.5m",
+    "last_updated": "2026-09-09T06:48:29.629812+00:00",
+    "market_cap": "574345856",
+    "market_cap_display": "\u00a3574.3m",
     "ticker": "HWG"
   },
   "IEM.L": {
@@ -2365,6 +2521,19 @@
     "market_cap_display": "\u00a34.27bn",
     "ticker": "LMP"
   },
+  "MAB1.L": {
+    "business_description": "Mortgage Advice Bureau (Holdings) plc, together with its subsidiaries, provides mortgage advice, and advice on protection and general insurance products in the United Kingdom. The company provides advice on protection\u2026",
+    "company_name": "Mortgage Advice Bureau (Holdings) plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MAB1.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:37.541537+00:00",
+    "market_cap": "282596096",
+    "market_cap_display": "\u00a3282.6m",
+    "ticker": "MAB1"
+  },
   "MAC.L": {
     "business_description": "Marechale Capital Plc provides professional advisory and broking services to companies in the United Kingdom. The company offers capital raising services, including equity financing, mezzanine, and debt financing\u2026",
     "company_name": "Marechale Capital Plc",
@@ -2581,9 +2750,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:03.874155+00:00",
-    "market_cap": "57102300",
-    "market_cap_display": "\u00a357.1m",
+    "last_updated": "2026-09-09T06:48:43.363764+00:00",
+    "market_cap": "68672048",
+    "market_cap_display": "\u00a368.7m",
     "ticker": "MTEC"
   },
   "MTLN.L": {
@@ -2611,6 +2780,19 @@
     "market_cap": "2603148288",
     "market_cap_display": "\u00a32.60bn",
     "ticker": "MTO"
+  },
+  "MUT.L": {
+    "business_description": "",
+    "company_name": "Murray Income Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MUT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:31.001415+00:00",
+    "market_cap": "920072832",
+    "market_cap_display": "\u00a3920.1m",
+    "ticker": "MUT"
   },
   "MYSE.L": {
     "business_description": "",
@@ -2715,6 +2897,19 @@
     "market_cap": "1154650",
     "market_cap_display": "\u00a31.2m",
     "ticker": "NOG"
+  },
+  "NXQ.L": {
+    "business_description": "Nexteq plc operates as a technology solution provider to customers in industrial markets in North America, Asia, Australia, rest of Europe, and internationally. It operates through Quixant and Densitron segments. The\u2026",
+    "company_name": "Nexteq plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NXQ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:31.648097+00:00",
+    "market_cap": "27287064",
+    "market_cap_display": "\u00a327.3m",
+    "ticker": "NXQ"
   },
   "OBI.L": {
     "business_description": "Ondine Biomedical Inc., a life-sciences company, engages in the development of activated antimicrobial therapies for the prevention and treatment of infections in Canada and internationally. Its primary product is\u2026",
@@ -2846,6 +3041,19 @@
     "market_cap_display": "\u00a3483.9m",
     "ticker": "PCGH"
   },
+  "PEB.L": {
+    "business_description": "Pebble Beach Systems Group plc designs, delivers, and supports playout automation and content management solutions for the broadcast and streaming markets. The company offers Automation solution, an enterprise level\u2026",
+    "company_name": "Pebble Beach Systems Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PEB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:34.949587+00:00",
+    "market_cap": "32883928",
+    "market_cap_display": "\u00a332.9m",
+    "ticker": "PEB"
+  },
   "PEBB.L": {
     "business_description": "The Pebble Group plc, together with its subsidiaries, engages in the sale of technology solutions, products, and other services to the promotional merchandise industry in the United Kingdom, Continental Europe, North\u2026",
     "company_name": "The Pebble Group plc",
@@ -2906,9 +3114,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T18:50:56.952791+00:00",
-    "market_cap": "520240608",
-    "market_cap_display": "\u00a3520.2m",
+    "last_updated": "2026-09-09T06:48:42.711213+00:00",
+    "market_cap": "524039936",
+    "market_cap_display": "\u00a3524.0m",
     "ticker": "PINE"
   },
   "PLAZ.L": {
@@ -3587,6 +3795,19 @@
     "market_cap_display": "\u00a3239.4m",
     "ticker": "SUS"
   },
+  "SVML.L": {
+    "business_description": "Sovereign Metals Limited, together with its subsidiaries, engages in the exploration and development of mineral resource projects in Malawi. The company primary explores rutile and graphite. It holds interest in the\u2026",
+    "company_name": "Sovereign Metals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SVML.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:36.895669+00:00",
+    "market_cap": "175469632",
+    "market_cap_display": "\u00a3175.5m",
+    "ticker": "SVML"
+  },
   "SVNS.L": {
     "business_description": "Solvonis Therapeutics plc, a clinical-stage biopharmaceutical company, develops medicines for addiction, psychiatry, and neurology disorders. The company develops SVN-001, an NMDA receptor antagonist that is in Phase\u2026",
     "company_name": "Solvonis Therapeutics plc",
@@ -3599,6 +3820,19 @@
     "market_cap": "9528965",
     "market_cap_display": "\u00a39.5m",
     "ticker": "SVNS"
+  },
+  "SWT.L": {
+    "business_description": "Switch Metals Plc engages in the exploration of mineral properties. It holds coltan (tantalum and niobium) and lithium licenses in C\u00f4te d'Ivoire with approximately 3,000 square kilometers, including its license\u2026",
+    "company_name": "Switch Metals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SWT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:45.966590+00:00",
+    "market_cap": "10178491",
+    "market_cap_display": "\u00a310.2m",
+    "ticker": "SWT"
   },
   "SYM.L": {
     "business_description": "Symphony Environmental Technologies plc, together with its subsidiaries, engages in the development and supply of environmental plastic additives and masterbatches. It offers d2w, an oxo-biodegradable masterbatch; d2p,\u2026",
@@ -3704,6 +3938,19 @@
     "market_cap_display": "\u00a3784.2m",
     "ticker": "TGA"
   },
+  "TGR.L": {
+    "business_description": "Total Graphite plc, together with its subsidiaries, engages in the development and operation of graphite mines in Madagascar and Mozambique. It holds interests in the Vatomina and Sahamamy flake graphite mining\u2026",
+    "company_name": "Total Graphite plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TGR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:44.008939+00:00",
+    "market_cap": "7107762",
+    "market_cap_display": "\u00a37.1m",
+    "ticker": "TGR"
+  },
   "TIA.L": {
     "business_description": "Tialis Essential IT PLC, through its subsidiaries, provides network, cloud, and IT managed services to public and private companies in the United Kingdom. It focuses on the storage, building, configuration, and shipping\u2026",
     "company_name": "Tialis Essential IT PLC",
@@ -3790,9 +4037,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:10.668290+00:00",
-    "market_cap": "290071648",
-    "market_cap_display": "\u00a3290.1m",
+    "last_updated": "2026-09-09T06:48:34.301425+00:00",
+    "market_cap": "286884032",
+    "market_cap_display": "\u00a3286.9m",
     "ticker": "TPFG"
   },
   "TRB.L": {
@@ -4002,6 +4249,19 @@
     "market_cap": "66838604",
     "market_cap_display": "\u00a366.8m",
     "ticker": "VCP"
+  },
+  "VCT.L": {
+    "business_description": "Victrex plc, through its subsidiaries, engages in the manufacture and sale of polymer solutions worldwide. The company operates through two segments, Sustainable Solutions and Medical. It develops PEEK and PAEK based\u2026",
+    "company_name": "Victrex plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VCT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T06:48:40.769489+00:00",
+    "market_cap": "757387840",
+    "market_cap_display": "\u00a3757.4m",
+    "ticker": "VCT"
   },
   "VLX.L": {
     "business_description": "Volex plc manufactures and sells power and connectivity in North America, Europe, and Asia. It provides integrated manufacturing services, such as high level assembly, box build, electromechanical assemblies and\u2026",
