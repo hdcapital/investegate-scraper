@@ -12,6 +12,19 @@
     "market_cap_display": "",
     "ticker": "12WM"
   },
+  "17TZ.L": {
+    "business_description": "",
+    "company_name": "Royal Bank of Canada 0% SNR NTS 19/03/2043 CAD200000 '10501'",
+    "currency": "CAD",
+    "data_source": "yfinance:17TZ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T18:50:19.850492+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "17TZ"
+  },
   "37QB.L": {
     "business_description": "",
     "company_name": "Halyk Bank of Kazakhstan Joint Stock Company",
@@ -267,9 +280,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:32.100257+00:00",
-    "market_cap": "52515000",
-    "market_cap_display": "\u00a352.5m",
+    "last_updated": "2026-09-09T18:50:16.189152+00:00",
+    "market_cap": "55350000",
+    "market_cap_display": "\u00a355.4m",
     "ticker": "AIC"
   },
   "AIRE.L": {
@@ -1164,9 +1177,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:28.225031+00:00",
-    "market_cap": "163981776",
-    "market_cap_display": "\u00a3164.0m",
+    "last_updated": "2026-09-09T18:50:17.653561+00:00",
+    "market_cap": "169033344",
+    "market_cap_display": "\u00a3169.0m",
     "ticker": "CYN"
   },
   "DCC.L": {
@@ -1710,9 +1723,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:47:57.026027+00:00",
-    "market_cap": "269628320",
-    "market_cap_display": "\u00a3269.6m",
+    "last_updated": "2026-09-09T18:50:13.184900+00:00",
+    "market_cap": "266313712",
+    "market_cap_display": "\u00a3266.3m",
     "ticker": "GAL"
   },
   "GAMA.L": {
@@ -1736,9 +1749,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:39.506795+00:00",
-    "market_cap": "1389018112",
-    "market_cap_display": "\u00a31.39bn",
+    "last_updated": "2026-09-09T18:50:08.984657+00:00",
+    "market_cap": "1118930432",
+    "market_cap_display": "\u00a31.12bn",
     "ticker": "GDWN"
   },
   "GEMD.L": {
@@ -2074,9 +2087,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T06:47:41.968564+00:00",
-    "market_cap": "3217937408",
-    "market_cap_display": "\u00a33.22bn",
+    "last_updated": "2026-09-09T18:50:14.713098+00:00",
+    "market_cap": "3295106048",
+    "market_cap_display": "\u00a33.30bn",
     "ticker": "HOC"
   },
   "HOME.L": {
@@ -2594,7 +2607,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T18:49:04.209909+00:00",
+    "last_updated": "2026-09-09T18:50:12.355400+00:00",
     "market_cap": "7175168",
     "market_cap_display": "\u00a37.2m",
     "ticker": "MBO"
@@ -2729,6 +2742,19 @@
     "market_cap_display": "\u00a3106.8m",
     "ticker": "MOTR"
   },
+  "MPAL.L": {
+    "business_description": "MedPal AI PLC operates as a digital health and artificial intelligence company focused on wellness management in United Kingdom. The company's application aggregates data from wearable fitness trackers or health apps,\u2026",
+    "company_name": "MedPal AI PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:MPAL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T18:50:16.931576+00:00",
+    "market_cap": "52200924",
+    "market_cap_display": "\u00a352.2m",
+    "ticker": "MPAL"
+  },
   "MPL.L": {
     "business_description": "Mercantile Ports & Logistics Limited, together with its subsidiaries, develops, owns, and operates port and logistics facilities in India. The company also offers port operation services, such as cargo handling,\u2026",
     "company_name": "Mercantile Ports & Logistics Limited",
@@ -2741,6 +2767,19 @@
     "market_cap": "5522846",
     "market_cap_display": "\u00a35.5m",
     "ticker": "MPL"
+  },
+  "MSI.L": {
+    "business_description": "MS INTERNATIONAL plc, together with its subsidiaries, engages in the design, manufacture, construction, and servicing various engineering products and structures in the United Kingdom, Europe, the United States, South\u2026",
+    "company_name": "MS INTERNATIONAL plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MSI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T18:50:13.992536+00:00",
+    "market_cap": "263066208",
+    "market_cap_display": "\u00a3263.1m",
+    "ticker": "MSI"
   },
   "MTEC.L": {
     "business_description": "Made Tech Group Plc, through its subsidiaries, engages in the provision of digital, data, and technology services to the public sector in the United Kingdom. It offers repairs, voids, evidence, Awaab's law, inspection\u2026",
@@ -3275,6 +3314,19 @@
     "market_cap_display": "\u00a32.7m",
     "ticker": "QDE"
   },
+  "RAT.L": {
+    "business_description": "Rathbones Group Plc, together with its subsidiaries, provides wealth management, asset management, and related services in the United Kingdom and Channel Islands. The company operates in two segments: Wealth Management\u2026",
+    "company_name": "Rathbones Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RAT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T18:50:18.389589+00:00",
+    "market_cap": "1669834496",
+    "market_cap_display": "\u00a31.67bn",
+    "ticker": "RAT"
+  },
   "RBD.L": {
     "business_description": "Reabold Resources Plc, an investment holding company, engages in the exploration, appraisal, development, and evaluation of oil and gas projects in the United Kingdom, Romania, the United States, and Italy. Its key\u2026",
     "company_name": "Reabold Resources Plc",
@@ -3743,6 +3795,32 @@
     "market_cap_display": "\u00a3277.6m",
     "ticker": "STB"
   },
+  "STCM.L": {
+    "business_description": "Steppe Cement Ltd., an investment holding company, produces and sells cement and clinkers in Kazakhstan. It is also involved in providing consultancy services; and transmission and distribution of electricity. The\u2026",
+    "company_name": "Steppe Cement Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:STCM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T18:50:11.516518+00:00",
+    "market_cap": "53655000",
+    "market_cap_display": "\u00a353.7m",
+    "ticker": "STCM"
+  },
+  "STEM.L": {
+    "business_description": "SThree plc, together with its subsidiaries, provides workforce consultancy services in Austria, Germany, Switzerland, the United States, Netherlands, Spain, the United Kingdom, Belgium, France, Japan, the United Arab\u2026",
+    "company_name": "SThree plc",
+    "currency": "GBp",
+    "data_source": "yfinance:STEM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T18:50:15.469151+00:00",
+    "market_cap": "367436064",
+    "market_cap_display": "\u00a3367.4m",
+    "ticker": "STEM"
+  },
   "STVG.L": {
     "business_description": "STV Group plc, together with its subsidiaries, produces content and broadcasts programs in the United Kingdom. The company operates through Audience and Studios segments. It provides news, current affairs, and\u2026",
     "company_name": "STV Group plc",
@@ -3781,6 +3859,19 @@
     "market_cap": "5002846",
     "market_cap_display": "\u00a35.0m",
     "ticker": "SUH"
+  },
+  "SUNB.L": {
+    "business_description": "Sunbelt Rentals Holdings, Inc., together with its subsidiaries, engages in the construction, industrial, and general equipment rental business under the Sunbelt Rentals brand name in the United States, the United\u2026",
+    "company_name": "Sunbelt Rentals Holdings, Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:SUNB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-09T18:50:08.141439+00:00",
+    "market_cap": "23285022720",
+    "market_cap_display": "\u00a323.29bn",
+    "ticker": "SUNB"
   },
   "SUS.L": {
     "business_description": "S&U plc, together with its subsidiaries, provides motor, property bridging, and specialist finance services in the United Kingdom. It operates through Motor Finance and Property Bridging Finance. The company was\u2026",
@@ -4128,9 +4219,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:26.051230+00:00",
-    "market_cap": "30217384",
-    "market_cap_display": "\u00a330.2m",
+    "last_updated": "2026-09-09T18:50:19.110589+00:00",
+    "market_cap": "36393220",
+    "market_cap_display": "\u00a336.4m",
     "ticker": "TXP"
   },
   "UFO.L": {
@@ -4349,7 +4440,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:49:57.362598+00:00",
+    "last_updated": "2026-09-09T18:50:09.783193+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
