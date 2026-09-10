@@ -51,6 +51,19 @@
     "market_cap_display": "",
     "ticker": "3DIE"
   },
+  "45GD.L": {
+    "business_description": "",
+    "company_name": "John Lewis plc 4.25% SNR BDS 18/12/2034 GBP100000'REGS'",
+    "currency": "GBP",
+    "data_source": "yfinance:45GD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:48.777850+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "45GD"
+  },
   "46LT.L": {
     "business_description": "",
     "company_name": "Thrive Homes Finance PLC 4.68% BDS 24/03/51 GBP100000",
@@ -194,6 +207,19 @@
     "market_cap_display": "\u00a344.07bn",
     "ticker": "AAL"
   },
+  "AAU.L": {
+    "business_description": "Ariana Resources plc engages in acquisition, exploration, and development of mineral resources in Turkey, Zimbabwe, and the United Kingdom and other territories. It explores for gold, silver, copper, nickel, molybdenum,\u2026",
+    "company_name": "Ariana Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AAU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:52.436362+00:00",
+    "market_cap": "41707608",
+    "market_cap_display": "\u00a341.7m",
+    "ticker": "AAU"
+  },
   "ABDP.L": {
     "business_description": "AB Dynamics plc provides vehicle test development and verification products and services for driver assistance systems. The company operates through Testing Products, Testing Services, and Simulation segments. It is\u2026",
     "company_name": "AB Dynamics plc",
@@ -206,6 +232,19 @@
     "market_cap": "178771984",
     "market_cap_display": "\u00a3178.8m",
     "ticker": "ABDP"
+  },
+  "ABF.L": {
+    "business_description": "Associated British Foods plc engages in the food, ingredients, and retail businesses worldwide. It operates through five segments: Retail, Grocery, Ingredients, Sugar, and Agriculture. The Retail segment is involved in\u2026",
+    "company_name": "Associated British Foods plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ABF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:49.499251+00:00",
+    "market_cap": "14106087424",
+    "market_cap_display": "\u00a314.11bn",
+    "ticker": "ABF"
   },
   "AC8.L": {
     "business_description": "Intuitive Investments Group Plc intends to invest in early and later-stage investments. The firm invests in life sciences businesses. It primarily invests in the United Kingdom, continental Europe, and the United\u2026",
@@ -579,9 +618,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T06:47:42.563074+00:00",
-    "market_cap": "93055808",
-    "market_cap_display": "\u00a393.1m",
+    "last_updated": "2026-09-10T06:48:47.344629+00:00",
+    "market_cap": "101198184",
+    "market_cap_display": "\u00a3101.2m",
     "ticker": "BBSN"
   },
   "BEM.L": {
@@ -1091,6 +1130,19 @@
     "market_cap_display": "\u00a3793.0k",
     "ticker": "COR"
   },
+  "CRCL.L": {
+    "business_description": "Corcel Plc, together with its subsidiaries, engages in the development of battery metals and exploration and production of oil and gas projects in the United Kingdom. The company owns a 41% interest in the Mambare\u2026",
+    "company_name": "Corcel Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CRCL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:50.210917+00:00",
+    "market_cap": "37756060",
+    "market_cap_display": "\u00a337.8m",
+    "ticker": "CRCL"
+  },
   "CSN.L": {
     "business_description": "Chesnara plc, together with its subsidiaries, operates in life assurance and pension businesses primarily in the United Kingdom, Sweden, and the Netherlands. It underwrites life, health, accident, and disability cover\u2026",
     "company_name": "Chesnara plc",
@@ -1207,6 +1259,19 @@
     "market_cap": "42362992",
     "market_cap_display": "\u00a342.4m",
     "ticker": "DEVO"
+  },
+  "DFCH.L": {
+    "business_description": "Distribution Finance Capital Holdings plc, an investment holding company, personal savings and commercial lending banking business in the United Kingdom. The company offers working capital funding solutions to\u2026",
+    "company_name": "Distribution Finance Capital Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DFCH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:45.206273+00:00",
+    "market_cap": "127313472",
+    "market_cap_display": "\u00a3127.3m",
+    "ticker": "DFCH"
   },
   "DGE.L": {
     "business_description": "Diageo plc, together with its subsidiaries, engages in the production, marketing, and distribution of alcoholic beverages in North America, Europe, the Asia Pacific, Latin America and Caribbean, and Africa. It offers\u2026",
@@ -1364,6 +1429,19 @@
     "market_cap_display": "\u00a3241.8m",
     "ticker": "EGL"
   },
+  "ELCO.L": {
+    "business_description": "Eleco plc provides software and related services in the United Kingdom, Scandinavia, Germany, the rest of Europe, the United States, and internationally. The company's products and solutions include IconSystem for the\u2026",
+    "company_name": "Eleco plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ELCO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:40.904751+00:00",
+    "market_cap": "112280224",
+    "market_cap_display": "\u00a3112.3m",
+    "ticker": "ELCO"
+  },
   "EMAN.L": {
     "business_description": "Everyman Media Group plc, together with its subsidiaries, owns and manages cinemas in the United Kingdom. The company provides mainstream, independent and classic films, special events, launches, and live satellite\u2026",
     "company_name": "Everyman Media Group plc",
@@ -1437,9 +1515,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:22.362683+00:00",
-    "market_cap": "298435776",
-    "market_cap_display": "\u00a3298.4m",
+    "last_updated": "2026-09-10T06:48:43.779046+00:00",
+    "market_cap": "274687584",
+    "market_cap_display": "\u00a3274.7m",
     "ticker": "ENRG"
   },
   "EPP.L": {
@@ -1545,6 +1623,19 @@
     "market_cap": "154911248",
     "market_cap_display": "\u00a3154.9m",
     "ticker": "FDEV"
+  },
+  "FEVR.L": {
+    "business_description": "Fevertree Drinks PLC, together with its subsidiaries, engages in the development and sale of mixer drinks in the United Kingdom, the United States, Europe, and internationally. The company offers tonics, soft drinks,\u2026",
+    "company_name": "Fevertree Drinks PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:FEVR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:45.916890+00:00",
+    "market_cap": "896270592",
+    "market_cap_display": "\u00a3896.3m",
+    "ticker": "FEVR"
   },
   "FIH.L": {
     "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism shipping, and fishing agency services in the Falkland Islands and the United Kingdom. It is involved in the retail of\u2026",
@@ -1858,6 +1949,19 @@
     "market_cap_display": "\u00a3332.6m",
     "ticker": "GHH"
   },
+  "GLV.L": {
+    "business_description": "Glenveagh Properties PLC, together with its subsidiaries, engages in the construction and sale of houses and apartments for private buyers, local authorities, and the private rental sector in Ireland. It operates\u2026",
+    "company_name": "Glenveagh Properties PLC",
+    "currency": "EUR",
+    "data_source": "yfinance:GLV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:44.493620+00:00",
+    "market_cap": "1271286272",
+    "market_cap_display": "\u20ac1.27bn",
+    "ticker": "GLV"
+  },
   "GMR.L": {
     "business_description": "Gaming Realms plc, together with its subsidiaries, develops, publishes, and licenses mobile gaming content in the United Kingdom, Channel Islands, the United States, Isle of Man, Malta, Gibraltar, and internationally.\u2026",
     "company_name": "Gaming Realms plc",
@@ -1883,6 +1987,19 @@
     "market_cap": "213381168",
     "market_cap_display": "\u00a3213.4m",
     "ticker": "GMS"
+  },
+  "GNS.L": {
+    "business_description": "Genus plc produces and sells animal genetics to farmers in North America, Latin America, the United Kingdom, the rest of Europe, the Middle East, Russia, Africa, and Asia. The company operates through three segments:\u2026",
+    "company_name": "Genus plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GNS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:43.062259+00:00",
+    "market_cap": "1483726464",
+    "market_cap_display": "\u00a31.48bn",
+    "ticker": "GNS"
   },
   "GPM.L": {
     "business_description": "Golden Prospect Precious Metals Ltd. is a close ended equity mutual fund launched and managed by CQS Asset Management Ltd. It is co-managed by CQS Cayman Limited Partnership. The fund invests in public equity markets.\u2026",
@@ -1918,9 +2035,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T18:49:20.114281+00:00",
-    "market_cap": "239669712",
-    "market_cap_display": "\u00a3239.7m",
+    "last_updated": "2026-09-10T06:48:54.707649+00:00",
+    "market_cap": "247498752",
+    "market_cap_display": "\u00a3247.5m",
     "ticker": "GSF"
   },
   "GTC.L": {
@@ -2230,9 +2347,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:29.643872+00:00",
-    "market_cap": "2488399872",
-    "market_cap_display": "\u00a32.49bn",
+    "last_updated": "2026-09-10T06:48:50.927936+00:00",
+    "market_cap": "2477450752",
+    "market_cap_display": "\u00a32.48bn",
     "ticker": "INPP"
   },
   "IQE.L": {
@@ -2425,9 +2542,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:21.938853+00:00",
-    "market_cap": "28472642",
-    "market_cap_display": "\u00a328.5m",
+    "last_updated": "2026-09-10T06:48:57.735459+00:00",
+    "market_cap": "28999912",
+    "market_cap_display": "\u00a329.0m",
     "ticker": "KEN"
   },
   "KGH.L": {
@@ -2451,7 +2568,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:11.960245+00:00",
+    "last_updated": "2026-09-10T06:48:51.660741+00:00",
     "market_cap": "16090972",
     "market_cap_display": "\u00a316.1m",
     "ticker": "KLSO"
@@ -2802,9 +2919,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T18:50:22.683276+00:00",
-    "market_cap": "6925677056",
-    "market_cap_display": "\u20ac6.93bn",
+    "last_updated": "2026-09-10T06:48:55.424015+00:00",
+    "market_cap": "6788488704",
+    "market_cap_display": "\u20ac6.79bn",
     "ticker": "MTLN"
   },
   "MTO.L": {
@@ -2845,6 +2962,19 @@
     "market_cap": "3075635456",
     "market_cap_display": "$3.08bn",
     "ticker": "MYSE"
+  },
+  "MYX.L": {
+    "business_description": "MYCELX Technologies Corporation, a clean water technology company, provides water treatment solutions to the PFAS remediation and produced water markets in the Nigeria, Middle East, the United States, Australia, and\u2026",
+    "company_name": "MYCELX Technologies Corporation",
+    "currency": "GBp",
+    "data_source": "yfinance:MYX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:48.065975+00:00",
+    "market_cap": "12303727",
+    "market_cap_display": "\u00a312.3m",
+    "ticker": "MYX"
   },
   "NAH.L": {
     "business_description": "NAHL Group Plc operates in the consumer legal services and catastrophic injury markets in the United Kingdom. The company operates through Consumer Legal Services and Critical Care segments. Its Consumer Legal Services\u2026",
@@ -2971,9 +3101,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:27.245427+00:00",
-    "market_cap": "857699264",
-    "market_cap_display": "\u00a3857.7m",
+    "last_updated": "2026-09-10T06:48:53.213136+00:00",
+    "market_cap": "859675520",
+    "market_cap_display": "\u00a3859.7m",
     "ticker": "OCI"
   },
   "OMI.L": {
@@ -3288,6 +3418,19 @@
     "market_cap_display": "\u00a3266.9m",
     "ticker": "PTAL"
   },
+  "PTEC.L": {
+    "business_description": "Playtech plc, a technology company, provides gambling software, services, content, and platform technologies. It offers technologies across various product verticals, including casino, live casino, sports betting,\u2026",
+    "company_name": "Playtech plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PTEC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:42.347471+00:00",
+    "market_cap": "1103612416",
+    "market_cap_display": "\u00a31.10bn",
+    "ticker": "PTEC"
+  },
   "PTSB.L": {
     "business_description": "Permanent TSB Group Holdings plc operates in the retail, and small and medium sized enterprises (SME) banking sectors in the Republic of Ireland. The company offers transactional banking, lending, saving, and deposit\u2026",
     "company_name": "Permanent TSB Group Holdings plc",
@@ -3556,9 +3699,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T18:48:47.028800+00:00",
-    "market_cap": "12097571840",
-    "market_cap_display": "\u00a312.10bn",
+    "last_updated": "2026-09-10T06:48:53.994985+00:00",
+    "market_cap": "12404585472",
+    "market_cap_display": "\u00a312.40bn",
     "ticker": "S32"
   },
   "SATS.L": {
@@ -3678,6 +3821,19 @@
     "market_cap_display": "\u00a3155.0m",
     "ticker": "SML"
   },
+  "SN.L": {
+    "business_description": "Smith & Nephew plc, together with its subsidiaries, develops, manufactures, markets, and sells medical devices and services in the United Kingdom, the United States, and internationally. The company operates in three\u2026",
+    "company_name": "Smith & Nephew plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:56.159525+00:00",
+    "market_cap": "8583748608",
+    "market_cap_display": "\u00a38.58bn",
+    "ticker": "SN"
+  },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
     "company_name": "Sabien Technology Group Plc",
@@ -3742,6 +3898,19 @@
     "market_cap": "13734560",
     "market_cap_display": "\u00a313.7m",
     "ticker": "SOUC"
+  },
+  "SPEC.L": {
+    "business_description": "INSPECS Group plc designs, produces, sells, markets, and distributes fashion eyewear, lenses, and OEM products in the United Kingdom, Europe, North America, South America, Asia, Africa, and Australia. It operates\u2026",
+    "company_name": "INSPECS Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SPEC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:46.630508+00:00",
+    "market_cap": "104807544",
+    "market_cap_display": "\u00a3104.8m",
+    "ticker": "SPEC"
   },
   "SPI.L": {
     "business_description": "Spire Healthcare Group plc, together with its subsidiaries, owns and operates private hospitals and clinics in the United Kingdom. It operates in two segments: Hospitals Business and Primary Care. The company provides\u2026",
@@ -4041,6 +4210,19 @@
     "market_cap": "7107762",
     "market_cap_display": "\u00a37.1m",
     "ticker": "TGR"
+  },
+  "THG.L": {
+    "business_description": "THG Plc operates as an online retailer in the United Kingdom, the United States, Europe, and internationally. It operates through the THG Beauty and THG Nutrition segments. The THG Beauty segment manufactures and\u2026",
+    "company_name": "THG Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:THG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T06:48:41.630962+00:00",
+    "market_cap": "503032832",
+    "market_cap_display": "\u00a3503.0m",
+    "ticker": "THG"
   },
   "TIA.L": {
     "business_description": "Tialis Essential IT PLC, through its subsidiaries, provides network, cloud, and IT managed services to public and private companies in the United Kingdom. It focuses on the storage, building, configuration, and shipping\u2026",
