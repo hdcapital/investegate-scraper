@@ -449,9 +449,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T06:47:46.164821+00:00",
-    "market_cap": "803749952",
-    "market_cap_display": "\u00a3803.7m",
+    "last_updated": "2026-09-10T18:49:28.519629+00:00",
+    "market_cap": "732499968",
+    "market_cap_display": "\u00a3732.5m",
     "ticker": "APN"
   },
   "ARS.L": {
@@ -631,9 +631,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:40.154666+00:00",
-    "market_cap": "6793889",
-    "market_cap_display": "\u00a36.8m",
+    "last_updated": "2026-09-10T18:49:30.785471+00:00",
+    "market_cap": "7117408",
+    "market_cap_display": "\u00a37.1m",
     "ticker": "BEM"
   },
   "BEZ.L": {
@@ -830,6 +830,19 @@
     "market_cap": "227090624",
     "market_cap_display": "\u00a3227.1m",
     "ticker": "BRK"
+  },
+  "BSV.L": {
+    "business_description": "British Smaller Companies VCT plc is an evergreen fund and a venture capital trust specializing in private equity and venture capital investments with a focus on early stage, mid and late venture, later stage,\u2026",
+    "company_name": "British Smaller Companies VCT plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BSV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T18:49:29.267265+00:00",
+    "market_cap": "302755200",
+    "market_cap_display": "\u00a3302.8m",
+    "ticker": "BSV"
   },
   "BTG.L": {
     "business_description": "BTG Consulting plc operates as a financial and real estate advisory company in the United Kingdom. It operates in two segments, Restructuring and Advisory, and Real Estate Advisory. The company offers business\u2026",
@@ -1463,9 +1476,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:49:56.500268+00:00",
-    "market_cap": "2573852",
-    "market_cap_display": "\u00a32.6m",
+    "last_updated": "2026-09-10T18:49:30.022175+00:00",
+    "market_cap": "3860779",
+    "market_cap_display": "\u00a33.9m",
     "ticker": "EME"
   },
   "EMR.L": {
@@ -2646,9 +2659,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:49:59.794646+00:00",
-    "market_cap": "4265347072",
-    "market_cap_display": "\u00a34.27bn",
+    "last_updated": "2026-09-10T18:49:27.002608+00:00",
+    "market_cap": "4162342144",
+    "market_cap_display": "\u00a34.16bn",
     "ticker": "LMP"
   },
   "MAB1.L": {
@@ -3495,6 +3508,19 @@
     "market_cap": "22198316",
     "market_cap_display": "\u00a322.2m",
     "ticker": "RBN"
+  },
+  "RCGH.L": {
+    "business_description": "RC365 Holding plc, an investment holding company, operates as a fintech solutions service provider in Hong Kong, the United Kingdom, and Japan. It offers IT support and security, online and offline payment gateway\u2026",
+    "company_name": "RC365 Holding plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RCGH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-10T18:49:27.773348+00:00",
+    "market_cap": "5926498",
+    "market_cap_display": "\u00a35.9m",
+    "ticker": "RCGH"
   },
   "RENX.L": {
     "business_description": "Renalytix Plc develops artificial intelligence-enabled in vitro diagnostic solutions for clinical management of kidney diseases in Europe and the United States. It offers KidneyIntelX, a diagnostic platform that employs\u2026",
