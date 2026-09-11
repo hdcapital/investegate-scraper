@@ -363,6 +363,19 @@
     "market_cap_display": "\u00a33.1m",
     "ticker": "AKN"
   },
+  "ALF.L": {
+    "business_description": "Alternative Liquidity Fund Limited is a closed ended equity mutual fund launched and managed by Warana Capital, LLC. It invests in the public equity markets of the United States. The fund invests in stocks of companies\u2026",
+    "company_name": "Alternative Liquidity Fund Limited",
+    "currency": "USD",
+    "data_source": "yfinance:ALF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:25.315686+00:00",
+    "market_cap": "2996027",
+    "market_cap_display": "$3.0m",
+    "ticker": "ALF"
+  },
   "ALFA.L": {
     "business_description": "Alfa Financial Software Holdings PLC, through its subsidiaries, provides software and related services to the auto and equipment finance industry in the United Kingdom, North Americas, Europe, Africa, Australasia and\u2026",
     "company_name": "Alfa Financial Software Holdings PLC",
@@ -714,6 +727,19 @@
     "market_cap_display": "\u00a352.7m",
     "ticker": "BILN"
   },
+  "BKG.L": {
+    "business_description": "The Berkeley Group Holdings plc, together with its subsidiaries, builds homes and neighbourhoods in the United Kingdom. The company engages in the residential-led mixed-use development and ancillary activities;\u2026",
+    "company_name": "The Berkeley Group Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BKG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:25.980054+00:00",
+    "market_cap": "2993346560",
+    "market_cap_display": "\u00a32.99bn",
+    "ticker": "BKG"
+  },
   "BKY.L": {
     "business_description": "Berkeley Energia Limited engages in the exploration and development of mineral properties in Spain. The company explores for uranium, lithium, rubidium, tin, tantalum, niobium, tungsten, cobalt, antimony, and other\u2026",
     "company_name": "Berkeley Energia Limited",
@@ -781,15 +807,15 @@
   },
   "BOOK.L": {
     "business_description": "",
-    "company_name": "Literacy Capital PLC",
+    "company_name": "Literacy Capital plc",
     "currency": "GBp",
     "data_source": "yfinance:BOOK.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:37.195436+00:00",
-    "market_cap": "182330240",
-    "market_cap_display": "\u00a3182.3m",
+    "last_updated": "2026-09-11T18:50:32.074240+00:00",
+    "market_cap": "192560000",
+    "market_cap_display": "\u00a3192.6m",
     "ticker": "BOOK"
   },
   "BOY.L": {
@@ -856,6 +882,19 @@
     "market_cap": "227090624",
     "market_cap_display": "\u00a3227.1m",
     "ticker": "BRK"
+  },
+  "BSC.L": {
+    "business_description": "British Smaller Companies VCT 2 plc is a venture capital trust specializing in early-stage, emerging growth, growth capital, acquisition funding, and development funding. It is an evergreen fund. The fund invests in a\u2026",
+    "company_name": "British Smaller Companies VCT 2 plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BSC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:22.609562+00:00",
+    "market_cap": "191077472",
+    "market_cap_display": "\u00a3191.1m",
+    "ticker": "BSC"
   },
   "BSV.L": {
     "business_description": "British Smaller Companies VCT plc is an evergreen fund and a venture capital trust specializing in private equity and venture capital investments with a focus on early stage, mid and late venture, later stage,\u2026",
@@ -1520,6 +1559,19 @@
     "market_cap_display": "\u00a33.9m",
     "ticker": "EME"
   },
+  "EMH.L": {
+    "business_description": "European Metals Holdings Limited operates as the exploration and development company in the Czech Republic. It holds interest in the Cinovec lithium projects located in the Czech Republic. The company was formerly known\u2026",
+    "company_name": "European Metals Holdings Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:EMH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:28.105888+00:00",
+    "market_cap": "29132792",
+    "market_cap_display": "\u00a329.1m",
+    "ticker": "EMH"
+  },
   "EMR.L": {
     "business_description": "Empresaria Group plc provides staffing and recruitment services in the United Kingdom, Europe, the Asia Pacific, and the Americas. The company offers permanent placement, temporary and contract staffing, executive\u2026",
     "company_name": "Empresaria Group plc",
@@ -1879,7 +1931,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:12.361469+00:00",
+    "last_updated": "2026-09-11T18:50:28.760228+00:00",
     "market_cap": "1016249088",
     "market_cap_display": "\u00a31.02bn",
     "ticker": "GAMA"
@@ -2282,9 +2334,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T18:50:21.938723+00:00",
-    "market_cap": "262056378368",
-    "market_cap_display": "\u00a3262.06bn",
+    "last_updated": "2026-09-11T18:50:29.462498+00:00",
+    "market_cap": "265864577024",
+    "market_cap_display": "\u00a3265.86bn",
     "ticker": "HSBA"
   },
   "HSP.L": {
@@ -3301,6 +3353,19 @@
     "market_cap_display": "\u00a3483.9m",
     "ticker": "PCGH"
   },
+  "PCTN.L": {
+    "business_description": "Picton Property Income Limited owns and actively manages a 702 million pounds UK commercial property portfolio. It has invested across 45 assets and with around 300 occupiers (as at 30 June 2026). Through an occupier\u2026",
+    "company_name": "Picton Property Income Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:PCTN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:32.735883+00:00",
+    "market_cap": "357495328",
+    "market_cap_display": "\u00a3357.5m",
+    "ticker": "PCTN"
+  },
   "PEB.L": {
     "business_description": "Pebble Beach Systems Group plc designs, delivers, and supports playout automation and content management solutions for the broadcast and streaming markets. The company offers Automation solution, an enterprise level\u2026",
     "company_name": "Pebble Beach Systems Group plc",
@@ -3573,6 +3638,19 @@
     "market_cap": "2677550",
     "market_cap_display": "\u00a32.7m",
     "ticker": "QDE"
+  },
+  "QHE.L": {
+    "business_description": "Quantum Helium Limited, together with its subsidiaries, engages in the exploration, development, and production of oil and gas properties in Australia and the United States. It primarily explores helium, hydrogen, and\u2026",
+    "company_name": "Quantum Helium Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:QHE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:23.263915+00:00",
+    "market_cap": "9997079",
+    "market_cap_display": "\u00a310.0m",
+    "ticker": "QHE"
   },
   "RAT.L": {
     "business_description": "Rathbones Group Plc, together with its subsidiaries, provides wealth management, asset management, and related services in the United Kingdom and Channel Islands. The company operates in two segments: Wealth Management\u2026",
@@ -4063,9 +4141,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:06.068185+00:00",
-    "market_cap": "965440704",
-    "market_cap_display": "\u00a3965.4m",
+    "last_updated": "2026-09-11T18:50:24.661449+00:00",
+    "market_cap": "985470592",
+    "market_cap_display": "\u00a3985.5m",
     "ticker": "SPI"
   },
   "SRC.L": {
@@ -4224,6 +4302,19 @@
     "market_cap_display": "\u00a39.5m",
     "ticker": "SVNS"
   },
+  "SWC.L": {
+    "business_description": "The Smarter Web Company Plc operates as a web design agency. It offers web design packages, logo designing, SEO, animation, custom development, web development, and online marketing services. The company is based in\u2026",
+    "company_name": "The Smarter Web Company Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SWC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:24.004928+00:00",
+    "market_cap": "142439472",
+    "market_cap_display": "\u00a3142.4m",
+    "ticker": "SWC"
+  },
   "SWT.L": {
     "business_description": "Switch Metals Plc engages in the exploration of mineral properties. It holds coltan (tantalum and niobium) and lithium licenses in C\u00f4te d'Ivoire with approximately 3,000 square kilometers, including its license\u2026",
     "company_name": "Switch Metals Plc",
@@ -4249,6 +4340,19 @@
     "market_cap": "15954570",
     "market_cap_display": "\u00a316.0m",
     "ticker": "SYM"
+  },
+  "TAM.L": {
+    "business_description": "Tatton Asset Management plc, through its subsidiaries, engages in the provision of discretionary fund management of investment on-platform and investment wrap services in the United Kingdom. It operates in two segments,\u2026",
+    "company_name": "Tatton Asset Management plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TAM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T18:50:31.427580+00:00",
+    "market_cap": "407951040",
+    "market_cap_display": "\u00a3408.0m",
+    "ticker": "TAM"
   },
   "TAP.L": {
     "business_description": "Tap Global Group Plc, together with its subsidiaries, provides application and trading platform for crypto currencies in the United Kingdom and internationally. The company was formerly known as Quetzal Capital PLC. Tap\u2026",
@@ -4466,9 +4570,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:31.657020+00:00",
-    "market_cap": "135059344",
-    "market_cap_display": "\u00a3135.1m",
+    "last_updated": "2026-09-11T18:50:21.201358+00:00",
+    "market_cap": "143634528",
+    "market_cap_display": "\u00a3143.6m",
     "ticker": "TRB"
   },
   "TRCS.L": {
@@ -4583,9 +4687,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T18:50:23.339874+00:00",
-    "market_cap": "4690108",
-    "market_cap_display": "\u00a34.7m",
+    "last_updated": "2026-09-11T18:50:21.861837+00:00",
+    "market_cap": "4543542",
+    "market_cap_display": "\u00a34.5m",
     "ticker": "UJO"
   },
   "ULTP.L": {
@@ -4732,14 +4836,14 @@
     "ticker": "VTU"
   },
   "WNX.L": {
-    "business_description": "Wellnex Life Limited, together with its subsidiaries, develops, markets, and sells health and wellness products in Australia, New Zealand, and the United Kingdom. The company offers topical anti-inflammatory creams,\u2026",
+    "business_description": "Wellnex Life Limited, together with its subsidiaries, develops, markets, and sells health and wellness products in Australia and New Zealand. It offers topical anti-inflammatory creams, sprays, and roll-ons for the\u2026",
     "company_name": "Wellnex Life Limited",
     "currency": "GBp",
     "data_source": "yfinance:WNX.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:13.111807+00:00",
+    "last_updated": "2026-09-11T18:50:27.388589+00:00",
     "market_cap": "4016475",
     "market_cap_display": "\u00a34.0m",
     "ticker": "WNX"
