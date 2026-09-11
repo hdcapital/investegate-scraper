@@ -176,7 +176,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:50:05.676711+00:00",
+    "last_updated": "2026-09-11T06:47:29.405769+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "93TH"
@@ -375,6 +375,19 @@
     "market_cap": "482756800",
     "market_cap_display": "\u00a3482.8m",
     "ticker": "ALFA"
+  },
+  "ALL.L": {
+    "business_description": "Atlantic Lithium Limited engages in the exploration and development of mineral properties in Australia, Ivory Coast, and Ghana. The company primarily explores for lithium deposits. The company evaluation, development\u2026",
+    "company_name": "Atlantic Lithium Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ALL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:32.840648+00:00",
+    "market_cap": "119423992",
+    "market_cap_display": "\u00a3119.4m",
+    "ticker": "ALL"
   },
   "ALRT.L": {
     "business_description": "Defence Holdings PLC develops and acquires defence technologies, focusing on AI-enabled systems, cyber-defence, secure communications, autonomous drone systems, and critical infrastructure protection. The company's\u2026",
@@ -592,9 +605,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T06:47:21.705721+00:00",
-    "market_cap": "14850008",
-    "market_cap_display": "\u00a314.9m",
+    "last_updated": "2026-09-11T06:47:27.348603+00:00",
+    "market_cap": "12870007",
+    "market_cap_display": "\u00a312.9m",
     "ticker": "BANK"
   },
   "BBIL.L": {
@@ -804,6 +817,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "BPCP"
+  },
+  "BPT.L": {
+    "business_description": "Bridgepoint Group plc is a private equity and private credit firm specializing in middle market, lower mid-market, small mid cap, small cap, growth capital, buyouts investments, syndicate debt, infrastructure, direct\u2026",
+    "company_name": "Bridgepoint Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BPT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:34.832225+00:00",
+    "market_cap": "2625133824",
+    "market_cap_display": "\u00a32.63bn",
+    "ticker": "BPT"
   },
   "BRES.L": {
     "business_description": "Blencowe Resources Plc engages in the exploration, evaluation, and development of mineral resources in Uganda. The company holds a 100% interest in the Orom-Cross graphite project covering an area of approximately\u2026",
@@ -1116,6 +1142,19 @@
     "market_cap": "4402087",
     "market_cap_display": "\u00a34.4m",
     "ticker": "CNSL"
+  },
+  "COBR.L": {
+    "business_description": "Cobra Resources plc, together with its subsidiaries, engages in the exploration, development, and mining of precious base metal projects in the United Kingdom and Australia. The company primarily explores rare earths,\u2026",
+    "company_name": "Cobra Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:COBR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:30.805485+00:00",
+    "market_cap": "49940056",
+    "market_cap_display": "\u00a349.9m",
+    "ticker": "COBR"
   },
   "COM.L": {
     "business_description": "Comptoir Group PLC owns and operates restaurants under the Comptoir Libanais, Yalla Yalla, and Shawa brand names in the United Kingdom. The company offers Lebanese and Eastern Mediterranean cuisine dining services; and\u2026",
@@ -2300,6 +2339,19 @@
     "market_cap_display": "\u00a3574.3m",
     "ticker": "HWG"
   },
+  "IDHC.L": {
+    "business_description": "Integrated Diagnostics Holdings plc, a consumer healthcare company, provides medical diagnostics services to patients. It offers approximately 3,000 diagnostic pathology tests, such as immunology, microbiology,\u2026",
+    "company_name": "Integrated Diagnostics Holdings plc",
+    "currency": "USD",
+    "data_source": "yfinance:IDHC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:26.669852+00:00",
+    "market_cap": "302289664",
+    "market_cap_display": "$302.3m",
+    "ticker": "IDHC"
+  },
   "IEM.L": {
     "business_description": "Impax Environmental Markets plc is a closed ended equity mutual fund launched and managed by Impax Asset Management (AIFM) Limited. The fund invests in public equity markets across the globe. It seeks to invest in\u2026",
     "company_name": "Impax Environmental Markets Plc",
@@ -2599,6 +2651,19 @@
     "market_cap_display": "\u00a31.12bn",
     "ticker": "KNOS"
   },
+  "KP2.L": {
+    "business_description": "Kore Potash plc, together with its subsidiaries, engages in the exploration and development of potash minerals in the Republic of Congo. It holds interest in the Sintoukola Potash project that includes the Kola\u2026",
+    "company_name": "Kore Potash plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KP2.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:30.142359+00:00",
+    "market_cap": "188404160",
+    "market_cap_display": "\u00a3188.4m",
+    "ticker": "KP2"
+  },
   "KRPZ.L": {
     "business_description": "Kropz plc engages in the exploration, processing, and mining of phosphate mines in South Africa and the Republic of Congo. Its flagship project includes the Elandsfontein, a phosphate project located in the Western\u2026",
     "company_name": "Kropz plc",
@@ -2663,6 +2728,19 @@
     "market_cap": "4162342144",
     "market_cap_display": "\u00a34.16bn",
     "ticker": "LMP"
+  },
+  "LPA.L": {
+    "business_description": "LPA Group Plc engages in the design, manufacture, and marketing of industrial electrical and electronic products in the United Kingdom, rest of Europe, and internationally. It operates through Electro-Mechanical, Value\u2026",
+    "company_name": "LPA Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LPA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:33.512856+00:00",
+    "market_cap": "10240253",
+    "market_cap_display": "\u00a310.2m",
+    "ticker": "LPA"
   },
   "MAB1.L": {
     "business_description": "Mortgage Advice Bureau (Holdings) plc, together with its subsidiaries, provides mortgage advice, and advice on protection and general insurance products in the United Kingdom. The company provides advice on protection\u2026",
@@ -3249,6 +3327,19 @@
     "market_cap_display": "\u00a384.5m",
     "ticker": "PEBB"
   },
+  "PEG.L": {
+    "business_description": "Petards Group plc, together with its subsidiaries, engages in the development, supply, and maintenance of technologies used in advanced security, communications, surveillance, and ruggedised electronic applications in\u2026",
+    "company_name": "Petards Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PEG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:31.488408+00:00",
+    "market_cap": "5918741",
+    "market_cap_display": "\u00a35.9m",
+    "ticker": "PEG"
+  },
   "PEN.L": {
     "business_description": "Pennant International Group plc provides integrated training and support software solutions, products, and services in the United Kingdom, Europe, North America, and Asia-Pacific region. The company provides rail\u2026",
     "company_name": "Pennant International Group plc",
@@ -3456,6 +3547,19 @@
     "market_cap": "1632249856",
     "market_cap_display": "\u20ac1.63bn",
     "ticker": "PTSB"
+  },
+  "PXC.L": {
+    "business_description": "Phoenix Copper Limited, together with its subsidiaries, engages in the exploration and mining activities for precious and base metals in North America. It primarily explores for copper, zinc, gold, lead, tungsten,\u2026",
+    "company_name": "Phoenix Copper Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:PXC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:28.095020+00:00",
+    "market_cap": "4776151",
+    "market_cap_display": "\u00a34.8m",
+    "ticker": "PXC"
   },
   "QDE.L": {
     "business_description": "Quantum Data Energy PLC engages in the development and production of power generation projects in the United Kingdom. It operates Pyebridge project, a 9 MW gas-powered reserve power (RP) site located in Derbyshire;\u2026",
@@ -3820,6 +3924,19 @@
     "market_cap": "60462908",
     "market_cap_display": "\u00a360.5m",
     "ticker": "SFT"
+  },
+  "SGE.L": {
+    "business_description": "The Sage Group plc, together with its subsidiaries, offers technology solutions and services for small and medium businesses in North America, Europe, the United Kingdom, Ireland, Africa and Asia-Pacific. It offers Sage\u2026",
+    "company_name": "The Sage Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SGE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:34.171989+00:00",
+    "market_cap": "8794106880",
+    "market_cap_display": "\u00a38.79bn",
+    "ticker": "SGE"
   },
   "SGRO.L": {
     "business_description": "SEGRO Plc is a UK Real Estate Investment Trust (REIT), listed on the London Stock Exchange and Euronext Paris, and is a leading owner, manager and developer of modern warehouses, industrial property and data centres. It\u2026",
@@ -4366,6 +4483,19 @@
     "market_cap": "95302032",
     "market_cap_display": "\u00a395.3m",
     "ticker": "TRCS"
+  },
+  "TRN.L": {
+    "business_description": "Trainline plc engages in the operation of an independent rail and coach travel platform that sells rail and coach tickets worldwide. It operates in three segments: UK Consumer, International Consumer, and Trainline\u2026",
+    "company_name": "Trainline plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-11T06:47:32.161223+00:00",
+    "market_cap": "645534208",
+    "market_cap_display": "\u00a3645.5m",
+    "ticker": "TRN"
   },
   "TRUE.L": {
     "business_description": "Truetide plc is a private equity and venture capital firm specializing in loan, mezzanine, seed/startup, early venture, late stage, emerging growth, turnaround, distress situations, buyout and growth capital companies.\u2026",
