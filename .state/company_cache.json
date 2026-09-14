@@ -610,6 +610,19 @@
     "market_cap_display": "\u00a3138.5m",
     "ticker": "ATM"
   },
+  "AVAP.L": {
+    "business_description": "Avation PLC, together with its subsidiaries, leases commercial passenger aircraft to airlines in Europe and the Asia-Pacific. The company's fleet includes 14 narrow-body jets, two twin-aisle jets, and 17 ATR 72\u2026",
+    "company_name": "Avation PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:AVAP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T18:51:19.478697+00:00",
+    "market_cap": "80744288",
+    "market_cap_display": "\u00a380.7m",
+    "ticker": "AVAP"
+  },
   "AXB.L": {
     "business_description": "Axis Bank Limited provides various financial products and services in India and internationally. The company operates through four segments: Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking\u2026",
     "company_name": "Axis Bank Limited",
@@ -973,6 +986,19 @@
     "market_cap": "175684304",
     "market_cap_display": "\u00a3175.7m",
     "ticker": "BTG"
+  },
+  "BUR.L": {
+    "business_description": "Burford Capital Limited provides legal finance products and services worldwide. The company operates in two segments, Principal Finance, and Asset Management and Other Services. The Principal Finance segment provides\u2026",
+    "company_name": "Burford Capital Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:BUR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T18:51:17.962035+00:00",
+    "market_cap": "700035328",
+    "market_cap_display": "\u00a3700.0m",
+    "ticker": "BUR"
   },
   "BVC.L": {
     "business_description": "BATM Advanced Communications Ltd., together with its subsidiaries, engages in the development, production, and supply of real-time technologies and associated services in Israel, the United States, and Europe. It\u2026",
@@ -1372,9 +1398,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:05.404211+00:00",
-    "market_cap": "35027108",
-    "market_cap_display": "\u00a335.0m",
+    "last_updated": "2026-09-14T18:51:17.161459+00:00",
+    "market_cap": "35712408",
+    "market_cap_display": "\u00a335.7m",
     "ticker": "CYAN"
   },
   "CYN.L": {
@@ -2169,6 +2195,19 @@
     "market_cap": "332554336",
     "market_cap_display": "\u00a3332.6m",
     "ticker": "GHH"
+  },
+  "GLE.L": {
+    "business_description": "MJ Gleeson plc engages in house building, and land promotion and sale businesses in the United Kingdom. The company operates through two divisions, Gleeson Homes and Gleeson Land. It builds homes in the North of England\u2026",
+    "company_name": "MJ Gleeson plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GLE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T18:51:18.757752+00:00",
+    "market_cap": "143798432",
+    "market_cap_display": "\u00a3143.8m",
+    "ticker": "GLE"
   },
   "GLV.L": {
     "business_description": "Glenveagh Properties PLC, together with its subsidiaries, engages in the construction and sale of houses and apartments for private buyers, local authorities, and the private rental sector in Ireland. It operates\u2026",
@@ -3470,6 +3509,19 @@
     "market_cap_display": "\u00a3859.7m",
     "ticker": "OCI"
   },
+  "OIG.L": {
+    "business_description": "Oryx International Growth Fund Ltd is a closed ended equity mutual fund launched and managed by Harwood Capital LLP. The fund invests in the public equity markets of the United Kingdom and United States. It seeks to\u2026",
+    "company_name": "Oryx International Growth Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:OIG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T18:51:20.260325+00:00",
+    "market_cap": "185150000",
+    "market_cap_display": "\u00a3185.2m",
+    "ticker": "OIG"
+  },
   "OMI.L": {
     "business_description": "Orosur Mining Inc. engages in identifying and advancing mineral projects in South America. Its flagship project is the Anz\u00e1 gold project located in the Middle Cauca Belt in northern Colombia. The company was formerly\u2026",
     "company_name": "Orosur Mining Inc.",
@@ -3764,9 +3816,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:06.925184+00:00",
-    "market_cap": "5874469",
-    "market_cap_display": "\u00a35.9m",
+    "last_updated": "2026-09-14T18:51:16.318418+00:00",
+    "market_cap": "3630384",
+    "market_cap_display": "\u00a33.6m",
     "ticker": "PREM"
   },
   "PRO.L": {
