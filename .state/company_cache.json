@@ -480,6 +480,19 @@
     "market_cap_display": "\u00a3732.5m",
     "ticker": "APN"
   },
+  "ARC.L": {
+    "business_description": "Arcontech Group plc, together with its subsidiaries, engages in the development and sale of proprietary software in the United Kingdom, rest of Europe, Africa, North America, Australasia, and the Asia Pacific. The\u2026",
+    "company_name": "Arcontech Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ARC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:37.422503+00:00",
+    "market_cap": "10831978",
+    "market_cap_display": "\u00a310.8m",
+    "ticker": "ARC"
+  },
   "ARS.L": {
     "business_description": "Asiamet Resources Limited, together with its subsidiaries, engages in the exploration and development of mineral properties in Indonesia. The company explores for copper, gold, zinc, lead, and silver deposits. Its\u2026",
     "company_name": "Asiamet Resources Limited",
@@ -519,6 +532,19 @@
     "market_cap_display": "\u00a31.42bn",
     "ticker": "ASHM"
   },
+  "ASIA.L": {
+    "business_description": "Asia Strategic Holdings Limited develops and operates consumer business in Singapore, Vietnam, and Myanmar. It operates through Education, Services, and Corporate segments. The company offers early years to tertiary\u2026",
+    "company_name": "Asia Strategic Holdings Limited",
+    "currency": "USD",
+    "data_source": "yfinance:ASIA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:53.420730+00:00",
+    "market_cap": "12843160",
+    "market_cap_display": "$12.8m",
+    "ticker": "ASIA"
+  },
   "ASLI.L": {
     "business_description": "",
     "company_name": "abrdn European Logistics Income PLC",
@@ -557,6 +583,19 @@
     "market_cap": "277782880",
     "market_cap_display": "\u00a3277.8m",
     "ticker": "AT"
+  },
+  "ATC.L": {
+    "business_description": "ATC Music Group plc, an independent music company, provides music industry services in the United Kingdom, the rest of Europe, the United States, and internationally. The company operates through three segments: Artist\u2026",
+    "company_name": "ATC Music Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ATC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:38.132952+00:00",
+    "market_cap": "43458252",
+    "market_cap_display": "\u00a343.5m",
+    "ticker": "ATC"
   },
   "ATM.L": {
     "business_description": "Andrada Mining Limited engages in the exploration, development, and production of mineral resources in Namibia. The company explores for lithium, tin, tantalum, rubidium, tungsten, copper, petalite, and spodumene\u2026",
@@ -670,9 +709,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:29.585021+00:00",
-    "market_cap": "7742416384",
-    "market_cap_display": "\u00a37.74bn",
+    "last_updated": "2026-09-14T06:49:45.461847+00:00",
+    "market_cap": "7766420480",
+    "market_cap_display": "\u00a37.77bn",
     "ticker": "BEZ"
   },
   "BGUK.L": {
@@ -713,6 +752,19 @@
     "market_cap": "164766777344",
     "market_cap_display": "\u00a3164.77bn",
     "ticker": "BHP"
+  },
+  "BIG.L": {
+    "business_description": "Big Technologies PLC, together with its subsidiaries, engages in the development and delivery of remote monitoring technologies and services to the remote monitoring in the criminal justice sectors under the Buddi brand\u2026",
+    "company_name": "Big Technologies PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BIG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:43.246709+00:00",
+    "market_cap": "285328736",
+    "market_cap_display": "\u00a3285.3m",
+    "ticker": "BIG"
   },
   "BILN.L": {
     "business_description": "Billington Holdings Plc, through its subsidiaries, provides structural steel and construction safety solutions in the United Kingdom. It operates through Structural Steelwork and Safety Solutions. The company designs,\u2026",
@@ -956,9 +1008,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T18:49:30.115418+00:00",
-    "market_cap": "303324000",
-    "market_cap_display": "\u00a3303.3m",
+    "last_updated": "2026-09-14T06:49:49.146849+00:00",
+    "market_cap": "288668992",
+    "market_cap_display": "\u00a3288.7m",
     "ticker": "CAML"
   },
   "CAPD.L": {
@@ -999,6 +1051,19 @@
     "market_cap": "5877123072",
     "market_cap_display": "\u00a35.88bn",
     "ticker": "CCC"
+  },
+  "CER.L": {
+    "business_description": "Cerillion Plc engages in the provision of software for billing, charging, and customer relationship management to the telecommunications sector in the United Kingdom, Europe, the Middle East and Africa, the Americas,\u2026",
+    "company_name": "Cerillion Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CER.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:46.951289+00:00",
+    "market_cap": "261442352",
+    "market_cap_display": "\u00a3261.4m",
+    "ticker": "CER"
   },
   "CHAR.L": {
     "business_description": "Chariot Limited, together with its subsidiaries, engages in exploration, appraisal and development of upstream oil and gas assets. The company operates through Upstream Oil & Gas, Renewable Power, and Green Hydrogen\u2026",
@@ -1325,6 +1390,19 @@
     "market_cap_display": "\u00a3169.0m",
     "ticker": "CYN"
   },
+  "DATA.L": {
+    "business_description": "GlobalData Plc, together with its subsidiaries, operates as a data, insight, and technology company in Europe, North America, and the Asia Pacific. It operates in two segments: Data, Analytics and Insights: Healthcare;\u2026",
+    "company_name": "GlobalData Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DATA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:34.582014+00:00",
+    "market_cap": "468194720",
+    "market_cap_display": "\u00a3468.2m",
+    "ticker": "DATA"
+  },
   "DCC.L": {
     "business_description": "DCC Energy plc engages in the sales, marketing, and distribution of carbon energy solutions in the Republic of Ireland, the United Kingdom, France, the United States, and internationally. The company operates in two\u2026",
     "company_name": "DCC Energy plc",
@@ -1585,6 +1663,19 @@
     "market_cap_display": "\u00a312.3m",
     "ticker": "EMR"
   },
+  "EMVC.L": {
+    "business_description": "EMV Capital plc is a venture capital firm specializing in seed, growth capital, early and mid stage investments. The firm focuses to invest in sustainability, life science, technology, transformative biomedical, deep\u2026",
+    "company_name": "EMV Capital plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EMVC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:44.685236+00:00",
+    "market_cap": "13144740",
+    "market_cap_display": "\u00a313.1m",
+    "ticker": "EMVC"
+  },
   "ENOG.L": {
     "business_description": "Energean plc engages in the exploration, production, and development of oil and gas. The company operates through Europe, Israel, and New Ventures segments. Its flagship project is the 100% owned Karish and Karish North\u2026",
     "company_name": "Energean plc",
@@ -1623,6 +1714,19 @@
     "market_cap": "274687584",
     "market_cap_display": "\u00a3274.7m",
     "ticker": "ENRG"
+  },
+  "EOG.L": {
+    "business_description": "Europa Oil & Gas (Holdings) plc engages in the exploration, appraisal, development, and production of oil and gas properties in the United Kingdom, Equatorial Guinea, and Ireland. The company's flagship properties are\u2026",
+    "company_name": "Europa Oil & Gas (Holdings) plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EOG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:48.435445+00:00",
+    "market_cap": "24030492",
+    "market_cap_display": "\u00a324.0m",
+    "ticker": "EOG"
   },
   "EPP.L": {
     "business_description": "EnergyPathways plc, an integrated energy transition company, focuses on lower emission energy solutions in the United Kingdom. It supplies green hydrogen, natural gas, green hydrogen, and compressed air energy. The\u2026",
@@ -1701,6 +1805,19 @@
     "market_cap": "5038326784",
     "market_cap_display": "\u00a35.04bn",
     "ticker": "EZJ"
+  },
+  "FAB.L": {
+    "business_description": "Fusion Antibodies plc, a contract research organization, engages in the research, development, and manufacture of recombinant proteins and antibodies for cancer and infectious diseases in the United Kingdom, the rest of\u2026",
+    "company_name": "Fusion Antibodies plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FAB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:39.543901+00:00",
+    "market_cap": "14705933",
+    "market_cap_display": "\u00a314.7m",
+    "ticker": "FAB"
   },
   "FCH.L": {
     "business_description": "Funding Circle Holdings plc, together with its subsidiaries, provides online lending platforms in the United Kingdom and internationally. The company offers small business loans, recovery loan schemes, government backed\u2026",
@@ -1814,9 +1931,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:32.146539+00:00",
-    "market_cap": "3577591808",
-    "market_cap_display": "\u00a33.58bn",
+    "last_updated": "2026-09-14T06:49:50.632121+00:00",
+    "market_cap": "3403640064",
+    "market_cap_display": "\u00a33.40bn",
     "ticker": "FRAS"
   },
   "FRG.L": {
@@ -2066,6 +2183,19 @@
     "market_cap_display": "\u20ac1.27bn",
     "ticker": "GLV"
   },
+  "GMET.L": {
+    "business_description": "Guardian Metal Resources PLC engages in the exploration and exploitation of mineral resources in the United States. It primarily explores tungsten, copper, gold, silver, lithium, gallium, and zinc deposits. The\u2026",
+    "company_name": "Guardian Metal Resources PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:GMET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:54.133243+00:00",
+    "market_cap": "328015072",
+    "market_cap_display": "\u00a3328.0m",
+    "ticker": "GMET"
+  },
   "GMR.L": {
     "business_description": "Gaming Realms plc, together with its subsidiaries, develops, publishes, and licenses mobile gaming content in the United Kingdom, Channel Islands, the United States, Isle of Man, Malta, Gibraltar, and internationally.\u2026",
     "company_name": "Gaming Realms plc",
@@ -2131,6 +2261,19 @@
     "market_cap_display": "\u00a31.25bn",
     "ticker": "GRI"
   },
+  "GRP.L": {
+    "business_description": "",
+    "company_name": "Greencoat Renewables",
+    "currency": "EUR",
+    "data_source": "yfinance:GRP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:41.755457+00:00",
+    "market_cap": "843635008",
+    "market_cap_display": "\u20ac843.6m",
+    "ticker": "GRP"
+  },
   "GSF.L": {
     "business_description": "",
     "company_name": "Gore Street Energy Storage Fund Ord",
@@ -2143,6 +2286,19 @@
     "market_cap": "247498752",
     "market_cap_display": "\u00a3247.5m",
     "ticker": "GSF"
+  },
+  "GSK.L": {
+    "business_description": "GSK plc, together with its subsidiaries, engages in the research, development, and manufacture of vaccines, specialty medicines, and general medicines to prevent and treat disease in the United Kingdom, the United\u2026",
+    "company_name": "GSK plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GSK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:52.710207+00:00",
+    "market_cap": "70919348224",
+    "market_cap_display": "\u00a370.92bn",
+    "ticker": "GSK"
   },
   "GTC.L": {
     "business_description": "Getech Group plc, together with its subsidiaries, provides subsurface and geospatial insight for the natural resources sector in United Kingdom, the United States, rest of Europe, Malaysia, Kazakhstan, Australia, rest\u2026",
@@ -2273,6 +2429,19 @@
     "market_cap": "567620544",
     "market_cap_display": "\u00a3567.6m",
     "ticker": "HFG"
+  },
+  "HGT.L": {
+    "business_description": "",
+    "company_name": "HgCapital Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:HGT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:38.836827+00:00",
+    "market_cap": "1857276672",
+    "market_cap_display": "\u00a31.86bn",
+    "ticker": "HGT"
   },
   "HHI.L": {
     "business_description": "",
@@ -2581,9 +2750,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T06:47:44.962787+00:00",
-    "market_cap": "84533256",
-    "market_cap_display": "\u00a384.5m",
+    "last_updated": "2026-09-14T06:49:43.973329+00:00",
+    "market_cap": "79461256",
+    "market_cap_display": "\u00a379.5m",
     "ticker": "JLP"
   },
   "JNEO.L": {
@@ -2664,6 +2833,19 @@
     "market_cap_display": "\u00a329.0m",
     "ticker": "KEN"
   },
+  "KEYS.L": {
+    "business_description": "Keystone Law Group plc provides conventional legal services in the United Kingdom. The company offers its legal services in the areas of banking and finance, capital markets, commercial, commercial property,\u2026",
+    "company_name": "Keystone Law Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KEYS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:40.979500+00:00",
+    "market_cap": "193728576",
+    "market_cap_display": "\u00a3193.7m",
+    "ticker": "KEYS"
+  },
   "KGH.L": {
     "business_description": "Knights Group Holdings plc, together with its subsidiaries, provides legal and professional services in the United Kingdom. The company offers advice to banks, debt funds, direct lenders, borrowers, and financial\u2026",
     "company_name": "Knights Group Holdings plc",
@@ -2689,6 +2871,19 @@
     "market_cap": "16090972",
     "market_cap_display": "\u00a316.1m",
     "ticker": "KLSO"
+  },
+  "KMK.L": {
+    "business_description": "Kromek Group plc, together with its subsidiaries, develops, manufactures, and sells radiation detection components and bio-detection technology solutions for the advanced imaging, CBRN detection, and biological threat\u2026",
+    "company_name": "Kromek Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KMK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:35.295161+00:00",
+    "market_cap": "46853944",
+    "market_cap_display": "\u00a346.9m",
+    "ticker": "KMK"
   },
   "KNOS.L": {
     "business_description": "Kainos Group plc engages in the provision of information technology services in the United Kingdom, Ireland, North Americas, Central Europe, and internationally. The company operates through Digital Services, Workday\u2026",
@@ -2728,6 +2923,19 @@
     "market_cap": "14826310",
     "market_cap_display": "\u00a314.8m",
     "ticker": "KRPZ"
+  },
+  "KRS.L": {
+    "business_description": "Keras Resources Plc, a mineral resource company, engages in the exploration, evaluation, and development of mineral properties in the United States and internationally. The company operates through Phosphate and Other\u2026",
+    "company_name": "Keras Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KRS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:36.006441+00:00",
+    "market_cap": "2196222",
+    "market_cap_display": "\u00a32.2m",
+    "ticker": "KRS"
   },
   "KZG.L": {
     "business_description": "Kazera Global plc operates as a mining investment company in the United Kingdom and South Africa. It operates through Holding Company Expenses, Heavy Mineral Sands Mining Activities, and Diamond Mining Activities\u2026",
@@ -3014,6 +3222,19 @@
     "market_cap": "52200924",
     "market_cap_display": "\u00a352.2m",
     "ticker": "MPAL"
+  },
+  "MPE.L": {
+    "business_description": "M.P. Evans Group PLC, through its subsidiaries, owns and develops oil palm plantations in Indonesia and Malaysia. The company operates through Plantation and Property segments. It produces and sells crude palm oil and\u2026",
+    "company_name": "M.P. Evans Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:MPE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:42.535401+00:00",
+    "market_cap": "979442240",
+    "market_cap_display": "\u00a3979.4m",
+    "ticker": "MPE"
   },
   "MPL.L": {
     "business_description": "Mercantile Ports & Logistics Limited, together with its subsidiaries, develops, owns, and operates port and logistics facilities in India. The company also offers port operation services, such as cargo handling,\u2026",
@@ -3327,6 +3548,19 @@
     "market_cap_display": "\u00a3400.0k",
     "ticker": "ORNT"
   },
+  "PANR.L": {
+    "business_description": "Pantheon Resources Plc, through its subsidiaries, engages in the exploration, appraisal, development, investment, and production of oil and gas in the United States. Its primary assets are the Ahpun project located in\u2026",
+    "company_name": "Pantheon Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PANR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:40.250483+00:00",
+    "market_cap": "155849776",
+    "market_cap_display": "\u00a3155.8m",
+    "ticker": "PANR"
+  },
   "PAT.L": {
     "business_description": "Panthera Resources PLC primarily engages in the exploration and development of gold projects in India and West Africa. Its flagship property is the Bhukia Project located in the state of Rajasthan, India. The company\u2026",
     "company_name": "Panthera Resources PLC",
@@ -3612,6 +3846,19 @@
     "market_cap": "1632249856",
     "market_cap_display": "\u20ac1.63bn",
     "ticker": "PTSB"
+  },
+  "PWR.L": {
+    "business_description": "Power Probe PLC manufactures and sells automotive electrical diagnostic tools for professional service technicians in the United States and internationally. Its products include circuit testers, battery current draw,\u2026",
+    "company_name": "Power Probe PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PWR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:46.177307+00:00",
+    "market_cap": "44221440",
+    "market_cap_display": "\u00a344.2m",
+    "ticker": "PWR"
   },
   "PXC.L": {
     "business_description": "Phoenix Copper Limited, together with its subsidiaries, engages in the exploration and mining activities for precious and base metals in North America. It primarily explores for copper, zinc, gold, lead, tungsten,\u2026",
@@ -3938,6 +4185,19 @@
     "market_cap_display": "\u00a324.6m",
     "ticker": "SBTX"
   },
+  "SCGL.L": {
+    "business_description": "Sealand Capital Galaxy Limited, together with its subsidiaries, operates as an investment, development, and operating platform focused on technology, e-commerce, and IT businesses in Hong Kong and Mainland China. It\u2026",
+    "company_name": "Sealand Capital Galaxy Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SCGL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-14T06:49:49.921181+00:00",
+    "market_cap": "39362204",
+    "market_cap_display": "\u00a339.4m",
+    "ticker": "SCGL"
+  },
   "SCLP.L": {
     "business_description": "Scancell Holdings plc, a clinical stage biopharmaceutical company, discovers and develops of immunotherapies for the treatment of cancer in the United Kingdom. Its product candidates include SCIB1/iSCIB1+ that is in\u2026",
     "company_name": "Scancell Holdings plc",
@@ -4037,9 +4297,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:35.773935+00:00",
-    "market_cap": "155032672",
-    "market_cap_display": "\u00a3155.0m",
+    "last_updated": "2026-09-14T06:49:47.663211+00:00",
+    "market_cap": "140938800",
+    "market_cap_display": "\u00a3140.9m",
     "ticker": "SML"
   },
   "SN.L": {
@@ -4674,9 +4934,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:07.890229+00:00",
-    "market_cap": "10750116",
-    "market_cap_display": "\u00a310.8m",
+    "last_updated": "2026-09-14T06:49:51.981036+00:00",
+    "market_cap": "10631983",
+    "market_cap_display": "\u00a310.6m",
     "ticker": "UFO"
   },
   "UJO.L": {
