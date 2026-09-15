@@ -103,6 +103,19 @@
     "market_cap_display": "",
     "ticker": "49AC"
   },
+  "54XE.L": {
+    "business_description": "",
+    "company_name": "A2Dominion Housing Group Limited 3.5% SNR EMTN 15/11/28 GBP100000'1''REGS",
+    "currency": "GBP",
+    "data_source": "yfinance:54XE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T18:50:18.485548+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "54XE"
+  },
   "61DH.L": {
     "business_description": "",
     "company_name": "Kuwait Projects Co SPC Limited 4.5% GTD SNR EMTN 23/02/2027 USD200000'7",
@@ -813,9 +826,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:47:56.215113+00:00",
-    "market_cap": "12541044",
-    "market_cap_display": "\u00a312.5m",
+    "last_updated": "2026-09-15T18:50:19.136361+00:00",
+    "market_cap": "11115926",
+    "market_cap_display": "\u00a311.1m",
     "ticker": "BHL"
   },
   "BHP.L": {
@@ -1559,6 +1572,19 @@
     "market_cap_display": "\u00a35.41bn",
     "ticker": "DCC"
   },
+  "DEBS.L": {
+    "business_description": "boohoo group plc, doing business as Debenhams Group, operates as an online clothing retailer in the United Kingdom. The company provides consumer credit and payment services, as well as engages in the business of online\u2026",
+    "company_name": "boohoo group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DEBS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T18:50:20.599817+00:00",
+    "market_cap": "371229824",
+    "market_cap_display": "\u00a3371.2m",
+    "ticker": "DEBS"
+  },
   "DEVO.L": {
     "business_description": "Devolver Digital, Inc. develops and publishes digital video games for PC, console, and mobile platforms. It also offers project and lifecycle management; development and production assistance; publishing; and technical\u2026",
     "company_name": "Devolver Digital, Inc.",
@@ -1779,6 +1805,19 @@
     "market_cap": "112280224",
     "market_cap_display": "\u00a3112.3m",
     "ticker": "ELCO"
+  },
+  "ELSA.L": {
+    "business_description": "",
+    "company_name": "Societatea Energetica Electrica S.A.",
+    "currency": "RON",
+    "data_source": "yfinance:ELSA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "YHD",
+    "last_updated": "2026-09-15T18:50:17.139951+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "ELSA"
   },
   "EMAN.L": {
     "business_description": "Everyman Media Group plc, together with its subsidiaries, owns and manages cinemas in the United Kingdom. The company provides mainstream, independent and classic films, special events, launches, and live satellite\u2026",
@@ -2880,9 +2919,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:50:01.601677+00:00",
-    "market_cap": "170203328",
-    "market_cap_display": "\u00a3170.2m",
+    "last_updated": "2026-09-15T18:50:17.814597+00:00",
+    "market_cap": "166511712",
+    "market_cap_display": "\u00a3166.5m",
     "ticker": "IEM"
   },
   "IFRX.L": {
@@ -4211,6 +4250,19 @@
     "market_cap_display": "\u00a33.6m",
     "ticker": "PREM"
   },
+  "PRM.L": {
+    "business_description": "Proteome Sciences plc provides contract research services for the identification, validation, and application of protein biomarkers in the United States, the United Kingdom, European Union, and internationally. The\u2026",
+    "company_name": "Proteome Sciences plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PRM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T18:50:21.254292+00:00",
+    "market_cap": "5085511",
+    "market_cap_display": "\u00a35.1m",
+    "ticker": "PRM"
+  },
   "PRN.L": {
     "business_description": "Princes Group plc operates as a food and beverage company in the United Kingdom, Italy, Germany, and internationally. The company operates through Foods, Fish, Italian, Oils, and Drinks segments. It offers food, soft\u2026",
     "company_name": "Princes Group plc",
@@ -4375,9 +4427,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T18:51:00.722983+00:00",
-    "market_cap": "8918247",
-    "market_cap_display": "\u00a38.9m",
+    "last_updated": "2026-09-15T18:50:19.849807+00:00",
+    "market_cap": "9353284",
+    "market_cap_display": "\u00a39.4m",
     "ticker": "RBD"
   },
   "RBN.L": {
