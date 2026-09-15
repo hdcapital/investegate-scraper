@@ -168,6 +168,19 @@
     "market_cap_display": "\u00a338.3m",
     "ticker": "80M"
   },
+  "87UO.L": {
+    "business_description": "",
+    "company_name": "ASB Finance Ltd. (London Branch) 1.691% GTD SNR MTN 04/10/2032 EUR100000",
+    "currency": "EUR",
+    "data_source": "yfinance:87UO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:34.492172+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "87UO"
+  },
   "93TH.L": {
     "business_description": "",
     "company_name": "Alliance Oil Company Limited 10%-VAR GTD SNR NTS 11/03/2019 USD1000",
@@ -259,6 +272,19 @@
     "market_cap_display": "\u00a3631.8m",
     "ticker": "AC8"
   },
+  "ACSO.L": {
+    "business_description": "accesso Technology Group plc, together with its subsidiaries, engages in the development and application of technology solutions in the United Kingdom, Europe, North America, Central and South America, the Middle East,\u2026",
+    "company_name": "accesso Technology Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ACSO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:11.347899+00:00",
+    "market_cap": "99444016",
+    "market_cap_display": "\u00a399.4m",
+    "ticker": "ACSO"
+  },
   "ADF.L": {
     "business_description": "Facilities by ADF plc provides premium serviced production facilities, location, and equipment hire to the film and high-end television industry in the United Kingdom and Europe. The company's fleet consists of costume,\u2026",
     "company_name": "Facilities by ADF plc",
@@ -297,6 +323,19 @@
     "market_cap": "771044800",
     "market_cap_display": "\u00a3771.0m",
     "ticker": "AEP"
+  },
+  "AET.L": {
+    "business_description": "Afentra plc, together with its subsidiaries, operates as an upstream oil and gas company primarily in Africa. he company is involved in the appraisal, exploration, development, and production of oil and gas. It holds 34\u2026",
+    "company_name": "Afentra plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:18.523638+00:00",
+    "market_cap": "225335504",
+    "market_cap_display": "\u00a3225.3m",
+    "ticker": "AET"
   },
   "AEWU.L": {
     "business_description": "",
@@ -415,6 +454,19 @@
     "market_cap_display": "\u00a323.0m",
     "ticker": "ALRT"
   },
+  "ALU.L": {
+    "business_description": "The Alumasc Group plc, together with its subsidiaries, manufactures and sells building products and solutions in the United Kingdom, Europe, North America, the Middle East, the Far East, and internationally. It operates\u2026",
+    "company_name": "The Alumasc Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ALU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:17.859991+00:00",
+    "market_cap": "85403544",
+    "market_cap_display": "\u00a385.4m",
+    "ticker": "ALU"
+  },
   "AMCO.L": {
     "business_description": "Amcomri Group plc engages in the engineering and industrial manufacturing businesses in the United Kingdom. The company operates in two divisions: Embedded Engineering Division and B2B Manufacturing Division. It offers\u2026",
     "company_name": "Amcomri Group plc",
@@ -423,9 +475,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:23.041990+00:00",
-    "market_cap": "100026768",
-    "market_cap_display": "\u00a3100.0m",
+    "last_updated": "2026-09-15T06:49:23.908206+00:00",
+    "market_cap": "93675856",
+    "market_cap_display": "\u00a393.7m",
     "ticker": "AMCO"
   },
   "AMP.L": {
@@ -609,6 +661,19 @@
     "market_cap": "138531632",
     "market_cap_display": "\u00a3138.5m",
     "ticker": "ATM"
+  },
+  "ATR.L": {
+    "business_description": "Schroders Investment Trusts - Schroder Asian Total Return Investment Company plc is a closed ended equity mutual fund launched by Schroder Unit Trusts Limited. The fund is co-managed by Schroder Investment Management\u2026",
+    "company_name": "Schroder Asian Total Return Inv. Company",
+    "currency": "GBp",
+    "data_source": "yfinance:ATR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:11.978445+00:00",
+    "market_cap": "638792064",
+    "market_cap_display": "\u00a3638.8m",
+    "ticker": "ATR"
   },
   "AVAP.L": {
     "business_description": "Avation PLC, together with its subsidiaries, leases commercial passenger aircraft to airlines in Europe and the Asia-Pacific. The company's fleet includes 14 narrow-body jets, two twin-aisle jets, and 17 ATR 72\u2026",
@@ -883,6 +948,19 @@
     "market_cap_display": "\u00a3192.6m",
     "ticker": "BOOK"
   },
+  "BOW.L": {
+    "business_description": "Bow Street Group plc engages in operating restaurants in the United Kingdom. The company operates restaurants under the Wildwood and dim t name. The company was formerly known as Tasty plc and changed its name to Bow\u2026",
+    "company_name": "Bow Street Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BOW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:26.565984+00:00",
+    "market_cap": "8366708",
+    "market_cap_display": "\u00a38.4m",
+    "ticker": "BOW"
+  },
   "BOY.L": {
     "business_description": "Bodycote plc provides heat treatment and thermal processing services worldwide. It operates in Specialist Technologies and Precision Heat Treatment divisions. The company offers heat treatment services, including\u2026",
     "company_name": "Bodycote plc",
@@ -908,6 +986,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "BPCP"
+  },
+  "BPM.L": {
+    "business_description": "B.P. Marsh & Partners PLC is a private equity and venture capital firm specializing in start up to more developed, early-stage and SME investments. It seeks to invest in financial services intermediary businesses in the\u2026",
+    "company_name": "B.P. Marsh & Partners PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BPM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:31.187248+00:00",
+    "market_cap": "232909680",
+    "market_cap_display": "\u00a3232.9m",
+    "ticker": "BPM"
   },
   "BPT.L": {
     "business_description": "Bridgepoint Group plc is a private equity and private credit firm specializing in middle market, lower mid-market, small mid cap, small cap, growth capital, buyouts investments, syndicate debt, infrastructure, direct\u2026",
@@ -1012,6 +1103,19 @@
     "market_cap": "40299444",
     "market_cap_display": "\u00a340.3m",
     "ticker": "BVC"
+  },
+  "BYG.L": {
+    "business_description": "Big Yellow Group Plc is the UK's brand leader in self-storage and operates from a platform of 111 stores. We have a pipeline of 0.9 million sq ft comprising 13 proposed self-storage facilities. The current maximum\u2026",
+    "company_name": "Big Yellow Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BYG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:29.881727+00:00",
+    "market_cap": "1591020032",
+    "market_cap_display": "\u00a31.59bn",
+    "ticker": "BYG"
   },
   "CAM.L": {
     "business_description": "Camellia Plc, together with its subsidiaries, engages in agriculture and engineering business in the United Kingdom, Bangladesh, India, Kenya, Malawi, South Africa, North America, and South America. The company produces\u2026",
@@ -1181,6 +1285,19 @@
     "market_cap": "11166620",
     "market_cap_display": "\u00a311.2m",
     "ticker": "CLA"
+  },
+  "CLIG.L": {
+    "business_description": "City of London Investment Group PLC is a publically owned investment manager. The firm provides client focused equity portfolios. It invests in public equity markets across the globe. The firm invests in small cap\u2026",
+    "company_name": "City of London Investment Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CLIG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:17.197265+00:00",
+    "market_cap": "237976560",
+    "market_cap_display": "\u00a3238.0m",
+    "ticker": "CLIG"
   },
   "CMET.L": {
     "business_description": "Capital Metals Limited engages in the mineral sands project. The company is based in British Virgin Islands.",
@@ -1520,6 +1637,19 @@
     "market_cap_display": "\u00a31.79bn",
     "ticker": "DNLM"
   },
+  "DPP.L": {
+    "business_description": "DP Poland Plc, together with its subsidiaries, develops, operates, and sub-franchises Domino's Pizza stores in Poland and Croatia. It operates through two segments Corporate Store Sales and Commissary Operations. The\u2026",
+    "company_name": "DP Poland Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DPP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:25.258071+00:00",
+    "market_cap": "61359196",
+    "market_cap_display": "\u00a361.4m",
+    "ticker": "DPP"
+  },
   "ECEL.L": {
     "business_description": "Eurocell plc engages in manufacturing, distribution, and recycling of building products in the United Kingdom and the Republic of Ireland. The company operates through Profiles, Corporate, Alune, and Building Plastics\u2026",
     "company_name": "Eurocell plc",
@@ -1567,9 +1697,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:38.830649+00:00",
-    "market_cap": "6778066",
-    "market_cap_display": "\u00a36.8m",
+    "last_updated": "2026-09-15T06:49:28.551087+00:00",
+    "market_cap": "6983462",
+    "market_cap_display": "\u00a37.0m",
     "ticker": "ECR"
   },
   "EDEN.L": {
@@ -1623,6 +1753,19 @@
     "market_cap": "241788656",
     "market_cap_display": "\u00a3241.8m",
     "ticker": "EGL"
+  },
+  "EKF.L": {
+    "business_description": "EKF Diagnostics Holdings plc engages in the design, development, manufacture, and sale of diagnostic instruments, reagents, and other ancillary products in the Americas, Europe, the Middle East, Asia, Africa, and\u2026",
+    "company_name": "EKF Diagnostics Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EKF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:15.218074+00:00",
+    "market_cap": "111319808",
+    "market_cap_display": "\u00a3111.3m",
+    "ticker": "EKF"
   },
   "ELCO.L": {
     "business_description": "Eleco plc provides software and related services in the United Kingdom, Scandinavia, Germany, the rest of Europe, the United States, and internationally. The company's products and solutions include IconSystem for the\u2026",
@@ -1780,6 +1923,19 @@
     "market_cap_display": "\u00a324.2m",
     "ticker": "EST"
   },
+  "EVPL.L": {
+    "business_description": "everplay group plc, together with its subsidiaries, develops and publishes independent video games for digital and physical market in the United Kingdom. The company operates through three segments: Games Label,\u2026",
+    "company_name": "everplay group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EVPL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:08.698020+00:00",
+    "market_cap": "538914624",
+    "market_cap_display": "\u00a3538.9m",
+    "ticker": "EVPL"
+  },
   "EWG.L": {
     "business_description": "W.A.G payment solutions plc develops and sells integrated digital platform, payment, mobility, and financial solutions for the commercial road transport (CRT) industry in Europe. It operates through two segments:\u2026",
     "company_name": "W.A.G payment solutions plc",
@@ -1814,10 +1970,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:30.572624+00:00",
+    "last_updated": "2026-09-15T06:49:33.848044+00:00",
     "market_cap": "1180858",
     "market_cap_display": "\u00a31.2m",
     "ticker": "EXR"
+  },
+  "EYE.L": {
+    "business_description": "Eagle Eye Solutions Group PLC, together with its subsidiaries, engages in the provision of marketing technology software as a service solution in the United Kingdom, France, the United States, Canada, Australia, rest of\u2026",
+    "company_name": "Eagle Eye Solutions Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:EYE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:08.032646+00:00",
+    "market_cap": "149616576",
+    "market_cap_display": "\u00a3149.6m",
+    "ticker": "EYE"
   },
   "EZJ.L": {
     "business_description": "easyJet plc operates as a low-cost airline carrier in Europe. The company engages in the development of building projects; financing and insurance business; and tour operator activities, as well as provides holiday\u2026",
@@ -1936,6 +2105,32 @@
     "market_cap_display": "\u00a312.5m",
     "ticker": "FMET"
   },
+  "FNTL.L": {
+    "business_description": "Fintel Plc engages in the provision of fintech and support services to the retail financial services sector in the United Kingdom. It operates through two segments, Software & Data and Services. The Software & Data\u2026",
+    "company_name": "Fintel Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FNTL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:16.536078+00:00",
+    "market_cap": "186506000",
+    "market_cap_display": "\u00a3186.5m",
+    "ticker": "FNTL"
+  },
+  "FORF.L": {
+    "business_description": "Fortis Frontier PLC develops, distributes, and commercializes at-home healthcare and wellness tests in the United Kingdom. It is also involved in the development of an accompanying proprietary digital platform. The\u2026",
+    "company_name": "Fortis Frontier PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:FORF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:29.217195+00:00",
+    "market_cap": "2662098",
+    "market_cap_display": "\u00a32.7m",
+    "ticker": "FORF"
+  },
   "FORG.L": {
     "business_description": "Forgent plc designs, develops and supplies proprietary advanced gasification technology to customers in the utility, industrial and waste management sectors in the Republic of Ireland, the United Kingdom, European\u2026",
     "company_name": "Forgent plc",
@@ -2039,6 +2234,19 @@
     "market_cap": "168163568",
     "market_cap_display": "\u00a3168.2m",
     "ticker": "FXPO"
+  },
+  "GABI.L": {
+    "business_description": "Project Finance Investments Limited is an investment firm based in Jersey, Channel Islands.",
+    "company_name": "GCP Asset Backed Income Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:GABI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:30.551507+00:00",
+    "market_cap": "64071408",
+    "market_cap_display": "\u00a364.1m",
+    "ticker": "GABI"
   },
   "GAID.L": {
     "business_description": "",
@@ -2300,6 +2508,19 @@
     "market_cap_display": "\u00a31.25bn",
     "ticker": "GRI"
   },
+  "GRID.L": {
+    "business_description": "Gresham House Energy Storage Fund plc is an infrastructure investment fund.",
+    "company_name": "Gresham House Energy Storage Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:GRID.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:35.139896+00:00",
+    "market_cap": "564511552",
+    "market_cap_display": "\u00a3564.5m",
+    "ticker": "GRID"
+  },
   "GRP.L": {
     "business_description": "",
     "company_name": "Greencoat Renewables",
@@ -2429,6 +2650,19 @@
     "market_cap": "655203648",
     "market_cap_display": "\u00a3655.2m",
     "ticker": "HAN"
+  },
+  "HAYD.L": {
+    "business_description": "Haydale plc, through its subsidiaries, engages in the manufacturing and commercialization of plasma functionalized graphene-based heating and thermal products in United Kingdom, Europe, the United States, China,\u2026",
+    "company_name": "Haydale plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HAYD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:32.513267+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "HAYD"
   },
   "HCM.L": {
     "business_description": "HUTCHMED (China) Limited, together with its subsidiaries, discovers, develops, and commercializes targeted therapeutics and immunotherapies to treat cancer and immunological diseases in Hong Kong, the United States, and\u2026",
@@ -2586,6 +2820,19 @@
     "market_cap_display": "\u00a310.6m",
     "ticker": "HUI"
   },
+  "HVO.L": {
+    "business_description": "hVIVO plc operates as a full-service early specialist contract research organisation in the United Kingdom, Europe, and North America. It provides end-to-end early clinical development services to the biopharmaceutical\u2026",
+    "company_name": "hVIVO plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HVO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:24.588114+00:00",
+    "market_cap": "44057672",
+    "market_cap_display": "\u00a344.1m",
+    "ticker": "HVO"
+  },
   "HWG.L": {
     "business_description": "Harworth Group plc operates as a regeneration, strategic land, and development businesses. It operates through two segments, Income Generation and Capital Growth. The Income Generation segment is involved in generating\u2026",
     "company_name": "Harworth Group plc",
@@ -2598,6 +2845,19 @@
     "market_cap": "574345856",
     "market_cap_display": "\u00a3574.3m",
     "ticker": "HWG"
+  },
+  "ICFG.L": {
+    "business_description": "ICFG Limited provides microfinance and adjacent financial solutions. It also provides financial services; capital markets and investment banking related services; AI and IT services; and real estate management services.\u2026",
+    "company_name": "ICFG Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ICFG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:15.857507+00:00",
+    "market_cap": "57107992",
+    "market_cap_display": "\u00a357.1m",
+    "ticker": "ICFG"
   },
   "IDHC.L": {
     "business_description": "Integrated Diagnostics Holdings plc, a consumer healthcare company, provides medical diagnostics services to patients. It offers approximately 3,000 diagnostic pathology tests, such as immunology, microbiology,\u2026",
@@ -2664,6 +2924,19 @@
     "market_cap_display": "\u00a316.6m",
     "ticker": "IHC"
   },
+  "IMM.L": {
+    "business_description": "ImmuPharma plc, together with its subsidiaries, engages in the research, development, and commercialization of peptide-based therapeutics for autoimmune diseases, infectious diseases, and metabolic disorders in the\u2026",
+    "company_name": "ImmuPharma plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IMM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:22.556016+00:00",
+    "market_cap": "21836898",
+    "market_cap_display": "\u00a321.8m",
+    "ticker": "IMM"
+  },
   "INPP.L": {
     "business_description": "International Public Partnerships Limited specializes in investments in broader infrastructure sector with a focus on public or social infrastructure. The fund seeks acquisition opportunities that may be single assets,\u2026",
     "company_name": "International Public Partnerships Limited",
@@ -2676,6 +2949,19 @@
     "market_cap": "2477450752",
     "market_cap_display": "\u00a32.48bn",
     "ticker": "INPP"
+  },
+  "IPO.L": {
+    "business_description": "IP Group Plc is a private equity and venture capital firm specializing in seed/startup, early venture, emerging growth, mature, mid venture, late venture, incubation, mezzanine in growth capital companies. It prefers to\u2026",
+    "company_name": "IP Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IPO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:12.632096+00:00",
+    "market_cap": "580411904",
+    "market_cap_display": "\u00a3580.4m",
+    "ticker": "IPO"
   },
   "IQE.L": {
     "business_description": "IQE plc, together with its subsidiaries, develops, manufactures, and sells advanced semiconductor materials. It operates through three segments: Wireless, Photonics, and CMOS++. The company manufactures and sells\u2026",
@@ -2898,6 +3184,32 @@
     "market_cap_display": "\u00a3151.3m",
     "ticker": "KGH"
   },
+  "KIE.L": {
+    "business_description": "Kier Group plc primarily engages in the construction business in the United Kingdom and internationally. The company operates through four segments: Construction, Infrastructure Services, Property and Corporate. It\u2026",
+    "company_name": "Kier Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KIE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:07.361846+00:00",
+    "market_cap": "1071538112",
+    "market_cap_display": "\u00a31.07bn",
+    "ticker": "KIE"
+  },
+  "KIST.L": {
+    "business_description": "Kistos Holdings Plc focuses on development and production of gas and other hydrocarbon reserves in the United Kingdom, Norway, and the Netherlands. It is also involved in midstream activities, such as oil processing and\u2026",
+    "company_name": "Kistos Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KIST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:21.165996+00:00",
+    "market_cap": "273457056",
+    "market_cap_display": "\u00a3273.5m",
+    "ticker": "KIST"
+  },
   "KLSO.L": {
     "business_description": "Kelso Group Holdings Plc operates as an investment company in the United Kingdom. It undertakes an acquisition of a target company or business in the support services sector. The company was formerly known as Insight\u2026",
     "company_name": "Kelso Group Holdings Plc",
@@ -2997,9 +3309,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:28.324572+00:00",
-    "market_cap": "13962094",
-    "market_cap_display": "\u00a314.0m",
+    "last_updated": "2026-09-15T06:49:20.508952+00:00",
+    "market_cap": "10740073",
+    "market_cap_display": "\u00a310.7m",
     "ticker": "LEND"
   },
   "LIT.L": {
@@ -3040,6 +3352,19 @@
     "market_cap": "10240253",
     "market_cap_display": "\u00a310.2m",
     "ticker": "LPA"
+  },
+  "LSL.L": {
+    "business_description": "LSL Property Services plc, together with its subsidiaries, provides business-to-business platform for residential market services in the United Kingdom. The company operates through three segments: Financial Services,\u2026",
+    "company_name": "LSL Property Services plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LSL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:10.668164+00:00",
+    "market_cap": "243793984",
+    "market_cap_display": "\u00a3243.8m",
+    "ticker": "LSL"
   },
   "MAB1.L": {
     "business_description": "Mortgage Advice Bureau (Holdings) plc, together with its subsidiaries, provides mortgage advice, and advice on protection and general insurance products in the United Kingdom. The company provides advice on protection\u2026",
@@ -3118,6 +3443,19 @@
     "market_cap": "7175168",
     "market_cap_display": "\u00a37.2m",
     "ticker": "MBO"
+  },
+  "MCB.L": {
+    "business_description": "McBride plc, together with its subsidiaries, manufactures and sells private label household and personal care products to retailers and brand owners in the United Kingdom, Germany, France, Italy, Spain, rest of Europe,\u2026",
+    "company_name": "McBride plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MCB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:13.932670+00:00",
+    "market_cap": "325967456",
+    "market_cap_display": "\u00a3326.0m",
+    "ticker": "MCB"
   },
   "MCG.L": {
     "business_description": "Mobico Group Plc designs, mobilizes, and operates transport services in the United Kingdom, Germany, Spain, Morocco, the United States, Portugal, Switzerland, and France. The company operates through UK Bus, UK Coach,\u2026",
@@ -3248,6 +3586,19 @@
     "market_cap": "106783752",
     "market_cap_display": "\u00a3106.8m",
     "ticker": "MOTR"
+  },
+  "MPAC.L": {
+    "business_description": "Mpac Group plc, together with its subsidiaries, provides packaging and automation solutions to healthcare, clean energy, and food and beverage sectors worldwide. The company operates through Original Equipment and\u2026",
+    "company_name": "Mpac Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MPAC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:27.227130+00:00",
+    "market_cap": "104504616",
+    "market_cap_display": "\u00a3104.5m",
+    "ticker": "MPAC"
   },
   "MPAL.L": {
     "business_description": "MedPal AI PLC operates as a digital health and artificial intelligence company focused on wellness management in United Kingdom. The company's application aggregates data from wearable fitness trackers or health apps,\u2026",
@@ -3404,6 +3755,19 @@
     "market_cap": "4843817",
     "market_cap_display": "\u00a34.8m",
     "ticker": "NANO"
+  },
+  "NBB.L": {
+    "business_description": "Norman Broadbent plc, together with its subsidiaries, provides professional services in the United Kingdom and internationally. It provides board and search, interim management and consulting, research and insight,\u2026",
+    "company_name": "Norman Broadbent plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NBB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:27.887828+00:00",
+    "market_cap": "4524637",
+    "market_cap_display": "\u00a34.5m",
+    "ticker": "NBB"
   },
   "NBS.L": {
     "business_description": "Nationwide Building Society, together with its subsidiaries, provides retail banking products and services in the United Kingdom. The company offers current, savings, and individual savings accounts; residential\u2026",
@@ -3717,6 +4081,19 @@
     "market_cap_display": "",
     "ticker": "PEYS"
   },
+  "PGH.L": {
+    "business_description": "Personal Group Holdings Plc engages in the provision of employee services and salary sacrifice technology products in the United Kingdom. It operates through Affordable Insurance, Benefits and Reward segments. The\u2026",
+    "company_name": "Personal Group Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PGH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:21.895914+00:00",
+    "market_cap": "126924608",
+    "market_cap_display": "\u00a3126.9m",
+    "ticker": "PGH"
+  },
   "PHAR.L": {
     "business_description": "Pharos Energy plc, an independent energy company, explores, develops, and produces oil and gas properties in Vietnam and Egypt. The company was formerly known as SOCO International plc and changed its name to Pharos\u2026",
     "company_name": "Pharos Energy plc",
@@ -3769,6 +4146,19 @@
     "market_cap_display": "\u00a3163.8m",
     "ticker": "PLSR"
   },
+  "POLN.L": {
+    "business_description": "Pollen Street PLC was founded in 2015 and is headquartered in London, Greater London, United Kingdom.",
+    "company_name": "Pollen Street Group Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:POLN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:19.836232+00:00",
+    "market_cap": "488121728",
+    "market_cap_display": "\u00a3488.1m",
+    "ticker": "POLN"
+  },
   "PPH.L": {
     "business_description": "PPHE Hotel Group Limited owns, co-owns, develops, leases, operates, and franchises hospitality real estate in the Netherlands, the United Kingdom, Germany, Croatia, Austria, Hungary, Italy, and Serbia. The company\u2026",
     "company_name": "PPHE Hotel Group Limited",
@@ -3820,6 +4210,19 @@
     "market_cap": "3630384",
     "market_cap_display": "\u00a33.6m",
     "ticker": "PREM"
+  },
+  "PRN.L": {
+    "business_description": "Princes Group plc operates as a food and beverage company in the United Kingdom, Italy, Germany, and internationally. The company operates through Foods, Fish, Italian, Oils, and Drinks segments. It offers food, soft\u2026",
+    "company_name": "Princes Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PRN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:14.568434+00:00",
+    "market_cap": "739002944",
+    "market_cap_display": "\u00a3739.0m",
+    "ticker": "PRN"
   },
   "PRO.L": {
     "business_description": "ProService Building Services Marketplace Plc, together with its subsidiaries, provides tool and equipment hire, and related services in the United Kingdom and the Republic of Ireland. It operates through HSS ProService,\u2026",
@@ -4341,6 +4744,19 @@
     "market_cap_display": "\u00a313.00bn",
     "ticker": "SGRO"
   },
+  "SLP.L": {
+    "business_description": "Sylvania Platinum Limited, together with its subsidiaries, operates as a producer of platinum group metals including platinum, palladium, and rhodium, and chrome in South Africa. The company operates through two core\u2026",
+    "company_name": "Sylvania Platinum Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SLP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:10.008650+00:00",
+    "market_cap": "221294672",
+    "market_cap_display": "\u00a3221.3m",
+    "ticker": "SLP"
+  },
   "SML.L": {
     "business_description": "Strategic Minerals Plc engages in the exploration, development, and operation of mining projects. The company operates the Cobre mine in New Mexico, which sells magnetite for use in the cement, fertilizer, dense\u2026",
     "company_name": "Strategic Minerals Plc",
@@ -4457,6 +4873,19 @@
     "market_cap": "985470592",
     "market_cap_display": "\u00a3985.5m",
     "ticker": "SPI"
+  },
+  "SPR.L": {
+    "business_description": "Springfield Properties Plc, together with its subsidiaries, engages in the residential housebuilding and land development in the United Kingdom. The company offers private, affordable, and contract housing, as well as\u2026",
+    "company_name": "Springfield Properties Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SPR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:13.298673+00:00",
+    "market_cap": "127880288",
+    "market_cap_display": "\u00a3127.9m",
+    "ticker": "SPR"
   },
   "SRC.L": {
     "business_description": "SigmaRoc plc, through its subsidiaries, invests, acquires, and integrates businesses in the quarried materials sector in the United Kingdom, Ireland, western Europe, Central Europe, and Nordics. It also produces\u2026",
@@ -4783,6 +5212,19 @@
     "market_cap_display": "\u00a3503.0m",
     "ticker": "THG"
   },
+  "THR.L": {
+    "business_description": "Thor Energy Plc engages in the exploration and development of mineral properties in Australia. It explores for uranium, vanadium, copper, tungsten, molybdenum, gold, lithium, nickel, and other mineral deposits. The\u2026",
+    "company_name": "Thor Energy Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:THR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:31.858189+00:00",
+    "market_cap": "5665399",
+    "market_cap_display": "\u00a35.7m",
+    "ticker": "THR"
+  },
   "TIA.L": {
     "business_description": "Tialis Essential IT PLC, through its subsidiaries, provides network, cloud, and IT managed services to public and private companies in the United Kingdom. It focuses on the storage, building, configuration, and shipping\u2026",
     "company_name": "Tialis Essential IT PLC",
@@ -4913,6 +5355,19 @@
     "market_cap_display": "\u00a3645.5m",
     "ticker": "TRN"
   },
+  "TRST.L": {
+    "business_description": "Trustpilot Group plc develops and hosts an online review platform for businesses and consumers in the United Kingdom, North America, Europe, and internationally. The company's online review platform enables consumers to\u2026",
+    "company_name": "Trustpilot Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:09.332630+00:00",
+    "market_cap": "1006583168",
+    "market_cap_display": "\u00a31.01bn",
+    "ticker": "TRST"
+  },
   "TRUE.L": {
     "business_description": "Truetide plc is a private equity and venture capital firm specializing in loan, mezzanine, seed/startup, early venture, late stage, emerging growth, turnaround, distress situations, buyout and growth capital companies.\u2026",
     "company_name": "Truetide plc",
@@ -5017,6 +5472,19 @@
     "market_cap_display": "\u00a344.1m",
     "ticker": "ULTP"
   },
+  "UMR.L": {
+    "business_description": "Unicorn Mineral Resources Public Limited Company explores for minerals and precious metals in the Republic of Ireland. The company focuses on the exploration for deposits of Irish type carbonate hosted copper/lead/zinc,\u2026",
+    "company_name": "Unicorn Mineral Resources Public Limited Company",
+    "currency": "GBp",
+    "data_source": "yfinance:UMR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:33.177477+00:00",
+    "market_cap": "3064124",
+    "market_cap_display": "\u00a33.1m",
+    "ticker": "UMR"
+  },
   "UOG.L": {
     "business_description": "United Oil & Gas Plc, together with its subsidiaries, engages in the exploration, development, and production of oil and gas in the United Kingdom, rest of Europe and greater Mediterranean, and Latin America. It holds\u2026",
     "company_name": "United Oil & Gas Plc",
@@ -5055,6 +5523,19 @@
     "market_cap": "907653760",
     "market_cap_display": "\u00a3907.7m",
     "ticker": "USA"
+  },
+  "VAL.L": {
+    "business_description": "ValiRx plc, together with its subsidiaries, engages in the development of oncology therapeutics and companion diagnostics in the United Kingdom. The company develops VAL401, a reformulation of anti-psychotic drug\u2026",
+    "company_name": "ValiRx plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VAL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:25.920271+00:00",
+    "market_cap": "1914436",
+    "market_cap_display": "\u00a31.9m",
+    "ticker": "VAL"
   },
   "VANQ.L": {
     "business_description": "Vanquis Banking Group plc engages in the provision of personal credit products to the non-standard lending market in the United Kingdom and the Republic of Ireland. The company offers credit cards, saving account,\u2026",
@@ -5146,6 +5627,19 @@
     "market_cap": "261869008",
     "market_cap_display": "\u00a3261.9m",
     "ticker": "VTU"
+  },
+  "WIX.L": {
+    "business_description": "Wickes Group plc operates as a retailer of home improvement products and services in the United Kingdom. The company supports customers' home improvement projects through Local Trade, Design and Installation, and\u2026",
+    "company_name": "Wickes Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WIX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-15T06:49:19.199235+00:00",
+    "market_cap": "388342400",
+    "market_cap_display": "\u00a3388.3m",
+    "ticker": "WIX"
   },
   "WNX.L": {
     "business_description": "Wellnex Life Limited, together with its subsidiaries, develops, markets, and sells health and wellness products in Australia and New Zealand. It offers topical anti-inflammatory creams, sprays, and roll-ons for the\u2026",
