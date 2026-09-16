@@ -176,9 +176,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:27.106781+00:00",
-    "market_cap": "38261392",
-    "market_cap_display": "\u00a338.3m",
+    "last_updated": "2026-09-16T06:48:56.294430+00:00",
+    "market_cap": "38126512",
+    "market_cap_display": "\u00a338.1m",
     "ticker": "80M"
   },
   "87UO.L": {
@@ -306,10 +306,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T18:50:14.885123+00:00",
-    "market_cap": "14066154",
+    "last_updated": "2026-09-16T06:48:52.861592+00:00",
+    "market_cap": "14121316",
     "market_cap_display": "\u00a314.1m",
     "ticker": "ADF"
+  },
+  "ADVT.L": {
+    "business_description": "AdvancedAdvT Limited engages in the provision of software solutions and platforms in Europe, the United Kingdom, North America, and internationally. It offers business solutions and healthcare compliance; and human\u2026",
+    "company_name": "AdvancedAdvT Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ADVT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:07.860940+00:00",
+    "market_cap": "222660656",
+    "market_cap_display": "\u00a3222.7m",
+    "ticker": "ADVT"
   },
   "AEG.L": {
     "business_description": "Active Energy Group Plc does not have significant operations. Previously, the company was engaged in the development and production of CoalSwitch, a renewable biomass fuel. The company was formerly known as Cinpart plc\u2026",
@@ -493,6 +506,19 @@
     "market_cap_display": "\u00a393.7m",
     "ticker": "AMCO"
   },
+  "AMGO.L": {
+    "business_description": "Amigo Resources PLC, through its subsidiaries, offers loans to individuals in the United Kingdom. It also engages in trading and financing activities. The company was formerly known as Amigo Holdings PLC and changed its\u2026",
+    "company_name": "Amigo Resources PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:AMGO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:13.309950+00:00",
+    "market_cap": "37234364",
+    "market_cap_display": "\u00a337.2m",
+    "ticker": "AMGO"
+  },
   "AMP.L": {
     "business_description": "AMPEAK ENERGY LIMITED engages in developing, building, owning, and operating energy projects in the United Kingdom. The company operates through four segments: Project Development, Tidal, Battery Storage, and Corporate.\u2026",
     "company_name": "AMPEAK ENERGY LIMITED",
@@ -514,9 +540,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:27.575318+00:00",
-    "market_cap": "610381184",
-    "market_cap_display": "\u00a3610.4m",
+    "last_updated": "2026-09-16T06:48:53.550960+00:00",
+    "market_cap": "611468032",
+    "market_cap_display": "\u00a3611.5m",
     "ticker": "AMS"
   },
   "ANP.L": {
@@ -545,6 +571,19 @@
     "market_cap_display": "\u00a3732.5m",
     "ticker": "APN"
   },
+  "APTD.L": {
+    "business_description": "Aptitude Software Group plc, together with its subsidiaries, provides autonomous finance software solutions in the United Kingdom and internationally. It offers Fynapse, an intelligent finance data management and\u2026",
+    "company_name": "Aptitude Software Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:APTD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:51.490374+00:00",
+    "market_cap": "114533880",
+    "market_cap_display": "\u00a3114.5m",
+    "ticker": "APTD"
+  },
   "ARC.L": {
     "business_description": "Arcontech Group plc, together with its subsidiaries, engages in the development and sale of proprietary software in the United Kingdom, rest of Europe, Africa, North America, Australasia, and the Asia Pacific. The\u2026",
     "company_name": "Arcontech Group plc",
@@ -558,6 +597,19 @@
     "market_cap_display": "\u00a310.8m",
     "ticker": "ARC"
   },
+  "ARK.L": {
+    "business_description": "Arkle Resources PLC, together with its subsidiaries, engages in the exploration and development of mineral resources in Namibia, Zimbabwe, Botswana, and Ireland. It primarily explores for gold, zinc, lithium, and\u2026",
+    "company_name": "Arkle Resources PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ARK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:01.721886+00:00",
+    "market_cap": "11004600",
+    "market_cap_display": "\u00a311.0m",
+    "ticker": "ARK"
+  },
   "ARS.L": {
     "business_description": "Asiamet Resources Limited, together with its subsidiaries, engages in the exploration and development of mineral properties in Indonesia. The company explores for copper, gold, zinc, lead, and silver deposits. Its\u2026",
     "company_name": "Asiamet Resources Limited",
@@ -570,6 +622,19 @@
     "market_cap": "55997968",
     "market_cap_display": "\u00a356.0m",
     "ticker": "ARS"
+  },
+  "ART.L": {
+    "business_description": "The Artisanal Spirits Company plc, together with its subsidiaries, creates, curates, and sells whisky and artisanal spirits in Europe, Asia, the Americas, and internationally. It sells single cask scotch malt whiskies\u2026",
+    "company_name": "The Artisanal Spirits Company plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ART.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:58.314550+00:00",
+    "market_cap": "16639105",
+    "market_cap_display": "\u00a316.6m",
+    "ticker": "ART"
   },
   "ASAI.L": {
     "business_description": "ASA International Group PLC operates as a microfinance institution in Asia and Africa. It provides various collateral-free loans, such as small business and MSME loans to start or grow businesses. The company serves\u2026",
@@ -700,6 +765,19 @@
     "market_cap": "80744288",
     "market_cap_display": "\u00a380.7m",
     "ticker": "AVAP"
+  },
+  "AVCT.L": {
+    "business_description": "Avacta Group Plc, together with its subsidiaries, engages in the development of cancer therapies in the United Kingdom, South Korea, and internationally. The company's lead product candidate is AVA6000, a peptide drug\u2026",
+    "company_name": "Avacta Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AVCT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:11.266143+00:00",
+    "market_cap": "374838560",
+    "market_cap_display": "\u00a3374.8m",
+    "ticker": "AVCT"
   },
   "AXB.L": {
     "business_description": "Axis Bank Limited provides various financial products and services in India and internationally. The company operates through four segments: Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking\u2026",
@@ -1086,10 +1164,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:24.957611+00:00",
-    "market_cap": "175684304",
-    "market_cap_display": "\u00a3175.7m",
+    "last_updated": "2026-09-16T06:49:05.125242+00:00",
+    "market_cap": "173477760",
+    "market_cap_display": "\u00a3173.5m",
     "ticker": "BTG"
+  },
+  "BTRW.L": {
+    "business_description": "Barratt Redrow plc engages in the housebuilding business in the United Kingdom. The company is also involved in the commercial development business, which includes offices, retail, leisure, industrial, and distribution\u2026",
+    "company_name": "Barratt Redrow plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BTRW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:52.192302+00:00",
+    "market_cap": "3815338240",
+    "market_cap_display": "\u00a33.82bn",
+    "ticker": "BTRW"
   },
   "BUR.L": {
     "business_description": "Burford Capital Limited provides legal finance products and services worldwide. The company operates in two segments, Principal Finance, and Asset Management and Other Services. The Principal Finance segment provides\u2026",
@@ -1299,6 +1390,19 @@
     "market_cap_display": "\u00a311.2m",
     "ticker": "CLA"
   },
+  "CLDN.L": {
+    "business_description": "Caledonia Investments plc is a self-managed investment trust company. It invests in private and public equity markets across the globe. The firm benchmarks the performance of its portfolios against the FTSE All-Share\u2026",
+    "company_name": "Caledonia Investments Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CLDN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:09.229805+00:00",
+    "market_cap": "1922347136",
+    "market_cap_display": "\u00a31.92bn",
+    "ticker": "CLDN"
+  },
   "CLIG.L": {
     "business_description": "City of London Investment Group PLC is a publically owned investment manager. The firm provides client focused equity portfolios. It invests in public equity markets across the globe. The firm invests in small cap\u2026",
     "company_name": "City of London Investment Group Plc",
@@ -1455,6 +1559,32 @@
     "market_cap_display": "\u00a337.8m",
     "ticker": "CRCL"
   },
+  "CRTA.L": {
+    "business_description": "Cirata plc, together with its subsidiaries, engages in the development and provision of collaboration software in North America, the United Kingdom, and internationally. The company provides Data Migrator, an automated\u2026",
+    "company_name": "Cirata plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CRTA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:01.025253+00:00",
+    "market_cap": "18710366",
+    "market_cap_display": "\u00a318.7m",
+    "ticker": "CRTA"
+  },
+  "CRW.L": {
+    "business_description": "Craneware plc, together with its subsidiaries, develops, licenses, and supports computer software for the healthcare industry in the United States. It provides solutions, such as Trisus Pricing Analyzer and\u2026",
+    "company_name": "Craneware plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CRW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:10.583762+00:00",
+    "market_cap": "441659232",
+    "market_cap_display": "\u00a3441.7m",
+    "ticker": "CRW"
+  },
   "CSN.L": {
     "business_description": "Chesnara plc, together with its subsidiaries, operates in life assurance and pension businesses primarily in the United Kingdom, Sweden, and the Netherlands. It underwrites life, health, accident, and disability cover\u2026",
     "company_name": "Chesnara plc",
@@ -1480,6 +1610,19 @@
     "market_cap": "9637779",
     "market_cap_display": "\u00a39.6m",
     "ticker": "CSSG"
+  },
+  "CTA.L": {
+    "business_description": "CT Automotive Group plc designs, develops, manufactures, and sells automotive interior components and kinematic assemblies for automotive brands in the United Kingdom and internationally. The company operates through\u2026",
+    "company_name": "CT Automotive Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CTA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:58.981727+00:00",
+    "market_cap": "24287192",
+    "market_cap_display": "\u00a324.3m",
+    "ticker": "CTA"
   },
   "CTHT.L": {
     "business_description": "CT Healthcare Trust PLC is a closed ended equity mutual fund launched by Bellevue Asset Management AG. The fund is managed by Bellevue Advisors Limited. It invests in public equity markets across the globe. The fund\u2026",
@@ -1519,6 +1662,19 @@
     "market_cap": "333407104",
     "market_cap_display": "\u00a3333.4m",
     "ticker": "CTUK"
+  },
+  "CTY.L": {
+    "business_description": "The City of London Investment Trust plc is a closed-ended equity mutual fund launched and managed by Henderson Investment Funds Limited. It is co-managed by Henderson Global Investors Limited. The fund invests in the\u2026",
+    "company_name": "The City of London Investment Trust plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CTY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:54.217761+00:00",
+    "market_cap": "2971250432",
+    "market_cap_display": "\u00a32.97bn",
+    "ticker": "CTY"
   },
   "CYAN.L": {
     "business_description": "CyanConnode Holdings plc designs, develops, and sells narrowband radio frequency (RF) mesh and cellular networks that enable Omni Internet of Things (IoT) communications in India, the United Arab Emirates, and\u2026",
@@ -1593,9 +1749,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:40.124670+00:00",
-    "market_cap": "42362992",
-    "market_cap_display": "\u00a342.4m",
+    "last_updated": "2026-09-16T06:49:14.014602+00:00",
+    "market_cap": "33172278",
+    "market_cap_display": "\u00a333.2m",
     "ticker": "DEVO"
   },
   "DFCH.L": {
@@ -1779,6 +1935,19 @@
     "market_cap": "241788656",
     "market_cap_display": "\u00a3241.8m",
     "ticker": "EGL"
+  },
+  "EGT.L": {
+    "business_description": "European Green Transition plc operates in the critical infrastructure sector in the United Kingdom and Ireland. It provides contracted operating, maintenance, and remote monitoring services for onshore wind turbines\u2026",
+    "company_name": "European Green Transition plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EGT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:57.639222+00:00",
+    "market_cap": "35050716",
+    "market_cap_display": "\u00a335.1m",
+    "ticker": "EGT"
   },
   "EKF.L": {
     "business_description": "EKF Diagnostics Holdings plc engages in the design, development, manufacture, and sale of diagnostic instruments, reagents, and other ancillary products in the Americas, Europe, the Middle East, Asia, Africa, and\u2026",
@@ -1996,9 +2165,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:47.246925+00:00",
-    "market_cap": "24804345856",
-    "market_cap_display": "\u00a324.80bn",
+    "last_updated": "2026-09-16T06:49:12.609370+00:00",
+    "market_cap": "24712577024",
+    "market_cap_display": "\u00a324.71bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -2113,9 +2282,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:23.847116+00:00",
-    "market_cap": "7571539",
-    "market_cap_display": "\u00a37.6m",
+    "last_updated": "2026-09-16T06:49:00.339212+00:00",
+    "market_cap": "4754222",
+    "market_cap_display": "\u00a34.8m",
     "ticker": "FIN"
   },
   "FLO.L": {
@@ -2854,9 +3023,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:27.588038+00:00",
-    "market_cap": "10599564",
-    "market_cap_display": "\u00a310.6m",
+    "last_updated": "2026-09-16T06:49:11.928148+00:00",
+    "market_cap": "11640814",
+    "market_cap_display": "\u00a311.6m",
     "ticker": "HUI"
   },
   "HVO.L": {
@@ -2880,9 +3049,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:29.629812+00:00",
-    "market_cap": "574345856",
-    "market_cap_display": "\u00a3574.3m",
+    "last_updated": "2026-09-16T06:49:07.179532+00:00",
+    "market_cap": "574996288",
+    "market_cap_display": "\u00a3575.0m",
     "ticker": "HWG"
   },
   "ICFG.L": {
@@ -2963,6 +3132,19 @@
     "market_cap_display": "\u00a316.6m",
     "ticker": "IHC"
   },
+  "IKA.L": {
+    "business_description": "Ilika plc engages in designing, production, and development of solid state batteries in the United Kingdom, Asia, Europe, and North America. The company offers solid state batteries under the Goliath name for electric\u2026",
+    "company_name": "Ilika plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IKA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:09.890311+00:00",
+    "market_cap": "46738992",
+    "market_cap_display": "\u00a346.7m",
+    "ticker": "IKA"
+  },
   "IMM.L": {
     "business_description": "ImmuPharma plc, together with its subsidiaries, engages in the research, development, and commercialization of peptide-based therapeutics for autoimmune diseases, infectious diseases, and metabolic disorders in the\u2026",
     "company_name": "ImmuPharma plc",
@@ -2975,6 +3157,19 @@
     "market_cap": "21836898",
     "market_cap_display": "\u00a321.8m",
     "ticker": "IMM"
+  },
+  "INOV.L": {
+    "business_description": "Schroders Capital Global Innovation Trust plc - INOV specializes in investments in startups, midsize, middle market and large stage, early stage and mature stage investments. The fund primarily invests in the\u2026",
+    "company_name": "Schroders Capital Global Innovation Trust plc - INOV",
+    "currency": "GBp",
+    "data_source": "yfinance:INOV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:50.800651+00:00",
+    "market_cap": "113094424",
+    "market_cap_display": "\u00a3113.1m",
+    "ticker": "INOV"
   },
   "INPP.L": {
     "business_description": "International Public Partnerships Limited specializes in investments in broader infrastructure sector with a focus on public or social infrastructure. The fund seeks acquisition opportunities that may be single assets,\u2026",
@@ -3392,6 +3587,19 @@
     "market_cap_display": "\u00a310.2m",
     "ticker": "LPA"
   },
+  "LSC.L": {
+    "business_description": "London Security plc, an investment holding company, manufactures, sells, and rents fire protection equipment in the United Kingdom, Belgium, the Netherlands, Austria, France, Germany, Denmark, and Luxembourg. The\u2026",
+    "company_name": "London Security plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LSC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:03.758554+00:00",
+    "market_cap": "447452640",
+    "market_cap_display": "\u00a3447.5m",
+    "ticker": "LSC"
+  },
   "LSL.L": {
     "business_description": "LSL Property Services plc, together with its subsidiaries, provides business-to-business platform for residential market services in the United Kingdom. The company operates through three segments: Financial Services,\u2026",
     "company_name": "LSL Property Services plc",
@@ -3795,6 +4003,19 @@
     "market_cap_display": "\u00a34.8m",
     "ticker": "NANO"
   },
+  "NAVF.L": {
+    "business_description": "",
+    "company_name": "Nippon Active Value Fund plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NAVF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:54.906498+00:00",
+    "market_cap": "438236864",
+    "market_cap_display": "\u00a3438.2m",
+    "ticker": "NAVF"
+  },
   "NBB.L": {
     "business_description": "Norman Broadbent plc, together with its subsidiaries, provides professional services in the United Kingdom and internationally. It provides board and search, interim management and consulting, research and insight,\u2026",
     "company_name": "Norman Broadbent plc",
@@ -3989,6 +4210,19 @@
     "market_cap": "5836467",
     "market_cap_display": "\u00a35.8m",
     "ticker": "OPTI"
+  },
+  "ORCP.L": {
+    "business_description": "Oracle Power PLC engages in the exploration and development of coal in Pakistan. It holds interests in the Thar Block VI project that covers an area of 9,100 square kilometers located in Pakistan. The company also holds\u2026",
+    "company_name": "Oracle Power PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ORCP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:03.068256+00:00",
+    "market_cap": "7212843",
+    "market_cap_display": "\u00a37.2m",
+    "ticker": "ORCP"
   },
   "ORNT.L": {
     "business_description": "Orient Telecoms Plc provides managed telecommunications services in Malaysia, Thailand, and Singapore. The company offers managed broadband services, international managed services; network connectivity and internet\u2026",
@@ -4536,6 +4770,19 @@
     "market_cap_display": "\u00a31.38bn",
     "ticker": "RHIM"
   },
+  "RIFT.L": {
+    "business_description": "Rift Helium plc engages in the exploration and development of helium. Its flagship project is the Upepo Project comprises three prospecting licenses covering 283 square kilometers in the Rukwa Basin located in\u2026",
+    "company_name": "Rift Helium plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RIFT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:06.512299+00:00",
+    "market_cap": "9725298",
+    "market_cap_display": "\u00a39.7m",
+    "ticker": "RIFT"
+  },
   "RIO.L": {
     "business_description": "Rio Tinto Group engages in exploring, mining, and processing mineral resources worldwide. The company operates through Iron Ore; Aluminium and lithium; and Copper segments. The Iron Ore segment engages in the iron ore\u2026",
     "company_name": "Rio Tinto Group",
@@ -4557,9 +4804,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T06:48:26.668354+00:00",
-    "market_cap": "629317824",
-    "market_cap_display": "\u00a3629.3m",
+    "last_updated": "2026-09-16T06:49:08.530264+00:00",
+    "market_cap": "746841280",
+    "market_cap_display": "\u00a3746.8m",
     "ticker": "RKH"
   },
   "RLE.L": {
@@ -4822,6 +5069,19 @@
     "market_cap_display": "\u00a3140.9m",
     "ticker": "SML"
   },
+  "SMWH.L": {
+    "business_description": "WH Smith PLC operates as a travel retailer in the United Kingdom, North America, Australia, Ireland, Spain, and internationally. It offers news, books, and convenience for travelling customers. It operates stores in\u2026",
+    "company_name": "WH Smith PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:SMWH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:04.449466+00:00",
+    "market_cap": "546014272",
+    "market_cap_display": "\u00a3546.0m",
+    "ticker": "SMWH"
+  },
   "SN.L": {
     "business_description": "Smith & Nephew plc, together with its subsidiaries, develops, manufactures, markets, and sells medical devices and services in the United Kingdom, the United States, and internationally. The company operates in three\u2026",
     "company_name": "Smith & Nephew plc",
@@ -4965,6 +5225,19 @@
     "market_cap_display": "\u00a31.9m",
     "ticker": "SRES"
   },
+  "STAR.L": {
+    "business_description": "Star Energy Group Plc engages in the exploration, development, processing, and production of oil and gas in the United Kingdom. The company holds gas and oil reserves at onshore locations in the East Midlands; and the\u2026",
+    "company_name": "Star Energy Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:STAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:59.672678+00:00",
+    "market_cap": "44423116",
+    "market_cap_display": "\u00a344.4m",
+    "ticker": "STAR"
+  },
   "STB.L": {
     "business_description": "Secure Trust Bank PLC provides banking and financial products and services in the United Kingdom. The company operates through four segments: Retail Finance, Real Estate Finance, Commercial Finance, and Other. The\u2026",
     "company_name": "Secure Trust Bank PLC",
@@ -5055,6 +5328,19 @@
     "market_cap": "23285022720",
     "market_cap_display": "\u00a323.29bn",
     "ticker": "SUNB"
+  },
+  "SUPR.L": {
+    "business_description": "Supermarket Income REIT plc, a FTSE 250 company, is the only LSE listed company dedicated to investing in grocery properties which are an essential part of national food infrastructure. The Company focuses on grocery\u2026",
+    "company_name": "Supermarket Income REIT plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SUPR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:56.975636+00:00",
+    "market_cap": "1027524224",
+    "market_cap_display": "\u00a31.03bn",
+    "ticker": "SUPR"
   },
   "SUS.L": {
     "business_description": "S&U plc, together with its subsidiaries, provides motor, property bridging, and specialist finance services in the United Kingdom. It operates through Motor Finance and Property Bridging Finance. The company was\u2026",
@@ -5194,9 +5480,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:21.286649+00:00",
-    "market_cap": "91902048",
-    "market_cap_display": "\u00a391.9m",
+    "last_updated": "2026-09-16T06:49:05.841334+00:00",
+    "market_cap": "99646312",
+    "market_cap_display": "\u00a399.6m",
     "ticker": "TENG"
   },
   "TERA.L": {
@@ -5641,6 +5927,19 @@
     "market_cap_display": "\u00a3757.4m",
     "ticker": "VCT"
   },
+  "VLE.L": {
+    "business_description": "Volvere plc is a private equity and venture capital firm specializing in start-up, early or development-stage, distressed/vulture, growth capital, acquisitions, emerging growth and turnaround investments. The firm\u2026",
+    "company_name": "Volvere plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VLE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:49:02.396527+00:00",
+    "market_cap": "47302312",
+    "market_cap_display": "\u00a347.3m",
+    "ticker": "VLE"
+  },
   "VLX.L": {
     "business_description": "Volex plc manufactures and sells power and connectivity in North America, Europe, and Asia. It provides integrated manufacturing services, such as high level assembly, box build, electromechanical assemblies and\u2026",
     "company_name": "Volex plc",
@@ -5679,6 +5978,19 @@
     "market_cap": "261869008",
     "market_cap_display": "\u00a3261.9m",
     "ticker": "VTU"
+  },
+  "WINK.L": {
+    "business_description": "M Winkworth PLC operates as a franchisor to the Winkworth estate agencies in the United Kingdom. The company offers estate agency sales franchising, residential letting, and property management, and other business\u2026",
+    "company_name": "M Winkworth PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:WINK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T06:48:55.602741+00:00",
+    "market_cap": "22267666",
+    "market_cap_display": "\u00a322.3m",
+    "ticker": "WINK"
   },
   "WIX.L": {
     "business_description": "Wickes Group plc operates as a retailer of home improvement products and services in the United Kingdom. The company supports customers' home improvement projects through Local Trade, Design and Installation, and\u2026",
