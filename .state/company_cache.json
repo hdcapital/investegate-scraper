@@ -3933,9 +3933,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T18:50:57.623320+00:00",
-    "market_cap": "2603148288",
-    "market_cap_display": "\u00a32.60bn",
+    "last_updated": "2026-09-16T18:49:43.521050+00:00",
+    "market_cap": "2628106752",
+    "market_cap_display": "\u00a32.63bn",
     "ticker": "MTO"
   },
   "MUT.L": {
@@ -4700,9 +4700,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T18:49:59.493693+00:00",
-    "market_cap": "23599010",
-    "market_cap_display": "\u00a323.6m",
+    "last_updated": "2026-09-16T18:49:45.740425+00:00",
+    "market_cap": "37739416",
+    "market_cap_display": "\u00a337.7m",
     "ticker": "RENX"
   },
   "RFG.L": {
@@ -4912,6 +4912,19 @@
     "market_cap": "12404585472",
     "market_cap_display": "\u00a312.40bn",
     "ticker": "S32"
+  },
+  "SALT.L": {
+    "business_description": "MicroSalt plc engages in the development and sale of low sodium salt and snack food products in the United Kingdom and internationally. It offers saltshaker and potato chip products under the MicroSalt and SaltMe!\u2026",
+    "company_name": "MicroSalt plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SALT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-16T18:49:44.274683+00:00",
+    "market_cap": "8137058",
+    "market_cap_display": "\u00a38.1m",
+    "ticker": "SALT"
   },
   "SATS.L": {
     "business_description": "Satsuma Technology PLC operates as an AI-focused software development company in the United Kingdom. It provides subnet infrastructure and AI agent development, as well as deploying and managing subnet alpha tokens. The\u2026",
