@@ -415,6 +415,19 @@
     "market_cap_display": "\u00a32.34bn",
     "ticker": "AJB"
   },
+  "AJOT.L": {
+    "business_description": "",
+    "company_name": "AVI Japan Opportunity Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:AJOT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:28.909798+00:00",
+    "market_cap": "401429088",
+    "market_cap_display": "\u00a3401.4m",
+    "ticker": "AJOT"
+  },
   "AKN.L": {
     "business_description": "Arkadian Strategic Metals Plc, together with its subsidiaries, engages in the exploration and development of mining and oil and gas resources in the United Kingdom, Greenland, and Sweden. It explores for gold, critical\u2026",
     "company_name": "Arkadian Strategic Metals Plc",
@@ -883,6 +896,19 @@
     "market_cap_display": "\u00a37.77bn",
     "ticker": "BEZ"
   },
+  "BGS.L": {
+    "business_description": "",
+    "company_name": "Baillie Gifford Shin Nippon Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:BGS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:21.912774+00:00",
+    "market_cap": "329772736",
+    "market_cap_display": "\u00a3329.8m",
+    "ticker": "BGS"
+  },
   "BGUK.L": {
     "business_description": "",
     "company_name": "Baillie Gifford UK Growth Trust plc",
@@ -1221,6 +1247,19 @@
     "market_cap_display": "\u00a31.59bn",
     "ticker": "BYG"
   },
+  "BYIT.L": {
+    "business_description": "Bytes Technology Group plc offers software, security, AI, and cloud services in the United Kingdom, Europe, and internationally. It sells servers, laptops, and other devices; various cloud-based and non-cloud-based\u2026",
+    "company_name": "Bytes Technology Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BYIT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:36.023243+00:00",
+    "market_cap": "924536896",
+    "market_cap_display": "\u00a3924.5m",
+    "ticker": "BYIT"
+  },
   "CAM.L": {
     "business_description": "Camellia Plc, together with its subsidiaries, engages in agriculture and engineering business in the United Kingdom, Bangladesh, India, Kenya, Malawi, South Africa, North America, and South America. The company produces\u2026",
     "company_name": "Camellia Plc",
@@ -1285,6 +1324,19 @@
     "market_cap": "5877123072",
     "market_cap_display": "\u00a35.88bn",
     "ticker": "CCC"
+  },
+  "CEPS.L": {
+    "business_description": "CEPS PLC operates as an industrial trading holding company in the United Kingdom, rest of Europe, and internationally. It operates through Aford Awards and Signature Fabrics segments. The Aford Awards segment offers\u2026",
+    "company_name": "CEPS PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CEPS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:28.149904+00:00",
+    "market_cap": "8505000",
+    "market_cap_display": "\u00a38.5m",
+    "ticker": "CEPS"
   },
   "CER.L": {
     "business_description": "Cerillion Plc engages in the provision of software for billing, charging, and customer relationship management to the telecommunications sector in the United Kingdom, Europe, the Middle East and Africa, the Americas,\u2026",
@@ -1476,9 +1528,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:11.618738+00:00",
-    "market_cap": "235523776",
-    "market_cap_display": "\u00a3235.5m",
+    "last_updated": "2026-09-17T06:48:32.038503+00:00",
+    "market_cap": "263676768",
+    "market_cap_display": "\u00a3263.7m",
     "ticker": "CNE"
   },
   "CNS.L": {
@@ -1832,6 +1884,19 @@
     "market_cap_display": "\u00a361.4m",
     "ticker": "DPP"
   },
+  "DRX.L": {
+    "business_description": "Drax Group plc, together with its subsidiaries, engages in renewable power generation in the United Kingdom. The company operates through four segments: Pellet Production, Biomass Generation, Flexible Generation, and\u2026",
+    "company_name": "Drax Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DRX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:35.150389+00:00",
+    "market_cap": "2759475200",
+    "market_cap_display": "\u00a32.76bn",
+    "ticker": "DRX"
+  },
   "ECEL.L": {
     "business_description": "Eurocell plc engages in manufacturing, distribution, and recycling of building products in the United Kingdom and the Republic of Ireland. The company operates through Profiles, Corporate, Alune, and Building Plastics\u2026",
     "company_name": "Eurocell plc",
@@ -2113,9 +2178,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:40.765459+00:00",
-    "market_cap": "16554461",
-    "market_cap_display": "\u00a316.6m",
+    "last_updated": "2026-09-17T06:48:39.135516+00:00",
+    "market_cap": "20567664",
+    "market_cap_display": "\u00a320.6m",
     "ticker": "EPP"
   },
   "EST.L": {
@@ -2221,6 +2286,19 @@
     "market_cap": "14705933",
     "market_cap_display": "\u00a314.7m",
     "ticker": "FAB"
+  },
+  "FADL.L": {
+    "business_description": "Fadel Partners, Inc., together with its subsidiaries, engages in brand compliance, rights, and royalty management businesses in the United States and internationally. The company operates in two segments, Licensing and\u2026",
+    "company_name": "Fadel Partners, Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:FADL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:29.688218+00:00",
+    "market_cap": "4855500",
+    "market_cap_display": "\u00a34.9m",
+    "ticker": "FADL"
   },
   "FCH.L": {
     "business_description": "Funding Circle Holdings plc, together with its subsidiaries, provides online lending platforms in the United Kingdom and internationally. The company offers small business loans, recovery loan schemes, government backed\u2026",
@@ -2572,6 +2650,19 @@
     "market_cap": "34976812",
     "market_cap_display": "\u00a335.0m",
     "ticker": "GETB"
+  },
+  "GFRD.L": {
+    "business_description": "Galliford Try Holdings plc, together with its subsidiaries, operates in the construction business in the United Kingdom. The company operates through Building and Infrastructure, and Investments segments. It engages in\u2026",
+    "company_name": "Galliford Try Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GFRD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:25.035624+00:00",
+    "market_cap": "617760960",
+    "market_cap_display": "\u00a3617.8m",
+    "ticker": "GFRD"
   },
   "GFTU.L": {
     "business_description": "Grafton Group plc distributes and sells building materials and construction related products in Ireland, the United Kingdom, Ireland, the Netherlands, Finland, and Spain. The company provides tools, ironmongery and\u2026",
@@ -2971,9 +3062,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:44.651563+00:00",
-    "market_cap": "75104192",
-    "market_cap_display": "\u00a375.1m",
+    "last_updated": "2026-09-17T06:48:42.243022+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
     "ticker": "HOME"
   },
   "HSBA.L": {
@@ -3184,6 +3275,19 @@
     "market_cap_display": "\u00a32.48bn",
     "ticker": "INPP"
   },
+  "INSG.L": {
+    "business_description": "Insig AI Plc, a data infrastructure and machine learning company, provides environmental, social, and governance (ESG); and data science services in the United Kingdom. The company offers a transparency and disclosure\u2026",
+    "company_name": "Insig AI Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:INSG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:21.153788+00:00",
+    "market_cap": "13637283",
+    "market_cap_display": "\u00a313.6m",
+    "ticker": "INSG"
+  },
   "IPO.L": {
     "business_description": "IP Group Plc is a private equity and venture capital firm specializing in seed/startup, early venture, emerging growth, mature, mid venture, late venture, incubation, mezzanine in growth capital companies. It prefers to\u2026",
     "company_name": "IP Group Plc",
@@ -3365,6 +3469,19 @@
     "market_cap": "2307134208",
     "market_cap_display": "\u00a32.31bn",
     "ticker": "JTC"
+  },
+  "JUSC.L": {
+    "business_description": "",
+    "company_name": "JPMorgan US Smaller Companies Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:JUSC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:26.585748+00:00",
+    "market_cap": "198531280",
+    "market_cap_display": "\u00a3198.5m",
+    "ticker": "JUSC"
   },
   "KAP.L": {
     "business_description": "National Atomic Company Kazatomprom JSC explores for, produces, processes, markets, and sells uranium and uranium related products. The company operates through two segments, Uranium and Ulba Metallurgical Plan. It also\u2026",
@@ -3574,6 +3691,19 @@
     "market_cap_display": "\u00a34.16bn",
     "ticker": "LMP"
   },
+  "LND.L": {
+    "business_description": "Landore Resources Limited, through its subsidiaries, engages in the identification, acquisition, exploration, and development of mineral projects in Canada and Guernsey. It primarily explores for nickel, copper, iron,\u2026",
+    "company_name": "Landore Resources Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:LND.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:31.263587+00:00",
+    "market_cap": "6887613",
+    "market_cap_display": "\u00a36.9m",
+    "ticker": "LND"
+  },
   "LPA.L": {
     "business_description": "LPA Group Plc engages in the design, manufacture, and marketing of industrial electrical and electronic products in the United Kingdom, rest of Europe, and internationally. It operates through Electro-Mechanical, Value\u2026",
     "company_name": "LPA Group Plc",
@@ -3717,6 +3847,19 @@
     "market_cap_display": "\u00a3142.4m",
     "ticker": "MCG"
   },
+  "MCJ.L": {
+    "business_description": "",
+    "company_name": "197267",
+    "currency": "",
+    "data_source": "yfinance:MCJ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "YHD",
+    "last_updated": "2026-09-17T06:48:32.815079+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "MCJ"
+  },
   "MERC.L": {
     "business_description": "Mercia Asset Management PLC is a private equity and venture capital firm specializing in incubation, venture debt, loan, mezzanine, seed EIS, early stage, emerging growth, mid venture, late venture, later stage, buyout,\u2026",
     "company_name": "Mercia Asset Management PLC",
@@ -3743,6 +3886,19 @@
     "market_cap_display": "\u00a315.7m",
     "ticker": "MET1"
   },
+  "MFAI.L": {
+    "business_description": "Mindflair Plc is a venture capital firm specializing in growth capital. It provides access for public market investors to companies at an early stage of their growth trajectory. The firm is focused on both direct and\u2026",
+    "company_name": "Mindflair Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MFAI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:33.601661+00:00",
+    "market_cap": "1974982",
+    "market_cap_display": "\u00a32.0m",
+    "ticker": "MFAI"
+  },
   "MFX.L": {
     "business_description": "Manx Financial Group PLC, through its subsidiaries, provides asset and personal finance, investing, foreign exchange brokerage, and wealth management services in the Isle of Man, the United Kingdom, and the Channel\u2026",
     "company_name": "Manx Financial Group PLC",
@@ -3751,9 +3907,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T06:47:19.478308+00:00",
-    "market_cap": "29584866",
-    "market_cap_display": "\u00a329.6m",
+    "last_updated": "2026-09-17T06:48:37.601511+00:00",
+    "market_cap": "30201216",
+    "market_cap_display": "\u00a330.2m",
     "ticker": "MFX"
   },
   "MGAM.L": {
@@ -4206,9 +4362,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:20.632299+00:00",
-    "market_cap": "5836467",
-    "market_cap_display": "\u00a35.8m",
+    "last_updated": "2026-09-17T06:48:34.365366+00:00",
+    "market_cap": "6817820",
+    "market_cap_display": "\u00a36.8m",
     "ticker": "OPTI"
   },
   "ORCP.L": {
@@ -4388,9 +4544,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:42.711213+00:00",
-    "market_cap": "524039936",
-    "market_cap_display": "\u00a3524.0m",
+    "last_updated": "2026-09-17T06:48:41.455171+00:00",
+    "market_cap": "525790624",
+    "market_cap_display": "\u00a3525.8m",
     "ticker": "PINE"
   },
   "PLAZ.L": {
@@ -4705,6 +4861,19 @@
     "market_cap_display": "\u00a337.7m",
     "ticker": "RENX"
   },
+  "REVB.L": {
+    "business_description": "Revolution Beauty Group plc, together with its subsidiaries, engages in the development, production, wholesale, and retail of beauty products in the United Kingdom, the United States, and internationally. The company\u2026",
+    "company_name": "Revolution Beauty Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:REVB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:39.913605+00:00",
+    "market_cap": "36962968",
+    "market_cap_display": "\u00a337.0m",
+    "ticker": "REVB"
+  },
   "RFG.L": {
     "business_description": "Roebuck Food Group plc, together with its subsidiaries, provides functional ingredients to food manufacturing and wholesale companies in the United Kingdom, Ireland, and internationally. The company operates through\u2026",
     "company_name": "Roebuck Food Group plc",
@@ -4821,6 +4990,19 @@
     "market_cap": "54552636",
     "market_cap_display": "\u00a354.6m",
     "ticker": "RLE"
+  },
+  "RMII.L": {
+    "business_description": "",
+    "company_name": "RM Infrastructure Income Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:RMII.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:19.596077+00:00",
+    "market_cap": "29088374",
+    "market_cap_display": "\u00a329.1m",
+    "ticker": "RMII"
   },
   "RNK.L": {
     "business_description": "The Rank Group Plc, together with its subsidiaries, engages in provision of gaming services in the United Kingdom, Europe, and internationally. The company operates through Grosvenor Venues, Mecca Venues, Digital, and\u2026",
@@ -5004,6 +5186,19 @@
     "market_cap_display": "\u00a3120.5m",
     "ticker": "SEI"
   },
+  "SERE.L": {
+    "business_description": "",
+    "company_name": "Schroder European Real Estate Inv Trust",
+    "currency": "GBp",
+    "data_source": "yfinance:SERE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:25.807079+00:00",
+    "market_cap": "77005080",
+    "market_cap_display": "\u00a377.0m",
+    "ticker": "SERE"
+  },
   "SF22.L": {
     "business_description": "",
     "company_name": "SGA Societe Generale Acceptance NV",
@@ -5160,6 +5355,19 @@
     "market_cap_display": "\u00a3124.3m",
     "ticker": "SOM"
   },
+  "SOU.L": {
+    "business_description": "Sound Energy plc, through its subsidiaries, engages in the exploration, appraisal, and development of gas assets in Morocco. It operates through three segments: corporate; exploration and appraisal; and development and\u2026",
+    "company_name": "Sound Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SOU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:27.379338+00:00",
+    "market_cap": "3551182",
+    "market_cap_display": "\u00a33.6m",
+    "ticker": "SOU"
+  },
   "SOUC.L": {
     "business_description": "Southern Energy Corp., together with its subsidiaries, operates as an petroleum and natural gas exploration and production company in Canada. The company focuses primarily on acquiring and developing conventional\u2026",
     "company_name": "Southern Energy Corp.",
@@ -5233,7 +5441,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:19.947648+00:00",
+    "last_updated": "2026-09-17T06:48:40.688957+00:00",
     "market_cap": "1875026",
     "market_cap_display": "\u00a31.9m",
     "ticker": "SRES"
@@ -5289,6 +5497,19 @@
     "market_cap": "367436064",
     "market_cap_display": "\u00a3367.4m",
     "ticker": "STEM"
+  },
+  "STG.L": {
+    "business_description": "Strip Tinning Holdings plc manufactures and supplies flexible electrical connectors for heating and antennae systems embedded within automotive glazing and to the connection of the cells within electric vehicle (EV)\u2026",
+    "company_name": "Strip Tinning Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:STG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:30.484641+00:00",
+    "market_cap": "4738523",
+    "market_cap_display": "\u00a34.7m",
+    "ticker": "STG"
   },
   "STVG.L": {
     "business_description": "STV Group plc, together with its subsidiaries, produces content and broadcasts programs in the United Kingdom. The company operates through Audience and Studios segments. It provides news, current affairs, and\u2026",
@@ -5459,6 +5680,19 @@
     "market_cap_display": "\u00a38.2m",
     "ticker": "TAP"
   },
+  "TBTG.L": {
+    "business_description": "The Beauty Tech Group plc, together with its subsidiaries, provides at-home beauty devices in the United States, Canada, the United Kingdom, Ireland, Europe, Asia, and internationally. The company offers LED light\u2026",
+    "company_name": "The Beauty Tech Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TBTG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:22.682556+00:00",
+    "market_cap": "371703840",
+    "market_cap_display": "\u00a3371.7m",
+    "ticker": "TBTG"
+  },
   "TCF.L": {
     "business_description": "Theracryf Plc, a clinical stage therapeutics company, engages in the development of therapeutics for oncology and behavioural brain disorders. The company develops orexin-1 antagonist for the treatment of binge eating\u2026",
     "company_name": "Theracryf Plc",
@@ -5615,6 +5849,19 @@
     "market_cap_display": "\u00a352.6m",
     "ticker": "TIME"
   },
+  "TMG.L": {
+    "business_description": "The Mission Group plc, together with its subsidiaries, operates as a collective of creative and martech agencies company in the United Kingdom, the United States, Asia, and rest of Europe. It operates through Business &\u2026",
+    "company_name": "The Mission Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TMG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:38.362860+00:00",
+    "market_cap": "23555510",
+    "market_cap_display": "\u00a323.6m",
+    "ticker": "TMG"
+  },
   "TMIP.L": {
     "business_description": "Taylor Maritime Limited, an investment company, engages in the acquisition, management, and operation of dry bulk ships in Guernsey. The company owns and operates a fleet of 5 dry bulk vessels consisting of 4 Handysize\u2026",
     "company_name": "Taylor Maritime Limited",
@@ -5718,6 +5965,19 @@
     "market_cap": "1006583168",
     "market_cap_display": "\u00a31.01bn",
     "ticker": "TRST"
+  },
+  "TRU.L": {
+    "business_description": "TruFin plc provides niche lending, early payment services, and video game publishing in the United Kingdom. It operates through Satago, Oxygen, Playstack, and Other segments. The company engages in provision of\u2026",
+    "company_name": "TruFin plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:23.499090+00:00",
+    "market_cap": "50115108",
+    "market_cap_display": "\u00a350.1m",
+    "ticker": "TRU"
   },
   "TRUE.L": {
     "business_description": "Truetide plc is a private equity and venture capital firm specializing in loan, mezzanine, seed/startup, early venture, late stage, emerging growth, turnaround, distress situations, buyout and growth capital companies.\u2026",
@@ -5870,9 +6130,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T06:48:29.150215+00:00",
-    "market_cap": "907653760",
-    "market_cap_display": "\u00a3907.7m",
+    "last_updated": "2026-09-17T06:48:20.367205+00:00",
+    "market_cap": "979601984",
+    "market_cap_display": "\u00a3979.6m",
     "ticker": "USA"
   },
   "VAL.L": {
@@ -5922,9 +6182,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T06:47:22.442608+00:00",
-    "market_cap": "66838604",
-    "market_cap_display": "\u00a366.8m",
+    "last_updated": "2026-09-17T06:48:24.258386+00:00",
+    "market_cap": "65970576",
+    "market_cap_display": "\u00a366.0m",
     "ticker": "VCP"
   },
   "VCT.L": {
@@ -6121,5 +6381,18 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "ZCC"
+  },
+  "ZEN.L": {
+    "business_description": "Zenith Energy Ltd., together with its subsidiaries, engages in the exploration, development, and production of oil and natural gas assets in Tunisia, Italy, the United States, and internationally. It is also involved in\u2026",
+    "company_name": "Zenith Energy Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:ZEN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T06:48:36.835583+00:00",
+    "market_cap": "33130374",
+    "market_cap_display": "\u00a333.1m",
+    "ticker": "ZEN"
   }
 }
