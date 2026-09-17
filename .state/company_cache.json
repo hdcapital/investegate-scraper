@@ -25,6 +25,19 @@
     "market_cap_display": "",
     "ticker": "17TZ"
   },
+  "33WK.L": {
+    "business_description": "",
+    "company_name": "UDI STEERS NOTES SERIES 2007-1 ",
+    "currency": "MXN",
+    "data_source": "yfinance:33WK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T18:50:24.629743+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "33WK"
+  },
   "37QB.L": {
     "business_description": "",
     "company_name": "Halyk Bank of Kazakhstan Joint Stock Company",
@@ -384,9 +397,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:16.189152+00:00",
-    "market_cap": "55350000",
-    "market_cap_display": "\u00a355.4m",
+    "last_updated": "2026-09-17T18:50:20.640454+00:00",
+    "market_cap": "55869300",
+    "market_cap_display": "\u00a355.9m",
     "ticker": "AIC"
   },
   "AIRE.L": {
@@ -865,9 +878,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:47.344629+00:00",
-    "market_cap": "101198184",
-    "market_cap_display": "\u00a3101.2m",
+    "last_updated": "2026-09-17T18:50:16.582898+00:00",
+    "market_cap": "94219000",
+    "market_cap_display": "\u00a394.2m",
     "ticker": "BBSN"
   },
   "BEM.L": {
@@ -1268,9 +1281,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:33.853665+00:00",
-    "market_cap": "146612112",
-    "market_cap_display": "\u00a3146.6m",
+    "last_updated": "2026-09-17T18:50:21.928650+00:00",
+    "market_cap": "144716272",
+    "market_cap_display": "\u00a3144.7m",
     "ticker": "CAM"
   },
   "CAML.L": {
@@ -1749,9 +1762,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:17.653561+00:00",
-    "market_cap": "169033344",
-    "market_cap_display": "\u00a3169.0m",
+    "last_updated": "2026-09-17T18:50:22.631131+00:00",
+    "market_cap": "165880768",
+    "market_cap_display": "\u00a3165.9m",
     "ticker": "CYN"
   },
   "DATA.L": {
@@ -2035,9 +2048,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:40.904751+00:00",
-    "market_cap": "112280224",
-    "market_cap_display": "\u00a3112.3m",
+    "last_updated": "2026-09-17T18:50:19.989546+00:00",
+    "market_cap": "191585952",
+    "market_cap_display": "\u00a3191.6m",
     "ticker": "ELCO"
   },
   "ELSA.L": {
@@ -3335,9 +3348,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:49:58.187573+00:00",
-    "market_cap": "",
-    "market_cap_display": "",
+    "last_updated": "2026-09-17T18:50:17.983782+00:00",
+    "market_cap": "8964178944",
+    "market_cap_display": "\u00a38.96bn",
     "ticker": "ITRK"
   },
   "ITX.L": {
@@ -4128,9 +4141,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:48.065975+00:00",
-    "market_cap": "12303727",
-    "market_cap_display": "\u00a312.3m",
+    "last_updated": "2026-09-17T18:50:21.281853+00:00",
+    "market_cap": "13400099",
+    "market_cap_display": "\u00a313.4m",
     "ticker": "MYX"
   },
   "NAH.L": {
@@ -4466,9 +4479,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T18:50:15.543181+00:00",
-    "market_cap": "84505136",
-    "market_cap_display": "\u00a384.5m",
+    "last_updated": "2026-09-17T18:50:19.296365+00:00",
+    "market_cap": "90538216",
+    "market_cap_display": "\u00a390.5m",
     "ticker": "PEBB"
   },
   "PEG.L": {
@@ -5116,9 +5129,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T18:50:00.190000+00:00",
-    "market_cap": "23416154",
-    "market_cap_display": "\u00a323.4m",
+    "last_updated": "2026-09-17T18:50:15.926828+00:00",
+    "market_cap": "23482980",
+    "market_cap_display": "\u00a323.5m",
     "ticker": "SATS"
   },
   "SBTX.L": {
@@ -5159,6 +5172,32 @@
     "market_cap": "101973584",
     "market_cap_display": "\u00a3102.0m",
     "ticker": "SCLP"
+  },
+  "SCT.L": {
+    "business_description": "Softcat plc operates as a value-added IT reseller and IT infrastructure solutions provider in the United Kingdom. The company advices, procures, designs, implements, and manages technology, such as hybrid\u2026",
+    "company_name": "Softcat plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SCT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-17T18:50:18.633466+00:00",
+    "market_cap": "3864293888",
+    "market_cap_display": "\u00a33.86bn",
+    "ticker": "SCT"
+  },
+  "SDIC.L": {
+    "business_description": "",
+    "company_name": "SDIC Power Holdings Co., Ltd",
+    "currency": "CNY",
+    "data_source": "yfinance:SDIC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "YHD",
+    "last_updated": "2026-09-17T18:50:23.267709+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "SDIC"
   },
   "SDLF.L": {
     "business_description": "Standard Life plc operates in the long-term savings and retirement business in Europe. It operates through Retirement Solutions, Pensions & Savings, With-Profits, and Europe & Other segments. The company offers defined\u2026",
@@ -5766,9 +5805,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:10.390714+00:00",
-    "market_cap": "784187712",
-    "market_cap_display": "\u00a3784.2m",
+    "last_updated": "2026-09-17T18:50:23.969857+00:00",
+    "market_cap": "753684480",
+    "market_cap_display": "\u00a3753.7m",
     "ticker": "TGA"
   },
   "TGR.L": {
@@ -6325,7 +6364,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:09.783193+00:00",
+    "last_updated": "2026-09-17T18:50:17.345916+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
