@@ -779,6 +779,19 @@
     "market_cap_display": "\u00a3638.8m",
     "ticker": "ATR"
   },
+  "AUSC.L": {
+    "business_description": "",
+    "company_name": "Aberdeen UK Smaller Cos Growth Trust plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AUSC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:18.863161+00:00",
+    "market_cap": "216758320",
+    "market_cap_display": "\u00a3216.8m",
+    "ticker": "AUSC"
+  },
   "AVAP.L": {
     "business_description": "Avation PLC, together with its subsidiaries, leases commercial passenger aircraft to airlines in Europe and the Asia-Pacific. The company's fleet includes 14 narrow-body jets, two twin-aisle jets, and 17 ATR 72\u2026",
     "company_name": "Avation PLC",
@@ -1884,6 +1897,19 @@
     "market_cap_display": "\u00a31.79bn",
     "ticker": "DNLM"
   },
+  "DNM.L": {
+    "business_description": "Dianomi plc, together with its subsidiaries, provides native advertising services. The company provides sponsored content ad units on hundreds of websites for the financial services, technology, corporate, and lifestyle\u2026",
+    "company_name": "Dianomi plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DNM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:17.547908+00:00",
+    "market_cap": "11410629",
+    "market_cap_display": "\u00a311.4m",
+    "ticker": "DNM"
+  },
   "DPP.L": {
     "business_description": "DP Poland Plc, together with its subsidiaries, develops, operates, and sub-franchises Domino's Pizza stores in Poland and Croatia. It operates through two segments Corporate Store Sales and Commissary Operations. The\u2026",
     "company_name": "DP Poland Plc",
@@ -2729,6 +2755,19 @@
     "market_cap_display": "\u00a3143.8m",
     "ticker": "GLE"
   },
+  "GLR.L": {
+    "business_description": "Galileo Resources Plc explores and develops mineral projects in South Africa, Botswana, the United Kingdom, and the United States. It primarily explores for zinc, iron ore, manganese, copper, lithium, and gold deposits,\u2026",
+    "company_name": "Galileo Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GLR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:26.758864+00:00",
+    "market_cap": "9709755",
+    "market_cap_display": "\u00a39.7m",
+    "ticker": "GLR"
+  },
   "GLV.L": {
     "business_description": "Glenveagh Properties PLC, together with its subsidiaries, engages in the construction and sale of houses and apartments for private buyers, local authorities, and the private rental sector in Ireland. It operates\u2026",
     "company_name": "Glenveagh Properties PLC",
@@ -3483,6 +3522,19 @@
     "market_cap_display": "\u00a32.31bn",
     "ticker": "JTC"
   },
+  "JUGI.L": {
+    "business_description": "",
+    "company_name": "JPMorgan UK Small Cap Growth & Income",
+    "currency": "GBp",
+    "data_source": "yfinance:JUGI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:20.182815+00:00",
+    "market_cap": "410469376",
+    "market_cap_display": "\u00a3410.5m",
+    "ticker": "JUGI"
+  },
   "JUSC.L": {
     "business_description": "",
     "company_name": "JPMorgan US Smaller Companies Ord",
@@ -4055,6 +4107,19 @@
     "market_cap_display": "\u00a35.5m",
     "ticker": "MPL"
   },
+  "MRCH.L": {
+    "business_description": "",
+    "company_name": "Merchants Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MRCH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:20.836533+00:00",
+    "market_cap": "992092800",
+    "market_cap_display": "\u00a3992.1m",
+    "ticker": "MRCH"
+  },
   "MSI.L": {
     "business_description": "MS INTERNATIONAL plc, together with its subsidiaries, engages in the design, manufacture, construction, and servicing various engineering products and structures in the United Kingdom, Europe, the United States, South\u2026",
     "company_name": "MS INTERNATIONAL plc",
@@ -4159,6 +4224,19 @@
     "market_cap_display": "\u00a316.2m",
     "ticker": "NAH"
   },
+  "NAIT.L": {
+    "business_description": "",
+    "company_name": "North American Income Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:NAIT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:21.545844+00:00",
+    "market_cap": "495434112",
+    "market_cap_display": "\u00a3495.4m",
+    "ticker": "NAIT"
+  },
   "NANO.L": {
     "business_description": "Nanoco Group plc, together with its subsidiaries, engages in the research, development, manufacture, and licensing of novel nanomaterials for use in various commercial applications in the United Kingdom and\u2026",
     "company_name": "Nanoco Group plc",
@@ -4262,6 +4340,19 @@
     "market_cap": "1154650",
     "market_cap_display": "\u00a31.2m",
     "ticker": "NOG"
+  },
+  "NTVO.L": {
+    "business_description": "Nativo Resources plc engages in gold mining and exploration projects in Peru. It is also involved in the production and sale of gold ore; and secures and cleans known tailings deposits containing gold, silver, and other\u2026",
+    "company_name": "Nativo Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NTVO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:23.507751+00:00",
+    "market_cap": "2673862",
+    "market_cap_display": "\u00a32.7m",
+    "ticker": "NTVO"
   },
   "NXQ.L": {
     "business_description": "Nexteq plc operates as a technology solution provider to customers in industrial markets in North America, Asia, Australia, rest of Europe, and internationally. It operates through Quixant and Densitron segments. The\u2026",
@@ -4405,6 +4496,19 @@
     "market_cap": "400000",
     "market_cap_display": "\u00a3400.0k",
     "ticker": "ORNT"
+  },
+  "ORR.L": {
+    "business_description": "Oriole Resources PLC, together with its subsidiaries, engages in the exploration and development of gold and other base metals in Turkey, East Africa, and West Africa. Oriole Resources PLC was formerly known as Stratex\u2026",
+    "company_name": "Oriole Resources PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ORR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:24.807194+00:00",
+    "market_cap": "14690004",
+    "market_cap_display": "\u00a314.7m",
+    "ticker": "ORR"
   },
   "PANR.L": {
     "business_description": "Pantheon Resources Plc, through its subsidiaries, engages in the exploration, appraisal, development, investment, and production of oil and gas in the United States. Its primary assets are the Ahpun project located in\u2026",
@@ -4848,6 +4952,19 @@
     "market_cap_display": "\u00a322.2m",
     "ticker": "RBN"
   },
+  "RCFX.L": {
+    "business_description": "RC Fornax Plc, a veteran-founded UK consultancy, provides integrity solutions that support mission-critical programmes across land, sea, and air domains in the United Kingdom. The company offers electrical, mechanical,\u2026",
+    "company_name": "RC Fornax Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RCFX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:22.849748+00:00",
+    "market_cap": "4682005",
+    "market_cap_display": "\u00a34.7m",
+    "ticker": "RCFX"
+  },
   "RCGH.L": {
     "business_description": "RC365 Holding plc, an investment holding company, operates as a fintech solutions service provider in Hong Kong, the United Kingdom, and Japan. It offers IT support and security, online and offline payment gateway\u2026",
     "company_name": "RC365 Holding plc",
@@ -4860,6 +4977,19 @@
     "market_cap": "5926498",
     "market_cap_display": "\u00a35.9m",
     "ticker": "RCGH"
+  },
+  "RCN.L": {
+    "business_description": "Redcentric plc provides IT managed services for public sector and commercial markets in the United Kingdom. It provides hosted IP telephony, unified communications, collaboration, SIP trunks, omnichannel contact centre,\u2026",
+    "company_name": "Redcentric plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RCN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:25.460318+00:00",
+    "market_cap": "98287616",
+    "market_cap_display": "\u00a398.3m",
+    "ticker": "RCN"
   },
   "RENX.L": {
     "business_description": "Renalytix Plc develops artificial intelligence-enabled in vitro diagnostic solutions for clinical management of kidney diseases in Europe and the United States. It offers KidneyIntelX, a diagnostic platform that employs\u2026",
@@ -5017,6 +5147,19 @@
     "market_cap_display": "\u00a329.1m",
     "ticker": "RMII"
   },
+  "RNEP.L": {
+    "business_description": "Ecofin U.S. Renewables Infrastructure Trust PLC, an investment trust, engages in investing in renewable energy and sustainable infrastructure assets primarily in the United States.",
+    "company_name": "Ecofin U.S. Renewables Infrastructure Trust PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:RNEP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:18.208006+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "RNEP"
+  },
   "RNK.L": {
     "business_description": "The Rank Group Plc, together with its subsidiaries, engages in provision of gaming services in the United Kingdom, Europe, and internationally. The company operates through Grosvenor Venues, Mecca Venues, Digital, and\u2026",
     "company_name": "The Rank Group Plc",
@@ -5108,6 +5251,19 @@
     "market_cap_display": "\u00a312.40bn",
     "ticker": "S32"
   },
+  "SAGA.L": {
+    "business_description": "Saga plc, together with its subsidiaries, provides package and cruise holidays, general insurance, and personal finance products and services in the United Kingdom. It operates through three segments: Travel, Insurance,\u2026",
+    "company_name": "Saga plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SAGA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:24.153599+00:00",
+    "market_cap": "898513152",
+    "market_cap_display": "\u00a3898.5m",
+    "ticker": "SAGA"
+  },
   "SALT.L": {
     "business_description": "MicroSalt plc engages in the development and sale of low sodium salt and snack food products in the United Kingdom and internationally. It offers saltshaker and potato chip products under the MicroSalt and SaltMe!\u2026",
     "company_name": "MicroSalt plc",
@@ -5133,6 +5289,19 @@
     "market_cap": "23482980",
     "market_cap_display": "\u00a323.5m",
     "ticker": "SATS"
+  },
+  "SAV.L": {
+    "business_description": "Savannah Resources Plc engages in the exploration and development of lithium properties. The company explores lithium deposits, as well as involved in the mining business. It holds 100% interest in the Barroso lithium\u2026",
+    "company_name": "Savannah Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SAV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:19.516946+00:00",
+    "market_cap": "154526976",
+    "market_cap_display": "\u00a3154.5m",
+    "ticker": "SAV"
   },
   "SBTX.L": {
     "business_description": "SkinBioTherapeutics plc, a life science company, engages in research and development, and commercialization of technology that harnesses the microbiome for human health in the United Kingdom, the United States, Europe,\u2026",
@@ -5753,9 +5922,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:41.439744+00:00",
-    "market_cap": "8615480",
-    "market_cap_display": "\u00a38.6m",
+    "last_updated": "2026-09-18T06:47:22.201388+00:00",
+    "market_cap": "7715356",
+    "market_cap_display": "\u00a37.7m",
     "ticker": "TEK"
   },
   "TENG.L": {
@@ -5926,6 +6095,19 @@
     "market_cap": "35278552",
     "market_cap_display": "\u00a335.3m",
     "ticker": "TMO"
+  },
+  "TMT.L": {
+    "business_description": "TMT Investments PLC is a venture capital and private equity firm specializing in startups, early-stage, small, and mid-sized companies. It does invest in pre-growth projects. It prefers to invest in technology, media,\u2026",
+    "company_name": "TMT Investments PLC",
+    "currency": "USD",
+    "data_source": "yfinance:TMT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T06:47:26.111338+00:00",
+    "market_cap": "100753744",
+    "market_cap_display": "$100.8m",
+    "ticker": "TMT"
   },
   "TOO.L": {
     "business_description": "Tooru Plc focuses on the health and wellness sector. It provides gluten-free food products through its brand. Tooru Plc is based in London, United Kingdom.",
