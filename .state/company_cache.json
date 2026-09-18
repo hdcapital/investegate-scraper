@@ -215,7 +215,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T06:47:29.405769+00:00",
+    "last_updated": "2026-09-18T18:49:14.677326+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "93TH"
@@ -1801,9 +1801,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:49:58.992991+00:00",
-    "market_cap": "5407347712",
-    "market_cap_display": "\u00a35.41bn",
+    "last_updated": "2026-09-18T18:49:13.932691+00:00",
+    "market_cap": "5488500736",
+    "market_cap_display": "\u00a35.49bn",
     "ticker": "DCC"
   },
   "DEBS.L": {
@@ -2235,6 +2235,19 @@
     "market_cap_display": "\u00a324.2m",
     "ticker": "EST"
   },
+  "EVOK.L": {
+    "business_description": "Evoke plc, together with its subsidiaries, operates as a betting and gaming company in the United Kingdom, Italy, Spain, Romania, Denmark, and internationally. The company operates through Retail, UK&I Online, and\u2026",
+    "company_name": "Evoke plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EVOK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T18:49:13.185752+00:00",
+    "market_cap": "182526192",
+    "market_cap_display": "\u00a3182.5m",
+    "ticker": "EVOK"
+  },
   "EVPL.L": {
     "business_description": "everplay group plc, together with its subsidiaries, develops and publishes independent video games for digital and physical market in the United Kingdom. The company operates through three segments: Games Label,\u2026",
     "company_name": "everplay group plc",
@@ -2260,6 +2273,19 @@
     "market_cap": "695792192",
     "market_cap_display": "\u00a3695.8m",
     "ticker": "EWG"
+  },
+  "EWI.L": {
+    "business_description": "",
+    "company_name": "Edinburgh Worldwide Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:EWI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T18:49:16.161464+00:00",
+    "market_cap": "930428736",
+    "market_cap_display": "\u00a3930.4m",
+    "ticker": "EWI"
   },
   "EXPN.L": {
     "business_description": "Experian plc, together with its subsidiaries, operates as a data and technology company in North America, Latin America, the United Kingdom, Ireland, Europe, the Middle East, Africa, and the Asia Pacific. It operates\u2026",
@@ -5883,9 +5909,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:45.257738+00:00",
-    "market_cap": "8190706",
-    "market_cap_display": "\u00a38.2m",
+    "last_updated": "2026-09-18T18:49:12.439264+00:00",
+    "market_cap": "7818400",
+    "market_cap_display": "\u00a37.8m",
     "ticker": "TAP"
   },
   "TBTG.L": {
@@ -6234,7 +6260,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:29.087433+00:00",
+    "last_updated": "2026-09-18T18:49:16.904820+00:00",
     "market_cap": "14158348288",
     "market_cap_display": "$14.16bn",
     "ticker": "TTST"
@@ -6420,6 +6446,19 @@
     "market_cap": "757387840",
     "market_cap_display": "\u00a3757.4m",
     "ticker": "VCT"
+  },
+  "VID.L": {
+    "business_description": "Videndum Plc engages in the provision of hardware products and software solutions for the content creation market in the United Kingdom, rest of Europe, North America, the Asia Pacific, and internationally. The company\u2026",
+    "company_name": "Videndum Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VID.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-18T18:49:15.420753+00:00",
+    "market_cap": "83005880",
+    "market_cap_display": "\u00a383.0m",
+    "ticker": "VID"
   },
   "VLE.L": {
     "business_description": "Volvere plc is a private equity and venture capital firm specializing in start-up, early or development-stage, distressed/vulture, growth capital, acquisitions, emerging growth and turnaround investments. The firm\u2026",
