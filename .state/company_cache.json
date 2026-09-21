@@ -259,6 +259,19 @@
     "market_cap_display": "\u00a341.7m",
     "ticker": "AAU"
   },
+  "AAZ.L": {
+    "business_description": "Anglo Asian Mining PLC, together with its subsidiaries, engages in the exploration and production of assets in Azerbaijan. It owns and operates gold, silver, and copper producing properties. The company was incorporated\u2026",
+    "company_name": "Anglo Asian Mining PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:AAZ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:31.626639+00:00",
+    "market_cap": "421220224",
+    "market_cap_display": "\u00a3421.2m",
+    "ticker": "AAZ"
+  },
   "ABDP.L": {
     "business_description": "AB Dynamics plc provides vehicle test development and verification products and services for driver assistance systems. The company operates through Testing Products, Testing Services, and Simulation segments. It is\u2026",
     "company_name": "AB Dynamics plc",
@@ -610,6 +623,19 @@
     "market_cap_display": "\u00a3114.5m",
     "ticker": "APTD"
   },
+  "ARA.L": {
+    "business_description": "Aura Renewable Acquisitions plc does not have significant operations. It intends to acquire businesses in the renewable energy sector supply chain in battery, wind, solar, biomass, hydropower, carbon capture, waste\u2026",
+    "company_name": "Aura Renewable Acquisitions plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ARA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:40.925577+00:00",
+    "market_cap": "367500",
+    "market_cap_display": "\u00a3367.5k",
+    "ticker": "ARA"
+  },
   "ARC.L": {
     "business_description": "Arcontech Group plc, together with its subsidiaries, engages in the development and sale of proprietary software in the United Kingdom, rest of Europe, Africa, North America, Australasia, and the Asia Pacific. The\u2026",
     "company_name": "Arcontech Group plc",
@@ -852,10 +878,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T18:50:00.848891+00:00",
-    "market_cap": "184183209984",
-    "market_cap_display": "\u00a3184.18bn",
+    "last_updated": "2026-09-21T06:48:48.243309+00:00",
+    "market_cap": "193860730880",
+    "market_cap_display": "\u00a3193.86bn",
     "ticker": "AZN"
+  },
+  "B90.L": {
+    "business_description": "B90 Holdings PLC, together with its subsidiaries, operates online casino and sports betting platforms in the Isle of Man. It engages in online marketing and promotion of online sportsbook and casino websites; operation\u2026",
+    "company_name": "B90 Holdings PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:B90.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:38.030228+00:00",
+    "market_cap": "21379514",
+    "market_cap_display": "\u00a321.4m",
+    "ticker": "B90"
   },
   "BANK.L": {
     "business_description": "Fiinu Plc, a fintech company, engages in the development of software. It operates Plugin Overdraft platform, a bank overdraft software to provide open banking. The company was founded in 2017 and is based in Weybridge,\u2026",
@@ -1598,6 +1637,19 @@
     "market_cap_display": "\u00a349.9m",
     "ticker": "COBR"
   },
+  "COG.L": {
+    "business_description": "Cambridge Cognition Holdings Plc develops and markets digital solutions for the assessment of brain health in the United States, United Kingdom, the European Union, and internationally. The company offers sensitive,\u2026",
+    "company_name": "Cambridge Cognition Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:COG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:39.442850+00:00",
+    "market_cap": "14801613",
+    "market_cap_display": "\u00a314.8m",
+    "ticker": "COG"
+  },
   "COM.L": {
     "business_description": "Comptoir Group PLC owns and operates restaurants under the Comptoir Libanais, Yalla Yalla, and Shawa brand names in the United Kingdom. The company offers Lebanese and Eastern Mediterranean cuisine dining services; and\u2026",
     "company_name": "Comptoir Group PLC",
@@ -1714,6 +1766,19 @@
     "market_cap": "63613132",
     "market_cap_display": "\u00a363.6m",
     "ticker": "CTHT"
+  },
+  "CTL.L": {
+    "business_description": "CleanTech Lithium Plc engages in the exploration, development, and production of lithium in Chile. It produces battery grade lithium for electric vehicle and battery energy storage markets. The company's flagship\u2026",
+    "company_name": "CleanTech Lithium Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CTL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:35.898261+00:00",
+    "market_cap": "24650440",
+    "market_cap_display": "\u00a324.7m",
+    "ticker": "CTL"
   },
   "CTPE.L": {
     "business_description": "CT Private Equity Trust PLC, formerly known as BMO Private Equity Trust Plc specializes in secondary indirect, direct, and investing in other funds. Within investing in other funds, the fund specializes in private\u2026",
@@ -1866,9 +1931,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:22.449462+00:00",
-    "market_cap": "24488126",
-    "market_cap_display": "\u00a324.5m",
+    "last_updated": "2026-09-21T06:48:41.638407+00:00",
+    "market_cap": "23946348",
+    "market_cap_display": "\u00a323.9m",
     "ticker": "DGI9"
   },
   "DIA.L": {
@@ -1957,9 +2022,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T06:47:36.518195+00:00",
-    "market_cap": "15693413",
-    "market_cap_display": "\u00a315.7m",
+    "last_updated": "2026-09-21T06:48:46.826034+00:00",
+    "market_cap": "14319334",
+    "market_cap_display": "\u00a314.3m",
     "ticker": "ECOB"
   },
   "ECOR.L": {
@@ -2078,6 +2143,19 @@
     "market_cap": "191585952",
     "market_cap_display": "\u00a3191.6m",
     "ticker": "ELCO"
+  },
+  "ELIX.L": {
+    "business_description": "Elixirr International plc, through its subsidiaries, provides management consultancy services in the United Kingdom, the United States, and internationally. It provides services in the areas of AI and machine learning,\u2026",
+    "company_name": "Elixirr International plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ELIX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:32.345583+00:00",
+    "market_cap": "308273024",
+    "market_cap_display": "\u00a3308.3m",
+    "ticker": "ELIX"
   },
   "ELSA.L": {
     "business_description": "",
@@ -2945,8 +3023,8 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T06:47:38.599038+00:00",
-    "market_cap": "5039678",
+    "last_updated": "2026-09-21T06:48:34.473738+00:00",
+    "market_cap": "4963319",
     "market_cap_display": "\u00a35.0m",
     "ticker": "GTC"
   },
@@ -3014,6 +3092,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "HALO"
+  },
+  "HAMA.L": {
+    "business_description": "Hamak Strategy Limited, together with its subsidiaries, operates as a mining exploration and development company in Liberia. The company explores gold deposits. It owns interests in the Nimba mineral exploration that\u2026",
+    "company_name": "Hamak Strategy Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:HAMA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:37.320233+00:00",
+    "market_cap": "2912598",
+    "market_cap_display": "\u00a32.9m",
+    "ticker": "HAMA"
   },
   "HAN.L": {
     "business_description": "Hansa Investment Company Limited is a closed-ended equity fund of funds launched and managed by Hanseatic Asset Management LBG. The fund is co-managed by Hansa Capital Partners LLP. It invests in public equity markets\u2026",
@@ -3262,6 +3353,19 @@
     "market_cap_display": "\u00a3166.5m",
     "ticker": "IEM"
   },
+  "IES.L": {
+    "business_description": "Invinity Energy Systems plc manufactures and sells vanadium flow batteries and related hardware for energy storage markets in Asia, Australia, Europe, and North America. It also provides other services. The company\u2026",
+    "company_name": "Invinity Energy Systems plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IES.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:33.056655+00:00",
+    "market_cap": "112765880",
+    "market_cap_display": "\u00a3112.8m",
+    "ticker": "IES"
+  },
   "IFRX.L": {
     "business_description": "iFOREX Financial Trading Holdings Ltd. operates as a financial technology company that develops and operates an online and mobile CFD trading platform. The company's platform enables retail clients to trade CFDs across\u2026",
     "company_name": "IFOREX FINANCIAL TRADING HOLDIN",
@@ -3365,6 +3469,19 @@
     "market_cap": "13637283",
     "market_cap_display": "\u00a313.6m",
     "ticker": "INSG"
+  },
+  "IOF.L": {
+    "business_description": "Iofina plc, together with its subsidiaries, explores for, develops, and produces iodine and halogen-based specialty chemical derivatives from oil and gas operations in North America, Asia, South America, Europe, and\u2026",
+    "company_name": "Iofina plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IOF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:38.736597+00:00",
+    "market_cap": "97847784",
+    "market_cap_display": "\u00a397.8m",
+    "ticker": "IOF"
   },
   "IPO.L": {
     "business_description": "IP Group Plc is a private equity and venture capital firm specializing in seed/startup, early venture, emerging growth, mature, mid venture, late venture, incubation, mezzanine in growth capital companies. It prefers to\u2026",
@@ -4037,9 +4154,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:21.621433+00:00",
-    "market_cap": "145351360",
-    "market_cap_display": "\u00a3145.4m",
+    "last_updated": "2026-09-21T06:48:42.420861+00:00",
+    "market_cap": "175029120",
+    "market_cap_display": "\u00a3175.0m",
     "ticker": "MKA"
   },
   "MNKS.L": {
@@ -4275,6 +4392,19 @@
     "market_cap": "4843817",
     "market_cap_display": "\u00a34.8m",
     "ticker": "NANO"
+  },
+  "NAS.L": {
+    "business_description": "",
+    "company_name": "North Atlantic Smaller Cos Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:NAS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:33.761522+00:00",
+    "market_cap": "500000000",
+    "market_cap_display": "\u00a3500.0m",
+    "ticker": "NAS"
   },
   "NAVF.L": {
     "business_description": "",
@@ -4635,9 +4765,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:19.941499+00:00",
-    "market_cap": "13812855",
-    "market_cap_display": "\u00a313.8m",
+    "last_updated": "2026-09-21T06:48:40.150431+00:00",
+    "market_cap": "14289161",
+    "market_cap_display": "\u00a314.3m",
     "ticker": "PEN"
   },
   "PEYS.L": {
@@ -4679,6 +4809,19 @@
     "market_cap_display": "\u00a3124.2m",
     "ticker": "PHAR"
   },
+  "PHE.L": {
+    "business_description": "PowerHouse Energy Group Plc designs non-recyclable waste regeneration facilities to produce electricity, heat, and gases comprising hydrogen and synthetic natural gas in the United Kingdom and internationally. It offers\u2026",
+    "company_name": "PowerHouse Energy Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PHE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:35.186692+00:00",
+    "market_cap": "9987226",
+    "market_cap_display": "\u00a310.0m",
+    "ticker": "PHE"
+  },
   "PINE.L": {
     "business_description": "Pinewood Technologies Group PLC operates as a cloud-based dealer management software provider in the United Kingdom, rest of Europe, Africa, Asia, the Middle East, and internationally. The company primarily offers\u2026",
     "company_name": "Pinewood Technologies Group PLC",
@@ -4713,9 +4856,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:03.561037+00:00",
-    "market_cap": "163761072",
-    "market_cap_display": "\u00a3163.8m",
+    "last_updated": "2026-09-21T06:48:36.609128+00:00",
+    "market_cap": "144641808",
+    "market_cap_display": "\u00a3144.6m",
     "ticker": "PLSR"
   },
   "POLN.L": {
@@ -4765,9 +4908,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:07.056018+00:00",
-    "market_cap": "28489804",
-    "market_cap_display": "\u00a328.5m",
+    "last_updated": "2026-09-21T06:48:43.847266+00:00",
+    "market_cap": "30298680",
+    "market_cap_display": "\u00a330.3m",
     "ticker": "PRD"
   },
   "PREM.L": {
@@ -4830,9 +4973,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T18:48:47.638486+00:00",
-    "market_cap": "295022848",
-    "market_cap_display": "\u00a3295.0m",
+    "last_updated": "2026-09-21T06:48:47.536124+00:00",
+    "market_cap": "298430720",
+    "market_cap_display": "\u00a3298.4m",
     "ticker": "PRTC"
   },
   "PRU.L": {
@@ -5003,6 +5146,19 @@
     "market_cap": "5926498",
     "market_cap_display": "\u00a35.9m",
     "ticker": "RCGH"
+  },
+  "RCH.L": {
+    "business_description": "Reach plc operates as a commercial news publisher in the United Kingdom, the rest of Europe, and internationally. The company offers newspapers and magazines through wholesalers under the Mirror, Express, Daily Star,\u2026",
+    "company_name": "Reach plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RCH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:46.055069+00:00",
+    "market_cap": "127025456",
+    "market_cap_display": "\u00a3127.0m",
+    "ticker": "RCH"
   },
   "RCN.L": {
     "business_description": "Redcentric plc provides IT managed services for public sector and commercial markets in the United Kingdom. It provides hosted IP telephony, unified communications, collaboration, SIP trunks, omnichannel contact centre,\u2026",
@@ -5584,9 +5740,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:29.066745+00:00",
-    "market_cap": "124262440",
-    "market_cap_display": "\u00a3124.3m",
+    "last_updated": "2026-09-21T06:48:43.130395+00:00",
+    "market_cap": "135807968",
+    "market_cap_display": "\u00a3135.8m",
     "ticker": "SOM"
   },
   "SOU.L": {
@@ -5887,6 +6043,19 @@
     "market_cap": "15954570",
     "market_cap_display": "\u00a316.0m",
     "ticker": "SYM"
+  },
+  "SYNC.L": {
+    "business_description": "Syncona Limited is a fund specializes in investments in hedge, equity and long-term alternative investment funds across multiple asset classes. It manages private equity, debt, fixed income and alternative investments.\u2026",
+    "company_name": "Syncona Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SYNC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:45.283859+00:00",
+    "market_cap": "678753856",
+    "market_cap_display": "\u00a3678.8m",
+    "ticker": "SYNC"
   },
   "TAM.L": {
     "business_description": "Tatton Asset Management plc, through its subsidiaries, engages in the provision of discretionary fund management of investment on-platform and investment wrap services in the United Kingdom. It operates in two segments,\u2026",
@@ -6355,6 +6524,19 @@
     "market_cap": "7881237",
     "market_cap_display": "\u00a37.9m",
     "ticker": "UOG"
+  },
+  "UPL.L": {
+    "business_description": "Upland Resources Limited is a public investment firm specializing early stage companies. The firm seeks to invest in the oil and gas exploration and production sectors. The firm primarily focuses on Sarawak, Malaysia\u2026",
+    "company_name": "Upland Resources Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:UPL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T06:48:44.560858+00:00",
+    "market_cap": "54990704",
+    "market_cap_display": "\u00a355.0m",
+    "ticker": "UPL"
   },
   "UPR.L": {
     "business_description": "Uniphar plc, together with its subsidiaries, operates as a diversified healthcare services company in the Republic of Ireland, the United Kingdom, the Netherlands, and internationally. It operates through three\u2026",
