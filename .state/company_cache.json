@@ -1065,6 +1065,19 @@
     "market_cap_display": "\u00a3111.6m",
     "ticker": "BKY"
   },
+  "BMTO.L": {
+    "business_description": "Braime Group PLC, together with its subsidiaries, engages in the manufacturing and distribution of metal presswork and bulk material handling components in the United Kingdom, Rest of Europe, the Middle East, the United\u2026",
+    "company_name": "Braime Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BMTO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T18:49:48.990199+00:00",
+    "market_cap": "34560000",
+    "market_cap_display": "\u00a334.6m",
+    "ticker": "BMTO"
+  },
   "BMV.L": {
     "business_description": "Bluebird Mining Ventures Ltd, together with its subsidiaries, engages in the exploration and development of mineral properties in South Korea and the Philippines. The company explores gold and silver deposits. It holds\u2026",
     "company_name": "Bluebird Mining Ventures Ltd",
@@ -3621,9 +3634,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:37.537886+00:00",
-    "market_cap": "96504360",
-    "market_cap_display": "\u00a396.5m",
+    "last_updated": "2026-09-21T18:49:51.300251+00:00",
+    "market_cap": "95797368",
+    "market_cap_display": "\u00a395.8m",
     "ticker": "JNEO"
   },
   "JSE.L": {
@@ -4458,6 +4471,19 @@
     "market_cap_display": "\u00a3387.7m",
     "ticker": "NCC"
   },
+  "NCYF.L": {
+    "business_description": "CQS New City High Yield Fund Limited is a close ended fixed income mutual fund launched by CQS Asset Management Ltd. The fund is managed by CQS (UK) LLP. It invests in fixed income markets. The fund primarily invests in\u2026",
+    "company_name": "CQS New City High Yield Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:NCYF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T18:49:49.705647+00:00",
+    "market_cap": "367449216",
+    "market_cap_display": "\u00a3367.4m",
+    "ticker": "NCYF"
+  },
   "NEO.L": {
     "business_description": "Neo Energy Metals Plc operates as a mining and exploration company in South Africa. It explores for uranium, gold, and strategic metals. The company was formerly known as Stranger Holdings PLC and changed its name to\u2026",
     "company_name": "Neo Energy Metals Plc",
@@ -5226,16 +5252,16 @@
     "ticker": "RFX"
   },
   "RGG.L": {
-    "business_description": "RentGuarantor Holdings PLC provides an online platform for property rental services in the United Kingdom. The company was formerly known as Ezylet PLC and changed its name to RentGuarantor Holdings PLC in March 2021.\u2026",
+    "business_description": "RentGuarantor Holdings PLC provides an online platform for long-term property rental services in the United Kingdom. The company's online platform offers rent guarantee services to tenants across the socio-economic\u2026",
     "company_name": "RentGuarantor Holdings PLC",
     "currency": "GBp",
     "data_source": "yfinance:RGG.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:15.261982+00:00",
-    "market_cap": "126744928",
-    "market_cap_display": "\u00a3126.7m",
+    "last_updated": "2026-09-21T18:49:52.778831+00:00",
+    "market_cap": "152867344",
+    "market_cap_display": "\u00a3152.9m",
     "ticker": "RGG"
   },
   "RGL.L": {
@@ -5432,6 +5458,19 @@
     "market_cap": "12404585472",
     "market_cap_display": "\u00a312.40bn",
     "ticker": "S32"
+  },
+  "SAA.L": {
+    "business_description": "M&C Saatchi plc provides advertising and marketing communications services in the United Kingdom, Europe, the Middle East, the Asia Pacific, and Americas. The company was founded in 1995 and is based in London, the\u2026",
+    "company_name": "M&C Saatchi plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SAA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T18:49:50.425459+00:00",
+    "market_cap": "174754352",
+    "market_cap_display": "\u00a3174.8m",
+    "ticker": "SAA"
   },
   "SAGA.L": {
     "business_description": "Saga plc, together with its subsidiaries, provides package and cruise holidays, general insurance, and personal finance products and services in the United Kingdom. It operates through three segments: Travel, Insurance,\u2026",
@@ -6563,6 +6602,19 @@
     "market_cap": "979601984",
     "market_cap_display": "\u00a3979.6m",
     "ticker": "USA"
+  },
+  "UTL.L": {
+    "business_description": "UIL Limited is a closed-ended equity mutual fund launched and managed by ICM Limited. The fund invests in public equity markets across the globe. It seeks to invest in stocks of companies operating in the\u2026",
+    "company_name": "UIL Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:UTL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-21T18:49:52.066559+00:00",
+    "market_cap": "187133792",
+    "market_cap_display": "\u00a3187.1m",
+    "ticker": "UTL"
   },
   "VAL.L": {
     "business_description": "ValiRx plc, together with its subsidiaries, engages in the development of oncology therapeutics and companion diagnostics in the United Kingdom. The company develops VAL401, a reformulation of anti-psychotic drug\u2026",
