@@ -363,6 +363,19 @@
     "market_cap_display": "\u00a36.1m",
     "ticker": "AEG"
   },
+  "AEO.L": {
+    "business_description": "Aeorema Communications plc engages in the provision of brand experience, strategic consultancy, and event services in the United Kingdom, the United States, and internationally. It offers corporate communication\u2026",
+    "company_name": "Aeorema Communications plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AEO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:34.474585+00:00",
+    "market_cap": "6934170",
+    "market_cap_display": "\u00a36.9m",
+    "ticker": "AEO"
+  },
   "AEP.L": {
     "business_description": "AEP Plantations Plc, together with its subsidiaries, owns, operates, and develops oil palm plantations in Indonesia and Malaysia. The company primarily includes oil palms, harvesting fresh fruit bunches FFB, shell nuts,\u2026",
     "company_name": "AEP Plantations Plc",
@@ -423,9 +436,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:38.185481+00:00",
-    "market_cap": "55545000",
-    "market_cap_display": "\u00a355.5m",
+    "last_updated": "2026-09-22T06:48:39.463458+00:00",
+    "market_cap": "55062000",
+    "market_cap_display": "\u00a355.1m",
     "ticker": "AIRE"
   },
   "AJB.L": {
@@ -1142,6 +1155,19 @@
     "market_cap": "192560000",
     "market_cap_display": "\u00a3192.6m",
     "ticker": "BOOK"
+  },
+  "BOOT.L": {
+    "business_description": "Henry Boot PLC, together with its subsidiaries, engages in the home building business in the United Kingdom. The company operates through four segments: Property Investment and Development, Homebuilding, Land Promotion,\u2026",
+    "company_name": "Henry Boot PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BOOT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:30.861503+00:00",
+    "market_cap": "189108640",
+    "market_cap_display": "\u00a3189.1m",
+    "ticker": "BOOT"
   },
   "BOW.L": {
     "business_description": "Bow Street Group plc engages in operating restaurants in the United Kingdom. The company operates restaurants under the Wildwood and dim t name. The company was formerly known as Tasty plc and changed its name to Bow\u2026",
@@ -2014,6 +2040,19 @@
     "market_cap_display": "\u00a32.76bn",
     "ticker": "DRX"
   },
+  "DXRX.L": {
+    "business_description": "Diaceutics PLC, a diagnostic commercialization company, provides data, data analytics, and implementation services for pharma and biotech companies. The company offers DXRX, a diagnostic commercialization platform for\u2026",
+    "company_name": "Diaceutics PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:DXRX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:43.082934+00:00",
+    "market_cap": "144316832",
+    "market_cap_display": "\u00a3144.3m",
+    "ticker": "DXRX"
+  },
   "ECEL.L": {
     "business_description": "Eurocell plc engages in manufacturing, distribution, and recycling of building products in the United Kingdom and the Republic of Ireland. The company operates through Profiles, Corporate, Alune, and Building Plastics\u2026",
     "company_name": "Eurocell plc",
@@ -2026,6 +2065,19 @@
     "market_cap": "122116936",
     "market_cap_display": "\u00a3122.1m",
     "ticker": "ECEL"
+  },
+  "ECO.L": {
+    "business_description": "Eco (Atlantic) Oil & Gas Ltd. engages in the identifying, acquiring, and exploring oil and gas assets in the Co-Operative Republic of Guyana, Republic of Namibia, and South Africa. The company is headquartered in\u2026",
+    "company_name": "Eco (Atlantic) Oil & Gas Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:ECO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:48.478462+00:00",
+    "market_cap": "146178368",
+    "market_cap_display": "\u00a3146.2m",
+    "ticker": "ECO"
   },
   "ECOB.L": {
     "business_description": "Eco Buildings Group plc, together with its subsidiaries, provides solutions for the housing market in Albania, the Republic of Kosovo, and the Republic of North Macedonia. It operates in two segments, Sale of GFRG\u2026",
@@ -2560,6 +2612,19 @@
     "market_cap_display": "\u00a3186.5m",
     "ticker": "FNTL"
   },
+  "FNX.L": {
+    "business_description": "Fonix Plc provides mobile payments and messaging, and managed services for media, charity, gaming, e-mobility, and other digital service businesses in the United Kingdom and the rest of Europe. The company offers\u2026",
+    "company_name": "Fonix Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FNX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:43.793059+00:00",
+    "market_cap": "166936464",
+    "market_cap_display": "\u00a3166.9m",
+    "ticker": "FNX"
+  },
   "FORF.L": {
     "business_description": "Fortis Frontier PLC develops, distributes, and commercializes at-home healthcare and wellness tests in the United Kingdom. It is also involved in the development of an accompanying proprietary digital platform. The\u2026",
     "company_name": "Fortis Frontier PLC",
@@ -2624,6 +2689,19 @@
     "market_cap": "294038400",
     "market_cap_display": "\u00a3294.0m",
     "ticker": "FRP"
+  },
+  "FSFL.L": {
+    "business_description": "Foresight Solar Fund Limited (LSE:FSFL) specializes infrastructure investments in new energy and environment with a focus on solar power plants and solar farms. It seeks to invest in the United Kingdom.",
+    "company_name": "Foresight Solar Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:FSFL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:40.172282+00:00",
+    "market_cap": "390083328",
+    "market_cap_display": "\u00a3390.1m",
+    "ticker": "FSFL"
   },
   "FSG.L": {
     "business_description": "Foresight Group Holdings Limited operates as an infrastructure and private equity manager in the United Kingdom, Italy, Luxembourg, Ireland, Spain, and Australia. It operates through Infrastructure, Private Equity,\u2026",
@@ -2776,9 +2854,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:43.425681+00:00",
-    "market_cap": "7153890",
-    "market_cap_display": "\u00a37.2m",
+    "last_updated": "2026-09-22T06:48:53.595984+00:00",
+    "market_cap": "6589110",
+    "market_cap_display": "\u00a36.6m",
     "ticker": "GENI"
   },
   "GENL.L": {
@@ -2854,9 +2932,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T18:49:14.913032+00:00",
-    "market_cap": "332554336",
-    "market_cap_display": "\u00a3332.6m",
+    "last_updated": "2026-09-22T06:48:37.326166+00:00",
+    "market_cap": "331185792",
+    "market_cap_display": "\u00a3331.2m",
     "ticker": "GHH"
   },
   "GLE.L": {
@@ -3535,6 +3613,19 @@
     "market_cap_display": "\u00a34.72bn",
     "ticker": "ITH"
   },
+  "ITIM.L": {
+    "business_description": "Itim Group Plc, together with its subsidiaries, provides technology solutions in the United Kingdom, Europe, and internationally. The company offers Unify Sales, a commerce and customer platform; Unify Stock, which\u2026",
+    "company_name": "Itim Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ITIM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:49.965320+00:00",
+    "market_cap": "6440199",
+    "market_cap_display": "\u00a36.4m",
+    "ticker": "ITIM"
+  },
   "ITRK.L": {
     "business_description": "Intertek Group plc provides quality assurance solutions to various industries in the United Kingdom, the United States, China, Australia, and internationally. It operates through five segments: Consumer Products,\u2026",
     "company_name": "Intertek Group plc",
@@ -3742,6 +3833,19 @@
     "market_cap": "193728576",
     "market_cap_display": "\u00a3193.7m",
     "ticker": "KEYS"
+  },
+  "KGF.L": {
+    "business_description": "Kingfisher plc, together with its subsidiaries, supplies home improvement products and services in the United Kingdom, Ireland, France, Poland, and internationally. The company operates retail stores under the B&Q,\u2026",
+    "company_name": "Kingfisher plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KGF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:30.147978+00:00",
+    "market_cap": "4951749632",
+    "market_cap_display": "\u00a34.95bn",
+    "ticker": "KGF"
   },
   "KGH.L": {
     "business_description": "Knights Group Holdings plc, together with its subsidiaries, provides legal and professional services in the United Kingdom. The company offers advice to banks, debt funds, direct lenders, borrowers, and financial\u2026",
@@ -3964,6 +4068,19 @@
     "market_cap_display": "\u00a3243.8m",
     "ticker": "LSL"
   },
+  "LUCE.L": {
+    "business_description": "Luceco plc, together with its subsidiaries, designs, manufactures, and delivers residential and commercial electrification products and systems in the United Kingdom, Europe, the Americas, the Middle East, Africa, and\u2026",
+    "company_name": "Luceco plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LUCE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:33.050415+00:00",
+    "market_cap": "345897088",
+    "market_cap_display": "\u00a3345.9m",
+    "ticker": "LUCE"
+  },
   "MAB1.L": {
     "business_description": "Mortgage Advice Bureau (Holdings) plc, together with its subsidiaries, provides mortgage advice, and advice on protection and general insurance products in the United Kingdom. The company provides advice on protection\u2026",
     "company_name": "Mortgage Advice Bureau (Holdings) plc",
@@ -3972,9 +4089,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:37.541537+00:00",
-    "market_cap": "282596096",
-    "market_cap_display": "\u00a3282.6m",
+    "last_updated": "2026-09-22T06:48:31.570400+00:00",
+    "market_cap": "220661168",
+    "market_cap_display": "\u00a3220.7m",
     "ticker": "MAB1"
   },
   "MAC.L": {
@@ -4002,6 +4119,19 @@
     "market_cap": "16274808",
     "market_cap_display": "\u00a316.3m",
     "ticker": "MANO"
+  },
+  "MATD.L": {
+    "business_description": "Petro Matad Limited, together with its subsidiaries, engages in the oil exploration and exploitation in Mongolia. It holds 100% interests in production sharing contract blocks, including Matad Block XX that consists of\u2026",
+    "company_name": "Petro Matad Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:MATD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:50.680322+00:00",
+    "market_cap": "22398546",
+    "market_cap_display": "\u00a322.4m",
+    "ticker": "MATD"
   },
   "MAV4.L": {
     "business_description": "",
@@ -4145,6 +4275,19 @@
     "market_cap": "656485120",
     "market_cap_display": "\u00a3656.5m",
     "ticker": "MGAM"
+  },
+  "MIDW.L": {
+    "business_description": "Midwich Group plc, together with its subsidiaries, distributes audio visual (AV) solutions to trade customers in the United Kingdom, Ireland, Europe, the Middle East, Africa, the Asia Pacific, and North America. It\u2026",
+    "company_name": "Midwich Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MIDW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:41.599641+00:00",
+    "market_cap": "151716048",
+    "market_cap_display": "\u00a3151.7m",
+    "ticker": "MIDW"
   },
   "MILA.L": {
     "business_description": "Mila Resources Plc engages in exploration and development of mineral resource properties. The company explores for gold, lithium, and copper deposits. It holds interest in the Kathleen Valley project that consists of\u2026",
@@ -4575,6 +4718,19 @@
     "market_cap_display": "\u00a3859.7m",
     "ticker": "OCI"
   },
+  "OGN.L": {
+    "business_description": "Origin Enterprises plc provides agronomy services company in Ireland, the United Kingdom, Brazil, Poland, Romania, Latin America, and internationally. It operates through two segments: Agriculture and Living Landscapes.\u2026",
+    "company_name": "Origin Enterprises plc",
+    "currency": "GBp",
+    "data_source": "yfinance:OGN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:35.194274+00:00",
+    "market_cap": "392288640",
+    "market_cap_display": "\u00a3392.3m",
+    "ticker": "OGN"
+  },
   "OIG.L": {
     "business_description": "Oryx International Growth Fund Ltd is a closed ended equity mutual fund launched and managed by Harwood Capital LLP. The fund invests in the public equity markets of the United Kingdom and United States. It seeks to\u2026",
     "company_name": "Oryx International Growth Fund Limited",
@@ -4666,6 +4822,19 @@
     "market_cap_display": "\u00a37.2m",
     "ticker": "ORCP"
   },
+  "ORIT.L": {
+    "business_description": "",
+    "company_name": "Octopus Renewables Infrastructure Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:ORIT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:32.277911+00:00",
+    "market_cap": "319184032",
+    "market_cap_display": "\u00a3319.2m",
+    "ticker": "ORIT"
+  },
   "ORNT.L": {
     "business_description": "Orient Telecoms Plc provides managed telecommunications services in Malaysia, Thailand, and Singapore. The company offers managed broadband services, international managed services; network connectivity and internet\u2026",
     "company_name": "Orient Telecoms Plc",
@@ -4692,6 +4861,19 @@
     "market_cap_display": "\u00a314.7m",
     "ticker": "ORR"
   },
+  "OXB.L": {
+    "business_description": "Oxford Biomedica plc, a contract development and manufacturing organization, focuses on delivering therapies to patients worldwide. Its LentiVector platform technology is a lentiviral vector based gene delivery system\u2026",
+    "company_name": "Oxford Biomedica plc",
+    "currency": "GBp",
+    "data_source": "yfinance:OXB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:33.756933+00:00",
+    "market_cap": "562856576",
+    "market_cap_display": "\u00a3562.9m",
+    "ticker": "OXB"
+  },
   "PANR.L": {
     "business_description": "Pantheon Resources Plc, through its subsidiaries, engages in the exploration, appraisal, development, investment, and production of oil and gas in the United States. Its primary assets are the Ahpun project located in\u2026",
     "company_name": "Pantheon Resources Plc",
@@ -4713,9 +4895,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:30.947442+00:00",
-    "market_cap": "54620960",
-    "market_cap_display": "\u00a354.6m",
+    "last_updated": "2026-09-22T06:48:49.186187+00:00",
+    "market_cap": "67238296",
+    "market_cap_display": "\u00a367.2m",
     "ticker": "PAT"
   },
   "PCGH.L": {
@@ -4848,6 +5030,19 @@
     "market_cap_display": "\u00a310.0m",
     "ticker": "PHE"
   },
+  "PHI.L": {
+    "business_description": "",
+    "company_name": "Pacific Horizon Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:PHI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:38.040634+00:00",
+    "market_cap": "885000192",
+    "market_cap_display": "\u00a3885.0m",
+    "ticker": "PHI"
+  },
   "PINE.L": {
     "business_description": "Pinewood Technologies Group PLC operates as a cloud-based dealer management software provider in the United Kingdom, rest of Europe, Africa, Asia, the Middle East, and internationally. The company primarily offers\u2026",
     "company_name": "Pinewood Technologies Group PLC",
@@ -4886,6 +5081,19 @@
     "market_cap": "144641808",
     "market_cap_display": "\u00a3144.6m",
     "ticker": "PLSR"
+  },
+  "PMP.L": {
+    "business_description": "Portmeirion Group PLC, together with its subsidiaries, manufactures, markets, and distributes ceramics, home fragrances, and associated homeware products in the United Kingdom, South Korea, North America, and\u2026",
+    "company_name": "Portmeirion Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PMP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:44.500402+00:00",
+    "market_cap": "26130712",
+    "market_cap_display": "\u00a326.1m",
+    "ticker": "PMP"
   },
   "POLN.L": {
     "business_description": "Pollen Street PLC was founded in 2015 and is headquartered in London, Greater London, United Kingdom.",
@@ -5096,16 +5304,16 @@
     "ticker": "QDE"
   },
   "QHE.L": {
-    "business_description": "Quantum Helium Limited, together with its subsidiaries, engages in the exploration, development, and production of oil and gas properties in Australia and the United States. It primarily explores helium, hydrogen, and\u2026",
+    "business_description": "Quantum Helium Limited, together with its subsidiaries, engages in the exploration, development, and production of oil and gas properties in Australia and the United States. It explores for helium, hydrogen, and\u2026",
     "company_name": "Quantum Helium Limited",
     "currency": "GBp",
     "data_source": "yfinance:QHE.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:23.263915+00:00",
-    "market_cap": "9997079",
-    "market_cap_display": "\u00a310.0m",
+    "last_updated": "2026-09-22T06:48:51.410011+00:00",
+    "market_cap": "9497225",
+    "market_cap_display": "\u00a39.5m",
     "ticker": "QHE"
   },
   "RAT.L": {
@@ -5198,6 +5406,19 @@
     "market_cap": "98287616",
     "market_cap_display": "\u00a398.3m",
     "ticker": "RCN"
+  },
+  "REC.L": {
+    "business_description": "Record plc, through its subsidiaries, provides currency and asset management services in the United Kingdom, North America, Switzerland, rest of Europe, Australia, and internationally. The company operates in two\u2026",
+    "company_name": "Record plc",
+    "currency": "GBp",
+    "data_source": "yfinance:REC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:52.890245+00:00",
+    "market_cap": "83967520",
+    "market_cap_display": "\u00a384.0m",
+    "ticker": "REC"
   },
   "RENX.L": {
     "business_description": "Renalytix Plc develops artificial intelligence-enabled in vitro diagnostic solutions for clinical management of kidney diseases in Europe and the United States. It offers KidneyIntelX, a diagnostic platform that employs\u2026",
@@ -5446,6 +5667,19 @@
     "market_cap_display": "\u00a31.41bn",
     "ticker": "RSG"
   },
+  "RTO.L": {
+    "business_description": "Rentokil Initial plc, together with its subsidiaries, provides route-based services in North America, Europe, the United Kingdom, Asia, the Middle East, North Africa, Turkey, and Pacific. The company offers a range of\u2026",
+    "company_name": "Rentokil Initial plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RTO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:47.750325+00:00",
+    "market_cap": "7996610560",
+    "market_cap_display": "\u00a38.00bn",
+    "ticker": "RTO"
+  },
   "S32.L": {
     "business_description": "South32 Limited operates as a diversified metals and mining company. The company operates through Worsley Alumina, Brazil Alumina, Brazil Aluminium, Hillside Aluminium, Mozal Aluminium, Sierra Gorda, Cannington,\u2026",
     "company_name": "South32 Limited",
@@ -5471,6 +5705,19 @@
     "market_cap": "174754352",
     "market_cap_display": "\u00a3174.8m",
     "ticker": "SAA"
+  },
+  "SAAS.L": {
+    "business_description": "Microlise Group plc provides transport management technology solutions in the United Kingdom, Rest of Europe, and internationally. The company offers fleet telematics products, including fleet tracking, fleet\u2026",
+    "company_name": "Microlise Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SAAS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:36.605313+00:00",
+    "market_cap": "57411824",
+    "market_cap_display": "\u00a357.4m",
+    "ticker": "SAAS"
   },
   "SAGA.L": {
     "business_description": "Saga plc, together with its subsidiaries, provides package and cruise holidays, general insurance, and personal finance products and services in the United Kingdom. It operates through three segments: Travel, Insurance,\u2026",
@@ -5602,6 +5849,19 @@
     "market_cap_display": "\u00a39.35bn",
     "ticker": "SDLF"
   },
+  "SDR.L": {
+    "business_description": "Schroders plc is a publicly owned investment manager. The firm also provides advisory and consultancy services. It provides its services to financial institutions, high net worth clients, large corporate, local\u2026",
+    "company_name": "Schroders plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SDR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:38.751608+00:00",
+    "market_cap": "9161011200",
+    "market_cap_display": "\u00a39.16bn",
+    "ticker": "SDR"
+  },
   "SEI.L": {
     "business_description": "Sintana Energy Inc. engages in the crude oil and natural gas exploration and development business. It holds various interests in five onshore and offshore petroleum exploration licenses in Namibia, as well as in\u2026",
     "company_name": "Sintana Energy Inc.",
@@ -5680,6 +5940,19 @@
     "market_cap_display": "\u00a313.00bn",
     "ticker": "SGRO"
   },
+  "SIHL.L": {
+    "business_description": "Symphony International Holdings Limited is a private equity and venture capital firm specializing in investments in early stage, management buy-outs, emerging growth, management buy-ins, restructurings, special\u2026",
+    "company_name": "Symphony International Holdings Limited",
+    "currency": "USD",
+    "data_source": "yfinance:SIHL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:35.897989+00:00",
+    "market_cap": "179678176",
+    "market_cap_display": "$179.7m",
+    "ticker": "SIHL"
+  },
   "SLP.L": {
     "business_description": "Sylvania Platinum Limited, together with its subsidiaries, operates as a producer of platinum group metals including platinum, palladium, and rhodium, and chrome in South Africa. The company operates through two core\u2026",
     "company_name": "Sylvania Platinum Limited",
@@ -5692,6 +5965,19 @@
     "market_cap": "221294672",
     "market_cap_display": "\u00a3221.3m",
     "ticker": "SLP"
+  },
+  "SMIN.L": {
+    "business_description": "Smiths Group plc operates as an industrial technology company in Americas, Europe, the Asia Pacific, and internationally. The company operates through four segments: John Crane, Smiths Detection, Flex-Tek, and Smiths\u2026",
+    "company_name": "Smiths Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SMIN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:29.438705+00:00",
+    "market_cap": "7305586688",
+    "market_cap_display": "\u00a37.31bn",
+    "ticker": "SMIN"
   },
   "SML.L": {
     "business_description": "Strategic Minerals Plc engages in the exploration, development, and operation of mining projects. The company operates the Cobre mine in New Mexico, which sells magnetite for use in the cement, fertilizer, dense\u2026",
@@ -5731,6 +6017,19 @@
     "market_cap": "8583748608",
     "market_cap_display": "\u00a38.58bn",
     "ticker": "SN"
+  },
+  "SNDA.L": {
+    "business_description": "Sunda Energy Plc, together with its subsidiaries, operates as an independent energy operating company. It operates a production sharing contract in Timor-Leste that contains a gas field called Chuditch; and holds a\u2026",
+    "company_name": "Sunda Energy Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SNDA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:42.369741+00:00",
+    "market_cap": "12554564",
+    "market_cap_display": "\u00a312.6m",
+    "ticker": "SNDA"
   },
   "SNT.L": {
     "business_description": "Sabien Technology Group Plc, together with its subsidiaries, engages in the provision of energy reduction and cloud-connected carbon management technologies in the commercial heating sector in the United Kingdom and\u2026",
@@ -6252,6 +6551,19 @@
     "market_cap_display": "\u00a35.7m",
     "ticker": "THR"
   },
+  "THRL.L": {
+    "business_description": "",
+    "company_name": "Target Healthcare REIT Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:THRL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:28.731162+00:00",
+    "market_cap": "699627776",
+    "market_cap_display": "\u00a3699.6m",
+    "ticker": "THRL"
+  },
   "TIA.L": {
     "business_description": "Tialis Essential IT PLC, through its subsidiaries, provides network, cloud, and IT managed services to public and private companies in the United Kingdom. It focuses on the storage, building, configuration, and shipping\u2026",
     "company_name": "Tialis Essential IT PLC",
@@ -6421,6 +6733,19 @@
     "market_cap_display": "\u00a31.01bn",
     "ticker": "TRST"
   },
+  "TRT.L": {
+    "business_description": "Transense Technologies plc engages in the provision of specialist sensor systems in the United Kingdom, North America, South America, Australia, Europe, and internationally. It operates through Translogik, SAWsense, and\u2026",
+    "company_name": "Transense Technologies plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:40.880572+00:00",
+    "market_cap": "6620637",
+    "market_cap_display": "\u00a36.6m",
+    "ticker": "TRT"
+  },
   "TRU.L": {
     "business_description": "TruFin plc provides niche lending, early payment services, and video game publishing in the United Kingdom. It operates through Satago, Oxygen, Playstack, and Other segments. The company engages in provision of\u2026",
     "company_name": "TruFin plc",
@@ -6507,9 +6832,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:51.981036+00:00",
-    "market_cap": "10631983",
-    "market_cap_display": "\u00a310.6m",
+    "last_updated": "2026-09-22T06:48:52.118642+00:00",
+    "market_cap": "8859987",
+    "market_cap_display": "\u00a38.9m",
     "ticker": "UFO"
   },
   "UJO.L": {
@@ -6862,6 +7187,19 @@
     "market_cap": "1452486272",
     "market_cap_display": "\u00a31.45bn",
     "ticker": "YCA"
+  },
+  "YU.L": {
+    "business_description": "Y\u00fc Group PLC, through its subsidiaries, supplies energy and utility solutions primarily in the United Kingdom. The company operates through Retail, Smart, and Metering Assets segments. It supplies electricity, gas, and\u2026",
+    "company_name": "Y\u00fc Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:YU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T06:48:46.968822+00:00",
+    "market_cap": "313726720",
+    "market_cap_display": "\u00a3313.7m",
+    "ticker": "YU"
   },
   "ZCC.L": {
     "business_description": "",
