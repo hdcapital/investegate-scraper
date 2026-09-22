@@ -129,6 +129,19 @@
     "market_cap_display": "",
     "ticker": "54XE"
   },
+  "59AY.L": {
+    "business_description": "",
+    "company_name": "0 UBS 43 REG-S",
+    "currency": "USD",
+    "data_source": "yfinance:59AY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T18:50:12.067198+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "59AY"
+  },
   "61DH.L": {
     "business_description": "",
     "company_name": "Kuwait Projects Co SPC Limited 4.5% GTD SNR EMTN 23/02/2027 USD200000'7",
@@ -969,9 +982,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:45.461847+00:00",
-    "market_cap": "7766420480",
-    "market_cap_display": "\u00a37.77bn",
+    "last_updated": "2026-09-22T18:50:06.687915+00:00",
+    "market_cap": "7778332160",
+    "market_cap_display": "\u00a37.78bn",
     "ticker": "BEZ"
   },
   "BGS.L": {
@@ -1428,6 +1441,19 @@
     "market_cap": "5877123072",
     "market_cap_display": "\u00a35.88bn",
     "ticker": "CCC"
+  },
+  "CCP.L": {
+    "business_description": "Celtic plc, together with its subsidiaries, operates a professional football club in the United Kingdom. It operates through three segments: Football and Stadium Operations; Merchandising; and Multimedia and Other\u2026",
+    "company_name": "Celtic plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CCP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T18:50:05.914793+00:00",
+    "market_cap": "166407360",
+    "market_cap_display": "\u00a3166.4m",
+    "ticker": "CCP"
   },
   "CEPS.L": {
     "business_description": "CEPS PLC operates as an industrial trading holding company in the United Kingdom, rest of Europe, and internationally. It operates through Aford Awards and Signature Fabrics segments. The Aford Awards segment offers\u2026",
@@ -3146,16 +3172,16 @@
     "ticker": "GV2O"
   },
   "GWI.L": {
-    "business_description": "Globalworth Real Estate Investments Limited is a listed real estate company active in Central and Eastern Europe. It is quoted on the AIM segment of the London Stock Exchange. It has become the pre-eminent office\u2026",
+    "business_description": "Globalworth Real Estate Investments Limited is a listed real estate company active in Central and Eastern Europe, quoted on the AIM-segment of the London Stock Exchange. It has become the pre-eminent office investor in\u2026",
     "company_name": "Globalworth Real Estate Investments Limited",
     "currency": "EUR",
     "data_source": "yfinance:GWI.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T18:49:15.635357+00:00",
-    "market_cap": "552988224",
-    "market_cap_display": "\u20ac553.0m",
+    "last_updated": "2026-09-22T18:50:04.413064+00:00",
+    "market_cap": "480859296",
+    "market_cap_display": "\u20ac480.9m",
     "ticker": "GWI"
   },
   "GYM.L": {
@@ -3263,16 +3289,16 @@
     "ticker": "HFG"
   },
   "HGT.L": {
-    "business_description": "",
-    "company_name": "HgCapital Trust Ord",
+    "business_description": "Hg Capital Trust plc specializes in direct, quoted and unquoted companies and fund of funds investments. The funds maximum exposure to unlisted investments is 100% of the gross assets and single investment in an\u2026",
+    "company_name": "HgCapital Trust plc",
     "currency": "GBp",
     "data_source": "yfinance:HGT.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:38.836827+00:00",
-    "market_cap": "1857276672",
-    "market_cap_display": "\u00a31.86bn",
+    "last_updated": "2026-09-22T18:50:07.443598+00:00",
+    "market_cap": "1807447296",
+    "market_cap_display": "\u00a31.81bn",
     "ticker": "HGT"
   },
   "HHI.L": {
@@ -4081,6 +4107,19 @@
     "market_cap_display": "\u00a3345.9m",
     "ticker": "LUCE"
   },
+  "LWDB.L": {
+    "business_description": "The Law Debenture Corporation p.l.c., an investment trust, provides independent professional services to companies, agencies, organizations, and individuals worldwide. The company operates in two segments: Portfolio and\u2026",
+    "company_name": "The Law Debenture Corporation p.l.c.",
+    "currency": "GBp",
+    "data_source": "yfinance:LWDB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T18:50:09.764865+00:00",
+    "market_cap": "1651986432",
+    "market_cap_display": "\u00a31.65bn",
+    "ticker": "LWDB"
+  },
   "MAB1.L": {
     "business_description": "Mortgage Advice Bureau (Holdings) plc, together with its subsidiaries, provides mortgage advice, and advice on protection and general insurance products in the United Kingdom. The company provides advice on protection\u2026",
     "company_name": "Mortgage Advice Bureau (Holdings) plc",
@@ -4180,9 +4219,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:13.932670+00:00",
-    "market_cap": "325967456",
-    "market_cap_display": "\u00a3326.0m",
+    "last_updated": "2026-09-22T18:50:08.271320+00:00",
+    "market_cap": "306952704",
+    "market_cap_display": "\u00a3307.0m",
     "ticker": "MCB"
   },
   "MCG.L": {
@@ -4492,7 +4531,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:50:03.205958+00:00",
+    "last_updated": "2026-09-22T18:50:10.505766+00:00",
     "market_cap": "3075635456",
     "market_cap_display": "$3.08bn",
     "ticker": "MYSE"
@@ -5094,6 +5133,19 @@
     "market_cap": "26130712",
     "market_cap_display": "\u00a326.1m",
     "ticker": "PMP"
+  },
+  "PNS.L": {
+    "business_description": "Panther Securities PLC is a property investment company quoted on the AIM market (AIM) since 2013. Prior to this the Company was fully listed and included in the FTSE fledgling index, first being fully listed as a\u2026",
+    "company_name": "Panther Securities PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PNS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T18:50:05.159849+00:00",
+    "market_cap": "50181392",
+    "market_cap_display": "\u00a350.2m",
+    "ticker": "PNS"
   },
   "POLN.L": {
     "business_description": "Pollen Street PLC was founded in 2015 and is headquartered in London, Greater London, United Kingdom.",
@@ -7122,6 +7174,19 @@
     "market_cap": "26032744",
     "market_cap_display": "\u00a326.0m",
     "ticker": "WPHO"
+  },
+  "WTB.L": {
+    "business_description": "Whitbread plc operates hotels and restaurants in the United Kingdom, Germany, Ireland, and internationally. The company operates hotels under the Premier Inn, ZIP by Premier Inn, and hub by Premier Inn brands. It also\u2026",
+    "company_name": "Whitbread plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WTB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-22T18:50:09.010941+00:00",
+    "market_cap": "3907769088",
+    "market_cap_display": "\u00a33.91bn",
+    "ticker": "WTB"
   },
   "WVIA.L": {
     "business_description": "Winvia Entertainment Plc, together with its subsidiaries, operates as a technology-led entertainment company. It operates prize draws and skill games competitions with prizes and unique formats for a broad audience; the\u2026",
