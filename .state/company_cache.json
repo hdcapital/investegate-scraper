@@ -20,7 +20,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:19.850492+00:00",
+    "last_updated": "2026-09-23T18:50:24.639553+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "17TZ"
@@ -800,9 +800,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:16.959372+00:00",
-    "market_cap": "277782880",
-    "market_cap_display": "\u00a3277.8m",
+    "last_updated": "2026-09-23T18:50:21.029399+00:00",
+    "market_cap": "438585664",
+    "market_cap_display": "\u00a3438.6m",
     "ticker": "AT"
   },
   "ATC.L": {
@@ -1025,6 +1025,19 @@
     "market_cap": "7778332160",
     "market_cap_display": "\u00a37.78bn",
     "ticker": "BEZ"
+  },
+  "BFSP.L": {
+    "business_description": "Blackfinch Spring VCT PLC a venture capital firm specializing in seed, growth stage and early-stage investments. It also makes follow-on co-investments. It seeks to invest in technology-enabled companies with a focus on\u2026",
+    "company_name": "Blackfinch Spring VCT PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BFSP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T18:50:23.920866+00:00",
+    "market_cap": "72197016",
+    "market_cap_display": "\u00a372.2m",
+    "ticker": "BFSP"
   },
   "BGCG.L": {
     "business_description": "",
@@ -1450,9 +1463,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:49.146849+00:00",
-    "market_cap": "288668992",
-    "market_cap_display": "\u00a3288.7m",
+    "last_updated": "2026-09-23T18:50:21.748625+00:00",
+    "market_cap": "285942528",
+    "market_cap_display": "\u00a3285.9m",
     "ticker": "CAML"
   },
   "CAPD.L": {
@@ -2650,6 +2663,19 @@
     "market_cap": "4855500",
     "market_cap_display": "\u00a34.9m",
     "ticker": "FADL"
+  },
+  "FAR.L": {
+    "business_description": "Ferro-Alloy Resources Limited engages in the mining and mineral processing business in the Republic of Kazakhstan. The company explores for vanadium, uranium, molybdenum, nickel, and carbon deposits. It primarily holds\u2026",
+    "company_name": "Ferro-Alloy Resources Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:FAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T18:50:20.277504+00:00",
+    "market_cap": "35503724",
+    "market_cap_display": "\u00a335.5m",
+    "ticker": "FAR"
   },
   "FCH.L": {
     "business_description": "Funding Circle Holdings plc, together with its subsidiaries, provides online lending platforms in the United Kingdom and internationally. The company offers small business loans, recovery loan schemes, government backed\u2026",
@@ -5350,9 +5376,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:19.836232+00:00",
-    "market_cap": "488121728",
-    "market_cap_display": "\u00a3488.1m",
+    "last_updated": "2026-09-23T18:50:22.438862+00:00",
+    "market_cap": "541242624",
+    "market_cap_display": "\u00a3541.2m",
     "ticker": "POLN"
   },
   "PPH.L": {
@@ -5402,9 +5428,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T18:51:16.318418+00:00",
-    "market_cap": "3630384",
-    "market_cap_display": "\u00a33.6m",
+    "last_updated": "2026-09-23T18:50:18.782011+00:00",
+    "market_cap": "3129642",
+    "market_cap_display": "\u00a33.1m",
     "ticker": "PREM"
   },
   "PRM.L": {
@@ -6122,6 +6148,19 @@
     "market_cap_display": "\u00a39.16bn",
     "ticker": "SDR"
   },
+  "SEE.L": {
+    "business_description": "Seeing Machines Limited, together with its subsidiaries, provides driver and occupant monitoring system technologies in Australia, North America, the Asia Pacific, Europe, and internationally. It operates through\u2026",
+    "company_name": "Seeing Machines Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SEE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T18:50:19.537247+00:00",
+    "market_cap": "201583200",
+    "market_cap_display": "\u00a3201.6m",
+    "ticker": "SEE"
+  },
   "SEI.L": {
     "business_description": "Sintana Energy Inc. engages in the crude oil and natural gas exploration and development business. It holds various interests in five onshore and offshore petroleum exploration licenses in Namibia, as well as in\u2026",
     "company_name": "Sintana Energy Inc.",
@@ -6182,9 +6221,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T06:47:34.171989+00:00",
-    "market_cap": "8794106880",
-    "market_cap_display": "\u00a38.79bn",
+    "last_updated": "2026-09-23T18:50:23.199013+00:00",
+    "market_cap": "8975410176",
+    "market_cap_display": "\u00a38.98bn",
     "ticker": "SGE"
   },
   "SGRO.L": {
