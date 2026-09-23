@@ -592,9 +592,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:07.576206+00:00",
-    "market_cap": "18844852",
-    "market_cap_display": "\u00a318.8m",
+    "last_updated": "2026-09-23T06:48:30.126520+00:00",
+    "market_cap": "16757395",
+    "market_cap_display": "\u00a316.8m",
     "ticker": "AMP"
   },
   "AMS.L": {
@@ -779,6 +779,19 @@
     "market_cap_display": "$21.7m",
     "ticker": "ASPL"
   },
+  "ASY.L": {
+    "business_description": "Andrews Sykes Group plc, an investment holding company, engages in the hire, sale, and installation of environmental control equipment in the United Kingdom, Rest of Europe, the Middle East, Africa, and internationally.\u2026",
+    "company_name": "Andrews Sykes Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ASY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:31.462193+00:00",
+    "market_cap": "226037232",
+    "market_cap_display": "\u00a3226.0m",
+    "ticker": "ASY"
+  },
   "AT.L": {
     "business_description": "Ashtead Technology Holdings Plc provides subsea equipment rental solutions for the offshore energy sector in Europe, the Americas, the Asia-Pacific, and the Middle East. The company offers survey and robotics equipment\u2026",
     "company_name": "Ashtead Technology Holdings Plc",
@@ -830,6 +843,19 @@
     "market_cap": "638792064",
     "market_cap_display": "\u00a3638.8m",
     "ticker": "ATR"
+  },
+  "AURR.L": {
+    "business_description": "Aurrigo International plc offers electrical components to the automotive and aviation industry in the United Kingdom, Europe, and internationally. It operates through two segments, Automotive components and Autonomous.\u2026",
+    "company_name": "Aurrigo International plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AURR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:24.754842+00:00",
+    "market_cap": "108585568",
+    "market_cap_display": "\u00a3108.6m",
+    "ticker": "AURR"
   },
   "AUSC.L": {
     "business_description": "",
@@ -935,6 +961,19 @@
     "market_cap_display": "\u00a312.9m",
     "ticker": "BANK"
   },
+  "BASC.L": {
+    "business_description": "",
+    "company_name": "Brown Advisory US Smaller Companies Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:BASC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:18.792037+00:00",
+    "market_cap": "172489136",
+    "market_cap_display": "\u00a3172.5m",
+    "ticker": "BASC"
+  },
   "BBIL.L": {
     "business_description": "",
     "company_name": "JPM BetaBuilders US Treasury Bond 0-1 yr UCITS ETF USD Acc",
@@ -986,6 +1025,19 @@
     "market_cap": "7778332160",
     "market_cap_display": "\u00a37.78bn",
     "ticker": "BEZ"
+  },
+  "BGCG.L": {
+    "business_description": "",
+    "company_name": "Baillie Gifford China Growth Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:BGCG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:21.446225+00:00",
+    "market_cap": "162755600",
+    "market_cap_display": "\u00a3162.8m",
+    "ticker": "BGCG"
   },
   "BGS.L": {
     "business_description": "",
@@ -1151,9 +1203,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:10.147164+00:00",
-    "market_cap": "319917792",
-    "market_cap_display": "\u00a3319.9m",
+    "last_updated": "2026-09-23T06:48:15.504787+00:00",
+    "market_cap": "351165536",
+    "market_cap_display": "\u00a3351.2m",
     "ticker": "BOKU"
   },
   "BOOK.L": {
@@ -1455,6 +1507,19 @@
     "market_cap_display": "\u00a3166.4m",
     "ticker": "CCP"
   },
+  "CDGP.L": {
+    "business_description": "Chapel Down Group Plc, through its subsidiaries, engages in the production and sale of alcoholic beverages in the United Kingdom and internationally. The company offers wines and spirits, including gin, vodka,\u2026",
+    "company_name": "Chapel Down Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CDGP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:26.180580+00:00",
+    "market_cap": "78901184",
+    "market_cap_display": "\u00a378.9m",
+    "ticker": "CDGP"
+  },
   "CEPS.L": {
     "business_description": "CEPS PLC operates as an industrial trading holding company in the United Kingdom, rest of Europe, and internationally. It operates through Aford Awards and Signature Fabrics segments. The Aford Awards segment offers\u2026",
     "company_name": "CEPS PLC",
@@ -1741,6 +1806,19 @@
     "market_cap_display": "\u00a3793.0k",
     "ticker": "COR"
   },
+  "CORD.L": {
+    "business_description": "Cordiant Digital Infrastructure Limited is an infrastructure investment fund specializes in investments in buy & build, capital expenditure and bolt-on acquisitions and digital infrastructure assets in the\u2026",
+    "company_name": "Cordiant Digital Infrastructure Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CORD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:19.463532+00:00",
+    "market_cap": "968633472",
+    "market_cap_display": "\u00a3968.6m",
+    "ticker": "CORD"
+  },
   "CRCL.L": {
     "business_description": "Corcel Plc, together with its subsidiaries, engages in the development of battery metals and exploration and production of oil and gas projects in the United Kingdom. The company owns a 41% interest in the Mambare\u2026",
     "company_name": "Corcel Plc",
@@ -1884,6 +1962,19 @@
     "market_cap_display": "\u00a32.97bn",
     "ticker": "CTY"
   },
+  "CWR.L": {
+    "business_description": "Ceres Power Holdings plc engages in the development and commercialization of fuel cell and electrochemical technology in Europe, Asia, and North America. The company offers cell, stack, and factory; power system and\u2026",
+    "company_name": "Ceres Power Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CWR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:27.516950+00:00",
+    "market_cap": "924069824",
+    "market_cap_display": "\u00a3924.1m",
+    "ticker": "CWR"
+  },
   "CYAN.L": {
     "business_description": "CyanConnode Holdings plc designs, develops, and sells narrowband radio frequency (RF) mesh and cellular networks that enable Omni Internet of Things (IoT) communications in India, the United Arab Emirates, and\u2026",
     "company_name": "CyanConnode Holdings plc",
@@ -1922,6 +2013,19 @@
     "market_cap": "468194720",
     "market_cap_display": "\u00a3468.2m",
     "ticker": "DATA"
+  },
+  "DBOX.L": {
+    "business_description": "Digitalbox plc, a holding company, engages in the publication of consumer media through digital mobile channel. It owns and operates Entertainment Daily that produces and publishes online UK entertainment news covering\u2026",
+    "company_name": "Digitalbox plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DBOX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:28.823753+00:00",
+    "market_cap": "6073054",
+    "market_cap_display": "\u00a36.1m",
+    "ticker": "DBOX"
   },
   "DCC.L": {
     "business_description": "DCC Energy plc engages in the sales, marketing, and distribution of carbon energy solutions in the Republic of Ireland, the United Kingdom, France, the United States, and internationally. The company operates in two\u2026",
@@ -2247,6 +2351,19 @@
     "market_cap": "308273024",
     "market_cap_display": "\u00a3308.3m",
     "ticker": "ELIX"
+  },
+  "ELLA.L": {
+    "business_description": "Ecclesiastical Insurance Office PLC provides non-life insurance to individuals and corporate customers in the United Kingdom. It offers index linked and unit linked insurance and other life insurance products. The\u2026",
+    "company_name": "Ecclesiastical Insurance Office PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ELLA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:23.461454+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "ELLA"
   },
   "ELSA.L": {
     "business_description": "",
@@ -2945,9 +3062,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:43.682506+00:00",
-    "market_cap": "4189684480",
-    "market_cap_display": "\u00a34.19bn",
+    "last_updated": "2026-09-23T06:48:33.416779+00:00",
+    "market_cap": "3889457408",
+    "market_cap_display": "\u00a33.89bn",
     "ticker": "GGP"
   },
   "GHH.L": {
@@ -3081,16 +3198,16 @@
     "ticker": "GRI"
   },
   "GRID.L": {
-    "business_description": "Gresham House Energy Storage Fund plc is an infrastructure investment fund.",
+    "business_description": "",
     "company_name": "Gresham House Energy Storage Ord",
     "currency": "GBp",
     "data_source": "yfinance:GRID.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:35.139896+00:00",
-    "market_cap": "564511552",
-    "market_cap_display": "\u00a3564.5m",
+    "last_updated": "2026-09-23T06:48:28.168294+00:00",
+    "market_cap": "550854080",
+    "market_cap_display": "\u00a3550.9m",
     "ticker": "GRID"
   },
   "GRP.L": {
@@ -3548,6 +3665,19 @@
     "market_cap_display": "\u00a321.8m",
     "ticker": "IMM"
   },
+  "ING.L": {
+    "business_description": "Ingenta plc, together with its subsidiaries, provides content management, advertising, and commercial enterprise solutions and services to publishers, information providers, academic libraries, and institutions in the\u2026",
+    "company_name": "Ingenta plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ING.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:26.836324+00:00",
+    "market_cap": "12465622",
+    "market_cap_display": "\u00a312.5m",
+    "ticker": "ING"
+  },
   "INOV.L": {
     "business_description": "Schroders Capital Global Innovation Trust plc - INOV specializes in investments in startups, midsize, middle market and large stage, early stage and mature stage investments. The fund primarily invests in the\u2026",
     "company_name": "Schroders Capital Global Innovation Trust plc - INOV",
@@ -3703,6 +3833,32 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "JARE"
+  },
+  "JD.L": {
+    "business_description": "JD Sports Fashion Plc engages in the retail of branded sports fashion and outdoor clothing, footwear, accessories, and equipment for women and men in the United Kingdom, Europe, North America, and the Asia Pacific. It\u2026",
+    "company_name": "JD Sports Fashion Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:14.850773+00:00",
+    "market_cap": "3720504832",
+    "market_cap_display": "\u00a33.72bn",
+    "ticker": "JD"
+  },
+  "JDG.L": {
+    "business_description": "Judges Scientific plc designs, manufactures, and sells scientific instruments and services in the United Kingdom and internationally. It operates through two segments, Materials Sciences and Vacuum. The company provides\u2026",
+    "company_name": "Judges Scientific plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JDG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:22.806541+00:00",
+    "market_cap": "252440352",
+    "market_cap_display": "\u00a3252.4m",
+    "ticker": "JDG"
   },
   "JEL.L": {
     "business_description": "Jersey Electricity plc, together with its subsidiaries, engages in the importation, generation, transmission, distribution, and supply of electricity in Jersey. It operates through Energy, Building Services, Retail,\u2026",
@@ -3951,6 +4107,19 @@
     "market_cap_display": "\u00a31.12bn",
     "ticker": "KNOS"
   },
+  "KOO.L": {
+    "business_description": "Kooth plc, together with its subsidiaries, provides digital mental health services to children, young people, and adults in the United Kingdom. It operates online platforms that offers various therapeutic support and\u2026",
+    "company_name": "Kooth plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KOO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:24.107178+00:00",
+    "market_cap": "63870952",
+    "market_cap_display": "\u00a363.9m",
+    "ticker": "KOO"
+  },
   "KP2.L": {
     "business_description": "Kore Potash plc, together with its subsidiaries, engages in the exploration and development of potash minerals in the Republic of Congo. It holds interest in the Sintoukola Potash project that includes the Kola\u2026",
     "company_name": "Kore Potash plc",
@@ -4015,6 +4184,19 @@
     "market_cap": "10740073",
     "market_cap_display": "\u00a310.7m",
     "ticker": "LEND"
+  },
+  "LEX.L": {
+    "business_description": "Lexington Gold Ltd explores for and develops gold projects in the United States and South Africa. It primarily explores for gold, silver, and base metals. Lexington Gold Ltd is headquartered in Hamilton, Bermuda.",
+    "company_name": "Lexington Gold Ltd",
+    "currency": "GBp",
+    "data_source": "yfinance:LEX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:16.839302+00:00",
+    "market_cap": "12557318",
+    "market_cap_display": "\u00a312.6m",
+    "ticker": "LEX"
   },
   "LIT.L": {
     "business_description": "Litigation Capital Management Limited provides litigation finance and risk management services in Australia and the United Kingdom. The company operates in two business models, including direct investments made from\u2026",
@@ -4791,9 +4973,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:17.945354+00:00",
-    "market_cap": "61153276",
-    "market_cap_display": "\u00a361.2m",
+    "last_updated": "2026-09-23T06:48:29.476311+00:00",
+    "market_cap": "80201016",
+    "market_cap_display": "\u00a380.2m",
     "ticker": "OMI"
   },
   "OMU.L": {
@@ -5051,7 +5233,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T18:50:58.230669+00:00",
+    "last_updated": "2026-09-23T06:48:20.797819+00:00",
     "market_cap": "124235216",
     "market_cap_display": "\u00a3124.2m",
     "ticker": "PHAR"
@@ -5094,6 +5276,19 @@
     "market_cap": "525790624",
     "market_cap_display": "\u00a3525.8m",
     "ticker": "PINE"
+  },
+  "PINT.L": {
+    "business_description": "",
+    "company_name": "Pantheon Infrastructure Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:PINT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:16.156803+00:00",
+    "market_cap": "546416704",
+    "market_cap_display": "\u00a3546.4m",
+    "ticker": "PINT"
   },
   "PLAZ.L": {
     "business_description": "Plaza Centers N.V. does not have significant operations. Previously, it was engaged in the establishment, operation, and sale of shopping and entertainment centers, as well as other mixed-use projects. The company was\u2026",
@@ -5719,6 +5914,19 @@
     "market_cap_display": "\u00a31.41bn",
     "ticker": "RSG"
   },
+  "RSW.L": {
+    "business_description": "Renishaw plc, an engineering and scientific technology company, designs, manufactures, distributes, sells, and services technological products and services, and analytical instruments and medical devices worldwide. It\u2026",
+    "company_name": "Renishaw plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RSW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:17.485940+00:00",
+    "market_cap": "4027092480",
+    "market_cap_display": "\u00a34.03bn",
+    "ticker": "RSW"
+  },
   "RTO.L": {
     "business_description": "Rentokil Initial plc, together with its subsidiaries, provides route-based services in North America, Europe, the United Kingdom, Asia, the Middle East, North Africa, Turkey, and Pacific. The company offers a range of\u2026",
     "company_name": "Rentokil Initial plc",
@@ -5992,6 +6200,19 @@
     "market_cap_display": "\u00a313.00bn",
     "ticker": "SGRO"
   },
+  "SIGC.L": {
+    "business_description": "Sherborne Investors (Guernsey) C Limited is an open-ended equity mutual fund. The fund is launched and managed by Sherborne Investors Management (Guernsey) LLC. It invests in the public equity markets. The fund seeks to\u2026",
+    "company_name": "Sherborne Investors (Guernsey) C Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SIGC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:20.146100+00:00",
+    "market_cap": "198865680",
+    "market_cap_display": "\u00a3198.9m",
+    "ticker": "SIGC"
+  },
   "SIHL.L": {
     "business_description": "Symphony International Holdings Limited is a private equity and venture capital firm specializing in investments in early stage, management buy-outs, emerging growth, management buy-ins, restructurings, special\u2026",
     "company_name": "Symphony International Holdings Limited",
@@ -6006,16 +6227,16 @@
     "ticker": "SIHL"
   },
   "SLP.L": {
-    "business_description": "Sylvania Platinum Limited, together with its subsidiaries, operates as a producer of platinum group metals including platinum, palladium, and rhodium, and chrome in South Africa. The company operates through two core\u2026",
+    "business_description": "Sylvania Platinum Limited, together with its subsidiaries, operates as a producer of platinum group metals including platinum, palladium, and rhodium, and chrome in South Africa. It operates through Sylvania Dump\u2026",
     "company_name": "Sylvania Platinum Limited",
     "currency": "GBp",
     "data_source": "yfinance:SLP.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:10.008650+00:00",
-    "market_cap": "221294672",
-    "market_cap_display": "\u00a3221.3m",
+    "last_updated": "2026-09-23T06:48:30.814036+00:00",
+    "market_cap": "253549712",
+    "market_cap_display": "\u00a3253.5m",
     "ticker": "SLP"
   },
   "SMIN.L": {
@@ -6533,9 +6754,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T06:47:23.183797+00:00",
-    "market_cap": "7551490",
-    "market_cap_display": "\u00a37.6m",
+    "last_updated": "2026-09-23T06:48:32.107989+00:00",
+    "market_cap": "7780324",
+    "market_cap_display": "\u00a37.8m",
     "ticker": "TERA"
   },
   "TERN.L": {
@@ -6858,9 +7079,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:28.793776+00:00",
-    "market_cap": "653621376",
-    "market_cap_display": "\u00a3653.6m",
+    "last_updated": "2026-09-23T06:48:32.756089+00:00",
+    "market_cap": "715956864",
+    "market_cap_display": "\u00a3716.0m",
     "ticker": "TUN"
   },
   "TXP.L": {
@@ -7123,6 +7344,19 @@
     "market_cap_display": "\u00a3261.9m",
     "ticker": "VTU"
   },
+  "W7L.L": {
+    "business_description": "Warpaint London PLC, together with its subsidiaries, produces and sells cosmetics. It operates in two segments, Branded and Close-Out. The company offers cosmetic, female beauty, male grooming, self-tan, and skincare\u2026",
+    "company_name": "Warpaint London PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:W7L.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:18.138448+00:00",
+    "market_cap": "178461600",
+    "market_cap_display": "\u00a3178.5m",
+    "ticker": "W7L"
+  },
   "WINK.L": {
     "business_description": "M Winkworth PLC operates as a franchisor to the Winkworth estate agencies in the United Kingdom. The company offers estate agency sales franchising, residential letting, and property management, and other business\u2026",
     "company_name": "M Winkworth PLC",
@@ -7148,6 +7382,19 @@
     "market_cap": "388342400",
     "market_cap_display": "\u00a3388.3m",
     "ticker": "WIX"
+  },
+  "WKP.L": {
+    "business_description": "Workspace Group Plc is London's leading owner and operator of flexible workspace, currently managing 3.8 million sq. ft. of sustainable space at 50+ locations in London and the Southeast. They are home to nearly 4,000\u2026",
+    "company_name": "Workspace Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WKP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:34.063882+00:00",
+    "market_cap": "697387968",
+    "market_cap_display": "\u00a3697.4m",
+    "ticker": "WKP"
   },
   "WNX.L": {
     "business_description": "Wellnex Life Limited, together with its subsidiaries, develops, markets, and sells health and wellness products in Australia and New Zealand. It offers topical anti-inflammatory creams, sprays, and roll-ons for the\u2026",
@@ -7291,5 +7538,18 @@
     "market_cap": "33130374",
     "market_cap_display": "\u00a333.1m",
     "ticker": "ZEN"
+  },
+  "ZIN.L": {
+    "business_description": "Zinc Media Group plc, together with its subsidiaries, produces television and cross-platform content in the United Kingdom and internationally. The company operates through Television and Content Production segments. It\u2026",
+    "company_name": "Zinc Media Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ZIN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-23T06:48:22.159425+00:00",
+    "market_cap": "16874750",
+    "market_cap_display": "\u00a316.9m",
+    "ticker": "ZIN"
   }
 }
