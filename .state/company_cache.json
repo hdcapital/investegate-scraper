@@ -436,9 +436,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:20.640454+00:00",
-    "market_cap": "55869300",
-    "market_cap_display": "\u00a355.9m",
+    "last_updated": "2026-09-24T18:51:05.345315+00:00",
+    "market_cap": "56252348",
+    "market_cap_display": "\u00a356.3m",
     "ticker": "AIC"
   },
   "AIRE.L": {
@@ -709,9 +709,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:06.888596+00:00",
-    "market_cap": "55997968",
-    "market_cap_display": "\u00a356.0m",
+    "last_updated": "2026-09-24T18:51:03.326462+00:00",
+    "market_cap": "12331512",
+    "market_cap_display": "\u00a312.3m",
     "ticker": "ARS"
   },
   "ART.L": {
@@ -859,15 +859,15 @@
   },
   "ATR.L": {
     "business_description": "Schroders Investment Trusts - Schroder Asian Total Return Investment Company plc is a closed ended equity mutual fund launched by Schroder Unit Trusts Limited. The fund is co-managed by Schroder Investment Management\u2026",
-    "company_name": "Schroder Asian Total Return Inv. Company",
+    "company_name": "Schroders Investment Trusts - Schroder Asian Total Return Investment Company plc",
     "currency": "GBp",
     "data_source": "yfinance:ATR.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:11.978445+00:00",
-    "market_cap": "638792064",
-    "market_cap_display": "\u00a3638.8m",
+    "last_updated": "2026-09-24T18:51:04.697583+00:00",
+    "market_cap": "669457024",
+    "market_cap_display": "\u00a3669.5m",
     "ticker": "ATR"
   },
   "AURR.L": {
@@ -1450,9 +1450,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T06:48:22.340628+00:00",
-    "market_cap": "40299444",
-    "market_cap_display": "\u00a340.3m",
+    "last_updated": "2026-09-24T18:51:06.041948+00:00",
+    "market_cap": "38258964",
+    "market_cap_display": "\u00a338.3m",
     "ticker": "BVC"
   },
   "BYG.L": {
@@ -1871,6 +1871,19 @@
     "market_cap_display": "\u00a3968.6m",
     "ticker": "CORD"
   },
+  "CPH2.L": {
+    "business_description": "Clean Power Hydrogen plc, a green hydrogen technology and manufacturing company, engages in the development of hydrogen and oxygen production solutions. The company also provides membrane-free electrolyser technology,\u2026",
+    "company_name": "Clean Power Hydrogen plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CPH2.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T18:51:02.670384+00:00",
+    "market_cap": "12658774",
+    "market_cap_display": "\u00a312.7m",
+    "ticker": "CPH2"
+  },
   "CRCL.L": {
     "business_description": "Corcel Plc, together with its subsidiaries, engages in the development of battery metals and exploration and production of oil and gas projects in the United Kingdom. The company owns a 41% interest in the Mambare\u2026",
     "company_name": "Corcel Plc",
@@ -1948,6 +1961,19 @@
     "market_cap": "24287192",
     "market_cap_display": "\u00a324.3m",
     "ticker": "CTA"
+  },
+  "CTG.L": {
+    "business_description": "Christie Group plc, together with its subsidiaries, engages in the provision of professional services for hotel, hospitality, leisure, healthcare, pharmacy, dental, childcare and education, and retail sectors in Europe\u2026",
+    "company_name": "Christie Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CTG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T18:51:06.736462+00:00",
+    "market_cap": "48438296",
+    "market_cap_display": "\u00a348.4m",
+    "ticker": "CTG"
   },
   "CTHT.L": {
     "business_description": "CT Healthcare Trust PLC is a closed ended equity mutual fund launched by Bellevue Asset Management AG. The fund is managed by Bellevue Advisors Limited. It invests in public equity markets across the globe. The fund\u2026",
@@ -5753,7 +5779,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T18:50:19.849807+00:00",
+    "last_updated": "2026-09-24T18:51:04.026250+00:00",
     "market_cap": "9353284",
     "market_cap_display": "\u00a39.4m",
     "ticker": "RBD"
@@ -7729,7 +7755,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:17.345916+00:00",
+    "last_updated": "2026-09-24T18:51:02.009789+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
