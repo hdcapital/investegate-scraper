@@ -202,9 +202,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:48:56.294430+00:00",
-    "market_cap": "38126512",
-    "market_cap_display": "\u00a338.1m",
+    "last_updated": "2026-09-24T06:48:17.418692+00:00",
+    "market_cap": "58966856",
+    "market_cap_display": "\u00a359.0m",
     "ticker": "80M"
   },
   "87UO.L": {
@@ -584,6 +584,19 @@
     "market_cap_display": "\u00a337.2m",
     "ticker": "AMGO"
   },
+  "AMIF.L": {
+    "business_description": "Amicorp FS (UK) plc provides fund administration, business process outsourcing, and governance and compliance services in Curacao, Bahamas, the United Arab Emirates, Barbados, Chile, Brazil, the United Kingdom, Mexico,\u2026",
+    "company_name": "Amicorp FS (UK) plc",
+    "currency": "USD",
+    "data_source": "yfinance:AMIF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:11.555403+00:00",
+    "market_cap": "87497744",
+    "market_cap_display": "$87.5m",
+    "ticker": "AMIF"
+  },
   "AMP.L": {
     "business_description": "AMPEAK ENERGY LIMITED engages in developing, building, owning, and operating energy projects in the United Kingdom. The company operates through four segments: Project Development, Tidal, Battery Storage, and Corporate.\u2026",
     "company_name": "AMPEAK ENERGY LIMITED",
@@ -726,6 +739,19 @@
     "market_cap": "247453568",
     "market_cap_display": "\u00a3247.5m",
     "ticker": "ASAI"
+  },
+  "ASC.L": {
+    "business_description": "ASOS Plc, together with its subsidiaries, operates as an online fashion retailer in the United Kingdom, the European Union, the United States, and internationally. The company sells fashion products under the ASOS\u2026",
+    "company_name": "ASOS Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ASC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:10.912538+00:00",
+    "market_cap": "514489536",
+    "market_cap_display": "\u00a3514.5m",
+    "ticker": "ASC"
   },
   "ASHM.L": {
     "business_description": "Ashmore Group plc is a publicly owned investment manager. The firm primarily provides its services to retail and institutional clients. It manages separate client-focused equity and fixed income portfolios. The firm\u2026",
@@ -1281,7 +1307,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:47.534846+00:00",
+    "last_updated": "2026-09-24T06:48:04.391556+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "BPCP"
@@ -1350,6 +1376,19 @@
     "market_cap": "191077472",
     "market_cap_display": "\u00a3191.1m",
     "ticker": "BSC"
+  },
+  "BSRT.L": {
+    "business_description": "Baker Steel Resources Trust Ltd. is a fund of Baker Steel Capital Managers LLP.",
+    "company_name": "Baker Steel Resources Trust Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:BSRT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:06.380368+00:00",
+    "market_cap": "148385728",
+    "market_cap_display": "\u00a3148.4m",
+    "ticker": "BSRT"
   },
   "BSV.L": {
     "business_description": "British Smaller Companies VCT plc is an evergreen fund and a venture capital trust specializing in private equity and venture capital investments with a focus on early stage, mid and late venture, later stage,\u2026",
@@ -1775,9 +1814,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T06:47:30.805485+00:00",
-    "market_cap": "49940056",
-    "market_cap_display": "\u00a349.9m",
+    "last_updated": "2026-09-24T06:48:16.772285+00:00",
+    "market_cap": "43547872",
+    "market_cap_display": "\u00a343.5m",
     "ticker": "COBR"
   },
   "COG.L": {
@@ -1975,6 +2014,19 @@
     "market_cap_display": "\u00a32.97bn",
     "ticker": "CTY"
   },
+  "CVSG.L": {
+    "business_description": "CVS Group plc, together with its subsidiaries, engages in veterinary, online pharmacy, and retail businesses in the United Kingdom and Australia. It operates through the Veterinary Practices, Laboratories, and Online\u2026",
+    "company_name": "CVS Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CVSG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:02.466568+00:00",
+    "market_cap": "880351616",
+    "market_cap_display": "\u00a3880.4m",
+    "ticker": "CVSG"
+  },
   "CWR.L": {
     "business_description": "Ceres Power Holdings plc engages in the development and commercialization of fuel cell and electrochemical technology in Europe, Asia, and North America. The company offers cell, stack, and factory; power system and\u2026",
     "company_name": "Ceres Power Holdings plc",
@@ -2013,6 +2065,19 @@
     "market_cap": "165880768",
     "market_cap_display": "\u00a3165.9m",
     "ticker": "CYN"
+  },
+  "DAR.L": {
+    "business_description": "Dar Global PLC, together with its subsidiaries, engages in the investment, development, management, leasing, and selling of residential and non-residential real estate projects in the United Kingdom and internationally.\u2026",
+    "company_name": "Dar Global PLC",
+    "currency": "USD",
+    "data_source": "yfinance:DAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:09.625548+00:00",
+    "market_cap": "1368164224",
+    "market_cap_display": "$1.37bn",
+    "ticker": "DAR"
   },
   "DATA.L": {
     "business_description": "GlobalData Plc, together with its subsidiaries, operates as a data, insight, and technology company in Europe, North America, and the Asia Pacific. It operates in two segments: Data, Analytics and Insights: Healthcare;\u2026",
@@ -2092,6 +2157,19 @@
     "market_cap_display": "\u00a3127.3m",
     "ticker": "DFCH"
   },
+  "DFS.L": {
+    "business_description": "DFS Furniture plc designs, manufactures, delivers, installs, and retails upholstered furniture in the United Kingdom and the Republic of Ireland. The company retails sofas under the DFS and Sofology brand names. It\u2026",
+    "company_name": "DFS Furniture plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DFS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:03.753731+00:00",
+    "market_cap": "335695072",
+    "market_cap_display": "\u00a3335.7m",
+    "ticker": "DFS"
+  },
   "DGE.L": {
     "business_description": "Diageo plc, together with its subsidiaries, engages in the production, marketing, and distribution of alcoholic beverages in North America, Europe, the Asia Pacific, Latin America and Caribbean, and Africa. It offers\u2026",
     "company_name": "Diageo plc",
@@ -2156,6 +2234,19 @@
     "market_cap": "11410629",
     "market_cap_display": "\u00a311.4m",
     "ticker": "DNM"
+  },
+  "DOCS.L": {
+    "business_description": "Dr. Martens plc engages in the design, development, procurement, marketing, sale, and distribution of footwear. The company sells its footwear under the Dr. Martens brand name in Europe, the Middle East, Africa, the\u2026",
+    "company_name": "Dr. Martens plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DOCS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:20.016102+00:00",
+    "market_cap": "642235136",
+    "market_cap_display": "\u00a3642.2m",
+    "ticker": "DOCS"
   },
   "DPP.L": {
     "business_description": "DP Poland Plc, together with its subsidiaries, develops, operates, and sub-franchises Domino's Pizza stores in Poland and Croatia. It operates through two segments Corporate Store Sales and Commissary Operations. The\u2026",
@@ -2295,9 +2386,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:47:59.507752+00:00",
-    "market_cap": "320838560",
-    "market_cap_display": "\u00a3320.8m",
+    "last_updated": "2026-09-24T06:48:21.304324+00:00",
+    "market_cap": "269209344",
+    "market_cap_display": "\u00a3269.2m",
     "ticker": "EEE"
   },
   "EGL.L": {
@@ -2451,9 +2542,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:44.685236+00:00",
-    "market_cap": "13144740",
-    "market_cap_display": "\u00a313.1m",
+    "last_updated": "2026-09-24T06:48:03.110928+00:00",
+    "market_cap": "13564253",
+    "market_cap_display": "\u00a313.6m",
     "ticker": "EMVC"
   },
   "ENOG.L": {
@@ -2594,9 +2685,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:12.609370+00:00",
-    "market_cap": "24712577024",
-    "market_cap_display": "\u00a324.71bn",
+    "last_updated": "2026-09-24T06:48:19.382437+00:00",
+    "market_cap": "23638982656",
+    "market_cap_display": "\u00a323.64bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -2717,16 +2808,16 @@
     "ticker": "FEVR"
   },
   "FIH.L": {
-    "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism shipping, and fishing agency services in the Falkland Islands and the United Kingdom. It is involved in the retail of\u2026",
+    "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism, shipping, and cruise ship agency services in the Falkland Islands and the United Kingdom. It is involved in the\u2026",
     "company_name": "FIH group plc",
     "currency": "GBp",
     "data_source": "yfinance:FIH.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:36.864710+00:00",
-    "market_cap": "22848816",
-    "market_cap_display": "\u00a322.8m",
+    "last_updated": "2026-09-24T06:48:16.091850+00:00",
+    "market_cap": "18967648",
+    "market_cap_display": "\u00a319.0m",
     "ticker": "FIH"
   },
   "FIN.L": {
@@ -2854,9 +2945,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:39.913313+00:00",
-    "market_cap": "294038400",
-    "market_cap_display": "\u00a3294.0m",
+    "last_updated": "2026-09-24T06:48:13.533200+00:00",
+    "market_cap": "286625664",
+    "market_cap_display": "\u00a3286.6m",
     "ticker": "FRP"
   },
   "FSFL.L": {
@@ -3400,9 +3491,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:44.954863+00:00",
-    "market_cap": "1586054272",
-    "market_cap_display": "\u00a31.59bn",
+    "last_updated": "2026-09-24T06:48:20.661343+00:00",
+    "market_cap": "1885883776",
+    "market_cap_display": "\u00a31.89bn",
     "ticker": "HCM"
   },
   "HEAD.L": {
@@ -3470,6 +3561,19 @@
     "market_cap_display": "$48.95bn",
     "ticker": "HHPD"
   },
+  "HLMA.L": {
+    "business_description": "Halma plc, together with its subsidiaries, provides technology solutions in the safety, health, and environmental markets in the United States, Mainland Europe, the United Kingdom, the Asia Pacific, Africa, the Middle\u2026",
+    "company_name": "Halma plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HLMA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:15.454168+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "HLMA"
+  },
   "HOC.L": {
     "business_description": "Hochschild Mining plc, a precious metals company, engages in the exploration, mining, processing, and sale of gold and silver deposits. The company's flagship asset includes the 100% owned Inmaculada gold and silver\u2026",
     "company_name": "Hochschild Mining plc",
@@ -3508,6 +3612,19 @@
     "market_cap": "265864577024",
     "market_cap_display": "\u00a3265.86bn",
     "ticker": "HSBA"
+  },
+  "HSD.L": {
+    "business_description": "Hansard Global plc engages in the distribution and servicing of long-term investment products in the Isle of Man, the Bahamas, the Republic of Ireland, Malaysia, Japan, and the United Arab Emirates. Its key products\u2026",
+    "company_name": "Hansard Global plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HSD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:08.981624+00:00",
+    "market_cap": "68955256",
+    "market_cap_display": "\u00a369.0m",
+    "ticker": "HSD"
   },
   "HSP.L": {
     "business_description": "Hargreaves Services Plc provides environmental and industrial services in the United Kingdom, Europe, Hong Kong, and internationally. It operates through Services, Hargreaves Land, and Hargreaves Raw Materials Services\u2026",
@@ -3638,6 +3755,19 @@
     "market_cap": "41458528",
     "market_cap_display": "\u00a341.5m",
     "ticker": "IFRX"
+  },
+  "IGC.L": {
+    "business_description": "India Capital Growth Fund Limited is a close-ended equity mutual fund launched and managed by Ocean Dial Asset Management Limited. The fund invests in the public equity markets of India. It seeks to invest in stocks of\u2026",
+    "company_name": "India Capital Growth Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:IGC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:07.701988+00:00",
+    "market_cap": "115516120",
+    "market_cap_display": "\u00a3115.5m",
+    "ticker": "IGC"
   },
   "IGG.L": {
     "business_description": "IG Group Holdings plc, a fintech company, engages in the online trading and investments business in the United Kingdom, Ireland, the Asia-Pacific, the Middle East, the United States, Europe, and institutional and\u2026",
@@ -4236,6 +4366,19 @@
     "market_cap": "1980218",
     "market_cap_display": "\u00a32.0m",
     "ticker": "LIT"
+  },
+  "LIVE.L": {
+    "business_description": "",
+    "company_name": "Living REIT plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LIVE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:05.741200+00:00",
+    "market_cap": "345596448",
+    "market_cap_display": "\u00a3345.6m",
+    "ticker": "LIVE"
   },
   "LMP.L": {
     "business_description": "LondonMetric Property Plc is the UK's leading triple net lease REIT with a 8 billion pounds portfolio. It is aligned to structurally supported sectors of logistics, healthcare, convenience, entertainment and leisure. It\u2026",
@@ -5914,6 +6057,19 @@
     "market_cap_display": "\u00a33.38bn",
     "ticker": "ROSE"
   },
+  "RPI.L": {
+    "business_description": "Raspberry Pi Holdings plc designs and develops single-board computers, compute module, and semiconductors in the United Kingdom, Europe, the United States, Asia Pacific, and internationally. The company provides\u2026",
+    "company_name": "Raspberry Pi Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RPI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:07.024223+00:00",
+    "market_cap": "1223023232",
+    "market_cap_display": "\u00a31.22bn",
+    "ticker": "RPI"
+  },
   "RSE.L": {
     "business_description": "Riverstone Energy Limited is a private equity/ buyouts fund. The fund prefers to invest through buyout. It prefers to make investments in energy companies focusing decarbonization, midstream exploration, production,\u2026",
     "company_name": "Riverstone Energy Limited",
@@ -5965,6 +6121,19 @@
     "market_cap": "7996610560",
     "market_cap_display": "\u00a38.00bn",
     "ticker": "RTO"
+  },
+  "RWS.L": {
+    "business_description": "RWS Holdings plc engages in the provision of artificial intelligence (AI) solutions in the United States, the United Kingdom, continental Europe, and internationally. The company operates through three segments:\u2026",
+    "company_name": "RWS Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RWS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:18.089649+00:00",
+    "market_cap": "482512320",
+    "market_cap_display": "\u00a3482.5m",
+    "ticker": "RWS"
   },
   "S32.L": {
     "business_description": "South32 Limited operates as a diversified metals and mining company. The company operates through Worsley Alumina, Brazil Alumina, Brazil Aluminium, Hillside Aluminium, Mozal Aluminium, Sierra Gorda, Cannington,\u2026",
@@ -6057,6 +6226,19 @@
     "market_cap_display": "\u00a3154.5m",
     "ticker": "SAV"
   },
+  "SBAR.L": {
+    "business_description": "Sundae Bar AI PLC develops and operates a commercial platform for artificial intelligence (AI) agents in global markets. The company offers a generalist AI agent designed to execute real business work across functions.\u2026",
+    "company_name": "Sundae Bar AI PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:SBAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:18.736358+00:00",
+    "market_cap": "18363336",
+    "market_cap_display": "\u00a318.4m",
+    "ticker": "SBAR"
+  },
   "SBTX.L": {
     "business_description": "SkinBioTherapeutics plc, a life science company, engages in research and development, and commercialization of technology that harnesses the microbiome for human health in the United Kingdom, the United States, Europe,\u2026",
     "company_name": "SkinBioTherapeutics plc",
@@ -6091,9 +6273,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:08.329066+00:00",
-    "market_cap": "101973584",
-    "market_cap_display": "\u00a3102.0m",
+    "last_updated": "2026-09-24T06:48:14.814275+00:00",
+    "market_cap": "131597472",
+    "market_cap_display": "\u00a3131.6m",
     "ticker": "SCLP"
   },
   "SCT.L": {
@@ -6707,6 +6889,19 @@
     "market_cap_display": "\u00a3678.8m",
     "ticker": "SYNC"
   },
+  "SYS1.L": {
+    "business_description": "System1 Group PLC, together with its subsidiaries, provides market research data and insight services in the United States, Latin America, the United Kingdom, rest of Europe, and the Asia Pacific. The company offers\u2026",
+    "company_name": "System1 Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:SYS1.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:14.170669+00:00",
+    "market_cap": "42508396",
+    "market_cap_display": "\u00a342.5m",
+    "ticker": "SYS1"
+  },
   "TAM.L": {
     "business_description": "Tatton Asset Management plc, through its subsidiaries, engages in the provision of discretionary fund management of investment on-platform and investment wrap services in the United Kingdom. It operates in two segments,\u2026",
     "company_name": "Tatton Asset Management plc",
@@ -6732,6 +6927,32 @@
     "market_cap": "7818400",
     "market_cap_display": "\u00a37.8m",
     "ticker": "TAP"
+  },
+  "TAVI.L": {
+    "business_description": "Tavistock Investments Plc, together with its subsidiaries, provides financial advisory and investment management services in the United Kingdom. The company offers wealth and portfolio management services; and life\u2026",
+    "company_name": "Tavistock Investments Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TAVI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:08.341721+00:00",
+    "market_cap": "12786977",
+    "market_cap_display": "\u00a312.8m",
+    "ticker": "TAVI"
+  },
+  "TBLD.L": {
+    "business_description": "tinyBuild, Inc. engages in the development and publishing of video games in the United States and internationally. The company offers various games for PC, console, PlayStation, Xbox, mobile, and VR. It also organizes\u2026",
+    "company_name": "tinyBuild, Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:TBLD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:12.863986+00:00",
+    "market_cap": "58992260",
+    "market_cap_display": "\u00a359.0m",
+    "ticker": "TBLD"
   },
   "TBTG.L": {
     "business_description": "The Beauty Tech Group plc, together with its subsidiaries, provides at-home beauty devices in the United States, Canada, the United Kingdom, Ireland, Europe, Asia, and internationally. The company offers LED light\u2026",
@@ -7313,9 +7534,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:40.769489+00:00",
-    "market_cap": "757387840",
-    "market_cap_display": "\u00a3757.4m",
+    "last_updated": "2026-09-24T06:48:12.226507+00:00",
+    "market_cap": "853836992",
+    "market_cap_display": "\u00a3853.8m",
     "ticker": "VCT"
   },
   "VID.L": {
@@ -7382,6 +7603,19 @@
     "market_cap": "261869008",
     "market_cap_display": "\u00a3261.9m",
     "ticker": "VTU"
+  },
+  "VTY.L": {
+    "business_description": "Vistry Group PLC, together with its subsidiaries, provides housing solutions in the United Kingdom. It offers single family housing models. The company was formerly known as Bovis Homes Group PLC and changed its name to\u2026",
+    "company_name": "Vistry Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:VTY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:05.062180+00:00",
+    "market_cap": "851144960",
+    "market_cap_display": "\u00a3851.1m",
+    "ticker": "VTY"
   },
   "W7L.L": {
     "business_description": "Warpaint London PLC, together with its subsidiaries, produces and sells cosmetics. It operates in two segments, Branded and Close-Out. The company offers cosmetic, female beauty, male grooming, self-tan, and skincare\u2026",
@@ -7564,6 +7798,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "ZCC"
+  },
+  "ZEG.L": {
+    "business_description": "Zegona Communications plc engages in the provision of integrated telecommunications services in Spain. The company offers broadband, mobile, TV, voice, data, and other value-added products and services. It serves\u2026",
+    "company_name": "Zegona Communications plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ZEG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-24T06:48:10.272418+00:00",
+    "market_cap": "3991417344",
+    "market_cap_display": "\u00a33.99bn",
+    "ticker": "ZEG"
   },
   "ZEN.L": {
     "business_description": "Zenith Energy Ltd., together with its subsidiaries, engages in the exploration, development, and production of oil and natural gas assets in Tunisia, Italy, the United States, and internationally. It is also involved in\u2026",
