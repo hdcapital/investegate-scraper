@@ -363,6 +363,19 @@
     "market_cap_display": "\u00a3222.7m",
     "ticker": "ADVT"
   },
+  "AEET.L": {
+    "business_description": "",
+    "company_name": "Parvus Energy Efficiency Trust",
+    "currency": "GBp",
+    "data_source": "yfinance:AEET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:38.335652+00:00",
+    "market_cap": "19626624",
+    "market_cap_display": "\u00a319.6m",
+    "ticker": "AEET"
+  },
   "AEG.L": {
     "business_description": "Active Energy Group Plc does not have significant operations. Previously, the company was engaged in the development and production of CoalSwitch, a renewable biomass fuel. The company was formerly known as Cinpart plc\u2026",
     "company_name": "Active Energy Group Plc",
@@ -402,6 +415,19 @@
     "market_cap_display": "\u00a3771.0m",
     "ticker": "AEP"
   },
+  "AERI.L": {
+    "business_description": "",
+    "company_name": "Aquila European Renewables Ord",
+    "currency": "EUR",
+    "data_source": "yfinance:AERI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:36.308941+00:00",
+    "market_cap": "65415128",
+    "market_cap_display": "\u20ac65.4m",
+    "ticker": "AERI"
+  },
   "AET.L": {
     "business_description": "Afentra plc, together with its subsidiaries, operates as an upstream oil and gas company primarily in Africa. he company is involved in the appraisal, exploration, development, and production of oil and gas. It holds 34\u2026",
     "company_name": "Afentra plc",
@@ -427,6 +453,19 @@
     "market_cap": "167877888",
     "market_cap_display": "\u00a3167.9m",
     "ticker": "AEWU"
+  },
+  "AEX.L": {
+    "business_description": "Aminex PLC, together with its subsidiaries, engages in the exploration, appraisal, development, and production of oil and gas assets, reserves, and resources. It operates through Producing Oil and Gas Properties,\u2026",
+    "company_name": "Aminex PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:AEX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:44.128788+00:00",
+    "market_cap": "91942520",
+    "market_cap_display": "\u00a391.9m",
+    "ticker": "AEX"
   },
   "AIC.L": {
     "business_description": "Achilles Investment Company Limited invests in the shares of closed-ended investment companies. The company was incorporated in 2025 and is based in St Peter Port, Guernsey.",
@@ -1021,9 +1060,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:16.582898+00:00",
-    "market_cap": "94219000",
-    "market_cap_display": "\u00a394.2m",
+    "last_updated": "2026-09-25T06:47:42.214100+00:00",
+    "market_cap": "88403016",
+    "market_cap_display": "\u00a388.4m",
     "ticker": "BBSN"
   },
   "BEM.L": {
@@ -1077,6 +1116,19 @@
     "market_cap": "162755600",
     "market_cap_display": "\u00a3162.8m",
     "ticker": "BGCG"
+  },
+  "BGO.L": {
+    "business_description": "Bango PLC, together with its subsidiaries, develops, markets, and sells technology that enables the marketing and sale of products and services to mobile phone users. It operates through two segments, Payment and\u2026",
+    "company_name": "Bango PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BGO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:41.578683+00:00",
+    "market_cap": "47387488",
+    "market_cap_display": "\u00a347.4m",
+    "ticker": "BGO"
   },
   "BGS.L": {
     "business_description": "",
@@ -1775,9 +1827,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:32.038503+00:00",
-    "market_cap": "263676768",
-    "market_cap_display": "\u00a3263.7m",
+    "last_updated": "2026-09-25T06:47:37.629847+00:00",
+    "market_cap": "271230016",
+    "market_cap_display": "\u00a3271.2m",
     "ticker": "CNE"
   },
   "CNS.L": {
@@ -3036,9 +3088,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:04.722815+00:00",
-    "market_cap": "168163568",
-    "market_cap_display": "\u00a3168.2m",
+    "last_updated": "2026-09-25T06:47:36.956062+00:00",
+    "market_cap": "297274240",
+    "market_cap_display": "\u00a3297.3m",
     "ticker": "FXPO"
   },
   "GABI.L": {
@@ -3088,9 +3140,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:28.760228+00:00",
-    "market_cap": "1016249088",
-    "market_cap_display": "\u00a31.02bn",
+    "last_updated": "2026-09-25T06:47:40.264845+00:00",
+    "market_cap": "998420160",
+    "market_cap_display": "\u00a3998.4m",
     "ticker": "GAMA"
   },
   "GDWN.L": {
@@ -3535,6 +3587,19 @@
     "market_cap_display": "\u00a38.4m",
     "ticker": "HEAD"
   },
+  "HEX.L": {
+    "business_description": "Helix Exploration PLC, a helium exploration company, engages in the development and exploitation of small-scale gas leases. It holds interests in the Rudyard project and the Ingomar Dome project located in Montana,\u2026",
+    "company_name": "Helix Exploration PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:HEX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:49.929993+00:00",
+    "market_cap": "63842448",
+    "market_cap_display": "\u00a363.8m",
+    "ticker": "HEX"
+  },
   "HFG.L": {
     "business_description": "Hilton Food Group plc, together with its subsidiaries, engages in the multi-protein food business. The company offers meat products; seafood products, such as smoked salmon, wet fish, shellfish, coated fish, and fish\u2026",
     "company_name": "Hilton Food Group plc",
@@ -3712,9 +3777,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:07.179532+00:00",
-    "market_cap": "574996288",
-    "market_cap_display": "\u00a3575.0m",
+    "last_updated": "2026-09-25T06:47:43.492988+00:00",
+    "market_cap": "578181760",
+    "market_cap_display": "\u00a3578.2m",
     "ticker": "HWG"
   },
   "ICFG.L": {
@@ -3807,6 +3872,19 @@
     "market_cap": "4486324224",
     "market_cap_display": "\u00a34.49bn",
     "ticker": "IGG"
+  },
+  "IGR.L": {
+    "business_description": "IG Design Group plc engages in the design, production, and distribution of gift packaging, arty, goods not for resale, craft, stationery, and homeware consumable products in the United Kingdom, Europe, and Australia.\u2026",
+    "company_name": "IG Design Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IGR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:47.974707+00:00",
+    "market_cap": "81595576",
+    "market_cap_display": "\u00a381.6m",
+    "ticker": "IGR"
   },
   "IHC.L": {
     "business_description": "Inspiration Healthcare Group plc designs, manufactures, and sells medical technology products worldwide. The company offers products for acute care comprising developmental and intensive care, monitoring, neonatal,\u2026",
@@ -4080,6 +4158,19 @@
     "market_cap": "79461256",
     "market_cap_display": "\u00a379.5m",
     "ticker": "JLP"
+  },
+  "JMGI.L": {
+    "business_description": "",
+    "company_name": "JPMorgan Emerging Markets Growth & Income plc.",
+    "currency": "GBp",
+    "data_source": "yfinance:JMGI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:38.978759+00:00",
+    "market_cap": "1587611392",
+    "market_cap_display": "\u00a31.59bn",
+    "ticker": "JMGI"
   },
   "JNEO.L": {
     "business_description": "Journeo plc provides solutions to the transport community that captures, processes, and displays essential information to enhance journeys in the United Kingdom and internationally. The company operates through the\u2026",
@@ -4744,6 +4835,19 @@
     "market_cap_display": "\u00a32.47bn",
     "ticker": "MNKS"
   },
+  "MNTN.L": {
+    "business_description": "The Schiehallion Fund Limited specializes in growth capital and later stage investments. The fund seeks to invest in private businesses which have the potential of trading on a public stock exchange. The fund prefers to\u2026",
+    "company_name": "The Schiehallion Fund Limited",
+    "currency": "USD",
+    "data_source": "yfinance:MNTN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:39.621605+00:00",
+    "market_cap": "2236158976",
+    "market_cap_display": "$2.24bn",
+    "ticker": "MNTN"
+  },
   "MODE.L": {
     "business_description": "R8 Capital Investments plc does not have significant operations. It intends to identify and complete an acquisition or reverse merger as an LSE-listed cash shell. Previously, it was involved in the crypto-related\u2026",
     "company_name": "R8 Capital Investments plc",
@@ -4821,6 +4925,19 @@
     "market_cap": "5522846",
     "market_cap_display": "\u00a35.5m",
     "ticker": "MPL"
+  },
+  "MPO.L": {
+    "business_description": "Macau Property Opportunities Fund Limited is a closed-end investment company registered in Guernsey and is the only quoted property fund dedicated to investing in Macau, the world's leading gaming market and the only\u2026",
+    "company_name": "Macau Property Opportunities Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:MPO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:46.054759+00:00",
+    "market_cap": "3169081",
+    "market_cap_display": "\u00a33.2m",
+    "ticker": "MPO"
   },
   "MRCH.L": {
     "business_description": "",
@@ -5458,6 +5575,19 @@
     "market_cap": "885000192",
     "market_cap_display": "\u00a3885.0m",
     "ticker": "PHI"
+  },
+  "PIN.L": {
+    "business_description": "",
+    "company_name": "Pantheon International Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:PIN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:48.650957+00:00",
+    "market_cap": "1419363968",
+    "market_cap_display": "\u00a31.42bn",
+    "ticker": "PIN"
   },
   "PINE.L": {
     "business_description": "Pinewood Technologies Group PLC operates as a cloud-based dealer management software provider in the United Kingdom, rest of Europe, Africa, Asia, the Middle East, and internationally. The company primarily offers\u2026",
@@ -6382,6 +6512,19 @@
     "market_cap_display": "\u00a3120.5m",
     "ticker": "SEI"
   },
+  "SEIT.L": {
+    "business_description": "",
+    "company_name": "SDCL Efficiency Income Trust plc.",
+    "currency": "GBp",
+    "data_source": "yfinance:SEIT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:47.330923+00:00",
+    "market_cap": "395635424",
+    "market_cap_display": "\u00a3395.6m",
+    "ticker": "SEIT"
+  },
   "SERE.L": {
     "business_description": "",
     "company_name": "Schroder European Real Estate Inv Trust",
@@ -6507,9 +6650,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:47.663211+00:00",
-    "market_cap": "140938800",
-    "market_cap_display": "\u00a3140.9m",
+    "last_updated": "2026-09-25T06:47:40.933874+00:00",
+    "market_cap": "146576352",
+    "market_cap_display": "\u00a3146.6m",
     "ticker": "SML"
   },
   "SMWH.L": {
@@ -6689,10 +6832,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:40.688957+00:00",
-    "market_cap": "1875026",
-    "market_cap_display": "\u00a31.9m",
+    "last_updated": "2026-09-25T06:47:50.575136+00:00",
+    "market_cap": "1668727",
+    "market_cap_display": "\u00a31.7m",
     "ticker": "SRES"
+  },
+  "SSTY.L": {
+    "business_description": "Safestay plc, together with its subsidiaries, develops and operates hostels under the Safestay brand in the United Kingdom, Spain, and the rest of Europe. It also provides ancillary goods and services, such as food,\u2026",
+    "company_name": "Safestay plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SSTY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:46.690678+00:00",
+    "market_cap": "8116926",
+    "market_cap_display": "\u00a38.1m",
+    "ticker": "SSTY"
   },
   "STAR.L": {
     "business_description": "Star Energy Group Plc engages in the exploration, development, processing, and production of oil and gas in the United Kingdom. The company holds gas and oil reserves at onshore locations in the East Midlands; and the\u2026",
@@ -6845,9 +7001,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:36.895669+00:00",
-    "market_cap": "175469632",
-    "market_cap_display": "\u00a3175.5m",
+    "last_updated": "2026-09-25T06:47:44.779855+00:00",
+    "market_cap": "172189824",
+    "market_cap_display": "\u00a3172.2m",
     "ticker": "SVML"
   },
   "SVNS.L": {
@@ -7213,6 +7369,19 @@
     "market_cap": "100753744",
     "market_cap_display": "$100.8m",
     "ticker": "TMT"
+  },
+  "TND.L": {
+    "business_description": "Tandem Group plc designs, develops, distributes, and retails of sports, leisure, and mobility products in the United Kingdom. It operates in four segments: Toy, Sports & Leisure, Bicycles, and Home & Garden. The company\u2026",
+    "company_name": "Tandem Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TND.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:42.856445+00:00",
+    "market_cap": "9931875",
+    "market_cap_display": "\u00a39.9m",
+    "ticker": "TND"
   },
   "TOO.L": {
     "business_description": "Tooru Plc focuses on the health and wellness sector. It provides gluten-free food products through its brand. Tooru Plc is based in London, United Kingdom.",
@@ -7720,6 +7889,19 @@
     "market_cap": "26032744",
     "market_cap_display": "\u00a326.0m",
     "ticker": "WPHO"
+  },
+  "WSP.L": {
+    "business_description": "Wynnstay Properties Plc engages in the investment, development, and management of properties in the United Kingdom. The company operates through the Industrial, Retail, and Office segments. Its portfolio owns and\u2026",
+    "company_name": "Wynnstay Properties Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WSP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T06:47:49.295998+00:00",
+    "market_cap": "24269552",
+    "market_cap_display": "\u00a324.3m",
+    "ticker": "WSP"
   },
   "WTB.L": {
     "business_description": "Whitbread plc operates hotels and restaurants in the United Kingdom, Germany, Ireland, and internationally. The company operates hotels under the Premier Inn, ZIP by Premier Inn, and hub by Premier Inn brands. It also\u2026",
