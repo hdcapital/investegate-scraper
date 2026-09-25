@@ -46,8 +46,8 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:06.151660+00:00",
-    "market_cap": "5515536384",
+    "last_updated": "2026-09-25T18:49:21.489059+00:00",
+    "market_cap": "5522864640",
     "market_cap_display": "$5.52bn",
     "ticker": "37QB"
   },
@@ -5597,9 +5597,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:41.455171+00:00",
-    "market_cap": "525790624",
-    "market_cap_display": "\u00a3525.8m",
+    "last_updated": "2026-09-25T18:49:19.388389+00:00",
+    "market_cap": "518787840",
+    "market_cap_display": "\u00a3518.8m",
     "ticker": "PINE"
   },
   "PINT.L": {
@@ -7032,6 +7032,19 @@
     "market_cap_display": "\u00a3142.4m",
     "ticker": "SWC"
   },
+  "SWG.L": {
+    "business_description": "Shearwater Group plc, together with its subsidiaries, provides cyber security, managed security, and professional advisory solutions for corporate clients in the United Kingdom, rest of Europe, North America, and\u2026",
+    "company_name": "Shearwater Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SWG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T18:49:18.713661+00:00",
+    "market_cap": "14178679",
+    "market_cap_display": "\u00a314.2m",
+    "ticker": "SWG"
+  },
   "SWT.L": {
     "business_description": "Switch Metals Plc engages in the exploration of mineral properties. It holds coltan (tantalum and niobium) and lithium licenses in C\u00f4te d'Ivoire with approximately 3,000 square kilometers, including its license\u2026",
     "company_name": "Switch Metals Plc",
@@ -7434,6 +7447,19 @@
     "market_cap": "95302032",
     "market_cap_display": "\u00a395.3m",
     "ticker": "TRCS"
+  },
+  "TRI.L": {
+    "business_description": "Trifast plc, together with its subsidiaries, designs, engineers, manufactures, and supplies industrial fasteners and category C components in the United Kingdom, Ireland, Sweden, Hungary, Holland, Italy, Germany, Spain,\u2026",
+    "company_name": "Trifast plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-25T18:49:20.032969+00:00",
+    "market_cap": "113436408",
+    "market_cap_display": "\u00a3113.4m",
+    "ticker": "TRI"
   },
   "TRN.L": {
     "business_description": "Trainline plc engages in the operation of an independent rail and coach travel platform that sells rail and coach tickets worldwide. It operates in three segments: UK Consumer, International Consumer, and Trainline\u2026",
