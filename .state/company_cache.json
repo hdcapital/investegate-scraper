@@ -618,9 +618,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:13.309950+00:00",
-    "market_cap": "37234364",
-    "market_cap_display": "\u00a337.2m",
+    "last_updated": "2026-09-28T06:50:10.746705+00:00",
+    "market_cap": "34574768",
+    "market_cap_display": "\u00a334.6m",
     "ticker": "AMGO"
   },
   "AMIF.L": {
@@ -826,9 +826,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T18:49:18.545414+00:00",
-    "market_cap": "77159040",
-    "market_cap_display": "\u00a377.2m",
+    "last_updated": "2026-09-28T06:50:04.145888+00:00",
+    "market_cap": "43937788",
+    "market_cap_display": "\u00a343.9m",
     "ticker": "ASLI"
   },
   "ASPL.L": {
@@ -1234,6 +1234,19 @@
     "market_cap_display": "\u00a3111.6m",
     "ticker": "BKY"
   },
+  "BLOE.L": {
+    "business_description": "Block Energy Plc, an independent energy company, explores, develops, and produces oil and gas in the Republic of Georgia. The company holds 76.5% indirect economic interest in the Ndjila and Mpari PSCs, as well as hold\u2026",
+    "company_name": "Block Energy Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BLOE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:15.378517+00:00",
+    "market_cap": "14330077",
+    "market_cap_display": "\u00a314.3m",
+    "ticker": "BLOE"
+  },
   "BMTO.L": {
     "business_description": "Braime Group PLC, together with its subsidiaries, engages in the manufacturing and distribution of metal presswork and bulk material handling components in the United Kingdom, Rest of Europe, the Middle East, the United\u2026",
     "company_name": "Braime Group PLC",
@@ -1346,9 +1359,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:13.870160+00:00",
-    "market_cap": "1545952896",
-    "market_cap_display": "\u00a31.55bn",
+    "last_updated": "2026-09-28T06:50:32.670741+00:00",
+    "market_cap": "1603227520",
+    "market_cap_display": "\u00a31.60bn",
     "ticker": "BOY"
   },
   "BPCP.L": {
@@ -1481,6 +1494,19 @@
     "market_cap_display": "\u00a33.82bn",
     "ticker": "BTRW"
   },
+  "BUC.L": {
+    "business_description": "Built Cybernetics plc, together with its subsidiaries, provides integrated professional design services in the United Kingdom and Turkey. It operates through United Kingdom Architecture, Torpedo Factory Group,\u2026",
+    "company_name": "Built Cybernetics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BUC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:23.389029+00:00",
+    "market_cap": "6343582",
+    "market_cap_display": "\u00a36.3m",
+    "ticker": "BUC"
+  },
   "BUR.L": {
     "business_description": "Burford Capital Limited provides legal finance products and services worldwide. The company operates in two segments, Principal Finance, and Asset Management and Other Services. The Principal Finance segment provides\u2026",
     "company_name": "Burford Capital Limited",
@@ -1489,9 +1515,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T18:51:17.962035+00:00",
-    "market_cap": "700035328",
-    "market_cap_display": "\u00a3700.0m",
+    "last_updated": "2026-09-28T06:50:31.999285+00:00",
+    "market_cap": "606492416",
+    "market_cap_display": "\u00a3606.5m",
     "ticker": "BUR"
   },
   "BVC.L": {
@@ -1611,6 +1637,19 @@
     "market_cap_display": "\u00a3166.4m",
     "ticker": "CCP"
   },
+  "CCT.L": {
+    "business_description": "The Character Group plc, a holding company, designs, develops, manufactures, and distributes toys, games, and giftware products in the United Kingdom, Scandinavia, the Far East, and internationally. The company also\u2026",
+    "company_name": "The Character Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CCT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:26.656854+00:00",
+    "market_cap": "53532544",
+    "market_cap_display": "\u00a353.5m",
+    "ticker": "CCT"
+  },
   "CDGP.L": {
     "business_description": "Chapel Down Group Plc, through its subsidiaries, engages in the production and sale of alcoholic beverages in the United Kingdom and internationally. The company offers wines and spirits, including gin, vodka,\u2026",
     "company_name": "Chapel Down Group Plc",
@@ -1645,9 +1684,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:46.951289+00:00",
-    "market_cap": "261442352",
-    "market_cap_display": "\u00a3261.4m",
+    "last_updated": "2026-09-28T06:50:31.263476+00:00",
+    "market_cap": "203836400",
+    "market_cap_display": "\u00a3203.8m",
     "ticker": "CER"
   },
   "CHAR.L": {
@@ -1702,6 +1741,19 @@
     "market_cap_display": "\u00a32.3m",
     "ticker": "CHP"
   },
+  "CHRY.L": {
+    "business_description": "Chrysalis Investments Limited invest is a principal investment fund specializing in Growth Capital investment. Chrysalis Investments Limited is based in London, United Kingdom.",
+    "company_name": "Chrysalis Investments Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CHRY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:25.348473+00:00",
+    "market_cap": "331390944",
+    "market_cap_display": "\u00a3331.4m",
+    "ticker": "CHRY"
+  },
   "CKI.L": {
     "business_description": "CK Infrastructure Holdings Limited, an infrastructure company, invests in, develops, and operates infrastructure businesses in Hong Kong, Mainland China, the United Kingdom, Continental Europe, Australia, New Zealand,\u2026",
     "company_name": "CK Infrastructure Holdings Limited",
@@ -1723,9 +1775,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:43.035419+00:00",
-    "market_cap": "22681798",
-    "market_cap_display": "\u00a322.7m",
+    "last_updated": "2026-09-28T06:50:12.120042+00:00",
+    "market_cap": "24301926",
+    "market_cap_display": "\u00a324.3m",
     "ticker": "CKT"
   },
   "CLA.L": {
@@ -1883,6 +1935,19 @@
     "market_cap": "14801613",
     "market_cap_display": "\u00a314.8m",
     "ticker": "COG"
+  },
+  "COIL.L": {
+    "business_description": "Coiled Therapeutics plc, a clinical-stage oncology company, develops and commercialises clinical-stage oncology therapeutics in the United Kingdom and internationally. The company's lead asset is AO-252, a\u2026",
+    "company_name": "Coiled Therapeutics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:COIL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:11.432838+00:00",
+    "market_cap": "32009350",
+    "market_cap_display": "\u00a332.0m",
+    "ticker": "COIL"
   },
   "COM.L": {
     "business_description": "Comptoir Group PLC owns and operates restaurants under the Comptoir Libanais, Yalla Yalla, and Shawa brand names in the United Kingdom. The company offers Lebanese and Eastern Mediterranean cuisine dining services; and\u2026",
@@ -2286,6 +2351,19 @@
     "market_cap": "222695712",
     "market_cap_display": "\u00a3222.7m",
     "ticker": "DIA"
+  },
+  "DKL.L": {
+    "business_description": "Dekel Agri-Vision plc, through its subsidiaries, develops and cultivates palm oil plantations in the Republic of Cote d'Ivoire. It operates through Crude Palm Oil and Raw Cashew Nut segments. The company offers raw\u2026",
+    "company_name": "Dekel Agri-Vision plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DKL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:18.666488+00:00",
+    "market_cap": "4537875",
+    "market_cap_display": "\u00a34.5m",
+    "ticker": "DKL"
   },
   "DNLM.L": {
     "business_description": "Dunelm Group plc engages in the retail of homewares in the United Kingdom. The company offers furniture and beds products, which include bedroom, living room, dining room, and other furniture, as well as bed and\u2026",
@@ -2932,9 +3010,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:10.790614+00:00",
-    "market_cap": "12478211",
-    "market_cap_display": "\u00a312.5m",
+    "last_updated": "2026-09-28T06:50:08.050004+00:00",
+    "market_cap": "10918435",
+    "market_cap_display": "\u00a310.9m",
     "ticker": "FMET"
   },
   "FNTL.L": {
@@ -3010,9 +3088,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:01.727543+00:00",
-    "market_cap": "6473453",
-    "market_cap_display": "\u00a36.5m",
+    "last_updated": "2026-09-28T06:50:20.093786+00:00",
+    "market_cap": "5962391",
+    "market_cap_display": "\u00a36.0m",
     "ticker": "FRG"
   },
   "FRP.L": {
@@ -3179,9 +3257,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:39.470329+00:00",
-    "market_cap": "4210377",
-    "market_cap_display": "\u00a34.2m",
+    "last_updated": "2026-09-28T06:50:16.678107+00:00",
+    "market_cap": "3909635",
+    "market_cap_display": "\u00a33.9m",
     "ticker": "GEMR"
   },
   "GENI.L": {
@@ -3296,9 +3374,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:26.758864+00:00",
-    "market_cap": "9709755",
-    "market_cap_display": "\u00a39.7m",
+    "last_updated": "2026-09-28T06:50:28.646450+00:00",
+    "market_cap": "11443639",
+    "market_cap_display": "\u00a311.4m",
     "ticker": "GLR"
   },
   "GLV.L": {
@@ -3517,7 +3595,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:40.830792+00:00",
+    "last_updated": "2026-09-28T06:50:29.945336+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "HALO"
@@ -3586,6 +3664,19 @@
     "market_cap": "8429680",
     "market_cap_display": "\u00a38.4m",
     "ticker": "HEAD"
+  },
+  "HEMO.L": {
+    "business_description": "Hemogenyx Pharmaceuticals Plc, a clinical-stage biotechnology company, focuses on the discovery, development, and commercialization of treatments for blood cancer in the United Kingdom and the United States. The\u2026",
+    "company_name": "Hemogenyx Pharmaceuticals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HEMO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:22.054953+00:00",
+    "market_cap": "31966602",
+    "market_cap_display": "\u00a332.0m",
+    "ticker": "HEMO"
   },
   "HEX.L": {
     "business_description": "Helix Exploration PLC, a helium exploration company, engages in the development and exploitation of small-scale gas leases. It holds interests in the Rudyard project and the Ingomar Dome project located in Montana,\u2026",
@@ -3742,6 +3833,19 @@
     "market_cap": "688604864",
     "market_cap_display": "\u00a3688.6m",
     "ticker": "HTG"
+  },
+  "HUD.L": {
+    "business_description": "Huddled Group Plc operates as an e-commerce retail company in the United Kingdom. The company sells primarily surplus stock under the Discount Dragon, Boop Beauty, and Nutricircle brand name. It also engages in the\u2026",
+    "company_name": "Huddled Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HUD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:09.381625+00:00",
+    "market_cap": "3853702",
+    "market_cap_display": "\u00a33.9m",
+    "ticker": "HUD"
   },
   "HUI.L": {
     "business_description": "Hydrogen Utopia International PLC, together with its subsidiaries, utilizes non-recyclable mixed waste plastics and complex waste streams to carbon-free fuels, new materials or distributed renewable heat. It offers\u2026",
@@ -4050,9 +4154,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:17.983782+00:00",
-    "market_cap": "8964178944",
-    "market_cap_display": "\u00a38.96bn",
+    "last_updated": "2026-09-28T06:50:14.728626+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
     "ticker": "ITRK"
   },
   "ITX.L": {
@@ -4445,6 +4549,19 @@
     "market_cap_display": "\u00a317.4m",
     "ticker": "KZG"
   },
+  "LAND.L": {
+    "business_description": "Land Securities Group Plc identify and shape places that create opportunities, enhance quality of life, and bring joy to the people connected to them. This is how they created the leading portfolio of urban places in UK\u2026",
+    "company_name": "Land Securities Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LAND.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:29.297569+00:00",
+    "market_cap": "4605062656",
+    "market_cap_display": "\u00a34.61bn",
+    "ticker": "LAND"
+  },
   "LEND.L": {
     "business_description": "Sancus Lending Group Limited, together with its subsidiaries, operates as an alternative finance provider in the United Kingdom, Ireland, and Channel Islands. The company offers short-term funding for property\u2026",
     "company_name": "Sancus Lending Group Limited",
@@ -4470,6 +4587,19 @@
     "market_cap": "12557318",
     "market_cap_display": "\u00a312.6m",
     "ticker": "LEX"
+  },
+  "LIKE.L": {
+    "business_description": "Likewise Group Plc, together with its subsidiaries, wholesales and distributes floorcoverings, rugs, and matting products for domestic and commercial flooring markets in the United Kingdom and Rest of Europe. The\u2026",
+    "company_name": "Likewise Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LIKE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:10.061835+00:00",
+    "market_cap": "126915808",
+    "market_cap_display": "\u00a3126.9m",
+    "ticker": "LIKE"
   },
   "LIT.L": {
     "business_description": "Litigation Capital Management Limited provides litigation finance and risk management services in Australia and the United Kingdom. The company operates in two business models, including direct investments made from\u2026",
@@ -4730,6 +4860,19 @@
     "market_cap": "113650352",
     "market_cap_display": "\u00a3113.7m",
     "ticker": "MERC"
+  },
+  "MET.L": {
+    "business_description": "Metir plc engages in research, development, and commercialization of miniaturized mass spectrometry instruments in the United Kingdom, the United States, the European Union, China, and Qatar. It offers compact mass\u2026",
+    "company_name": "Metir plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:13.422055+00:00",
+    "market_cap": "2881056",
+    "market_cap_display": "\u00a32.9m",
+    "ticker": "MET"
   },
   "MET1.L": {
     "business_description": "Metals One PLC operates as a minerals company in the United States, Finland, Norway, Peru, Tanzania, and South Africa. It explores for uranium, gold, graphite, copper, nickel, vanadium, cobalt, zinc, silver, and\u2026",
@@ -5407,6 +5550,19 @@
     "market_cap_display": "\u00a3562.9m",
     "ticker": "OXB"
   },
+  "PALM.L": {
+    "business_description": "Panther Metals PLC engages in exploration and development of mineral resources in Canada and Australia. The company explores for copper, zinc, lead, and nickel, gold, silver, platinum group metals, lithium and graphite\u2026",
+    "company_name": "Panther Metals PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PALM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:12.773512+00:00",
+    "market_cap": "16784756",
+    "market_cap_display": "\u00a316.8m",
+    "ticker": "PALM"
+  },
   "PANR.L": {
     "business_description": "Pantheon Resources Plc, through its subsidiaries, engages in the exploration, appraisal, development, investment, and production of oil and gas in the United States. Its primary assets are the Ahpun project located in\u2026",
     "company_name": "Pantheon Resources Plc",
@@ -5701,9 +5857,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T06:47:45.561800+00:00",
-    "market_cap": "2335396",
-    "market_cap_display": "\u00a32.3m",
+    "last_updated": "2026-09-28T06:50:30.597956+00:00",
+    "market_cap": "2385086",
+    "market_cap_display": "\u00a32.4m",
     "ticker": "PR1"
   },
   "PRD.L": {
@@ -5797,6 +5953,19 @@
     "market_cap_display": "\u00a325.78bn",
     "ticker": "PRU"
   },
+  "PSDL.L": {
+    "business_description": "Phoenix Spree Deutschland Limited is a public limited company incorporated in Jersey, Channel Islands under the Companies (Jersey) Law 1991 (as amended). The Company has a listing on the Official List of the Financial\u2026",
+    "company_name": "Phoenix Spree Deutschland Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:PSDL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:05.440904+00:00",
+    "market_cap": "122812816",
+    "market_cap_display": "\u00a3122.8m",
+    "ticker": "PSDL"
+  },
   "PTAL.L": {
     "business_description": "PetroTal Corp. engages in the acquisition, exploration, appraisal, development, and production of oil and natural gas properties in Peru. Its flagship property is the 100%-owned Breta\u00f1a Norte oil field located within\u2026",
     "company_name": "PetroTal Corp.",
@@ -5861,6 +6030,19 @@
     "market_cap": "4776151",
     "market_cap_display": "\u00a34.8m",
     "ticker": "PXC"
+  },
+  "PXEN.L": {
+    "business_description": "Prospex Energy Plc operates as an oil and gas investment company. Its producing assets are located in Italy, Spain, and Poland. The company was formerly known as Prospex Oil and Gas Plc and changed its name to Prospex\u2026",
+    "company_name": "Prospex Energy Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PXEN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:16.023352+00:00",
+    "market_cap": "24292462",
+    "market_cap_display": "\u00a324.3m",
+    "ticker": "PXEN"
   },
   "QDE.L": {
     "business_description": "Quantum Data Energy PLC engages in the development and production of power generation projects in the United Kingdom. It operates Pyebridge project, a 9 MW gas-powered reserve power (RP) site located in Derbyshire;\u2026",
@@ -5974,9 +6156,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:25.460318+00:00",
-    "market_cap": "98287616",
-    "market_cap_display": "\u00a398.3m",
+    "last_updated": "2026-09-28T06:50:03.500511+00:00",
+    "market_cap": "97832896",
+    "market_cap_display": "\u00a397.8m",
     "ticker": "RCN"
   },
   "REC.L": {
@@ -6174,6 +6356,19 @@
     "market_cap_display": "\u00a3501.9m",
     "ticker": "RNK"
   },
+  "ROAD.L": {
+    "business_description": "Roadside Real Estate plc engages in the real estate asset management and development activities in the United Kingdom. The company was formerly known as Barkby Group PLC and changed its name to Roadside Real Estate plc\u2026",
+    "company_name": "Roadside Real Estate plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ROAD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:18.011548+00:00",
+    "market_cap": "99826240",
+    "market_cap_display": "\u00a399.8m",
+    "ticker": "ROAD"
+  },
   "ROC.L": {
     "business_description": "Rockpool Acquisitions Plc does not have significant operations. It intends to undertake an acquisition of a company or business. The company was incorporated in 2017 and is based in Belfast, the United Kingdom.",
     "company_name": "Rockpool Acquisitions Plc",
@@ -6186,6 +6381,19 @@
     "market_cap": "362663",
     "market_cap_display": "\u00a3362.7k",
     "ticker": "ROC"
+  },
+  "ROCK.L": {
+    "business_description": "Rockfire Resources plc, together with its subsidiaries, engages in the exploration of base metals, precious metals, and critical minerals in Greece and Australia. It primarily explores for gold, silver, copper, zinc,\u2026",
+    "company_name": "Rockfire Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ROCK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:27.307277+00:00",
+    "market_cap": "11508876",
+    "market_cap_display": "\u00a311.5m",
+    "ticker": "ROCK"
   },
   "ROR.L": {
     "business_description": "Rotork plc manufactures industrial flow control and instrumentation solutions for the oil and gas, water and wastewater, power, chemical process, and industrial markets. It operates through three segments: Oils & Gas;\u2026",
@@ -6343,6 +6551,19 @@
     "market_cap_display": "\u00a3898.5m",
     "ticker": "SAGA"
   },
+  "SAL.L": {
+    "business_description": "SpaceandPeople plc provides commercial and promotional space and retail solutions for businesses to promote and acquire customers in shopping centers, retail parks, railway stations, and other footfall locations in the\u2026",
+    "company_name": "SpaceandPeople plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SAL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:24.697363+00:00",
+    "market_cap": "2684759",
+    "market_cap_display": "\u00a32.7m",
+    "ticker": "SAL"
+  },
   "SALT.L": {
     "business_description": "MicroSalt plc engages in the development and sale of low sodium salt and snack food products in the United Kingdom and internationally. It offers saltshaker and potato chip products under the MicroSalt and SaltMe!\u2026",
     "company_name": "MicroSalt plc",
@@ -6446,6 +6667,19 @@
     "market_cap": "3864293888",
     "market_cap_display": "\u00a33.86bn",
     "ticker": "SCT"
+  },
+  "SDG.L": {
+    "business_description": "Sanderson Design Group plc, together with its subsidiaries, engages in the design, manufacture, marketing, and distribution of interior furnishings, fabrics, and wallpapers worldwide. The company operates in three\u2026",
+    "company_name": "Sanderson Design Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SDG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:33.334691+00:00",
+    "market_cap": "52897704",
+    "market_cap_display": "\u00a352.9m",
+    "ticker": "SDG"
   },
   "SDIC.L": {
     "business_description": "",
@@ -6589,6 +6823,19 @@
     "market_cap": "13004955648",
     "market_cap_display": "\u00a313.00bn",
     "ticker": "SGRO"
+  },
+  "SHR.L": {
+    "business_description": "Shaires Holdings Ltd is a venture capital firm specializing in mid to late stage investments with lesser weighting on earlier stage. The firm is sector agnostic and prefers to invest in technology, energy, materials,\u2026",
+    "company_name": "Shaires Holdings Ltd",
+    "currency": "USD",
+    "data_source": "yfinance:SHR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:20.749554+00:00",
+    "market_cap": "50640896",
+    "market_cap_display": "$50.6m",
+    "ticker": "SHR"
   },
   "SIGC.L": {
     "business_description": "Sherborne Investors (Guernsey) C Limited is an open-ended equity mutual fund. The fund is launched and managed by Sherborne Investors Management (Guernsey) LLC. It invests in the public equity markets. The fund seeks to\u2026",
@@ -7027,9 +7274,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:24.004928+00:00",
-    "market_cap": "142439472",
-    "market_cap_display": "\u00a3142.4m",
+    "last_updated": "2026-09-28T06:50:26.003534+00:00",
+    "market_cap": "232401248",
+    "market_cap_display": "\u00a3232.4m",
     "ticker": "SWC"
   },
   "SWG.L": {
@@ -7110,6 +7357,19 @@
     "market_cap_display": "\u00a3408.0m",
     "ticker": "TAM"
   },
+  "TAN.L": {
+    "business_description": "Tanfield Group PLC operates as an investment company in the United Kingdom. The company, through its 49% interest in Snorkel International Holdings LLC, that produces self-propelled, towable, and push-around aerial\u2026",
+    "company_name": "Tanfield Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:TAN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:27.956978+00:00",
+    "market_cap": "6923541",
+    "market_cap_display": "\u00a36.9m",
+    "ticker": "TAN"
+  },
   "TAP.L": {
     "business_description": "Tap Global Group Plc, together with its subsidiaries, provides application and trading platform for crypto currencies in the United Kingdom and internationally. The company was formerly known as Quetzal Capital PLC. Tap\u2026",
     "company_name": "Tap Global Group Plc",
@@ -7170,9 +7430,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T18:49:19.322500+00:00",
-    "market_cap": "4083031",
-    "market_cap_display": "\u00a34.1m",
+    "last_updated": "2026-09-28T06:50:14.075224+00:00",
+    "market_cap": "3653238",
+    "market_cap_display": "\u00a33.7m",
     "ticker": "TCF"
   },
   "TEK.L": {
@@ -7331,6 +7591,19 @@
     "market_cap_display": "\u00a352.6m",
     "ticker": "TIME"
   },
+  "TLW.L": {
+    "business_description": "Tullow Oil plc, an energy company, develops, produces, and sells oil and gas resources in Ghana and C\u00f4te d'Ivoire. The company was founded in 1985 and is headquartered in London, the United Kingdom.",
+    "company_name": "Tullow Oil plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TLW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:06.756283+00:00",
+    "market_cap": "326487456",
+    "market_cap_display": "\u00a3326.5m",
+    "ticker": "TLW"
+  },
   "TMG.L": {
     "business_description": "The Mission Group plc, together with its subsidiaries, operates as a collective of creative and martech agencies company in the United Kingdom, the United States, Asia, and rest of Europe. It operates through Business &\u2026",
     "company_name": "The Mission Group plc",
@@ -7430,9 +7703,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:21.201358+00:00",
-    "market_cap": "143634528",
-    "market_cap_display": "\u00a3143.6m",
+    "last_updated": "2026-09-28T06:50:06.090593+00:00",
+    "market_cap": "179650368",
+    "market_cap_display": "\u00a3179.7m",
     "ticker": "TRB"
   },
   "TRCS.L": {
@@ -7473,6 +7746,19 @@
     "market_cap": "645534208",
     "market_cap_display": "\u00a3645.5m",
     "ticker": "TRN"
+  },
+  "TRP.L": {
+    "business_description": "Tower Resources plc engages in oil and gas exploration business in Africa. The company holds a 100% interest in the shallow water Thali production sharing contract that covers an area of 119.2 square kilometers located\u2026",
+    "company_name": "Tower Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:21.404465+00:00",
+    "market_cap": "5778044",
+    "market_cap_display": "\u00a35.8m",
+    "ticker": "TRP"
   },
   "TRST.L": {
     "business_description": "Trustpilot Group plc develops and hosts an online review platform for businesses and consumers in the United Kingdom, North America, Europe, and internationally. The company's online review platform enables consumers to\u2026",
@@ -7525,6 +7811,19 @@
     "market_cap": "2550388",
     "market_cap_display": "\u00a32.6m",
     "ticker": "TRUE"
+  },
+  "TST.L": {
+    "business_description": "Touchstar plc, together with its subsidiaries, designs, builds, and sells rugged mobile computing devices under the Touchstar brand in the United Kingdom, rest of Europe, and internationally. The company supplies,\u2026",
+    "company_name": "Touchstar plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:08.731428+00:00",
+    "market_cap": "5597545",
+    "market_cap_display": "\u00a35.6m",
+    "ticker": "TST"
   },
   "TTG.L": {
     "business_description": "TT Electronics plc provides design-led advanced electronics technologies for performance critical applications in the healthcare, aerospace and defense, and automation and electrification markets in the United Kingdom,\u2026",
@@ -7638,9 +7937,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:09.505805+00:00",
-    "market_cap": "7881237",
-    "market_cap_display": "\u00a37.9m",
+    "last_updated": "2026-09-28T06:50:24.038170+00:00",
+    "market_cap": "10662851",
+    "market_cap_display": "\u00a310.7m",
     "ticker": "UOG"
   },
   "UPL.L": {
@@ -7681,6 +7980,19 @@
     "market_cap": "979601984",
     "market_cap_display": "\u00a3979.6m",
     "ticker": "USA"
+  },
+  "USFP.L": {
+    "business_description": "US Solar Fund Plc is a fund of New Energy Solar Manager Pty Limited.",
+    "company_name": "US Solar Fund Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:USFP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:22.737059+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "USFP"
   },
   "UTL.L": {
     "business_description": "UIL Limited is a closed-ended equity mutual fund launched and managed by ICM Limited. The fund invests in public equity markets across the globe. It seeks to invest in stocks of companies operating in the\u2026",
@@ -7944,15 +8256,15 @@
   },
   "WVIA.L": {
     "business_description": "Winvia Entertainment Plc, together with its subsidiaries, operates as a technology-led entertainment company. It operates prize draws and skill games competitions with prizes and unique formats for a broad audience; the\u2026",
-    "company_name": "WINVIA ENTERTAINMENT PLC ORD 0.",
+    "company_name": "Winvia Entertainment Plc",
     "currency": "GBp",
     "data_source": "yfinance:WVIA.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:07.656597+00:00",
-    "market_cap": "253355088",
-    "market_cap_display": "\u00a3253.4m",
+    "last_updated": "2026-09-28T06:50:07.405756+00:00",
+    "market_cap": "260188320",
+    "market_cap_display": "\u00a3260.2m",
     "ticker": "WVIA"
   },
   "XGDU.L": {
@@ -8071,5 +8383,18 @@
     "market_cap": "16874750",
     "market_cap_display": "\u00a316.9m",
     "ticker": "ZIN"
+  },
+  "ZPHR.L": {
+    "business_description": "Zephyr Energy plc, together with its subsidiaries, engages in the exploration, development, and production of oil and gas resources in the United States. Its flagship property is the Paradox Project that covers an area\u2026",
+    "company_name": "Zephyr Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ZPHR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T06:50:04.790561+00:00",
+    "market_cap": "61971212",
+    "market_cap_display": "\u00a362.0m",
+    "ticker": "ZPHR"
   }
 }
