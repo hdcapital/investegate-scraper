@@ -233,6 +233,19 @@
     "market_cap_display": "",
     "ticker": "93TH"
   },
+  "99IY.L": {
+    "business_description": "",
+    "company_name": "NatWest Markets Plc ILN329388 08/02/18(RBS UK)GBP1",
+    "currency": "GBP",
+    "data_source": "yfinance:99IY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T18:52:00.503014+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "99IY"
+  },
   "AAIF.L": {
     "business_description": "Aberdeen Asian Income Fund Limited is a closed ended balanced mutual fund launched by Aberdeen Private Wealth Management Limited. It is managed by Aberdeen Standard Investments (Asia) Limited. The fund invests in the\u2026",
     "company_name": "Aberdeen Asian Income Fund Limited",
@@ -1489,9 +1502,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:48:52.192302+00:00",
-    "market_cap": "3815338240",
-    "market_cap_display": "\u00a33.82bn",
+    "last_updated": "2026-09-28T18:51:53.902968+00:00",
+    "market_cap": "4755814912",
+    "market_cap_display": "\u00a34.76bn",
     "ticker": "BTRW"
   },
   "BUC.L": {
@@ -1701,6 +1714,19 @@
     "market_cap": "48745216",
     "market_cap_display": "\u00a348.7m",
     "ticker": "CHAR"
+  },
+  "CHF.L": {
+    "business_description": "Chesterfield Resources plc, together with its subsidiaries, engages in the exploration and development of precious and base metals in Canada. It explores for copper and gold deposits. The company was incorporated in\u2026",
+    "company_name": "Chesterfield Resources plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CHF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T18:51:53.181995+00:00",
+    "market_cap": "1594551",
+    "market_cap_display": "\u00a31.6m",
+    "ticker": "CHF"
   },
   "CHH.L": {
     "business_description": "Churchill China plc, together with its subsidiaries, manufactures and sells ceramic and related products for the hospitality and household markets in the United Kingdom, the rest of Europe, the United States, and\u2026",
@@ -2197,16 +2223,16 @@
     "ticker": "CYAN"
   },
   "CYN.L": {
-    "business_description": "",
-    "company_name": "CQS Natural Resources G&I Ord",
+    "business_description": "City Natural Resources High Yield Trust plc is a close ended balanced mutual fund launched and managed by CQS Asset Management Ltd. The fund invests in the public equity and fixed income markets across the globe. It\u2026",
+    "company_name": "CQS Natural Resources Growth and Income plc",
     "currency": "GBp",
     "data_source": "yfinance:CYN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:22.631131+00:00",
-    "market_cap": "165880768",
-    "market_cap_display": "\u00a3165.9m",
+    "last_updated": "2026-09-28T18:51:58.319804+00:00",
+    "market_cap": "162091216",
+    "market_cap_display": "\u00a3162.1m",
     "ticker": "CYN"
   },
   "DAR.L": {
@@ -2548,16 +2574,16 @@
     "ticker": "EEE"
   },
   "EGL.L": {
-    "business_description": "",
-    "company_name": "Ecofin Global Utilities & Infra Ord",
+    "business_description": "Ecofin Global Utilities and Infrastructure Trust plc is a closed-ended equity mutual fund launched and managed by Tortoise Advisors UK Limited. manages assets for clients worldwide. The fund invests in the public equity\u2026",
+    "company_name": "Ecofin Global Utilities and Infrastructure Trust plc",
     "currency": "GBp",
     "data_source": "yfinance:EGL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T18:49:58.813345+00:00",
-    "market_cap": "241788656",
-    "market_cap_display": "\u00a3241.8m",
+    "last_updated": "2026-09-28T18:51:59.047835+00:00",
+    "market_cap": "234011728",
+    "market_cap_display": "\u00a3234.0m",
     "ticker": "EGL"
   },
   "EGT.L": {
@@ -2702,6 +2728,19 @@
     "market_cap": "13564253",
     "market_cap_display": "\u00a313.6m",
     "ticker": "EMVC"
+  },
+  "ENET.L": {
+    "business_description": "Ethernity Networks Ltd., a technology solutions provider, develops and delivers data processing technology and solutions for applications in telecommunications, mobile, security, and data center markets in Israel and\u2026",
+    "company_name": "Ethernity Networks Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:ENET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T18:51:55.355589+00:00",
+    "market_cap": "150477",
+    "market_cap_display": "\u00a3150.5k",
+    "ticker": "ENET"
   },
   "ENOG.L": {
     "business_description": "Energean plc engages in the exploration, production, and development of oil and gas. The company operates through Europe, Israel, and New Ventures segments. Its flagship project is the 100% owned Karish and Karish North\u2026",
@@ -3543,7 +3582,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:50:06.465136+00:00",
+    "last_updated": "2026-09-28T18:51:56.801167+00:00",
     "market_cap": "3521499",
     "market_cap_display": "\u00a33.5m",
     "ticker": "GV1O"
@@ -3556,7 +3595,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:50:07.276893+00:00",
+    "last_updated": "2026-09-28T18:51:56.079637+00:00",
     "market_cap": "9146563",
     "market_cap_display": "\u00a39.1m",
     "ticker": "GV2O"
@@ -4926,6 +4965,19 @@
     "market_cap_display": "\u00a3656.5m",
     "ticker": "MGAM"
   },
+  "MHPC.L": {
+    "business_description": "MHP SE, together with its subsidiaries, engages in the poultry and related business in Ukraine and internationally. It operates through Poultry and Related Operations, Vegetable Oil Operations, Agricultural Operations,\u2026",
+    "company_name": "MHP SE",
+    "currency": "USD",
+    "data_source": "yfinance:MHPC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T18:51:50.228842+00:00",
+    "market_cap": "386407904",
+    "market_cap_display": "$386.4m",
+    "ticker": "MHPC"
+  },
   "MIDW.L": {
     "business_description": "Midwich Group plc, together with its subsidiaries, distributes audio visual (AV) solutions to trade customers in the United Kingdom, Ireland, Europe, the Middle East, Africa, the Asia Pacific, and North America. It\u2026",
     "company_name": "Midwich Group plc",
@@ -5272,9 +5324,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T18:49:46.189250+00:00",
-    "market_cap": "1172221312",
-    "market_cap_display": "\u00a31.17bn",
+    "last_updated": "2026-09-28T18:51:59.773021+00:00",
+    "market_cap": "1158537856",
+    "market_cap_display": "\u00a31.16bn",
     "ticker": "NBS"
   },
   "NCC.L": {
@@ -5415,9 +5467,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T18:51:20.260325+00:00",
-    "market_cap": "185150000",
-    "market_cap_display": "\u00a3185.2m",
+    "last_updated": "2026-09-28T18:52:01.226799+00:00",
+    "market_cap": "189700000",
+    "market_cap_display": "\u00a3189.7m",
     "ticker": "OIG"
   },
   "OMI.L": {
@@ -6819,9 +6871,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:17.710537+00:00",
-    "market_cap": "13004955648",
-    "market_cap_display": "\u00a313.00bn",
+    "last_updated": "2026-09-28T18:51:51.735840+00:00",
+    "market_cap": "12718183424",
+    "market_cap_display": "\u00a312.72bn",
     "ticker": "SGRO"
   },
   "SHR.L": {
@@ -7552,6 +7604,19 @@
     "market_cap_display": "\u00a3699.6m",
     "ticker": "THRL"
   },
+  "THS.L": {
+    "business_description": "Tharisa plc, an investment holding company, engages in the mining, processing, sale, and logistics of platinum group metals (PGMs) and chrome concentrates in South Africa, China, Singapore, Hong Kong, the United Arab\u2026",
+    "company_name": "Tharisa plc",
+    "currency": "GBp",
+    "data_source": "yfinance:THS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T18:51:54.623836+00:00",
+    "market_cap": "364437120",
+    "market_cap_display": "\u00a3364.4m",
+    "ticker": "THS"
+  },
   "TIA.L": {
     "business_description": "Tialis Essential IT PLC, through its subsidiaries, provides network, cloud, and IT managed services to public and private companies in the United Kingdom. It focuses on the storage, building, configuration, and shipping\u2026",
     "company_name": "Tialis Essential IT PLC",
@@ -7690,9 +7755,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:34.301425+00:00",
-    "market_cap": "286884032",
-    "market_cap_display": "\u00a3286.9m",
+    "last_updated": "2026-09-28T18:52:01.953007+00:00",
+    "market_cap": "262020752",
+    "market_cap_display": "\u00a3262.0m",
     "ticker": "TPFG"
   },
   "TRB.L": {
@@ -8119,9 +8184,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T06:47:37.923412+00:00",
-    "market_cap": "61288064",
-    "market_cap_display": "\u00a361.3m",
+    "last_updated": "2026-09-28T18:51:48.633281+00:00",
+    "market_cap": "60951484",
+    "market_cap_display": "\u00a361.0m",
     "ticker": "VNH"
   },
   "VTU.L": {
@@ -8228,6 +8293,32 @@
     "market_cap_display": "\u00a326.0m",
     "ticker": "WPHO"
   },
+  "WPP.L": {
+    "business_description": "WPP plc, a creative transformation company, provides communications, experience, commerce, and technology services in North America, the United Kingdom, Western Continental Europe, the Asia Pacific, Latin America,\u2026",
+    "company_name": "WPP plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WPP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T18:51:57.589297+00:00",
+    "market_cap": "4160947456",
+    "market_cap_display": "\u00a34.16bn",
+    "ticker": "WPP"
+  },
+  "WSL.L": {
+    "business_description": "Worldsec Limited, a closed-ended investment company, invests in small and medium sized trading companies in the Greater China and South East Asian regions. The company was founded in 1991 and is based in Sheung Wan,\u2026",
+    "company_name": "Worldsec Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:WSL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-28T18:51:51.015392+00:00",
+    "market_cap": "1276528",
+    "market_cap_display": "\u00a31.3m",
+    "ticker": "WSL"
+  },
   "WSP.L": {
     "business_description": "Wynnstay Properties Plc engages in the investment, development, and management of properties in the United Kingdom. The company operates through the Industrial, Retail, and Office segments. Its portfolio owns and\u2026",
     "company_name": "Wynnstay Properties Plc",
@@ -8288,9 +8379,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:48:55.111153+00:00",
-    "market_cap": "33814088",
-    "market_cap_display": "\u00a333.8m",
+    "last_updated": "2026-09-28T18:51:52.459234+00:00",
+    "market_cap": "32057512",
+    "market_cap_display": "\u00a332.1m",
     "ticker": "XPF"
   },
   "XSG.L": {
