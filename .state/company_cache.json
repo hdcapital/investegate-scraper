@@ -688,6 +688,19 @@
     "market_cap_display": "\u00a3611.5m",
     "ticker": "AMS"
   },
+  "ANIC.L": {
+    "business_description": "Agronomics Limited is a private equity and venture capital firm specializing in emerging growth, seed/startup, early venture, series B and growth capital investments. The firm invests in quoted and unquoted companies.\u2026",
+    "company_name": "Agronomics Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ANIC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-29T18:51:20.221176+00:00",
+    "market_cap": "56769168",
+    "market_cap_display": "\u00a356.8m",
+    "ticker": "ANIC"
+  },
   "ANP.L": {
     "business_description": "Anpario plc, together with its subsidiaries, manufactures and distributes animal feed additives for animal health, nutrition, and biosecurity in the Americas, Asia, Europe, the Middle East, and Africa. The company\u2026",
     "company_name": "Anpario plc",
@@ -852,7 +865,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:53.420730+00:00",
+    "last_updated": "2026-09-29T18:51:21.015951+00:00",
     "market_cap": "12843160",
     "market_cap_display": "$12.8m",
     "ticker": "ASIA"
@@ -1346,9 +1359,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:26.926097+00:00",
-    "market_cap": "156381593600",
-    "market_cap_display": "\u00a3156.38bn",
+    "last_updated": "2026-09-29T18:51:16.591205+00:00",
+    "market_cap": "155981316096",
+    "market_cap_display": "\u00a3155.98bn",
     "ticker": "BNC"
   },
   "BNZL.L": {
@@ -1493,6 +1506,32 @@
     "market_cap": "227090624",
     "market_cap_display": "\u00a3227.1m",
     "ticker": "BRK"
+  },
+  "BRS.L": {
+    "business_description": "Beacon Rise Holdings PLC does not have significant operations. It intends to effect a merger, capital stock exchange, asset acquisition, stock purchase, scheme of arrangement, reorganization, or similar business\u2026",
+    "company_name": "Beacon Rise Holdings PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BRS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-29T18:51:15.802273+00:00",
+    "market_cap": "2480532",
+    "market_cap_display": "\u00a32.5m",
+    "ticker": "BRS"
+  },
+  "BRSC.L": {
+    "business_description": "",
+    "company_name": "BlackRock Smaller Companies Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:BRSC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-29T18:51:21.825361+00:00",
+    "market_cap": "636532480",
+    "market_cap_display": "\u00a3636.5m",
+    "ticker": "BRSC"
   },
   "BSC.L": {
     "business_description": "British Smaller Companies VCT 2 plc is a venture capital trust specializing in early-stage, emerging growth, growth capital, acquisition funding, and development funding. It is an evergreen fund. The fund invests in a\u2026",
@@ -4549,6 +4588,19 @@
     "market_cap_display": "$7.64bn",
     "ticker": "KAP"
   },
+  "KDNC.L": {
+    "business_description": "Cadence Minerals Plc, an investment and development company, engages in identification, investment and development of mineral resources in the United Kingdom. It explores for iron, rare earth, and lithium deposits. The\u2026",
+    "company_name": "Cadence Minerals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KDNC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-29T18:51:19.291198+00:00",
+    "market_cap": "23632208",
+    "market_cap_display": "\u00a323.6m",
+    "ticker": "KDNC"
+  },
   "KEFI.L": {
     "business_description": "KEFI Gold and Copper Plc engages in the exploration and development of gold and copper deposits in the Kingdom of Saudi Arabia and Ethiopia. The company also explores for zinc, silver, precious metal, and base metal\u2026",
     "company_name": "KEFI Gold and Copper Plc",
@@ -6988,9 +7040,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:38.751608+00:00",
-    "market_cap": "9161011200",
-    "market_cap_display": "\u00a39.16bn",
+    "last_updated": "2026-09-29T18:51:17.428859+00:00",
+    "market_cap": "9184400384",
+    "market_cap_display": "\u00a39.18bn",
     "ticker": "SDR"
   },
   "SEE.L": {
@@ -7326,9 +7378,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:24.661449+00:00",
-    "market_cap": "985470592",
-    "market_cap_display": "\u00a3985.5m",
+    "last_updated": "2026-09-29T18:51:14.915012+00:00",
+    "market_cap": "983467520",
+    "market_cap_display": "\u00a3983.5m",
     "ticker": "SPI"
   },
   "SPR.L": {
@@ -8461,6 +8513,19 @@
     "market_cap": "4179691",
     "market_cap_display": "\u00a34.2m",
     "ticker": "VOX"
+  },
+  "VSVS.L": {
+    "business_description": "Vesuvius plc provides molten metal flow engineering and technology services to steel and foundry casting industries worldwide. It operates through Steel Flow Control, Steel Advanced Refractories, Steel Sensors & Probes,\u2026",
+    "company_name": "Vesuvius plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VSVS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-29T18:51:13.932877+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "VSVS"
   },
   "VTU.L": {
     "business_description": "Vertu Motors plc operates as an automotive retailer in the United Kingdom. It sells new and used cars and motorcycles, vans, motability cars, electric vehicles, and commercial vehicles, as well as provides related\u2026",
