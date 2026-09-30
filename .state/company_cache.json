@@ -709,9 +709,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:48:53.550960+00:00",
-    "market_cap": "611468032",
-    "market_cap_display": "\u00a3611.5m",
+    "last_updated": "2026-09-30T18:53:41.818095+00:00",
+    "market_cap": "615018752",
+    "market_cap_display": "\u00a3615.0m",
     "ticker": "AMS"
   },
   "ANIC.L": {
@@ -739,6 +739,19 @@
     "market_cap": "88534936",
     "market_cap_display": "\u00a388.5m",
     "ticker": "ANP"
+  },
+  "AOF.L": {
+    "business_description": "Africa Opportunity Fund Limited is close ended balanced mutual fund launched and managed by Africa Opportunity Partners Limited. The fund invests in equity and fixed income markets of Africa. It seeks to invest in\u2026",
+    "company_name": "Africa Opportunity Fund Limited",
+    "currency": "USD",
+    "data_source": "yfinance:AOF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:29.347317+00:00",
+    "market_cap": "10035294",
+    "market_cap_display": "$10.0m",
+    "ticker": "AOF"
   },
   "AOTI.L": {
     "business_description": "AOTI, Inc., together with its subsidiaries, patents, manufacturers, rents, and sells medical devices to resolve severe acute and chronic wounds for customers worldwide. The company offers topical wound oxygen solutions\u2026",
@@ -1000,6 +1013,19 @@
     "market_cap_display": "\u00a3138.5m",
     "ticker": "ATM"
   },
+  "ATN.L": {
+    "business_description": "Aterian plc engages in the exploration and development of mineral properties in Morocco, Rwanda, and Botswana. It explores for tin, tungsten, copper, silver, lithium, tantalum, gold, silver, niobium, rare-earth\u2026",
+    "company_name": "Aterian plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ATN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:35.769761+00:00",
+    "market_cap": "4798325",
+    "market_cap_display": "\u00a34.8m",
+    "ticker": "ATN"
+  },
   "ATR.L": {
     "business_description": "Schroders Investment Trusts - Schroder Asian Total Return Investment Company plc is a closed ended equity mutual fund launched by Schroder Unit Trusts Limited. The fund is co-managed by Schroder Investment Management\u2026",
     "company_name": "Schroders Investment Trusts - Schroder Asian Total Return Investment Company plc",
@@ -1012,6 +1038,19 @@
     "market_cap": "669457024",
     "market_cap_display": "\u00a3669.5m",
     "ticker": "ATR"
+  },
+  "AURA.L": {
+    "business_description": "Aura Energy Limited, together with its subsidiaries, explores and evaluates mineral properties in Mauritania and Sweden. It explores for uranium, vanadium, gold, and base metals. The company's flagship property is the\u2026",
+    "company_name": "Aura Energy Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:AURA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:30.780943+00:00",
+    "market_cap": "50972084",
+    "market_cap_display": "\u00a351.0m",
+    "ticker": "AURA"
   },
   "AURR.L": {
     "business_description": "Aurrigo International plc offers electrical components to the automotive and aviation industry in the United Kingdom, Europe, and internationally. It operates through two segments, Automotive components and Autonomous.\u2026",
@@ -1754,6 +1793,19 @@
     "market_cap_display": "\u00a333.7m",
     "ticker": "BZT"
   },
+  "CAGL.L": {
+    "business_description": "Coastal Africa Group Limited is a principal investment firm. Coastal Africa Group Limited is based in Road Town, British Virgin Islands. Coastal Africa Group Limited operates as a subsidiary of The Crest Trust.",
+    "company_name": "Coastal Africa Group Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CAGL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:41.166607+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "CAGL"
+  },
   "CAM.L": {
     "business_description": "Camellia Plc, together with its subsidiaries, engages in agriculture and engineering business in the United Kingdom, Bangladesh, India, Kenya, Malawi, South Africa, North America, and South America. The company produces\u2026",
     "company_name": "Camellia Plc",
@@ -2048,9 +2100,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:46.606735+00:00",
-    "market_cap": "11166620",
-    "market_cap_display": "\u00a311.2m",
+    "last_updated": "2026-09-30T18:53:27.646471+00:00",
+    "market_cap": "10242826",
+    "market_cap_display": "\u00a310.2m",
     "ticker": "CLA"
   },
   "CLDN.L": {
@@ -2638,6 +2690,19 @@
     "market_cap_display": "\u00a3127.3m",
     "ticker": "DFCH"
   },
+  "DFIJ.L": {
+    "business_description": "",
+    "company_name": "DFI Retail Group Holdings Limited",
+    "currency": "USD",
+    "data_source": "yfinance:DFIJ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:39.838593+00:00",
+    "market_cap": "12412971008",
+    "market_cap_display": "$12.41bn",
+    "ticker": "DFIJ"
+  },
   "DFS.L": {
     "business_description": "DFS Furniture plc designs, manufactures, delivers, installs, and retails upholstered furniture in the United Kingdom and the Republic of Ireland. The company retails sofas under the DFS and Sofology brand names. It\u2026",
     "company_name": "DFS Furniture plc",
@@ -2781,6 +2846,19 @@
     "market_cap_display": "\u00a32.76bn",
     "ticker": "DRX"
   },
+  "DSG.L": {
+    "business_description": "Dillistone Group Plc, together with its subsidiaries, provides software and services in the United Kingdom, Europe, the Americas, Australia, and internationally. It operates through Ikiru People and Central segments.\u2026",
+    "company_name": "Dillistone Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DSG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:31.542445+00:00",
+    "market_cap": "5135613",
+    "market_cap_display": "\u00a35.1m",
+    "ticker": "DSG"
+  },
   "DXRX.L": {
     "business_description": "Diaceutics PLC, a diagnostic commercialization company, provides data, data analytics, and implementation services for pharma and biotech companies. The company offers DXRX, a diagnostic commercialization platform for\u2026",
     "company_name": "Diaceutics PLC",
@@ -2793,6 +2871,32 @@
     "market_cap": "144316832",
     "market_cap_display": "\u00a3144.3m",
     "ticker": "DXRX"
+  },
+  "EAAS.L": {
+    "business_description": "eEnergy Group Plc, together with its subsidiaries, operates as a digital energy services company in the United Kingdom and the Republic of Ireland. The company offers LED lighting and controls; solar PV, ground mount,\u2026",
+    "company_name": "eEnergy Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EAAS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:43.126387+00:00",
+    "market_cap": "5614758",
+    "market_cap_display": "\u00a35.6m",
+    "ticker": "EAAS"
+  },
+  "EARN.L": {
+    "business_description": "EARNZ plc provides heating maintenance, new energy services, and boiler refits across residential and commercial properties. It focuses on building businesses in the energy services sector building fabric; and\u2026",
+    "company_name": "EARNZ plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EARN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:33.112647+00:00",
+    "market_cap": "11163345",
+    "market_cap_display": "\u00a311.2m",
+    "ticker": "EARN"
   },
   "EBQ.L": {
     "business_description": "Ebiquity plc, together with its subsidiaries, provides media investment analysis services in the United Kingdom, Ireland, North America, Continental Europe, and the Asia Pacific. It offers media management, media\u2026",
@@ -3678,6 +3782,19 @@
     "market_cap_display": "\u00a3998.4m",
     "ticker": "GAMA"
   },
+  "GCG.L": {
+    "business_description": "Golden Rock Global plc does not have significant operations. The company intends to acquire a company or businesses in the financial and technology sector. Golden Rock Global plc was incorporated in 2016 and is based in\u2026",
+    "company_name": "Golden Rock Global Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GCG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:40.520042+00:00",
+    "market_cap": "1184212",
+    "market_cap_display": "\u00a31.2m",
+    "ticker": "GCG"
+  },
   "GDWN.L": {
     "business_description": "Goodwin PLC, together with its subsidiaries, provides refractory engineering and technological solutions in the United Kingdom, rest of Europe, the United States, the Pacific Basin, and internationally. It designs,\u2026",
     "company_name": "Goodwin PLC",
@@ -4224,6 +4341,19 @@
     "market_cap_display": "",
     "ticker": "HLMA"
   },
+  "HMI.L": {
+    "business_description": "Harvest Minerals Limited engages in the mineral exploration and production of organic natural fertilizers in Brazil and Australia. The company explores for potash, phosphate, and limestone. Its flagship project is the\u2026",
+    "company_name": "Harvest Minerals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:HMI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:36.466487+00:00",
+    "market_cap": "1222130",
+    "market_cap_display": "\u00a31.2m",
+    "ticker": "HMI"
+  },
   "HOC.L": {
     "business_description": "Hochschild Mining plc, a precious metals company, engages in the exploration, mining, processing, and sale of gold and silver deposits. The company's flagship asset includes the 100% owned Inmaculada gold and silver\u2026",
     "company_name": "Hochschild Mining plc",
@@ -4277,16 +4407,16 @@
     "ticker": "HSD"
   },
   "HSP.L": {
-    "business_description": "Hargreaves Services Plc provides environmental and industrial services in the United Kingdom, Europe, Hong Kong, and internationally. It operates through Services, Hargreaves Land, and Hargreaves Raw Materials Services\u2026",
+    "business_description": "Hargreaves Services Plc provides environmental and industrial services in the United Kingdom, Europe, Hong Kong, and internationally. It operates through Services, Hargreaves Land, and Germany segments. The company\u2026",
     "company_name": "Hargreaves Services Plc",
     "currency": "GBp",
     "data_source": "yfinance:HSP.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:46.778145+00:00",
-    "market_cap": "250548816",
-    "market_cap_display": "\u00a3250.5m",
+    "last_updated": "2026-09-30T18:53:43.805329+00:00",
+    "market_cap": "260988352",
+    "market_cap_display": "\u00a3261.0m",
     "ticker": "HSP"
   },
   "HTG.L": {
@@ -4678,6 +4808,19 @@
     "market_cap": "5792015",
     "market_cap_display": "\u00a35.8m",
     "ticker": "JAN"
+  },
+  "JAR.L": {
+    "business_description": "Jardine Matheson Holdings Limited operates in motor vehicles and related operations, property investment and development, health and beauty, home furnishings, engineering and construction, and transport businesses in\u2026",
+    "company_name": "Jardine Matheson Holdings Limited",
+    "currency": "USD",
+    "data_source": "yfinance:JAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:39.194431+00:00",
+    "market_cap": "18294611968",
+    "market_cap_display": "$18.29bn",
+    "ticker": "JAR"
   },
   "JARE.L": {
     "business_description": "",
@@ -5194,9 +5337,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:31.383337+00:00",
-    "market_cap": "1980218",
-    "market_cap_display": "\u00a32.0m",
+    "last_updated": "2026-09-30T18:53:30.078676+00:00",
+    "market_cap": "670386",
+    "market_cap_display": "\u00a3670.4k",
     "ticker": "LIT"
   },
   "LIV.L": {
@@ -5472,6 +5615,19 @@
     "market_cap_display": "",
     "ticker": "MCJ"
   },
+  "MDH.L": {
+    "business_description": "Mendell Helium plc engages in the production of helium in the United States. It holds interest in the Fort Dodge Prospect located in Ford County, Kansas; and various wells in its Hugoton North Play project located in\u2026",
+    "company_name": "Mendell Helium plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MDH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:33.778564+00:00",
+    "market_cap": "13483803",
+    "market_cap_display": "\u00a313.5m",
+    "ticker": "MDH"
+  },
   "MERC.L": {
     "business_description": "Mercia Asset Management PLC is a private equity and venture capital firm specializing in incubation, venture debt, loan, mezzanine, seed EIS, early stage, emerging growth, mid venture, late venture, later stage, buyout,\u2026",
     "company_name": "Mercia Asset Management PLC",
@@ -5506,9 +5662,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T06:47:20.221253+00:00",
-    "market_cap": "15704689",
-    "market_cap_display": "\u00a315.7m",
+    "last_updated": "2026-09-30T18:53:35.086043+00:00",
+    "market_cap": "14066429",
+    "market_cap_display": "\u00a314.1m",
     "ticker": "MET1"
   },
   "MEX.L": {
@@ -5602,17 +5758,30 @@
     "market_cap_display": "\u00a310.3m",
     "ticker": "MILA"
   },
+  "MIRI.L": {
+    "business_description": "Mirriad Advertising plc provides in-video advertising services to broadcasters, advertisers, brand owners, and their agencies. The company inserts group of a product, signage, or video into existing content; and engages\u2026",
+    "company_name": "Mirriad Advertising plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MIRI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:45.110355+00:00",
+    "market_cap": "409736",
+    "market_cap_display": "\u00a3409.7k",
+    "ticker": "MIRI"
+  },
   "MKA.L": {
-    "business_description": "Mkango Resources Ltd., together with its subsidiaries, engages in exploration and development of rare earth elements and associated minerals in Malawi, United Kingdom, and Poland. The company also explores for uranium,\u2026",
-    "company_name": "Mkango Resources Ltd.",
+    "business_description": "Mkango Magnetic Materials Limited, together with its subsidiaries, engages in exploration and development of rare earth elements and associated minerals in Malawi, United Kingdom, and Poland. The company also explores\u2026",
+    "company_name": "Mkango Magnetic Materials Limited",
     "currency": "GBp",
     "data_source": "yfinance:MKA.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T06:48:42.420861+00:00",
-    "market_cap": "175029120",
-    "market_cap_display": "\u00a3175.0m",
+    "last_updated": "2026-09-30T18:53:38.549455+00:00",
+    "market_cap": "155041440",
+    "market_cap_display": "\u00a3155.0m",
     "ticker": "MKA"
   },
   "MNKS.L": {
@@ -5649,9 +5818,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:28.872887+00:00",
-    "market_cap": "268527",
-    "market_cap_display": "\u00a3268.5k",
+    "last_updated": "2026-09-30T18:53:34.433030+00:00",
+    "market_cap": "676176",
+    "market_cap_display": "\u00a3676.2k",
     "ticker": "MODE"
   },
   "MOTR.L": {
@@ -5805,9 +5974,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T18:49:43.521050+00:00",
-    "market_cap": "2628106752",
-    "market_cap_display": "\u00a32.63bn",
+    "last_updated": "2026-09-30T18:53:42.470497+00:00",
+    "market_cap": "2708660224",
+    "market_cap_display": "\u00a32.71bn",
     "ticker": "MTO"
   },
   "MUT.L": {
@@ -6598,9 +6767,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T06:48:43.847266+00:00",
-    "market_cap": "30298680",
-    "market_cap_display": "\u00a330.3m",
+    "last_updated": "2026-09-30T18:53:28.351056+00:00",
+    "market_cap": "27585364",
+    "market_cap_display": "\u00a327.6m",
     "ticker": "PRD"
   },
   "PREM.L": {
@@ -6962,9 +7131,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T18:49:30.795467+00:00",
-    "market_cap": "26297426",
-    "market_cap_display": "\u00a326.3m",
+    "last_updated": "2026-09-30T18:53:32.218461+00:00",
+    "market_cap": "25791706",
+    "market_cap_display": "\u00a325.8m",
     "ticker": "RFG"
   },
   "RFX.L": {
@@ -8132,9 +8301,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T06:47:35.155224+00:00",
-    "market_cap": "9528965",
-    "market_cap_display": "\u00a39.5m",
+    "last_updated": "2026-09-30T18:53:37.855116+00:00",
+    "market_cap": "7827364",
+    "market_cap_display": "\u00a37.8m",
     "ticker": "SVNS"
   },
   "SWC.L": {
@@ -8201,6 +8370,19 @@
     "market_cap": "743223296",
     "market_cap_display": "\u00a3743.2m",
     "ticker": "SYNC"
+  },
+  "SYNT.L": {
+    "business_description": "Synthomer plc manufactures and supplies specialised polymers and ingredients for coatings, construction, adhesives, and health and protection sectors. The company offers adhesives, such as PSA labels, packaging and\u2026",
+    "company_name": "Synthomer plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SYNT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:44.450186+00:00",
+    "market_cap": "171812992",
+    "market_cap_display": "\u00a3171.8m",
+    "ticker": "SYNT"
   },
   "SYS1.L": {
     "business_description": "System1 Group PLC, together with its subsidiaries, provides market research data and insight services in the United States, Latin America, the United Kingdom, rest of Europe, and the Asia Pacific. The company offers\u2026",
@@ -8431,7 +8613,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:31.858189+00:00",
+    "last_updated": "2026-09-30T18:53:26.961231+00:00",
     "market_cap": "5665399",
     "market_cap_display": "\u00a35.7m",
     "ticker": "THR"
@@ -9098,6 +9280,19 @@
     "market_cap": "4179691",
     "market_cap_display": "\u00a34.2m",
     "ticker": "VOX"
+  },
+  "VRCI.L": {
+    "business_description": "Verici Dx plc, together with its subsidiary, Verici Dx Inc, develops prognostic and diagnostic tests for kidney transplant patients in the United Kingdom and the United States. The company develops Tutivia, a\u2026",
+    "company_name": "Verici Dx plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VRCI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-09-30T18:53:37.167596+00:00",
+    "market_cap": "5146450",
+    "market_cap_display": "\u00a35.1m",
+    "ticker": "VRCI"
   },
   "VSVS.L": {
     "business_description": "Vesuvius plc provides molten metal flow engineering and technology services to steel and foundry casting industries worldwide. It operates through Steel Flow Control, Steel Advanced Refractories, Steel Sensors & Probes,\u2026",
