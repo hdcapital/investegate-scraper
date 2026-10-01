@@ -194,6 +194,19 @@
     "market_cap_display": "",
     "ticker": "73YK"
   },
+  "74JJ.L": {
+    "business_description": "",
+    "company_name": "PETROL AD 8.375% GTD NTS 26/01/",
+    "currency": "EUR",
+    "data_source": "yfinance:74JJ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T18:55:03.873915+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "74JJ"
+  },
   "79HG.L": {
     "business_description": "",
     "company_name": "Eversholt Funding plc 6.697% A/BKD GTD SNR 22/02/35 GBP'2011-1",
@@ -2157,6 +2170,19 @@
     "market_cap_display": "\u00a319.2m",
     "ticker": "CMET"
   },
+  "CML.L": {
+    "business_description": "CML Microsystems plc, through its subsidiaries, designs, manufactures, and semiconductor products for industrial, professional and commercial applications in the Americas, Europe, Far East, and internationally. The\u2026",
+    "company_name": "CML Microsystems plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CML.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T18:55:04.563471+00:00",
+    "market_cap": "52475864",
+    "market_cap_display": "\u00a352.5m",
+    "ticker": "CML"
+  },
   "CMPG.L": {
     "business_description": "",
     "company_name": "CT Global Managed Portfolio Growth Ord",
@@ -3075,9 +3101,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:19.989546+00:00",
-    "market_cap": "191585952",
-    "market_cap_display": "\u00a3191.6m",
+    "last_updated": "2026-10-01T18:55:01.800792+00:00",
+    "market_cap": "192003360",
+    "market_cap_display": "\u00a3192.0m",
     "ticker": "ELCO"
   },
   "ELIX.L": {
@@ -7144,9 +7170,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T18:49:45.740425+00:00",
-    "market_cap": "37739416",
-    "market_cap_display": "\u00a337.7m",
+    "last_updated": "2026-10-01T18:55:02.464878+00:00",
+    "market_cap": "40227560",
+    "market_cap_display": "\u00a340.2m",
     "ticker": "RENX"
   },
   "REVB.L": {
@@ -7248,9 +7274,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:25.487961+00:00",
-    "market_cap": "123294302208",
-    "market_cap_display": "\u00a3123.29bn",
+    "last_updated": "2026-10-01T18:55:03.169843+00:00",
+    "market_cap": "113097039872",
+    "market_cap_display": "\u00a3113.10bn",
     "ticker": "RIO"
   },
   "RKH.L": {
@@ -8756,9 +8782,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:13.267966+00:00",
-    "market_cap": "52623824",
-    "market_cap_display": "\u00a352.6m",
+    "last_updated": "2026-10-01T18:55:00.358444+00:00",
+    "market_cap": "53082220",
+    "market_cap_display": "\u00a353.1m",
     "ticker": "TIME"
   },
   "TLW.L": {
@@ -9614,7 +9640,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T18:51:02.009789+00:00",
+    "last_updated": "2026-10-01T18:55:01.097693+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
