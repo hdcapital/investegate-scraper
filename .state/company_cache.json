@@ -1190,9 +1190,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T06:47:27.348603+00:00",
-    "market_cap": "12870007",
-    "market_cap_display": "\u00a312.9m",
+    "last_updated": "2026-10-01T06:50:31.889649+00:00",
+    "market_cap": "13860008",
+    "market_cap_display": "\u00a313.9m",
     "ticker": "BANK"
   },
   "BASC.L": {
@@ -1268,9 +1268,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T18:50:06.687915+00:00",
-    "market_cap": "7778332160",
-    "market_cap_display": "\u00a37.78bn",
+    "last_updated": "2026-10-01T06:50:37.655810+00:00",
+    "market_cap": "7808476672",
+    "market_cap_display": "\u00a37.81bn",
     "ticker": "BEZ"
   },
   "BFSP.L": {
@@ -2755,6 +2755,19 @@
     "market_cap_display": "\u00a3222.7m",
     "ticker": "DIA"
   },
+  "DIG.L": {
+    "business_description": "",
+    "company_name": "Dunedin Income Growth Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:DIG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T06:50:28.078094+00:00",
+    "market_cap": "360245216",
+    "market_cap_display": "\u00a3360.2m",
+    "ticker": "DIG"
+  },
   "DKL.L": {
     "business_description": "Dekel Agri-Vision plc, through its subsidiaries, develops and cultivates palm oil plantations in the Republic of Cote d'Ivoire. It operates through Crude Palm Oil and Raw Cashew Nut segments. The company offers raw\u2026",
     "company_name": "Dekel Agri-Vision plc",
@@ -3322,9 +3335,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:08.698020+00:00",
-    "market_cap": "538914624",
-    "market_cap_display": "\u00a3538.9m",
+    "last_updated": "2026-10-01T06:50:34.736025+00:00",
+    "market_cap": "654910976",
+    "market_cap_display": "\u00a3654.9m",
     "ticker": "EVPL"
   },
   "EWG.L": {
@@ -3361,9 +3374,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:19.382437+00:00",
-    "market_cap": "23638982656",
-    "market_cap_display": "\u00a323.64bn",
+    "last_updated": "2026-10-01T06:50:39.083401+00:00",
+    "market_cap": "21674643456",
+    "market_cap_display": "\u00a321.67bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -3504,9 +3517,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:16.091850+00:00",
-    "market_cap": "18967648",
-    "market_cap_display": "\u00a319.0m",
+    "last_updated": "2026-10-01T06:50:39.930649+00:00",
+    "market_cap": "16901864",
+    "market_cap_display": "\u00a316.9m",
     "ticker": "FIH"
   },
   "FIN.L": {
@@ -5584,9 +5597,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T18:50:08.271320+00:00",
-    "market_cap": "306952704",
-    "market_cap_display": "\u00a3307.0m",
+    "last_updated": "2026-10-01T06:50:36.234431+00:00",
+    "market_cap": "298448992",
+    "market_cap_display": "\u00a3298.4m",
     "ticker": "MCB"
   },
   "MCG.L": {
@@ -6226,6 +6239,19 @@
     "market_cap_display": "\u00a32.7m",
     "ticker": "NTVO"
   },
+  "NWT.L": {
+    "business_description": "Newmark Security plc designs, manufactures, and sells electronic and physical security systems in the United Kingdom, the United States, Belgium, Canada, the Netherlands, Mexico, the Middle East, Sweden, Switzerland,\u2026",
+    "company_name": "Newmark Security plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NWT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T06:50:38.366307+00:00",
+    "market_cap": "10131496",
+    "market_cap_display": "\u00a310.1m",
+    "ticker": "NWT"
+  },
   "NXQ.L": {
     "business_description": "Nexteq plc operates as a technology solution provider to customers in industrial markets in North America, Asia, Australia, rest of Europe, and internationally. It operates through Quixant and Densitron segments. The\u2026",
     "company_name": "Nexteq plc",
@@ -6603,6 +6629,19 @@
     "market_cap_display": "\u00a3885.0m",
     "ticker": "PHI"
   },
+  "PHP.L": {
+    "business_description": "Primary Health Properties PLC (PHP) is a UK Real Estate Investment Trust and leading investor in modern primary healthcare premises. We invest in flexible, modern properties for local primary healthcare. The overall\u2026",
+    "company_name": "Primary Health Properties Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PHP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T06:50:28.790212+00:00",
+    "market_cap": "2379614976",
+    "market_cap_display": "\u00a32.38bn",
+    "ticker": "PHP"
+  },
   "PIN.L": {
     "business_description": "",
     "company_name": "Pantheon International Ord",
@@ -6663,9 +6702,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T06:48:36.609128+00:00",
-    "market_cap": "144641808",
-    "market_cap_display": "\u00a3144.6m",
+    "last_updated": "2026-10-01T06:50:34.027156+00:00",
+    "market_cap": "141427536",
+    "market_cap_display": "\u00a3141.4m",
     "ticker": "PLSR"
   },
   "PMP.L": {
@@ -7157,9 +7196,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T18:49:52.778831+00:00",
-    "market_cap": "152867344",
-    "market_cap_display": "\u00a3152.9m",
+    "last_updated": "2026-10-01T06:50:33.306867+00:00",
+    "market_cap": "159922864",
+    "market_cap_display": "\u00a3159.9m",
     "ticker": "RGG"
   },
   "RGL.L": {
@@ -7291,6 +7330,19 @@
     "market_cap": "501948672",
     "market_cap_display": "\u00a3501.9m",
     "ticker": "RNK"
+  },
+  "RNWH.L": {
+    "business_description": "Renew Holdings plc provides engineering services in the United Kingdom and rest of Europe. The company offers asset renewal and refurbishment, fencing and devegetation, critical planned and reactive maintenance, and\u2026",
+    "company_name": "Renew Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RNWH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T06:50:35.454938+00:00",
+    "market_cap": "745720384",
+    "market_cap_display": "\u00a3745.7m",
+    "ticker": "RNWH"
   },
   "ROAD.L": {
     "business_description": "Roadside Real Estate plc engages in the real estate asset management and development activities in the United Kingdom. The company was formerly known as Barkby Group PLC and changed its name to Roadside Real Estate plc\u2026",
@@ -7616,6 +7668,19 @@
     "market_cap": "52897704",
     "market_cap_display": "\u00a352.9m",
     "ticker": "SDG"
+  },
+  "SDI.L": {
+    "business_description": "SDI Group plc designs and manufactures scientific and technology products based on digital imaging and sensing and control applications worldwide. The company offers sensitive camera for life science and industrial\u2026",
+    "company_name": "SDI Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SDI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T06:50:32.599808+00:00",
+    "market_cap": "97253008",
+    "market_cap_display": "\u00a397.3m",
+    "ticker": "SDI"
   },
   "SDIC.L": {
     "business_description": "",
@@ -8015,9 +8080,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T06:47:37.222617+00:00",
-    "market_cap": "13734560",
-    "market_cap_display": "\u00a313.7m",
+    "last_updated": "2026-10-01T06:50:36.938020+00:00",
+    "market_cap": "12818924",
+    "market_cap_display": "\u00a312.8m",
     "ticker": "SOUC"
   },
   "SPDI.L": {
@@ -8552,6 +8617,19 @@
     "market_cap": "8178191",
     "market_cap_display": "\u00a38.2m",
     "ticker": "TERN"
+  },
+  "TFW.L": {
+    "business_description": "FW Thorpe Plc designs, manufactures, and supplies professional lighting equipment in the United Kingdom, the Netherlands, Germany, rest of Europe, and internationally. The company offers professional lighting and\u2026",
+    "company_name": "FW Thorpe Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TFW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-01T06:50:30.262652+00:00",
+    "market_cap": "301446528",
+    "market_cap_display": "\u00a3301.4m",
+    "ticker": "TFW"
   },
   "TGA.L": {
     "business_description": "Thungela Resources Limited engages in the mining and production of thermal coal in South Africa and Australia. It owns interests in and produces its thermal coal from mining operations, consisting of underground and\u2026",
