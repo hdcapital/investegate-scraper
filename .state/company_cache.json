@@ -1255,9 +1255,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:42.214100+00:00",
-    "market_cap": "88403016",
-    "market_cap_display": "\u00a388.4m",
+    "last_updated": "2026-10-02T06:48:02.128422+00:00",
+    "market_cap": "87821416",
+    "market_cap_display": "\u00a387.8m",
     "ticker": "BBSN"
   },
   "BEM.L": {
@@ -1509,15 +1509,15 @@
   },
   "BOOK.L": {
     "business_description": "",
-    "company_name": "Literacy Capital plc",
+    "company_name": "Literacy Capital PLC",
     "currency": "GBp",
     "data_source": "yfinance:BOOK.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:32.074240+00:00",
-    "market_cap": "192560000",
-    "market_cap_display": "\u00a3192.6m",
+    "last_updated": "2026-10-02T06:48:03.430485+00:00",
+    "market_cap": "191958240",
+    "market_cap_display": "\u00a3192.0m",
     "ticker": "BOOK"
   },
   "BOOT.L": {
@@ -2243,9 +2243,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:37.629847+00:00",
-    "market_cap": "271230016",
-    "market_cap_display": "\u00a3271.2m",
+    "last_updated": "2026-10-02T06:48:00.826056+00:00",
+    "market_cap": "293203072",
+    "market_cap_display": "\u00a3293.2m",
     "ticker": "CNE"
   },
   "CNS.L": {
@@ -4128,9 +4128,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:54.707649+00:00",
-    "market_cap": "247498752",
-    "market_cap_display": "\u00a3247.5m",
+    "last_updated": "2026-10-02T06:48:05.356387+00:00",
+    "market_cap": "246488560",
+    "market_cap_display": "\u00a3246.5m",
     "ticker": "GSF"
   },
   "GSK.L": {
@@ -4310,9 +4310,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:49.929993+00:00",
-    "market_cap": "63842448",
-    "market_cap_display": "\u00a363.8m",
+    "last_updated": "2026-10-02T06:48:07.342067+00:00",
+    "market_cap": "70156536",
+    "market_cap_display": "\u00a370.2m",
     "ticker": "HEX"
   },
   "HFG.L": {
@@ -4531,9 +4531,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:43.492988+00:00",
-    "market_cap": "578181760",
-    "market_cap_display": "\u00a3578.2m",
+    "last_updated": "2026-10-02T06:48:02.782775+00:00",
+    "market_cap": "607415680",
+    "market_cap_display": "\u00a3607.4m",
     "ticker": "HWG"
   },
   "ICFG.L": {
@@ -4622,9 +4622,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:09.711674+00:00",
-    "market_cap": "4486324224",
-    "market_cap_display": "\u00a34.49bn",
+    "last_updated": "2026-10-02T06:48:04.075333+00:00",
+    "market_cap": "4216024064",
+    "market_cap_display": "\u00a34.22bn",
     "ticker": "IGG"
   },
   "IGR.L": {
@@ -4899,6 +4899,19 @@
     "market_cap": "252440352",
     "market_cap_display": "\u00a3252.4m",
     "ticker": "JDG"
+  },
+  "JDW.L": {
+    "business_description": "J D Wetherspoon plc owns and operates pubs and hotels in the United Kingdom and the Republic of Ireland. It also offers foods and drinks. The company was founded in 1979 and is based in Watford, the United Kingdom.",
+    "company_name": "J D Wetherspoon plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JDW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-02T06:48:00.175575+00:00",
+    "market_cap": "856947904",
+    "market_cap_display": "\u00a3856.9m",
+    "ticker": "JDW"
   },
   "JEL.L": {
     "business_description": "Jersey Electricity plc, together with its subsidiaries, engages in the importation, generation, transmission, distribution, and supply of electricity in Jersey. It operates through Energy, Building Services, Retail,\u2026",
@@ -5181,9 +5194,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:35.295161+00:00",
-    "market_cap": "46853944",
-    "market_cap_display": "\u00a346.9m",
+    "last_updated": "2026-10-02T06:48:04.716008+00:00",
+    "market_cap": "42594492",
+    "market_cap_display": "\u00a342.6m",
     "ticker": "KMK"
   },
   "KNOS.L": {
@@ -5558,9 +5571,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:42.082836+00:00",
-    "market_cap": "16274808",
-    "market_cap_display": "\u00a316.3m",
+    "last_updated": "2026-10-02T06:48:06.647892+00:00",
+    "market_cap": "18474106",
+    "market_cap_display": "\u00a318.5m",
     "ticker": "MANO"
   },
   "MATD.L": {
@@ -7079,9 +7092,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T18:51:04.026250+00:00",
-    "market_cap": "9353284",
-    "market_cap_display": "\u00a39.4m",
+    "last_updated": "2026-10-02T06:48:06.000123+00:00",
+    "market_cap": "9280778",
+    "market_cap_display": "\u00a39.3m",
     "ticker": "RBD"
   },
   "RBN.L": {
@@ -7664,9 +7677,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:14.814275+00:00",
-    "market_cap": "131597472",
-    "market_cap_display": "\u00a3131.6m",
+    "last_updated": "2026-10-02T06:48:01.480156+00:00",
+    "market_cap": "126849128",
+    "market_cap_display": "\u00a3126.8m",
     "ticker": "SCLP"
   },
   "SCT.L": {
