@@ -527,9 +527,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T18:51:05.345315+00:00",
-    "market_cap": "56252348",
-    "market_cap_display": "\u00a356.3m",
+    "last_updated": "2026-10-02T18:50:17.046898+00:00",
+    "market_cap": "55991100",
+    "market_cap_display": "\u00a356.0m",
     "ticker": "AIC"
   },
   "AIEA.L": {
@@ -1038,6 +1038,19 @@
     "market_cap": "4798325",
     "market_cap_display": "\u00a34.8m",
     "ticker": "ATN"
+  },
+  "ATOM.L": {
+    "business_description": "Atome Plc engages in producing, marketing, and distributing green hydrogen and ammonia in the United Kingdom, Costa Rica, Iceland, and Paraguay. It also provides such as fossil-fuel based ammonia and related products.\u2026",
+    "company_name": "Atome Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ATOM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-02T18:50:15.502172+00:00",
+    "market_cap": "27824798",
+    "market_cap_display": "\u00a327.8m",
+    "ticker": "ATOM"
   },
   "ATR.L": {
     "business_description": "Schroders Investment Trusts - Schroder Asian Total Return Investment Company plc is a closed ended equity mutual fund launched by Schroder Unit Trusts Limited. The fund is co-managed by Schroder Investment Management\u2026",
@@ -3651,6 +3664,19 @@
     "market_cap": "791869",
     "market_cap_display": "\u00a3791.9k",
     "ticker": "FOX"
+  },
+  "FOXT.L": {
+    "business_description": "Foxtons Group plc, an estate agency, provides residential property services in the United Kingdom. It operates through Lettings, Sales, and Financial Services segments. The Lettings segment engages in the letting and\u2026",
+    "company_name": "Foxtons Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FOXT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-02T18:50:18.601988+00:00",
+    "market_cap": "109416672",
+    "market_cap_display": "\u00a3109.4m",
+    "ticker": "FOXT"
   },
   "FRAS.L": {
     "business_description": "Frasers Group Plc, together with its subsidiaries, engages in the retail of sports and leisure clothing, footwear and equipment, and premium and luxury apparel through department stores, shops, and online. It operates\u2026",
@@ -6702,9 +6728,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T18:49:19.388389+00:00",
-    "market_cap": "518787840",
-    "market_cap_display": "\u00a3518.8m",
+    "last_updated": "2026-10-02T18:50:17.772637+00:00",
+    "market_cap": "521122112",
+    "market_cap_display": "\u00a3521.1m",
     "ticker": "PINE"
   },
   "PINT.L": {
@@ -6988,9 +7014,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T18:50:16.223109+00:00",
-    "market_cap": "1632249856",
-    "market_cap_display": "\u20ac1.63bn",
+    "last_updated": "2026-10-02T18:50:14.718675+00:00",
+    "market_cap": "1613175168",
+    "market_cap_display": "\u20ac1.61bn",
     "ticker": "PTSB"
   },
   "PWR.L": {
@@ -7976,9 +8002,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:29.438705+00:00",
-    "market_cap": "7305586688",
-    "market_cap_display": "\u00a37.31bn",
+    "last_updated": "2026-10-02T18:50:16.246454+00:00",
+    "market_cap": "7881137152",
+    "market_cap_display": "\u00a37.88bn",
     "ticker": "SMIN"
   },
   "SML.L": {
