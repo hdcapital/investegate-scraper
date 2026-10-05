@@ -1476,9 +1476,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:17.262002+00:00",
-    "market_cap": "1499925",
-    "market_cap_display": "\u00a31.5m",
+    "last_updated": "2026-10-05T06:48:44.749743+00:00",
+    "market_cap": "1154550",
+    "market_cap_display": "\u00a31.2m",
     "ticker": "BMV"
   },
   "BNC.L": {
@@ -3275,6 +3275,19 @@
     "market_cap_display": "\u00a3274.7m",
     "ticker": "ENRG"
   },
+  "ENSI.L": {
+    "business_description": "EnSilica plc engages in the design and supply of complex mixed signal application specific integrated circuit chips in the United Kingdom, Rest of Europe, and internationally. It provides custom RF, mmWave, mixed\u2026",
+    "company_name": "EnSilica plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ENSI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-05T06:48:34.983538+00:00",
+    "market_cap": "99334208",
+    "market_cap_display": "\u00a399.3m",
+    "ticker": "ENSI"
+  },
   "ENW.L": {
     "business_description": "Enwell Energy plc engages in the exploration, development, and production of oil and gas properties in Ukraine. The company holds 100% interest in gas and condensate fields, including the Mekhediviska-Golotvshinska and\u2026",
     "company_name": "Enwell Energy plc",
@@ -3899,6 +3912,19 @@
     "market_cap_display": "\u00a33.9m",
     "ticker": "GEMR"
   },
+  "GENF.L": {
+    "business_description": "Genflow Biosciences plc, together with its subsidiaries, engages in the research and development of gene therapies in the United Kingdom, Belgium, and the United States. It develops drugs in pre-clinical trial stage,\u2026",
+    "company_name": "Genflow Biosciences plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GENF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-05T06:48:40.980587+00:00",
+    "market_cap": "12485230",
+    "market_cap_display": "\u00a312.5m",
+    "ticker": "GENF"
+  },
   "GENI.L": {
     "business_description": "GENinCode Plc engages in the development and commercialization of clinical genetic tests for predictive analysis of risk to a patient's health based on genes in the United Kingdom, Spain, Italy, the United States,\u2026",
     "company_name": "GENinCode Plc",
@@ -3998,9 +4024,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T18:51:18.757752+00:00",
-    "market_cap": "143798432",
-    "market_cap_display": "\u00a3143.8m",
+    "last_updated": "2026-10-05T06:48:41.722516+00:00",
+    "market_cap": "168007904",
+    "market_cap_display": "\u00a3168.0m",
     "ticker": "GLE"
   },
   "GLR.L": {
@@ -4419,6 +4445,19 @@
     "market_cap_display": "\u00a31.2m",
     "ticker": "HMI"
   },
+  "HMSO.L": {
+    "business_description": "Hammerson Plc is the largest UK-listed, pure-play owner and manager of prime retail and leisure anchored city destinations across the UK, France and Ireland. We own, manage and invest in landmark city destinations\u2026",
+    "company_name": "Hammerson Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HMSO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-05T06:48:43.256861+00:00",
+    "market_cap": "1949474944",
+    "market_cap_display": "\u00a31.95bn",
+    "ticker": "HMSO"
+  },
   "HOC.L": {
     "business_description": "Hochschild Mining plc, a precious metals company, engages in the exploration, mining, processing, and sale of gold and silver deposits. The company's flagship asset includes the 100% owned Inmaculada gold and silver\u2026",
     "company_name": "Hochschild Mining plc",
@@ -4804,9 +4843,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:39.333800+00:00",
-    "market_cap": "4720715776",
-    "market_cap_display": "\u00a34.72bn",
+    "last_updated": "2026-10-05T06:48:35.732471+00:00",
+    "market_cap": "4545752064",
+    "market_cap_display": "\u00a34.55bn",
     "ticker": "ITH"
   },
   "ITIM.L": {
@@ -5207,9 +5246,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:51.660741+00:00",
-    "market_cap": "16090972",
-    "market_cap_display": "\u00a316.1m",
+    "last_updated": "2026-10-05T06:48:39.484837+00:00",
+    "market_cap": "18916474",
+    "market_cap_display": "\u00a318.9m",
     "ticker": "KLSO"
   },
   "KMK.L": {
@@ -6247,10 +6286,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:05.389251+00:00",
-    "market_cap": "23904896",
-    "market_cap_display": "\u00a323.9m",
+    "last_updated": "2026-10-05T06:48:37.234299+00:00",
+    "market_cap": "21643010",
+    "market_cap_display": "\u00a321.6m",
     "ticker": "NEO"
+  },
+  "NG.L": {
+    "business_description": "National Grid plc engages in the transmission and distribution of electricity and gas. It operates through UK Electricity Transmission, UK Electricity Distribution, New England, New York, National Grid Ventures, and\u2026",
+    "company_name": "National Grid plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-05T06:48:40.231913+00:00",
+    "market_cap": "57633513472",
+    "market_cap_display": "\u00a357.63bn",
+    "ticker": "NG"
   },
   "NICL.L": {
     "business_description": "Nichols plc, together with its subsidiaries, engages in supply of soft drinks to the retail, wholesale, catering, licensed, and leisure industries in the United Kingdom, the Middle East, Africa, and internationally. It\u2026",
@@ -7079,9 +7131,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T06:47:18.735428+00:00",
-    "market_cap": "2677550",
-    "market_cap_display": "\u00a32.7m",
+    "last_updated": "2026-10-05T06:48:37.984228+00:00",
+    "market_cap": "6058998",
+    "market_cap_display": "\u00a36.1m",
     "ticker": "QDE"
   },
   "QHE.L": {
@@ -7096,6 +7148,19 @@
     "market_cap": "9497225",
     "market_cap_display": "\u00a39.5m",
     "ticker": "QHE"
+  },
+  "QTX.L": {
+    "business_description": "Quartix Technologies plc designs, develops, markets, and delivers vehicle telematics services in the United Kingdom, France, the United States, and other European Territories. The company offers GPS Vehicle Tracking\u2026",
+    "company_name": "Quartix Technologies plc",
+    "currency": "GBp",
+    "data_source": "yfinance:QTX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-05T06:48:38.732416+00:00",
+    "market_cap": "109024376",
+    "market_cap_display": "\u00a3109.0m",
+    "ticker": "QTX"
   },
   "RAT.L": {
     "business_description": "Rathbones Group Plc, together with its subsidiaries, provides wealth management, asset management, and related services in the United Kingdom and Channel Islands. The company operates in two segments: Wealth Management\u2026",
@@ -8080,9 +8145,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:02.377058+00:00",
-    "market_cap": "872463",
-    "market_cap_display": "\u00a3872.5k",
+    "last_updated": "2026-10-05T06:48:44.004739+00:00",
+    "market_cap": "1031093",
+    "market_cap_display": "\u00a31.0m",
     "ticker": "SNT"
   },
   "SNWS.L": {
@@ -8227,6 +8292,19 @@
     "market_cap": "1423172352",
     "market_cap_display": "\u00a31.42bn",
     "ticker": "SRC"
+  },
+  "SRE.L": {
+    "business_description": "Sirius Real Estate Limited engages in the investment, development, and operation of commercial and industrial properties in Germany and the United Kingdom. It owns and manages offices; warehouses, storerooms, and\u2026",
+    "company_name": "Sirius Real Estate Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SRE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-05T06:48:36.482583+00:00",
+    "market_cap": "1371847680",
+    "market_cap_display": "\u00a31.37bn",
+    "ticker": "SRE"
   },
   "SRES.L": {
     "business_description": "Sunrise Resources plc, together with its subsidiaries, engages in the acquisition, exploration, and development of mineral projects in the United States and Western Australia. The company explores for gold, copper,\u2026",
@@ -9744,9 +9822,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:46.968822+00:00",
-    "market_cap": "313726720",
-    "market_cap_display": "\u00a3313.7m",
+    "last_updated": "2026-10-05T06:48:42.470972+00:00",
+    "market_cap": "290194976",
+    "market_cap_display": "\u00a3290.2m",
     "ticker": "YU"
   },
   "ZCC.L": {
