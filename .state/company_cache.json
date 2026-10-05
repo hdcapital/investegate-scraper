@@ -1983,9 +1983,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:31.263476+00:00",
-    "market_cap": "203836400",
-    "market_cap_display": "\u00a3203.8m",
+    "last_updated": "2026-10-05T18:51:05.909285+00:00",
+    "market_cap": "199109760",
+    "market_cap_display": "\u00a3199.1m",
     "ticker": "CER"
   },
   "CHAR.L": {
@@ -2295,9 +2295,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:16.772285+00:00",
-    "market_cap": "43547872",
-    "market_cap_display": "\u00a343.5m",
+    "last_updated": "2026-10-05T18:51:06.776145+00:00",
+    "market_cap": "39773936",
+    "market_cap_display": "\u00a339.8m",
     "ticker": "COBR"
   },
   "CODE.L": {
@@ -5862,6 +5862,19 @@
     "market_cap_display": "\u00a3151.7m",
     "ticker": "MIDW"
   },
+  "MII.L": {
+    "business_description": "Milton Capital Plc does not have significant operations. The company intends to identify and acquire a suitable business opportunity or opportunities and undertake an acquisition or merger or a series of acquisitions or\u2026",
+    "company_name": "Milton Capital Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MII.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-05T18:51:03.585722+00:00",
+    "market_cap": "481800",
+    "market_cap_display": "\u00a3481.8k",
+    "ticker": "MII"
+  },
   "MILA.L": {
     "business_description": "Mila Resources Plc engages in exploration and development of mineral resource properties. The company explores for gold, lithium, and copper deposits. It holds interest in the Kathleen Valley project that consists of\u2026",
     "company_name": "Mila Resources Plc",
@@ -6689,7 +6702,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:34.961895+00:00",
+    "last_updated": "2026-10-05T18:51:02.828687+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "PEYS"
@@ -8782,9 +8795,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:23.969857+00:00",
-    "market_cap": "753684480",
-    "market_cap_display": "\u00a3753.7m",
+    "last_updated": "2026-10-05T18:51:07.584300+00:00",
+    "market_cap": "730807104",
+    "market_cap_display": "\u00a3730.8m",
     "ticker": "TGA"
   },
   "TGR.L": {
@@ -9406,9 +9419,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:24.258386+00:00",
-    "market_cap": "65970576",
-    "market_cap_display": "\u00a366.0m",
+    "last_updated": "2026-10-05T18:51:04.369751+00:00",
+    "market_cap": "53818100",
+    "market_cap_display": "\u00a353.8m",
     "ticker": "VCP"
   },
   "VCT.L": {
