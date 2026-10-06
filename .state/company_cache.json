@@ -228,9 +228,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:17.418692+00:00",
-    "market_cap": "58966856",
-    "market_cap_display": "\u00a359.0m",
+    "last_updated": "2026-10-06T06:48:22.376409+00:00",
+    "market_cap": "61728380",
+    "market_cap_display": "\u00a361.7m",
     "ticker": "80M"
   },
   "87UO.L": {
@@ -1450,9 +1450,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:15.378517+00:00",
-    "market_cap": "14330077",
-    "market_cap_display": "\u00a314.3m",
+    "last_updated": "2026-10-06T06:48:23.019475+00:00",
+    "market_cap": "11758012",
+    "market_cap_display": "\u00a311.8m",
     "ticker": "BLOE"
   },
   "BMTO.L": {
@@ -1866,9 +1866,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:36.850776+00:00",
-    "market_cap": "242629200",
-    "market_cap_display": "\u00a3242.6m",
+    "last_updated": "2026-10-06T06:48:20.992916+00:00",
+    "market_cap": "268584864",
+    "market_cap_display": "\u00a3268.6m",
     "ticker": "CAPD"
   },
   "CARD.L": {
@@ -2130,6 +2130,19 @@
     "market_cap": "10242826",
     "market_cap_display": "\u00a310.2m",
     "ticker": "CLA"
+  },
+  "CLBS.L": {
+    "business_description": "Celebrus Technologies plc, together with its subsidiaries, operates a digital identity and data platform in the United Kingdom, rest of Europe, the United States, and internationally. It offers Celebrus Data Platform, a\u2026",
+    "company_name": "Celebrus Technologies plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CLBS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-06T06:48:17.729127+00:00",
+    "market_cap": "35666016",
+    "market_cap_display": "\u00a335.7m",
+    "ticker": "CLBS"
   },
   "CLDN.L": {
     "business_description": "Caledonia Investments plc is a self-managed investment trust company. It invests in private and public equity markets across the globe. The firm benchmarks the performance of its portfolios against the FTSE All-Share\u2026",
@@ -4744,6 +4757,19 @@
     "market_cap_display": "\u00a321.8m",
     "ticker": "IMM"
   },
+  "INF.L": {
+    "business_description": "Informa plc operates as an international events, digital services, and academic research company in the United Kingdom, Continental Europe, North America, China, and internationally. It operates through five segments:\u2026",
+    "company_name": "Informa plc",
+    "currency": "GBp",
+    "data_source": "yfinance:INF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-06T06:48:18.499112+00:00",
+    "market_cap": "10766487552",
+    "market_cap_display": "\u00a310.77bn",
+    "ticker": "INF"
+  },
   "ING.L": {
     "business_description": "Ingenta plc, together with its subsidiaries, provides content management, advertising, and commercial enterprise solutions and services to publishers, information providers, academic libraries, and institutions in the\u2026",
     "company_name": "Ingenta plc",
@@ -5987,9 +6013,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:16.931576+00:00",
-    "market_cap": "52200924",
-    "market_cap_display": "\u00a352.2m",
+    "last_updated": "2026-10-06T06:48:21.642984+00:00",
+    "market_cap": "60885316",
+    "market_cap_display": "\u00a360.9m",
     "ticker": "MPAL"
   },
   "MPE.L": {
@@ -8033,6 +8059,19 @@
     "market_cap_display": "$179.7m",
     "ticker": "SIHL"
   },
+  "SJG.L": {
+    "business_description": "",
+    "company_name": "Schroder Japan Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:SJG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-06T06:48:17.088940+00:00",
+    "market_cap": "441841216",
+    "market_cap_display": "\u00a3441.8m",
+    "ticker": "SJG"
+  },
   "SKA.L": {
     "business_description": "Shuka Minerals Plc engages in the exploration, development, and mining of energy commodities in Tanzania and Zambia. The company explores for coal, lead, zinc, silver, vanadium oxide, gallium, and germanium deposits. It\u2026",
     "company_name": "Shuka Minerals Plc",
@@ -8951,9 +8990,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T18:50:59.447469+00:00",
-    "market_cap": "49789360",
-    "market_cap_display": "\u00a349.8m",
+    "last_updated": "2026-10-06T06:48:19.143941+00:00",
+    "market_cap": "51599876",
+    "market_cap_display": "\u00a351.6m",
     "ticker": "TMIP"
   },
   "TMO.L": {
