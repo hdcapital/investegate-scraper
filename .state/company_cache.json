@@ -51,6 +51,19 @@
     "market_cap_display": "$5.52bn",
     "ticker": "37QB"
   },
+  "38LO.L": {
+    "business_description": "",
+    "company_name": "Bazalgette Finance Plc IDX/LKD SNR SEC MTN 15/06/2054 GBP100000",
+    "currency": "GBP",
+    "data_source": "yfinance:38LO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-06T18:50:53.556941+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "38LO"
+  },
   "3DIE.L": {
     "business_description": "",
     "company_name": "Leverage Shares 3x Disney ETP Securities",
@@ -245,6 +258,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "87UO"
+  },
+  "90NI.L": {
+    "business_description": "",
+    "company_name": "Severn Trent Utilities Finance Plc IDX/LKD GTD SNR EMTN 01/02/2067 GBP50000",
+    "currency": "GBP",
+    "data_source": "yfinance:90NI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-06T18:50:56.267131+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "90NI"
   },
   "93TH.L": {
     "business_description": "",
@@ -475,9 +501,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:18.523638+00:00",
-    "market_cap": "225335504",
-    "market_cap_display": "\u00a3225.3m",
+    "last_updated": "2026-10-06T18:50:51.805280+00:00",
+    "market_cap": "189984784",
+    "market_cap_display": "\u00a3190.0m",
     "ticker": "AET"
   },
   "AEWU.L": {
@@ -2529,9 +2555,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T18:51:06.736462+00:00",
-    "market_cap": "48438296",
-    "market_cap_display": "\u00a348.4m",
+    "last_updated": "2026-10-06T18:50:54.469379+00:00",
+    "market_cap": "46131712",
+    "market_cap_display": "\u00a346.1m",
     "ticker": "CTG"
   },
   "CTHT.L": {
@@ -4485,14 +4511,14 @@
     "ticker": "HOC"
   },
   "HOME.L": {
-    "business_description": "",
+    "business_description": "Home REIT plc is a closed-ended investment company which is registered as a public company limited by shares under the Companies Act 2006. The Company is structured as an externally managed company with a board of\u2026",
     "company_name": "Home REIT Ord",
     "currency": "GBp",
     "data_source": "yfinance:HOME.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:42.243022+00:00",
+    "last_updated": "2026-10-06T18:50:55.411424+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "HOME"
@@ -6481,9 +6507,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:29.476311+00:00",
-    "market_cap": "80201016",
-    "market_cap_display": "\u00a380.2m",
+    "last_updated": "2026-10-06T18:50:49.995022+00:00",
+    "market_cap": "61133840",
+    "market_cap_display": "\u00a361.1m",
     "ticker": "OMI"
   },
   "OMU.L": {
@@ -8184,9 +8210,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:36.964523+00:00",
-    "market_cap": "1223663744",
-    "market_cap_display": "\u00a31.22bn",
+    "last_updated": "2026-10-06T18:50:49.117375+00:00",
+    "market_cap": "1229864832",
+    "market_cap_display": "\u00a31.23bn",
     "ticker": "SNR"
   },
   "SNT.L": {
@@ -8708,6 +8734,19 @@
     "market_cap": "108752536",
     "market_cap_display": "\u00a3108.8m",
     "ticker": "TAPH"
+  },
+  "TATE.L": {
+    "business_description": "Tate & Lyle plc, together with its subsidiaries, engages in the provision of ingredients and solutions to the food, beverages, and other industries in North America, Asia, Middle East, Africa, Latin America, and Europe.\u2026",
+    "company_name": "Tate & Lyle plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TATE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-06T18:50:50.940563+00:00",
+    "market_cap": "2482787328",
+    "market_cap_display": "\u00a32.48bn",
+    "ticker": "TATE"
   },
   "TAVI.L": {
     "business_description": "Tavistock Investments Plc, together with its subsidiaries, provides financial advisory and investment management services in the United Kingdom. The company offers wealth and portfolio management services; and life\u2026",
@@ -9406,9 +9445,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T18:49:52.066559+00:00",
-    "market_cap": "187133792",
-    "market_cap_display": "\u00a3187.1m",
+    "last_updated": "2026-10-06T18:50:52.659700+00:00",
+    "market_cap": "188941840",
+    "market_cap_display": "\u00a3188.9m",
     "ticker": "UTL"
   },
   "VAL.L": {
