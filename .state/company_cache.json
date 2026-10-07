@@ -558,6 +558,19 @@
     "market_cap_display": "\u00a356.0m",
     "ticker": "AIC"
   },
+  "AIE.L": {
+    "business_description": "",
+    "company_name": "Ashoka India Equity Investment Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:AIE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T06:48:41.917186+00:00",
+    "market_cap": "415675232",
+    "market_cap_display": "\u00a3415.7m",
+    "ticker": "AIE"
+  },
   "AIEA.L": {
     "business_description": "AIREA plc, together with its subsidiaries, designs, manufactures, and sells floor coverings in the United Kingdom and internationally. The company offers commercial carpet tiles and planks for architects; and specifiers\u2026",
     "company_name": "AIREA plc",
@@ -1169,6 +1182,19 @@
     "market_cap_display": "\u00a3267.8m",
     "ticker": "AVG"
   },
+  "AVON.L": {
+    "business_description": "Avon Technologies Plc, together with its subsidiaries, provides respiratory and head protection products for the military and first responder markets in Europe and the United States. It operates through Avon Protection\u2026",
+    "company_name": "Avon Technologies Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AVON.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T06:48:44.414338+00:00",
+    "market_cap": "561937472",
+    "market_cap_display": "\u00a3561.9m",
+    "ticker": "AVON"
+  },
   "AXB.L": {
     "business_description": "Axis Bank Limited provides various financial products and services in India and internationally. The company operates through four segments: Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking\u2026",
     "company_name": "Axis Bank Limited",
@@ -1255,9 +1281,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:18.792037+00:00",
-    "market_cap": "172489136",
-    "market_cap_display": "\u00a3172.5m",
+    "last_updated": "2026-10-07T06:48:38.711842+00:00",
+    "market_cap": "176328320",
+    "market_cap_display": "\u00a3176.3m",
     "ticker": "BASC"
   },
   "BAY.L": {
@@ -1879,9 +1905,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T18:50:21.748625+00:00",
-    "market_cap": "285942528",
-    "market_cap_display": "\u00a3285.9m",
+    "last_updated": "2026-10-07T06:48:45.294659+00:00",
+    "market_cap": "256632544",
+    "market_cap_display": "\u00a3256.6m",
     "ticker": "CAML"
   },
   "CAPD.L": {
@@ -2386,9 +2412,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:39.142363+00:00",
-    "market_cap": "6746666",
-    "market_cap_display": "\u00a36.7m",
+    "last_updated": "2026-10-07T06:48:49.944400+00:00",
+    "market_cap": "5213333",
+    "market_cap_display": "\u00a35.2m",
     "ticker": "COM"
   },
   "COR.L": {
@@ -3626,6 +3652,19 @@
     "market_cap_display": "\u00a34.8m",
     "ticker": "FIN"
   },
+  "FLK.L": {
+    "business_description": "Fletcher King Plc provides a range of property advice services in the United Kingdom. The company provides services in the areas of property fund management, property asset management, investment broking, valuations,\u2026",
+    "company_name": "Fletcher King Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FLK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T06:48:41.071579+00:00",
+    "market_cap": "3537012",
+    "market_cap_display": "\u00a33.5m",
+    "ticker": "FLK"
+  },
   "FLO.L": {
     "business_description": "Flowtech Fluidpower plc, together with its subsidiaries, engages in the distribution of engineering components and assemblies in the areas of fluid power industry in the United Kingdom, The Netherlands, Belgium, and\u2026",
     "company_name": "Flowtech Fluidpower plc",
@@ -4375,7 +4414,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:36.895548+00:00",
+    "last_updated": "2026-10-07T06:48:42.718634+00:00",
     "market_cap": "8429680",
     "market_cap_display": "\u00a38.4m",
     "ticker": "HEAD"
@@ -5168,9 +5207,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:26.585748+00:00",
-    "market_cap": "198531280",
-    "market_cap_display": "\u00a3198.5m",
+    "last_updated": "2026-10-07T06:48:37.996155+00:00",
+    "market_cap": "199326912",
+    "market_cap_display": "\u00a3199.3m",
     "ticker": "JUSC"
   },
   "KAP.L": {
@@ -6143,9 +6182,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:55.424015+00:00",
-    "market_cap": "6788488704",
-    "market_cap_display": "\u20ac6.79bn",
+    "last_updated": "2026-10-07T06:48:46.010754+00:00",
+    "market_cap": "7066521600",
+    "market_cap_display": "\u20ac7.07bn",
     "ticker": "MTLN"
   },
   "MTO.L": {
@@ -6356,6 +6395,19 @@
     "market_cap_display": "\u00a321.6m",
     "ticker": "NEO"
   },
+  "NET.L": {
+    "business_description": "Netcall plc engages in the design, development, sale, and support of software products and services in the United Kingdom. The company offers Liberty Create, a low-code development platform for design, create, and\u2026",
+    "company_name": "Netcall plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NET.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T06:48:40.359506+00:00",
+    "market_cap": "213245728",
+    "market_cap_display": "\u00a3213.2m",
+    "ticker": "NET"
+  },
   "NG.L": {
     "business_description": "National Grid plc engages in the transmission and distribution of electricity and gas. It operates through UK Electricity Transmission, UK Electricity Distribution, New England, New York, National Grid Ventures, and\u2026",
     "company_name": "National Grid plc",
@@ -6494,9 +6546,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:52:01.226799+00:00",
-    "market_cap": "189700000",
-    "market_cap_display": "\u00a3189.7m",
+    "last_updated": "2026-10-07T06:48:47.550207+00:00",
+    "market_cap": "188650000",
+    "market_cap_display": "\u00a3188.7m",
     "ticker": "OIG"
   },
   "OMI.L": {
@@ -6611,9 +6663,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:24.807194+00:00",
-    "market_cap": "14690004",
-    "market_cap_display": "\u00a314.7m",
+    "last_updated": "2026-10-07T06:48:49.150694+00:00",
+    "market_cap": "13465838",
+    "market_cap_display": "\u00a313.5m",
     "ticker": "ORR"
   },
   "OXB.L": {
@@ -6901,6 +6953,19 @@
     "market_cap": "26130712",
     "market_cap_display": "\u00a326.1m",
     "ticker": "PMP"
+  },
+  "PNN.L": {
+    "business_description": "Pennon Group Plc provides water and wastewater services in the United Kingdom. The company operates through two segments, Water and Non-Household Retail. It is also involved in renewable energy generation activities, as\u2026",
+    "company_name": "Pennon Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PNN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T06:48:39.534016+00:00",
+    "market_cap": "2132238976",
+    "market_cap_display": "\u00a32.13bn",
+    "ticker": "PNN"
   },
   "PNS.L": {
     "business_description": "Panther Securities PLC is a property investment company quoted on the AIM market (AIM) since 2013. Prior to this the Company was fully listed and included in the FTSE fledgling index, first being fully listed as a\u2026",
@@ -9094,9 +9159,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:52:01.953007+00:00",
-    "market_cap": "262020752",
-    "market_cap_display": "\u00a3262.0m",
+    "last_updated": "2026-10-07T06:48:46.766283+00:00",
+    "market_cap": "266164640",
+    "market_cap_display": "\u00a3266.2m",
     "ticker": "TPFG"
   },
   "TRB.L": {
@@ -9302,9 +9367,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:57.265523+00:00",
-    "market_cap": "8564653",
-    "market_cap_display": "\u00a38.6m",
+    "last_updated": "2026-10-07T06:48:48.389106+00:00",
+    "market_cap": "7678654",
+    "market_cap_display": "\u00a37.7m",
     "ticker": "UFO"
   },
   "UJO.L": {
