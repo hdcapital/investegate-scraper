@@ -350,6 +350,19 @@
     "market_cap_display": "\u00a3421.2m",
     "ticker": "AAZ"
   },
+  "ABDN.L": {
+    "business_description": "Aberdeen Group Plc provides asset management services in the United Kingdom, Europe, North America, and Asia. It makes traditional, private equity/ buyout, venture capital, secondary (direct), secondary (indirect), real\u2026",
+    "company_name": "Aberdeen Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ABDN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T18:52:21.546970+00:00",
+    "market_cap": "4197971712",
+    "market_cap_display": "\u00a34.20bn",
+    "ticker": "ABDN"
+  },
   "ABDP.L": {
     "business_description": "AB Dynamics plc provides vehicle test development and verification products and services for driver assistance systems. The company operates through Testing Products, Testing Services, and Simulation segments. It is\u2026",
     "company_name": "AB Dynamics plc",
@@ -644,9 +657,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:25.315686+00:00",
-    "market_cap": "2996027",
-    "market_cap_display": "$3.0m",
+    "last_updated": "2026-10-07T18:52:23.016332+00:00",
+    "market_cap": "1169181",
+    "market_cap_display": "$1.2m",
     "ticker": "ALF"
   },
   "ALFA.L": {
@@ -878,9 +891,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:23.086045+00:00",
-    "market_cap": "33414592",
-    "market_cap_display": "\u00a333.4m",
+    "last_updated": "2026-10-07T18:52:24.306203+00:00",
+    "market_cap": "32704420",
+    "market_cap_display": "\u00a332.7m",
     "ticker": "AREC"
   },
   "ARK.L": {
@@ -1311,6 +1324,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "BBIL"
+  },
+  "BBOX.L": {
+    "business_description": "",
+    "company_name": "Tritax Big Box REIT plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BBOX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T18:52:25.055765+00:00",
+    "market_cap": "4145923584",
+    "market_cap_display": "\u00a34.15bn",
+    "ticker": "BBOX"
   },
   "BBSN.L": {
     "business_description": "Brave Bison Group plc provides digital advertising and technology services in the United Kingdom, Europe, and internationally. The company offers social media advertising, influencer marketing, search engine\u2026",
@@ -5480,9 +5506,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:29.297569+00:00",
-    "market_cap": "4605062656",
-    "market_cap_display": "\u00a34.61bn",
+    "last_updated": "2026-10-07T18:52:25.759884+00:00",
+    "market_cap": "5074567680",
+    "market_cap_display": "\u00a35.07bn",
     "ticker": "LAND"
   },
   "LDG.L": {
@@ -5779,9 +5805,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:29.051602+00:00",
-    "market_cap": "7175168",
-    "market_cap_display": "\u00a37.2m",
+    "last_updated": "2026-10-07T18:52:22.246068+00:00",
+    "market_cap": "13287348",
+    "market_cap_display": "\u00a313.3m",
     "ticker": "MBO"
   },
   "MCB.L": {
@@ -6147,6 +6173,19 @@
     "market_cap": "47333452",
     "market_cap_display": "\u00a347.3m",
     "ticker": "MRK"
+  },
+  "MRV.L": {
+    "business_description": "",
+    "company_name": "Maven Renovar VCT Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MRV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-07T18:52:20.108127+00:00",
+    "market_cap": "66935512",
+    "market_cap_display": "\u00a366.9m",
+    "ticker": "MRV"
   },
   "MSI.L": {
     "business_description": "MS INTERNATIONAL plc, together with its subsidiaries, engages in the design, manufacture, construction, and servicing various engineering products and structures in the United Kingdom, Europe, the United States, South\u2026",
@@ -7541,15 +7580,15 @@
   },
   "RMII.L": {
     "business_description": "",
-    "company_name": "RM Infrastructure Income Ord",
+    "company_name": "RM Infrastructure Income PLC",
     "currency": "GBp",
     "data_source": "yfinance:RMII.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:19.596077+00:00",
-    "market_cap": "29088374",
-    "market_cap_display": "\u00a329.1m",
+    "last_updated": "2026-10-07T18:52:23.661171+00:00",
+    "market_cap": "28615394",
+    "market_cap_display": "\u00a328.6m",
     "ticker": "RMII"
   },
   "RMR.L": {
@@ -8522,9 +8561,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:15.469151+00:00",
-    "market_cap": "367436064",
-    "market_cap_display": "\u00a3367.4m",
+    "last_updated": "2026-10-07T18:52:26.487707+00:00",
+    "market_cap": "361945952",
+    "market_cap_display": "\u00a3361.9m",
     "ticker": "STEM"
   },
   "STG.L": {
