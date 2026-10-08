@@ -1762,9 +1762,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:06.380368+00:00",
-    "market_cap": "148385728",
-    "market_cap_display": "\u00a3148.4m",
+    "last_updated": "2026-10-08T06:48:43.464380+00:00",
+    "market_cap": "142071440",
+    "market_cap_display": "\u00a3142.1m",
     "ticker": "BSRT"
   },
   "BSV.L": {
@@ -1814,7 +1814,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:23.389029+00:00",
+    "last_updated": "2026-10-08T06:48:35.123764+00:00",
     "market_cap": "6343582",
     "market_cap_display": "\u00a36.3m",
     "ticker": "BUC"
@@ -3587,6 +3587,19 @@
     "market_cap_display": "\u00a34.9m",
     "ticker": "FADL"
   },
+  "FAN.L": {
+    "business_description": "Volution Group plc, together with its subsidiaries, engages in the manufacture and supply of ventilation products to residential and commercial constructions in the United Kingdom, Continental Europe, and Australasia.\u2026",
+    "company_name": "Volution Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FAN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-08T06:48:36.517620+00:00",
+    "market_cap": "1291225088",
+    "market_cap_display": "\u00a31.29bn",
+    "ticker": "FAN"
+  },
   "FAR.L": {
     "business_description": "Ferro-Alloy Resources Limited engages in the mining and mineral processing business in the Republic of Kazakhstan. The company explores for vanadium, uranium, molybdenum, nickel, and carbon deposits. It primarily holds\u2026",
     "company_name": "Ferro-Alloy Resources Limited",
@@ -3855,9 +3868,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:08.218576+00:00",
-    "market_cap": "528872736",
-    "market_cap_display": "\u00a3528.9m",
+    "last_updated": "2026-10-08T06:48:37.920896+00:00",
+    "market_cap": "495571680",
+    "market_cap_display": "\u00a3495.6m",
     "ticker": "FSG"
   },
   "FSJ.L": {
@@ -3881,9 +3894,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:18.453968+00:00",
-    "market_cap": "2209045",
-    "market_cap_display": "\u00a32.2m",
+    "last_updated": "2026-10-08T06:48:38.791519+00:00",
+    "market_cap": "3261121",
+    "market_cap_display": "\u00a33.3m",
     "ticker": "FUM"
   },
   "FVA.L": {
@@ -4388,9 +4401,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T06:48:37.320233+00:00",
-    "market_cap": "2912598",
-    "market_cap_display": "\u00a32.9m",
+    "last_updated": "2026-10-08T06:48:39.443541+00:00",
+    "market_cap": "2557694",
+    "market_cap_display": "\u00a32.6m",
     "ticker": "HAMA"
   },
   "HAN.L": {
@@ -5129,9 +5142,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:43.973329+00:00",
-    "market_cap": "79461256",
-    "market_cap_display": "\u00a379.5m",
+    "last_updated": "2026-10-08T06:48:41.467384+00:00",
+    "market_cap": "65935940",
+    "market_cap_display": "\u00a365.9m",
     "ticker": "JLP"
   },
   "JMGI.L": {
@@ -5246,7 +5259,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:20.402977+00:00",
+    "last_updated": "2026-10-08T06:48:44.770314+00:00",
     "market_cap": "7635459072",
     "market_cap_display": "$7.64bn",
     "ticker": "KAP"
@@ -5519,9 +5532,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:28.343137+00:00",
-    "market_cap": "82764808",
-    "market_cap_display": "\u00a382.8m",
+    "last_updated": "2026-10-08T06:48:44.115456+00:00",
+    "market_cap": "78626568",
+    "market_cap_display": "\u00a378.6m",
     "ticker": "LDG"
   },
   "LEND.L": {
@@ -5564,16 +5577,16 @@
     "ticker": "LIKE"
   },
   "LIT.L": {
-    "business_description": "Litigation Capital Management Limited provides litigation finance and risk management services in Australia and the United Kingdom. The company operates in two business models, including direct investments made from\u2026",
+    "business_description": "Litigation Capital Management Limited provides litigation finance and risk management services in Australia and the United Kingdom. It operates through two segments: LCM and Fund. The company operates in two business\u2026",
     "company_name": "Litigation Capital Management Limited",
     "currency": "GBp",
     "data_source": "yfinance:LIT.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:30.078676+00:00",
-    "market_cap": "670386",
-    "market_cap_display": "\u00a3670.4k",
+    "last_updated": "2026-10-08T06:48:45.428674+00:00",
+    "market_cap": "371291",
+    "market_cap_display": "\u00a3371.3k",
     "ticker": "LIT"
   },
   "LIV.L": {
@@ -7864,6 +7877,19 @@
     "market_cap_display": "\u00a39.4m",
     "ticker": "SALT"
   },
+  "SAR.L": {
+    "business_description": "Sareum Holdings plc, a clinical stage small molecule drug development company, engages in the discovery and development of therapeutic drugs for cancer and autoimmune diseases. The company's lead product is SDC-1801, a\u2026",
+    "company_name": "Sareum Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-08T06:48:42.815005+00:00",
+    "market_cap": "38424700",
+    "market_cap_display": "\u00a338.4m",
+    "ticker": "SAR"
+  },
   "SATS.L": {
     "business_description": "Satsuma Technology PLC operates as an AI-focused software development company in the United Kingdom. It provides subnet infrastructure and AI agent development, as well as deploying and managing subnet alpha tokens. The\u2026",
     "company_name": "Satsuma Technology PLC",
@@ -8509,9 +8535,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:46.690678+00:00",
-    "market_cap": "8116926",
-    "market_cap_display": "\u00a38.1m",
+    "last_updated": "2026-10-08T06:48:42.157938+00:00",
+    "market_cap": "5519510",
+    "market_cap_display": "\u00a35.5m",
     "ticker": "SSTY"
   },
   "STAR.L": {
@@ -8821,9 +8847,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:55.138666+00:00",
-    "market_cap": "8190706",
-    "market_cap_display": "\u00a38.2m",
+    "last_updated": "2026-10-08T06:48:40.124094+00:00",
+    "market_cap": "8749162",
+    "market_cap_display": "\u00a38.7m",
     "ticker": "TAP"
   },
   "TAPH.L": {
@@ -9320,6 +9346,19 @@
     "market_cap_display": "\u00a32.6m",
     "ticker": "TRUE"
   },
+  "TSCO.L": {
+    "business_description": "Tesco PLC, together with its subsidiaries, operates as a grocery retailer in the United Kingdom, Republic of Ireland, the Czech Republic, Slovakia, and Hungary. The company offers grocery products through its stores, as\u2026",
+    "company_name": "Tesco PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:TSCO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-08T06:48:35.808219+00:00",
+    "market_cap": "29636270080",
+    "market_cap_display": "\u00a329.64bn",
+    "ticker": "TSCO"
+  },
   "TST.L": {
     "business_description": "Touchstar plc, together with its subsidiaries, designs, builds, and sells rugged mobile computing devices under the Touchstar brand in the United Kingdom, rest of Europe, and internationally. The company supplies,\u2026",
     "company_name": "Touchstar plc",
@@ -9683,6 +9722,19 @@
     "market_cap": "60951484",
     "market_cap_display": "\u00a361.0m",
     "ticker": "VNH"
+  },
+  "VOD.L": {
+    "business_description": "Vodafone Group Public Limited Company provides telecommunication services in Germany, the United Kingdom, rest of Europe, Turkey, and South Africa. It offers mobile and fixed services; connectivity business solutions,\u2026",
+    "company_name": "Vodafone Group Public Limited Company",
+    "currency": "GBp",
+    "data_source": "yfinance:VOD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-08T06:48:40.783605+00:00",
+    "market_cap": "29596170240",
+    "market_cap_display": "\u00a329.60bn",
+    "ticker": "VOD"
   },
   "VOX.L": {
     "business_description": "Vox Valor Capital Limited engages in the business of digital marketing, advertising, and content. The company provides mobile advertising services through a Software-as-a-Service (SaaS) programmatic advertising\u2026",
