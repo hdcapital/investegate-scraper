@@ -1580,9 +1580,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:16.152020+00:00",
-    "market_cap": "8965249024",
-    "market_cap_display": "\u00a38.97bn",
+    "last_updated": "2026-10-08T18:50:12.843598+00:00",
+    "market_cap": "8530684928",
+    "market_cap_display": "\u00a38.53bn",
     "ticker": "BNZL"
   },
   "BOKU.L": {
@@ -2074,9 +2074,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:08.194284+00:00",
-    "market_cap": "93476120",
-    "market_cap_display": "\u00a393.5m",
+    "last_updated": "2026-10-08T18:50:12.249437+00:00",
+    "market_cap": "86020704",
+    "market_cap_display": "\u00a386.0m",
     "ticker": "CHAR"
   },
   "CHF.L": {
@@ -4861,6 +4861,19 @@
     "market_cap_display": "\u00a321.8m",
     "ticker": "IMM"
   },
+  "INAC.L": {
+    "business_description": "InvestAcc Group Limited, together with its subsidiaries, provides pension administration financial advisory services in the United Kingdom. It operates through Pension Administration and Related Services and Wealth\u2026",
+    "company_name": "InvestAcc Group Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:INAC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-08T18:50:11.043404+00:00",
+    "market_cap": "92663840",
+    "market_cap_display": "\u00a392.7m",
+    "ticker": "INAC"
+  },
   "INF.L": {
     "business_description": "Informa plc operates as an international events, digital services, and academic research company in the United Kingdom, Continental Europe, North America, China, and internationally. It operates through five segments:\u2026",
     "company_name": "Informa plc",
@@ -6312,9 +6325,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:01.630134+00:00",
-    "market_cap": "17446718",
-    "market_cap_display": "\u00a317.4m",
+    "last_updated": "2026-10-08T18:50:11.643740+00:00",
+    "market_cap": "21178376",
+    "market_cap_display": "\u00a321.2m",
     "ticker": "NAH"
   },
   "NAIT.L": {
@@ -8015,7 +8028,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "YHD",
-    "last_updated": "2026-09-17T18:50:23.267709+00:00",
+    "last_updated": "2026-10-08T18:50:14.046766+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "SDIC"
@@ -9757,7 +9770,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:37.167596+00:00",
+    "last_updated": "2026-10-08T18:50:10.452000+00:00",
     "market_cap": "5146450",
     "market_cap_display": "\u00a35.1m",
     "ticker": "VRCI"
