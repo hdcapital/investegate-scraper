@@ -20,10 +20,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T18:50:24.639553+00:00",
+    "last_updated": "2026-10-09T18:50:17.559941+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "17TZ"
+  },
+  "1SN.L": {
+    "business_description": "First Tin Plc engages in the exploitation and production of tin properties in Germany and Australia. Its flagship assets include the Tellerh\u00e4user Project located in Saxony, Germany; and the Taronga Project which covers\u2026",
+    "company_name": "First Tin Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:1SN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T18:50:15.225020+00:00",
+    "market_cap": "74777824",
+    "market_cap_display": "\u00a374.8m",
+    "ticker": "1SN"
   },
   "33WK.L": {
     "business_description": "",
@@ -1346,9 +1359,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:02.128422+00:00",
-    "market_cap": "87821416",
-    "market_cap_display": "\u00a387.8m",
+    "last_updated": "2026-10-09T18:50:10.583646+00:00",
+    "market_cap": "90729408",
+    "market_cap_display": "\u00a390.7m",
     "ticker": "BBSN"
   },
   "BEM.L": {
@@ -5025,7 +5038,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:14.728626+00:00",
+    "last_updated": "2026-10-09T18:50:12.059133+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "ITRK"
@@ -6091,9 +6104,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:38.549455+00:00",
-    "market_cap": "155041440",
-    "market_cap_display": "\u00a3155.0m",
+    "last_updated": "2026-10-09T18:50:15.943127+00:00",
+    "market_cap": "148064576",
+    "market_cap_display": "\u00a3148.1m",
     "ticker": "MKA"
   },
   "MNKS.L": {
@@ -6806,9 +6819,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:12.773512+00:00",
-    "market_cap": "16784756",
-    "market_cap_display": "\u00a316.8m",
+    "last_updated": "2026-10-09T18:50:12.861641+00:00",
+    "market_cap": "21932084",
+    "market_cap_display": "\u00a321.9m",
     "ticker": "PALM"
   },
   "PANR.L": {
@@ -7274,9 +7287,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T18:49:17.044262+00:00",
-    "market_cap": "25780711424",
-    "market_cap_display": "\u00a325.78bn",
+    "last_updated": "2026-10-09T18:50:16.680114+00:00",
+    "market_cap": "22091771904",
+    "market_cap_display": "\u00a322.09bn",
     "ticker": "PRU"
   },
   "PSDL.L": {
@@ -8444,9 +8457,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:54.429704+00:00",
-    "market_cap": "163615440",
-    "market_cap_display": "\u00a3163.6m",
+    "last_updated": "2026-10-09T18:50:19.118396+00:00",
+    "market_cap": "180073824",
+    "market_cap_display": "\u00a3180.1m",
     "ticker": "SNWS"
   },
   "SNX.L": {
@@ -8604,6 +8617,19 @@
     "market_cap": "1668727",
     "market_cap_display": "\u00a31.7m",
     "ticker": "SRES"
+  },
+  "SSE.L": {
+    "business_description": "SSE plc engages in the generation, transmission, distribution, and supply of electricity. The company distributes electricity to approximately 4 million homes and businesses in southern central England and the north of\u2026",
+    "company_name": "SSE plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SSE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T18:50:14.482807+00:00",
+    "market_cap": "29810335744",
+    "market_cap_display": "\u00a329.81bn",
+    "ticker": "SSE"
   },
   "SSPG.L": {
     "business_description": "SSP Group plc operates food and beverage outlets in North America, Europe, the United Kingdom, Ireland, the Asia Pacific, Eastern Europe, the Middle East, and internationally. The company engages in designing, creating,\u2026",
@@ -10095,7 +10121,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T18:55:01.097693+00:00",
+    "last_updated": "2026-10-09T18:50:11.352703+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
