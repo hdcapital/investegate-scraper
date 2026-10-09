@@ -2261,6 +2261,19 @@
     "market_cap_display": "\u00a3238.0m",
     "ticker": "CLIG"
   },
+  "CMCL.L": {
+    "business_description": "Caledonia Mining Corporation Plc engages in the exploration, development, and production of gold in Zimbabwe. The company is also involved in the exploration and development of mineral properties for precious metals. It\u2026",
+    "company_name": "Caledonia Mining Corporation Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CMCL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T06:48:03.464643+00:00",
+    "market_cap": "348031424",
+    "market_cap_display": "\u00a3348.0m",
+    "ticker": "CMCL"
+  },
   "CMET.L": {
     "business_description": "Capital Metals Limited engages in the mineral sands project. The company is based in British Virgin Islands.",
     "company_name": "Capital Metals Limited",
@@ -2776,9 +2789,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T18:49:13.932691+00:00",
-    "market_cap": "5488500736",
-    "market_cap_display": "\u00a35.49bn",
+    "last_updated": "2026-10-09T06:48:00.769195+00:00",
+    "market_cap": "5505585664",
+    "market_cap_display": "\u00a35.51bn",
     "ticker": "DCC"
   },
   "DEBS.L": {
@@ -2815,9 +2828,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:45.206273+00:00",
-    "market_cap": "127313472",
-    "market_cap_display": "\u00a3127.3m",
+    "last_updated": "2026-10-09T06:48:05.442239+00:00",
+    "market_cap": "120380648",
+    "market_cap_display": "\u00a3120.4m",
     "ticker": "DFCH"
   },
   "DFIJ.L": {
@@ -3114,7 +3127,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:51.463487+00:00",
+    "last_updated": "2026-10-09T06:48:04.770671+00:00",
     "market_cap": "6367274",
     "market_cap_display": "\u00a36.4m",
     "ticker": "ECR"
@@ -3517,9 +3530,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T06:50:39.083401+00:00",
-    "market_cap": "21674643456",
-    "market_cap_display": "\u00a321.67bn",
+    "last_updated": "2026-10-09T06:48:06.766432+00:00",
+    "market_cap": "22575697920",
+    "market_cap_display": "\u00a322.58bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -5134,6 +5147,19 @@
     "market_cap_display": "\u00a3134.8m",
     "ticker": "JEL"
   },
+  "JGGI.L": {
+    "business_description": "",
+    "company_name": "JPMorgan Global Growth & Income Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:JGGI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T06:48:00.089430+00:00",
+    "market_cap": "3327131392",
+    "market_cap_display": "\u00a33.33bn",
+    "ticker": "JGGI"
+  },
   "JIM.L": {
     "business_description": "Jarvis Securities plc, through its subsidiary, Jarvis Investment Management Limited, provides stock broking services to retail and institutional clients in the United Kingdom. The company offers retail execution-only\u2026",
     "company_name": "Jarvis Securities plc",
@@ -5874,6 +5900,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "MCJ"
+  },
+  "MCON.L": {
+    "business_description": "Mincon Group plc engages in designing, manufacturing, selling, and servicing of c and associated products in Ireland, the Americas, Europe, Australasia, the Middle East, and Africa. The company offers drill bits and\u2026",
+    "company_name": "Mincon Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MCON.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T06:48:06.129227+00:00",
+    "market_cap": "166790848",
+    "market_cap_display": "\u00a3166.8m",
+    "ticker": "MCON"
   },
   "MDH.L": {
     "business_description": "Mendell Helium plc engages in the production of helium in the United States. It holds interest in the Fort Dodge Prospect located in Ford County, Kansas; and various wells in its Hugoton North Play project located in\u2026",
@@ -6616,6 +6655,19 @@
     "market_cap_display": "\u00a3188.7m",
     "ticker": "OIG"
   },
+  "OMG.L": {
+    "business_description": "Oxford Metrics plc operates as a smart sensing and software company in the United Kingdom, the rest of Europe, North America, the Asia Pacific, and internationally. The company operates through the Motion Capture and\u2026",
+    "company_name": "Oxford Metrics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:OMG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T06:48:01.406470+00:00",
+    "market_cap": "39065084",
+    "market_cap_display": "\u00a339.1m",
+    "ticker": "OMG"
+  },
   "OMI.L": {
     "business_description": "Orosur Mining Inc. engages in identifying and advancing mineral projects in South America. Its flagship project is the Anz\u00e1 gold project located in the Middle Cauca Belt in northern Colombia. The company was formerly\u2026",
     "company_name": "Orosur Mining Inc.",
@@ -7148,6 +7200,19 @@
     "market_cap": "4224500",
     "market_cap_display": "\u00a34.2m",
     "ticker": "PRIM"
+  },
+  "PRIS.L": {
+    "business_description": "Pristine Capital Plc does not have significant operations. It intends to effect a merger, capital stock exchange, asset acquisition, stock purchase, or a scheme arrangement of a majority interest in a company or\u2026",
+    "company_name": "Pristine Capital Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PRIS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T06:47:59.455900+00:00",
+    "market_cap": "723258",
+    "market_cap_display": "\u00a3723.3k",
+    "ticker": "PRIS"
   },
   "PRM.L": {
     "business_description": "Proteome Sciences plc provides contract research services for the identification, validation, and application of protein biomarkers in the United States, the United Kingdom, European Union, and internationally. The\u2026",
@@ -8540,6 +8605,19 @@
     "market_cap_display": "\u00a31.7m",
     "ticker": "SRES"
   },
+  "SSPG.L": {
+    "business_description": "SSP Group plc operates food and beverage outlets in North America, Europe, the United Kingdom, Ireland, the Asia Pacific, Eastern Europe, the Middle East, and internationally. The company engages in designing, creating,\u2026",
+    "company_name": "SSP Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SSPG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-09T06:48:04.130710+00:00",
+    "market_cap": "1410563968",
+    "market_cap_display": "\u00a31.41bn",
+    "ticker": "SSPG"
+  },
   "SSTY.L": {
     "business_description": "Safestay plc, together with its subsidiaries, develops and operates hostels under the Safestay brand in the United Kingdom, Spain, and the rest of Europe. It also provides ancillary goods and services, such as food,\u2026",
     "company_name": "Safestay plc",
@@ -8925,9 +9003,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:22.682556+00:00",
-    "market_cap": "371703840",
-    "market_cap_display": "\u00a3371.7m",
+    "last_updated": "2026-10-09T06:48:02.772916+00:00",
+    "market_cap": "497794688",
+    "market_cap_display": "\u00a3497.8m",
     "ticker": "TBTG"
   },
   "TCF.L": {
@@ -9289,9 +9367,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T06:47:32.161223+00:00",
-    "market_cap": "645534208",
-    "market_cap_display": "\u00a3645.5m",
+    "last_updated": "2026-10-09T06:48:07.404119+00:00",
+    "market_cap": "680105408",
+    "market_cap_display": "\u00a3680.1m",
     "ticker": "TRN"
   },
   "TRP.L": {
