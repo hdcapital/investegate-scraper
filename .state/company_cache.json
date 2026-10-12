@@ -103,6 +103,19 @@
     "market_cap_display": "\u00a33.60bn",
     "ticker": "3IN"
   },
+  "3SMF.L": {
+    "business_description": "",
+    "company_name": "Leverage Shares -3x Short Microsoft (MSFT) ETP Securities",
+    "currency": "GBp",
+    "data_source": "yfinance:3SMF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-12T18:51:20.405628+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "3SMF"
+  },
   "45GD.L": {
     "business_description": "",
     "company_name": "John Lewis plc 4.25% SNR BDS 18/12/2034 GBP100000'REGS'",
@@ -3244,7 +3257,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T18:55:01.800792+00:00",
+    "last_updated": "2026-10-12T18:51:17.528585+00:00",
     "market_cap": "192003360",
     "market_cap_display": "\u00a3192.0m",
     "ticker": "ELCO"
@@ -3595,9 +3608,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:26.838309+00:00",
-    "market_cap": "5038326784",
-    "market_cap_display": "\u00a35.04bn",
+    "last_updated": "2026-10-12T18:51:18.247643+00:00",
+    "market_cap": "5063742464",
+    "market_cap_display": "\u00a35.06bn",
     "ticker": "EZJ"
   },
   "FAB.L": {
@@ -4119,6 +4132,19 @@
     "market_cap": "34976812",
     "market_cap_display": "\u00a335.0m",
     "ticker": "GETB"
+  },
+  "GFIN.L": {
+    "business_description": "Gfinity plc, together with its subsidiaries, provides digital media services in the United Kingdom, North America, and internationally. It owns websites and related social platforms that deliver news and content\u2026",
+    "company_name": "Gfinity plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GFIN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-12T18:51:18.966263+00:00",
+    "market_cap": "4429061",
+    "market_cap_display": "\u00a34.4m",
+    "ticker": "GFIN"
   },
   "GFRD.L": {
     "business_description": "Galliford Try Holdings plc, together with its subsidiaries, operates in the construction business in the United Kingdom. The company operates through Building and Infrastructure, and Investments segments. It engages in\u2026",
@@ -5311,9 +5337,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:20.182815+00:00",
-    "market_cap": "410469376",
-    "market_cap_display": "\u00a3410.5m",
+    "last_updated": "2026-10-12T18:51:22.134379+00:00",
+    "market_cap": "422889312",
+    "market_cap_display": "\u00a3422.9m",
     "ticker": "JUGI"
   },
   "JUSC.L": {
@@ -5571,9 +5597,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:28.351669+00:00",
-    "market_cap": "2980588",
-    "market_cap_display": "\u00a33.0m",
+    "last_updated": "2026-10-12T18:51:16.120689+00:00",
+    "market_cap": "2902151",
+    "market_cap_display": "\u00a32.9m",
     "ticker": "KRS"
   },
   "KZG.L": {
@@ -6876,6 +6902,19 @@
     "market_cap_display": "\u00a367.2m",
     "ticker": "PAT"
   },
+  "PCA.L": {
+    "business_description": "Palace Capital plc is a real estate investment firm specializing in investment in entities operating in the property sector. It seeks to invest in United Kingdom. Palace Capital plc is based in London, the United\u2026",
+    "company_name": "Palace Capital Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PCA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-12T18:51:16.776407+00:00",
+    "market_cap": "30033792",
+    "market_cap_display": "\u00a330.0m",
+    "ticker": "PCA"
+  },
   "PCGH.L": {
     "business_description": "",
     "company_name": "Polar Capital Global Healthcare Trust plc",
@@ -7053,9 +7092,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T18:50:17.772637+00:00",
-    "market_cap": "521122112",
-    "market_cap_display": "\u00a3521.1m",
+    "last_updated": "2026-10-12T18:51:23.508647+00:00",
+    "market_cap": "523456384",
+    "market_cap_display": "\u00a3523.5m",
     "ticker": "PINE"
   },
   "PINT.L": {
@@ -7365,9 +7404,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T18:50:14.718675+00:00",
-    "market_cap": "1613175168",
-    "market_cap_display": "\u20ac1.61bn",
+    "last_updated": "2026-10-12T18:51:19.645347+00:00",
+    "market_cap": "1634974848",
+    "market_cap_display": "\u20ac1.63bn",
     "ticker": "PTSB"
   },
   "PWR.L": {
@@ -8145,9 +8184,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:48:59.675561+00:00",
-    "market_cap": "9345162240",
-    "market_cap_display": "\u00a39.35bn",
+    "last_updated": "2026-10-12T18:51:21.463178+00:00",
+    "market_cap": "8599306240",
+    "market_cap_display": "\u00a38.60bn",
     "ticker": "SDLF"
   },
   "SDR.L": {
