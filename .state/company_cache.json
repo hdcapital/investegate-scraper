@@ -748,9 +748,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:10.746705+00:00",
-    "market_cap": "34574768",
-    "market_cap_display": "\u00a334.6m",
+    "last_updated": "2026-10-12T06:49:01.634103+00:00",
+    "market_cap": "37234364",
+    "market_cap_display": "\u00a337.2m",
     "ticker": "AMGO"
   },
   "AMIF.L": {
@@ -830,6 +830,19 @@
     "market_cap": "10035294",
     "market_cap_display": "$10.0m",
     "ticker": "AOF"
+  },
+  "AOM.L": {
+    "business_description": "ActiveOps Plc, together with its subsidiaries, engages in the provision of hosted operations management software as a service solution to industries in Europe, the Middle East, India, Africa, North America, and Asia\u2026",
+    "company_name": "ActiveOps Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AOM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-12T06:48:57.385028+00:00",
+    "market_cap": "161401872",
+    "market_cap_display": "\u00a3161.4m",
+    "ticker": "AOM"
   },
   "AOTI.L": {
     "business_description": "AOTI, Inc., together with its subsidiaries, patents, manufacturers, rents, and sells medical devices to resolve severe acute and chronic wounds for customers worldwide. The company offers topical wound oxygen solutions\u2026",
@@ -1372,9 +1385,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T18:49:30.785471+00:00",
-    "market_cap": "7117408",
-    "market_cap_display": "\u00a37.1m",
+    "last_updated": "2026-10-12T06:48:56.566731+00:00",
+    "market_cap": "3447406",
+    "market_cap_display": "\u00a33.4m",
     "ticker": "BEM"
   },
   "BEZ.L": {
@@ -3413,7 +3426,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:06.252081+00:00",
+    "last_updated": "2026-10-12T06:49:04.091686+00:00",
     "market_cap": "36873348",
     "market_cap_display": "\u00a336.9m",
     "ticker": "ENW"
@@ -4354,6 +4367,19 @@
     "market_cap_display": "\u00a35.0m",
     "ticker": "GTC"
   },
+  "GUN.L": {
+    "business_description": "Gunsynd Plc is a private equity firm that specializes in buyout and project investments. The firm may make investments in all types of assets and there will be no investment restrictions on the type of investment that\u2026",
+    "company_name": "Gunsynd Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GUN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-12T06:48:59.052836+00:00",
+    "market_cap": "1696938",
+    "market_cap_display": "\u00a31.7m",
+    "ticker": "GUN"
+  },
   "GV1O.L": {
     "business_description": "Gresham House Renewable Energy VCT 1 plc is a venture capital trust specializing in investments in growth capital, long term renewable energy projects including ground mounted solar, roof mounted solar and small wind\u2026",
     "company_name": "Gresham House Renewable Energy VCT 1 PLC",
@@ -4986,9 +5012,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:12.632096+00:00",
-    "market_cap": "580411904",
-    "market_cap_display": "\u00a3580.4m",
+    "last_updated": "2026-10-12T06:49:02.427002+00:00",
+    "market_cap": "627233600",
+    "market_cap_display": "\u00a3627.2m",
     "ticker": "IPO"
   },
   "IQE.L": {
@@ -5012,9 +5038,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T06:48:35.732471+00:00",
-    "market_cap": "4545752064",
-    "market_cap_display": "\u00a34.55bn",
+    "last_updated": "2026-10-12T06:48:59.920146+00:00",
+    "market_cap": "4710812160",
+    "market_cap_display": "\u00a34.71bn",
     "ticker": "ITH"
   },
   "ITIM.L": {
@@ -6078,9 +6104,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:48.321406+00:00",
-    "market_cap": "10325852",
-    "market_cap_display": "\u00a310.3m",
+    "last_updated": "2026-10-12T06:49:04.949211+00:00",
+    "market_cap": "11213292",
+    "market_cap_display": "\u00a311.2m",
     "ticker": "MILA"
   },
   "MIRI.L": {
@@ -7066,9 +7092,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T06:50:34.027156+00:00",
-    "market_cap": "141427536",
-    "market_cap_display": "\u00a3141.4m",
+    "last_updated": "2026-10-12T06:49:00.746773+00:00",
+    "market_cap": "115713432",
+    "market_cap_display": "\u00a3115.7m",
     "ticker": "PLSR"
   },
   "PMP.L": {
@@ -7586,9 +7612,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:23.639622+00:00",
-    "market_cap": "217547456",
-    "market_cap_display": "\u00a3217.5m",
+    "last_updated": "2026-10-12T06:48:58.258869+00:00",
+    "market_cap": "206441424",
+    "market_cap_display": "\u00a3206.4m",
     "ticker": "RFX"
   },
   "RGG.L": {
@@ -8080,9 +8106,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:33.334691+00:00",
-    "market_cap": "52897704",
-    "market_cap_display": "\u00a352.9m",
+    "last_updated": "2026-10-12T06:48:54.969237+00:00",
+    "market_cap": "55643760",
+    "market_cap_display": "\u00a355.6m",
     "ticker": "SDG"
   },
   "SDI.L": {
@@ -8210,9 +8236,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:25.807079+00:00",
-    "market_cap": "77005080",
-    "market_cap_display": "\u00a377.0m",
+    "last_updated": "2026-10-12T06:49:03.214492+00:00",
+    "market_cap": "76216632",
+    "market_cap_display": "\u00a376.2m",
     "ticker": "SERE"
   },
   "SF22.L": {
@@ -8847,9 +8873,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:26.003534+00:00",
-    "market_cap": "232401248",
-    "market_cap_display": "\u00a3232.4m",
+    "last_updated": "2026-10-12T06:48:55.763387+00:00",
+    "market_cap": "236622144",
+    "market_cap_display": "\u00a3236.6m",
     "ticker": "SWC"
   },
   "SWG.L": {
