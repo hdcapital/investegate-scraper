@@ -402,6 +402,19 @@
     "market_cap_display": "\u00a3178.8m",
     "ticker": "ABDP"
   },
+  "ABDX.L": {
+    "business_description": "Abingdon Health Plc develops, manufactures, and distributes diagnostic devices in the United Kingdom, Europe, the United States, Canada, and internationally. It operates through Contract Development, Contract\u2026",
+    "company_name": "Abingdon Health Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ABDX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:38.552237+00:00",
+    "market_cap": "27170786",
+    "market_cap_display": "\u00a327.2m",
+    "ticker": "ABDX"
+  },
   "ABF.L": {
     "business_description": "Associated British Foods plc engages in the food, ingredients, and retail businesses worldwide. It operates through five segments: Retail, Grocery, Ingredients, Sugar, and Agriculture. The Retail segment is involved in\u2026",
     "company_name": "Associated British Foods plc",
@@ -631,7 +644,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:35.515745+00:00",
+    "last_updated": "2026-10-13T06:48:40.679162+00:00",
     "market_cap": "55142504",
     "market_cap_display": "\u00a355.1m",
     "ticker": "AIRE"
@@ -800,10 +813,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:41.818095+00:00",
-    "market_cap": "615018752",
-    "market_cap_display": "\u00a3615.0m",
+    "last_updated": "2026-10-13T06:48:45.971079+00:00",
+    "market_cap": "613939264",
+    "market_cap_display": "\u00a3613.9m",
     "ticker": "AMS"
+  },
+  "ANG.L": {
+    "business_description": "Angling Direct PLC, together with its subsidiaries, engages in the sale of fishing tackle products and related products in the United Kingdom, Europe, and internationally. The company offers baits and additives, bait\u2026",
+    "company_name": "Angling Direct PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ANG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:42.704802+00:00",
+    "market_cap": "36836804",
+    "market_cap_display": "\u00a336.8m",
+    "ticker": "ANG"
   },
   "ANIC.L": {
     "business_description": "Agronomics Limited is a private equity and venture capital firm specializing in emerging growth, seed/startup, early venture, series B and growth capital investments. The firm invests in quoted and unquoted companies.\u2026",
@@ -882,6 +908,19 @@
     "market_cap": "732499968",
     "market_cap_display": "\u00a3732.5m",
     "ticker": "APN"
+  },
+  "APTA.L": {
+    "business_description": "Aptamer Group PLC, together with its subsidiaries, provides synthetic binders for research, diagnostics, and therapeutics in the United Kingdom, rest of Europe, the United States, and internationally. The company offers\u2026",
+    "company_name": "Aptamer Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:APTA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:39.981813+00:00",
+    "market_cap": "11271261",
+    "market_cap_display": "\u00a311.3m",
+    "ticker": "APTA"
   },
   "APTD.L": {
     "business_description": "Aptitude Software Group plc, together with its subsidiaries, provides autonomous finance software solutions in the United Kingdom and internationally. It offers Fynapse, an intelligent finance data management and\u2026",
@@ -1390,6 +1429,19 @@
     "market_cap_display": "\u00a390.7m",
     "ticker": "BBSN"
   },
+  "BBY.L": {
+    "business_description": "Balfour Beatty plc finances, develops, builds, maintains, and operates infrastructure in the United Kingdom, the United States, and internationally. It operates through three segments: Construction Services, Support\u2026",
+    "company_name": "Balfour Beatty plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BBY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:43.358690+00:00",
+    "market_cap": "4127398400",
+    "market_cap_display": "\u00a34.13bn",
+    "ticker": "BBY"
+  },
   "BEM.L": {
     "business_description": "Beowulf Mining plc engages in the acquisition, exploration, and evaluation of natural resource assets in Sweden, Finland, and Kosovo. It explores for iron ore, base precious metals, lead, zinc, gold, copper, silver,\u2026",
     "company_name": "Beowulf Mining plc",
@@ -1645,9 +1697,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:03.430485+00:00",
-    "market_cap": "191958240",
-    "market_cap_display": "\u00a3192.0m",
+    "last_updated": "2026-10-13T06:48:46.616837+00:00",
+    "market_cap": "171498752",
+    "market_cap_display": "\u00a3171.5m",
     "ticker": "BOOK"
   },
   "BOOT.L": {
@@ -1688,6 +1740,19 @@
     "market_cap": "1603227520",
     "market_cap_display": "\u00a31.60bn",
     "ticker": "BOY"
+  },
+  "BP.L": {
+    "business_description": "BP p.l.c., an integrated energy company, engages in the oil and gas business worldwide. The company operates through Gas & Low Carbon Energy, Oil Production & Operations, and Customers & Products segments. It engages in\u2026",
+    "company_name": "BP p.l.c.",
+    "currency": "GBp",
+    "data_source": "yfinance:BP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:44.012147+00:00",
+    "market_cap": "90866868224",
+    "market_cap_display": "\u00a390.87bn",
+    "ticker": "BP"
   },
   "BPCP.L": {
     "business_description": "BioPharma Credit PLC, an investment trust, primarily invests in interest-bearing debt assets. Its debt assets are secured by royalties or other cash flows derived from the sales of approved life sciences products.\u2026",
@@ -1897,6 +1962,19 @@
     "market_cap_display": "\u00a338.3m",
     "ticker": "BVC"
   },
+  "BWY.L": {
+    "business_description": "Bellway p.l.c., together with its subsidiaries, engages in the homebuilding business in the United Kingdom. It builds and sells homes ranging from one-bedroom apartments to six-bedroom family homes, as well as provides\u2026",
+    "company_name": "Bellway p.l.c.",
+    "currency": "GBp",
+    "data_source": "yfinance:BWY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:37.862001+00:00",
+    "market_cap": "2210496000",
+    "market_cap_display": "\u00a32.21bn",
+    "ticker": "BWY"
+  },
   "BYG.L": {
     "business_description": "Big Yellow Group Plc is the UK's brand leader in self-storage and operates from a platform of 111 stores. We have a pipeline of 0.9 million sq ft comprising 13 proposed self-storage facilities. The current maximum\u2026",
     "company_name": "Big Yellow Group Plc",
@@ -1918,9 +1996,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:36.023243+00:00",
-    "market_cap": "924536896",
-    "market_cap_display": "\u00a3924.5m",
+    "last_updated": "2026-10-13T06:48:37.142435+00:00",
+    "market_cap": "1063564480",
+    "market_cap_display": "\u00a31.06bn",
     "ticker": "BYIT"
   },
   "BZT.L": {
@@ -3309,9 +3387,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:30.221477+00:00",
-    "market_cap": "51632308",
-    "market_cap_display": "\u00a351.6m",
+    "last_updated": "2026-10-13T06:48:39.276085+00:00",
+    "market_cap": "49812996",
+    "market_cap_display": "\u00a349.8m",
     "ticker": "EMAN"
   },
   "EME.L": {
@@ -4276,6 +4354,19 @@
     "market_cap_display": "\u00a3213.4m",
     "ticker": "GMS"
   },
+  "GNC.L": {
+    "business_description": "Greencore Group plc, together with its subsidiaries, manufactures and sells convenience food products in the United Kingdom and Ireland. The company offers sandwiches, salads, sushi, chilled snacking, chilled ready\u2026",
+    "company_name": "Greencore Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GNC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:41.995828+00:00",
+    "market_cap": "2098731392",
+    "market_cap_display": "\u00a32.10bn",
+    "ticker": "GNC"
+  },
   "GNS.L": {
     "business_description": "Genus plc produces and sells animal genetics to farmers in North America, Latin America, the United Kingdom, the rest of Europe, the Middle East, Russia, Africa, and Asia. The company operates through three segments:\u2026",
     "company_name": "Genus plc",
@@ -4505,7 +4596,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:32.513267+00:00",
+    "last_updated": "2026-10-13T06:48:41.345162+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "HAYD"
@@ -5875,6 +5966,19 @@
     "market_cap_display": "\u00a318.5m",
     "ticker": "MANO"
   },
+  "MARS.L": {
+    "business_description": "Marston's PLC engages in the hospitality business in the United Kingdom. Its hospitality business consists of estate of pubs comprising managed, franchised, and tenanted and leased pubs. The company is also involved in\u2026",
+    "company_name": "Marston's PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:MARS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:47.929127+00:00",
+    "market_cap": "294211200",
+    "market_cap_display": "\u00a3294.2m",
+    "ticker": "MARS"
+  },
   "MATD.L": {
     "business_description": "Petro Matad Limited, together with its subsidiaries, engages in the oil exploration and exploitation in Mongolia. It holds 100% interests in production sharing contract blocks, including Matad Block XX that consists of\u2026",
     "company_name": "Petro Matad Limited",
@@ -6798,6 +6902,19 @@
     "market_cap_display": "\u00a36.8m",
     "ticker": "OPTI"
   },
+  "ORCH.L": {
+    "business_description": "Orchard Funding Group plc, through its subsidiaries, offers insurance premium finance, professional fee funding, finance, and secured property lending services in the United Kingdom. It operates in two segments,\u2026",
+    "company_name": "Orchard Funding Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ORCH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:44.669406+00:00",
+    "market_cap": "12919272",
+    "market_cap_display": "\u00a312.9m",
+    "ticker": "ORCH"
+  },
   "ORCP.L": {
     "business_description": "Oracle Power PLC engages in the exploration and development of coal in Pakistan. It holds interests in the Thar Block VI project that covers an area of 9,100 square kilometers located in Pakistan. The company also holds\u2026",
     "company_name": "Oracle Power PLC",
@@ -7460,6 +7577,19 @@
     "market_cap": "20526548",
     "market_cap_display": "\u00a320.5m",
     "ticker": "PXS"
+  },
+  "PYC.L": {
+    "business_description": "Physiomics Plc provides consulting services to pharmaceutical companies in the areas of outsourced quantitative pharmacology and computational biology in the United Kingdom, the United States, and the European Union\u2026",
+    "company_name": "Physiomics Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PYC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:36.494285+00:00",
+    "market_cap": "2152741",
+    "market_cap_display": "\u00a32.2m",
+    "ticker": "PYC"
   },
   "QDE.L": {
     "business_description": "Quantum Data Energy PLC engages in the development and production of power generation projects in the United Kingdom. It operates Pyebridge project, a 9 MW gas-powered reserve power (RP) site located in Derbyshire;\u2026",
@@ -8540,6 +8670,19 @@
     "market_cap_display": "\u00a332.7m",
     "ticker": "SNX"
   },
+  "SOLI.L": {
+    "business_description": "Solid State plc, together with its subsidiaries, manufactures, distributes and supplies electronic equipment in the United Kingdom, rest of Europe, Asia, North America, and Internationally. The company operates through\u2026",
+    "company_name": "Solid State plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SOLI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:48.617109+00:00",
+    "market_cap": "93981048",
+    "market_cap_display": "\u00a394.0m",
+    "ticker": "SOLI"
+  },
   "SOM.L": {
     "business_description": "Somero Enterprises, Inc. designs, assembles, remanufactures, sells, and distributes concrete leveling, contouring, and placing equipment in North America, Europe, Australia, Latin America, India, China, the Middle East,\u2026",
     "company_name": "Somero Enterprises, Inc.",
@@ -8708,6 +8851,19 @@
     "market_cap": "1410563968",
     "market_cap_display": "\u00a31.41bn",
     "ticker": "SSPG"
+  },
+  "SST.L": {
+    "business_description": "",
+    "company_name": "Scottish Oriental Smaller Cos Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:SST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:45.318487+00:00",
+    "market_cap": "314994496",
+    "market_cap_display": "\u00a3315.0m",
+    "ticker": "SST"
   },
   "SSTY.L": {
     "business_description": "Safestay plc, together with its subsidiaries, develops and operates hostels under the Safestay brand in the United Kingdom, Spain, and the rest of Europe. It also provides ancillary goods and services, such as food,\u2026",
@@ -9263,9 +9419,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:51:54.623836+00:00",
-    "market_cap": "364437120",
-    "market_cap_display": "\u00a3364.4m",
+    "last_updated": "2026-10-13T06:48:47.272326+00:00",
+    "market_cap": "367400064",
+    "market_cap_display": "\u00a3367.4m",
     "ticker": "THS"
   },
   "TIA.L": {
@@ -9840,6 +9996,19 @@
     "market_cap_display": "\u00a3853.8m",
     "ticker": "VCT"
   },
+  "VIC.L": {
+    "business_description": "Victorian Plumbing Group plc operates as an online retailer of bathroom products and accessories for B2C and trade customers in the United Kingdom. Its products include showers, toilets, baths, taps, radiators and\u2026",
+    "company_name": "Victorian Plumbing Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VIC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:49.303150+00:00",
+    "market_cap": "269303104",
+    "market_cap_display": "\u00a3269.3m",
+    "ticker": "VIC"
+  },
   "VID.L": {
     "business_description": "Videndum Plc engages in the provision of hardware products and software solutions for the content creation market in the United Kingdom, rest of Europe, North America, the Asia Pacific, and internationally. The company\u2026",
     "company_name": "Videndum Plc",
@@ -10160,9 +10329,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T18:50:09.010941+00:00",
-    "market_cap": "3907769088",
-    "market_cap_display": "\u00a33.91bn",
+    "last_updated": "2026-10-13T06:48:35.130599+00:00",
+    "market_cap": "4195252736",
+    "market_cap_display": "\u00a34.20bn",
     "ticker": "WTB"
   },
   "WVIA.L": {
@@ -10242,6 +10411,19 @@
     "market_cap": "1452486272",
     "market_cap_display": "\u00a31.45bn",
     "ticker": "YCA"
+  },
+  "YOU.L": {
+    "business_description": "YouGov plc provides online market research services in the United Kingdom, the Americas, the Middle East, Mainland Europe, India, and the Asia Pacific. It operates through three divisions: Data Products, Research, and\u2026",
+    "company_name": "YouGov plc",
+    "currency": "GBp",
+    "data_source": "yfinance:YOU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T06:48:35.814214+00:00",
+    "market_cap": "315628768",
+    "market_cap_display": "\u00a3315.6m",
+    "ticker": "YOU"
   },
   "YU.L": {
     "business_description": "Y\u00fc Group PLC, through its subsidiaries, supplies energy and utility solutions primarily in the United Kingdom. The company operates through Retail, Smart, and Metering Assets segments. It supplies electricity, gas, and\u2026",
