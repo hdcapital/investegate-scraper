@@ -597,6 +597,19 @@
     "market_cap_display": "\u00a312.6m",
     "ticker": "AFP"
   },
+  "AGT.L": {
+    "business_description": "AVI Global Trust plc is a closed-ended equity mutual fund launched and managed by Asset Value Investors Limited. The fund invests in public equity markets of countries across the globe. It seeks to invest in stocks of\u2026",
+    "company_name": "AVI Global Trust plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AGT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T18:50:22.352428+00:00",
+    "market_cap": "987577088",
+    "market_cap_display": "\u00a3987.6m",
+    "ticker": "AGT"
+  },
   "AIC.L": {
     "business_description": "Achilles Investment Company Limited invests in the shares of closed-ended investment companies. The company was incorporated in 2025 and is based in St Peter Port, Guernsey.",
     "company_name": "Achilles Investment Company Limited",
@@ -3205,9 +3218,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:48.478462+00:00",
-    "market_cap": "146178368",
-    "market_cap_display": "\u00a3146.2m",
+    "last_updated": "2026-10-13T18:50:19.153103+00:00",
+    "market_cap": "138484768",
+    "market_cap_display": "\u00a3138.5m",
     "ticker": "ECO"
   },
   "ECOB.L": {
@@ -3339,6 +3352,19 @@
     "market_cap": "192003360",
     "market_cap_display": "\u00a3192.0m",
     "ticker": "ELCO"
+  },
+  "ELEG.L": {
+    "business_description": "Electric Guitar PLC provides first-party data solutions for the digital marketing and advertising industry. It also engages in the identifying potential companies, businesses, or assets for acquisition. The company was\u2026",
+    "company_name": "Electric Guitar PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ELEG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T18:50:18.403402+00:00",
+    "market_cap": "2062493",
+    "market_cap_display": "\u00a32.1m",
+    "ticker": "ELEG"
   },
   "ELIX.L": {
     "business_description": "Elixirr International plc, through its subsidiaries, provides management consultancy services in the United Kingdom, the United States, and internationally. It provides services in the areas of AI and machine learning,\u2026",
@@ -4271,9 +4297,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:37.326166+00:00",
-    "market_cap": "331185792",
-    "market_cap_display": "\u00a3331.2m",
+    "last_updated": "2026-10-13T18:50:23.186013+00:00",
+    "market_cap": "335291392",
+    "market_cap_display": "\u00a3335.3m",
     "ticker": "GHH"
   },
   "GLE.L": {
@@ -6611,9 +6637,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:51:59.773021+00:00",
-    "market_cap": "1158537856",
-    "market_cap_display": "\u00a31.16bn",
+    "last_updated": "2026-10-13T18:50:23.942823+00:00",
+    "market_cap": "1140293120",
+    "market_cap_display": "\u00a31.14bn",
     "ticker": "NBS"
   },
   "NCC.L": {
@@ -6888,6 +6914,19 @@
     "market_cap": "54074800",
     "market_cap_display": "\u00a354.1m",
     "ticker": "ONWD"
+  },
+  "OPT.L": {
+    "business_description": "Optima Health plc provides occupational health and wellbeing services for the public and private sectors in the United Kingdom and the Republic of Ireland. The company offers strategy and advisory services; risk and\u2026",
+    "company_name": "Optima Health plc",
+    "currency": "GBp",
+    "data_source": "yfinance:OPT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T18:50:20.876107+00:00",
+    "market_cap": "263780288",
+    "market_cap_display": "\u00a3263.8m",
+    "ticker": "OPT"
   },
   "OPTI.L": {
     "business_description": "OptiBiotix Health Plc, a life sciences company, engages in the discovery and development of microbiome modulation products in the United Kingdom, the United States, India, China, and internationally. The company\u2026",
@@ -7746,6 +7785,19 @@
     "market_cap": "40227560",
     "market_cap_display": "\u00a340.2m",
     "ticker": "RENX"
+  },
+  "RESI.L": {
+    "business_description": "Residential Secure Income plc is a real estate investment trust (REIT) focused on delivering secure, inflation-linked returns. With a focus on two residential sub-sectors in UK residential - independent retirement\u2026",
+    "company_name": "Residential Secure Income plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RESI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T18:50:19.920863+00:00",
+    "market_cap": "12591104",
+    "market_cap_display": "\u00a312.6m",
+    "ticker": "RESI"
   },
   "REVB.L": {
     "business_description": "Revolution Beauty Group plc, together with its subsidiaries, engages in the development, production, wholesale, and retail of beauty products in the United Kingdom, the United States, and internationally. The company\u2026",
@@ -10229,6 +10281,19 @@
     "market_cap": "21299508",
     "market_cap_display": "\u00a321.3m",
     "ticker": "WINK"
+  },
+  "WISE.L": {
+    "business_description": "Wise Group plc provides cross-border and domestic financial services in the United Kingdom, the rest of Europe, the Asia-Pacific, North America, and internationally. It offers money transfers, currency conversions, and\u2026",
+    "company_name": "Wise Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WISE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-13T18:50:24.690460+00:00",
+    "market_cap": "9054245888",
+    "market_cap_display": "\u00a39.05bn",
+    "ticker": "WISE"
   },
   "WIX.L": {
     "business_description": "Wickes Group plc operates as a retailer of home improvement products and services in the United Kingdom. The company supports customers' home improvement projects through Local Trade, Design and Installation, and\u2026",
