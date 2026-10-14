@@ -579,9 +579,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:44.128788+00:00",
-    "market_cap": "91942520",
-    "market_cap_display": "\u00a391.9m",
+    "last_updated": "2026-10-14T18:50:22.467921+00:00",
+    "market_cap": "83287024",
+    "market_cap_display": "\u00a383.3m",
     "ticker": "AEX"
   },
   "AFP.L": {
@@ -1663,6 +1663,19 @@
     "market_cap_display": "\u00a311.8m",
     "ticker": "BLOE"
   },
+  "BMD.L": {
+    "business_description": "Baronsmead Second Venture Trust plc is a venture capital trust managed by ISIS Equity Partners LLP. It invests in a portfolio of unquoted companies in the United Kingdom. The trust primarily invests in the media,\u2026",
+    "company_name": "Baronsmead Second Venture Trust plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BMD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T18:50:20.845584+00:00",
+    "market_cap": "188353120",
+    "market_cap_display": "\u00a3188.4m",
+    "ticker": "BMD"
+  },
   "BMTO.L": {
     "business_description": "Braime Group PLC, together with its subsidiaries, engages in the manufacturing and distribution of metal presswork and bulk material handling components in the United Kingdom, Rest of Europe, the Middle East, the United\u2026",
     "company_name": "Braime Group PLC",
@@ -2014,6 +2027,19 @@
     "market_cap_display": "\u00a338.3m",
     "ticker": "BVC"
   },
+  "BVT.L": {
+    "business_description": "Baronsmead Venture Trust Plc is a venture capital trust managed by ISIS Equity Partners LLP specializing in early stage and Growth companies. It invests in a portfolio of unquoted companies in the United Kingdom, which\u2026",
+    "company_name": "Baronsmead Venture Trust Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BVT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T18:50:20.113395+00:00",
+    "market_cap": "192203856",
+    "market_cap_display": "\u00a3192.2m",
+    "ticker": "BVT"
+  },
   "BWY.L": {
     "business_description": "Bellway p.l.c., together with its subsidiaries, engages in the homebuilding business in the United Kingdom. It builds and sells homes ranging from one-bedroom apartments to six-bedroom family homes, as well as provides\u2026",
     "company_name": "Bellway p.l.c.",
@@ -2100,9 +2126,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:45.294659+00:00",
-    "market_cap": "256632544",
-    "market_cap_display": "\u00a3256.6m",
+    "last_updated": "2026-10-14T18:50:18.438717+00:00",
+    "market_cap": "246748960",
+    "market_cap_display": "\u00a3246.7m",
     "ticker": "CAML"
   },
   "CAPD.L": {
@@ -3140,9 +3166,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:17.547908+00:00",
-    "market_cap": "11410629",
-    "market_cap_display": "\u00a311.4m",
+    "last_updated": "2026-10-14T18:50:17.610074+00:00",
+    "market_cap": "19368042",
+    "market_cap_display": "\u00a319.4m",
     "ticker": "DNM"
   },
   "DOCS.L": {
@@ -4973,7 +4999,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:02.782775+00:00",
+    "last_updated": "2026-10-14T18:50:19.396405+00:00",
     "market_cap": "607415680",
     "market_cap_display": "\u00a3607.4m",
     "ticker": "HWG"
@@ -5211,6 +5237,19 @@
     "market_cap": "97847784",
     "market_cap_display": "\u00a397.8m",
     "ticker": "IOF"
+  },
+  "IPC.L": {
+    "business_description": "International Paper Company produces and sells renewable fiber-based packaging in North America, Latin America, Europe, South America, and North Africa. It operates through two segments, Packaging Solutions North\u2026",
+    "company_name": "International Paper Company",
+    "currency": "GBp",
+    "data_source": "yfinance:IPC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T18:50:24.802117+00:00",
+    "market_cap": "12762634240",
+    "market_cap_display": "\u00a312.76bn",
+    "ticker": "IPC"
   },
   "IPO.L": {
     "business_description": "IP Group Plc is a private equity and venture capital firm specializing in seed/startup, early venture, emerging growth, mature, mid venture, late venture, incubation, mezzanine in growth capital companies. It prefers to\u2026",
@@ -6849,6 +6888,19 @@
     "market_cap": "2673862",
     "market_cap_display": "\u00a32.7m",
     "ticker": "NTVO"
+  },
+  "NWG.L": {
+    "business_description": "NatWest Group plc, together with its subsidiaries, provides banking and financial products and services in the United Kingdom and internationally. It operates through the Retail Banking, Private Banking, and Commercial\u2026",
+    "company_name": "NatWest Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NWG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T18:50:24.060157+00:00",
+    "market_cap": "52974624768",
+    "market_cap_display": "\u00a352.97bn",
+    "ticker": "NWG"
   },
   "NWT.L": {
     "business_description": "Newmark Security plc designs, manufactures, and sells electronic and physical security systems in the United Kingdom, the United States, Belgium, Canada, the Netherlands, Mexico, the Middle East, Sweden, Switzerland,\u2026",
@@ -9029,9 +9081,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:48:59.672678+00:00",
-    "market_cap": "44423116",
-    "market_cap_display": "\u00a344.4m",
+    "last_updated": "2026-10-14T18:50:23.215245+00:00",
+    "market_cap": "38628796",
+    "market_cap_display": "\u00a338.6m",
     "ticker": "STAR"
   },
   "STB.L": {
@@ -9744,9 +9796,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T18:49:20.032969+00:00",
-    "market_cap": "113436408",
-    "market_cap_display": "\u00a3113.4m",
+    "last_updated": "2026-10-14T18:50:21.672470+00:00",
+    "market_cap": "115597096",
+    "market_cap_display": "\u00a3115.6m",
     "ticker": "TRI"
   },
   "TRN.L": {
