@@ -727,6 +727,19 @@
     "market_cap_display": "\u00a3482.8m",
     "ticker": "ALFA"
   },
+  "ALK.L": {
+    "business_description": "Alkemy Capital Investments Plc invests in the critical minerals sector in the United Kingdom and Australia. The company operates through the construction and operation of the Project in Teesside, UK; and the\u2026",
+    "company_name": "Alkemy Capital Investments Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ALK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:15.251194+00:00",
+    "market_cap": "30806696",
+    "market_cap_display": "\u00a330.8m",
+    "ticker": "ALK"
+  },
   "ALL.L": {
     "business_description": "Atlantic Lithium Limited engages in the exploration and development of mineral properties in Australia, Ivory Coast, and Ghana. The company primarily explores for lithium deposits. The company evaluation, development\u2026",
     "company_name": "Atlantic Lithium Limited",
@@ -765,6 +778,19 @@
     "market_cap": "85403544",
     "market_cap_display": "\u00a385.4m",
     "ticker": "ALU"
+  },
+  "AMC.L": {
+    "business_description": "Airtel Mobile Commerce N.V. develops and provides a scaled digital financial services platform. The company through its platform offers payments services, global transfers, loans, savings services, insurance, wallet\u2026",
+    "company_name": "Airtel Mobile Commerce N.V.",
+    "currency": "GBp",
+    "data_source": "yfinance:AMC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:16.458946+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "AMC"
   },
   "AMCO.L": {
     "business_description": "Amcomri Group plc engages in the engineering and industrial manufacturing businesses in the United Kingdom. The company operates in two divisions: Embedded Engineering Division and B2B Manufacturing Division. It offers\u2026",
@@ -1671,9 +1697,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T18:51:16.591205+00:00",
-    "market_cap": "155981316096",
-    "market_cap_display": "\u00a3155.98bn",
+    "last_updated": "2026-10-14T06:48:22.023383+00:00",
+    "market_cap": "148331954176",
+    "market_cap_display": "\u00a3148.33bn",
     "ticker": "BNC"
   },
   "BNZL.L": {
@@ -1714,6 +1740,19 @@
     "market_cap": "171498752",
     "market_cap_display": "\u00a3171.5m",
     "ticker": "BOOK"
+  },
+  "BOOM.L": {
+    "business_description": "Audioboom Group plc, a podcast company, operates a spoken-word audio platform for hosting, distributing, and monetizing content in the United Kingdom and the United States. The company's ad-tech and monetisation\u2026",
+    "company_name": "Audioboom Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BOOM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:18.332693+00:00",
+    "market_cap": "91931024",
+    "market_cap_display": "\u00a391.9m",
+    "ticker": "BOOM"
   },
   "BOOT.L": {
     "business_description": "Henry Boot PLC, together with its subsidiaries, engages in the home building business in the United Kingdom. The company operates through four segments: Property Investment and Development, Homebuilding, Land Promotion,\u2026",
@@ -2222,6 +2261,19 @@
     "market_cap_display": "\u00a31.6m",
     "ticker": "CHF"
   },
+  "CHG.L": {
+    "business_description": "Chemring Group PLC provides countermeasures, sensors, information, and energy products in the United States, the United Kingdom, Europe, the Asia pacific, and internationally. The company offers sensors and information\u2026",
+    "company_name": "Chemring Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CHG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:20.187999+00:00",
+    "market_cap": "1352216960",
+    "market_cap_display": "\u00a31.35bn",
+    "ticker": "CHG"
+  },
   "CHH.L": {
     "business_description": "Churchill China plc, together with its subsidiaries, manufactures and sells ceramic and related products for the hospitality and household markets in the United Kingdom, the rest of Europe, the United States, and\u2026",
     "company_name": "Churchill China plc",
@@ -2351,6 +2403,19 @@
     "market_cap": "35666016",
     "market_cap_display": "\u00a335.7m",
     "ticker": "CLBS"
+  },
+  "CLBX.L": {
+    "business_description": "CelLBxHealth plc, a medical diagnostic company, develops cancer diagnostics products in the United Kingdom, Europe, North America, and internationally. The company develops Parsortix platform, emables real-time\u2026",
+    "company_name": "CelLBxHealth plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CLBX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:21.396596+00:00",
+    "market_cap": "10511725",
+    "market_cap_display": "\u00a310.5m",
+    "ticker": "CLBX"
   },
   "CLDN.L": {
     "business_description": "Caledonia Investments plc is a self-managed investment trust company. It invests in private and public equity markets across the globe. The firm benchmarks the performance of its portfolios against the FTSE All-Share\u2026",
@@ -3114,9 +3179,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:25.258071+00:00",
-    "market_cap": "61359196",
-    "market_cap_display": "\u00a361.4m",
+    "last_updated": "2026-10-14T06:48:15.856926+00:00",
+    "market_cap": "58055240",
+    "market_cap_display": "\u00a358.1m",
     "ticker": "DPP"
   },
   "DRX.L": {
@@ -5342,6 +5407,19 @@
     "market_cap_display": "\u00a33.33bn",
     "ticker": "JGGI"
   },
+  "JHD.L": {
+    "business_description": "James Halstead plc manufactures and supplies flooring products for commercial and domestic uses in the United Kingdom, rest of Europe, Scandinavia, Australasia, Asia, and internationally. The company offers its products\u2026",
+    "company_name": "James Halstead plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JHD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:14.037200+00:00",
+    "market_cap": "533006624",
+    "market_cap_display": "\u00a3533.0m",
+    "ticker": "JHD"
+  },
   "JIM.L": {
     "business_description": "Jarvis Securities plc, through its subsidiary, Jarvis Investment Management Limited, provides stock broking services to retail and institutional clients in the United Kingdom. The company offers retail execution-only\u2026",
     "company_name": "Jarvis Securities plc",
@@ -7404,9 +7482,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:28.351056+00:00",
-    "market_cap": "27585364",
-    "market_cap_display": "\u00a327.6m",
+    "last_updated": "2026-10-14T06:48:19.581504+00:00",
+    "market_cap": "25776488",
+    "market_cap_display": "\u00a325.8m",
     "ticker": "PRD"
   },
   "PREM.L": {
@@ -7512,6 +7590,19 @@
     "market_cap": "22091771904",
     "market_cap_display": "\u00a322.09bn",
     "ticker": "PRU"
+  },
+  "PRV.L": {
+    "business_description": "Porvair plc engages in the filtration, laboratory, and environmental technology business. It operates through three segments: Aerospace & Industrial, Laboratory, and Metal Melt Quality. The Aerospace & Industrial\u2026",
+    "company_name": "Porvair plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PRV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:17.724786+00:00",
+    "market_cap": "418617088",
+    "market_cap_display": "\u00a3418.6m",
+    "ticker": "PRV"
   },
   "PSDL.L": {
     "business_description": "Phoenix Spree Deutschland Limited is a public limited company incorporated in Jersey, Channel Islands under the Companies (Jersey) Law 1991 (as amended). The Company has a listing on the Official List of the Financial\u2026",
@@ -7755,9 +7846,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:03.500511+00:00",
-    "market_cap": "97832896",
-    "market_cap_display": "\u00a397.8m",
+    "last_updated": "2026-10-14T06:48:17.120477+00:00",
+    "market_cap": "87354464",
+    "market_cap_display": "\u00a387.4m",
     "ticker": "RCN"
   },
   "REC.L": {
@@ -7898,9 +7989,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T18:55:03.169843+00:00",
-    "market_cap": "113097039872",
-    "market_cap_display": "\u00a3113.10bn",
+    "last_updated": "2026-10-14T06:48:14.644654+00:00",
+    "market_cap": "113798479872",
+    "market_cap_display": "\u00a3113.80bn",
     "ticker": "RIO"
   },
   "RKH.L": {
@@ -8314,9 +8405,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:18.633466+00:00",
-    "market_cap": "3864293888",
-    "market_cap_display": "\u00a33.86bn",
+    "last_updated": "2026-10-14T06:48:13.364645+00:00",
+    "market_cap": "4138265600",
+    "market_cap_display": "\u00a34.14bn",
     "ticker": "SCT"
   },
   "SDG.L": {
@@ -8600,9 +8691,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:44.314173+00:00",
-    "market_cap": "244177776",
-    "market_cap_display": "\u00a3244.2m",
+    "last_updated": "2026-10-14T06:48:18.972933+00:00",
+    "market_cap": "240405744",
+    "market_cap_display": "\u00a3240.4m",
     "ticker": "SLP"
   },
   "SMIN.L": {
@@ -10186,9 +10277,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:47:57.876255+00:00",
-    "market_cap": "261869008",
-    "market_cap_display": "\u00a3261.9m",
+    "last_updated": "2026-10-14T06:48:12.756902+00:00",
+    "market_cap": "247083728",
+    "market_cap_display": "\u00a3247.1m",
     "ticker": "VTU"
   },
   "VTY.L": {
@@ -10411,6 +10502,19 @@
     "market_cap": "260188320",
     "market_cap_display": "\u00a3260.2m",
     "ticker": "WVIA"
+  },
+  "XAR.L": {
+    "business_description": "Xaar plc designs, develops, manufactures, markets, and sells industrial printheads and print systems in Europe, the Middle East, Africa, Asia, and the Americas. It operates through Printhead, Product Print Systems,\u2026",
+    "company_name": "Xaar plc",
+    "currency": "GBp",
+    "data_source": "yfinance:XAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-14T06:48:20.791526+00:00",
+    "market_cap": "122818040",
+    "market_cap_display": "\u00a3122.8m",
+    "ticker": "XAR"
   },
   "XGDU.L": {
     "business_description": "",
