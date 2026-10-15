@@ -896,6 +896,19 @@
     "market_cap_display": "\u00a388.5m",
     "ticker": "ANP"
   },
+  "ANTO.L": {
+    "business_description": "Antofagasta plc operates as a mining company. It operates through Los Pelambres, Centinela, Antucoya, Zald\u00edvar, Exploration and Evaluation, and Transport Division segments. The company produces copper cathodes and\u2026",
+    "company_name": "Antofagasta plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ANTO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:39.186839+00:00",
+    "market_cap": "35214802944",
+    "market_cap_display": "\u00a335.21bn",
+    "ticker": "ANTO"
+  },
   "AOF.L": {
     "business_description": "Africa Opportunity Fund Limited is close ended balanced mutual fund launched and managed by Africa Opportunity Partners Limited. The fund invests in equity and fixed income markets of Africa. It seeks to invest in\u2026",
     "company_name": "Africa Opportunity Fund Limited",
@@ -1008,9 +1021,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T18:52:24.306203+00:00",
-    "market_cap": "32704420",
-    "market_cap_display": "\u00a332.7m",
+    "last_updated": "2026-10-15T06:48:46.120981+00:00",
+    "market_cap": "36087632",
+    "market_cap_display": "\u00a336.1m",
     "ticker": "AREC"
   },
   "ARK.L": {
@@ -2054,16 +2067,16 @@
     "ticker": "BWY"
   },
   "BYG.L": {
-    "business_description": "Big Yellow Group Plc is the UK's brand leader in self-storage and operates from a platform of 111 stores. We have a pipeline of 0.9 million sq ft comprising 13 proposed self-storage facilities. The current maximum\u2026",
+    "business_description": "Big Yellow Group Plc is the UK's brand leader in self-storage and operates from a platform of 115 stores. We have a pipeline of 0.8 million sq ft comprising 10 proposed self-storage facilities. The current maximum\u2026",
     "company_name": "Big Yellow Group Plc",
     "currency": "GBp",
     "data_source": "yfinance:BYG.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:29.881727+00:00",
-    "market_cap": "1591020032",
-    "market_cap_display": "\u00a31.59bn",
+    "last_updated": "2026-10-15T06:48:43.838084+00:00",
+    "market_cap": "1650818304",
+    "market_cap_display": "\u00a31.65bn",
     "ticker": "BYG"
   },
   "BYIT.L": {
@@ -3625,6 +3638,19 @@
     "market_cap": "99334208",
     "market_cap_display": "\u00a399.3m",
     "ticker": "ENSI"
+  },
+  "ENT.L": {
+    "business_description": "Entain Plc operates as a sports-betting and gaming company in the United Kingdom, Ireland, Italy, rest of Europe, Australia, New Zealand, and internationally. It provides online and multi-channel betting under the\u2026",
+    "company_name": "Entain Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ENT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:34.628321+00:00",
+    "market_cap": "2844118784",
+    "market_cap_display": "\u00a32.84bn",
+    "ticker": "ENT"
   },
   "ENW.L": {
     "business_description": "Enwell Energy plc engages in the exploration, development, and production of oil and gas properties in Ukraine. The company holds 100% interest in gas and condensate fields, including the Mekhediviska-Golotvshinska and\u2026",
@@ -5207,9 +5233,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:50.927936+00:00",
-    "market_cap": "2477450752",
-    "market_cap_display": "\u00a32.48bn",
+    "last_updated": "2026-10-15T06:48:45.401931+00:00",
+    "market_cap": "2463917312",
+    "market_cap_display": "\u00a32.46bn",
     "ticker": "INPP"
   },
   "INSG.L": {
@@ -5506,9 +5532,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T18:49:51.300251+00:00",
-    "market_cap": "95797368",
-    "market_cap_display": "\u00a395.8m",
+    "last_updated": "2026-10-15T06:48:44.644453+00:00",
+    "market_cap": "96135544",
+    "market_cap_display": "\u00a396.1m",
     "ticker": "JNEO"
   },
   "JOG.L": {
@@ -6299,9 +6325,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:33.601661+00:00",
-    "market_cap": "1974982",
-    "market_cap_display": "\u00a32.0m",
+    "last_updated": "2026-10-15T06:48:40.731567+00:00",
+    "market_cap": "1711651",
+    "market_cap_display": "\u00a31.7m",
     "ticker": "MFAI"
   },
   "MFX.L": {
@@ -6421,6 +6447,19 @@
     "market_cap_display": "\u00a32.47bn",
     "ticker": "MNKS"
   },
+  "MNTL.L": {
+    "business_description": "Technology Minerals Plc operates as a mineral exploration company in Ireland, Spain, Cameroon, and the United States. It explores for cobalt, copper, lithium, nickel, manganese, and rare earth deposits. Technology\u2026",
+    "company_name": "Technology Minerals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MNTL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:38.461588+00:00",
+    "market_cap": "11845724",
+    "market_cap_display": "\u00a311.8m",
+    "ticker": "MNTL"
+  },
   "MNTN.L": {
     "business_description": "The Schiehallion Fund Limited specializes in growth capital and later stage investments. The fund seeks to invest in private businesses which have the potential of trading on a public stock exchange. The fund prefers to\u2026",
     "company_name": "The Schiehallion Fund Limited",
@@ -6524,6 +6563,19 @@
     "market_cap": "3169081",
     "market_cap_display": "\u00a33.2m",
     "ticker": "MPO"
+  },
+  "MRC.L": {
+    "business_description": "",
+    "company_name": "Mercantile Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MRC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:32.271622+00:00",
+    "market_cap": "1696390016",
+    "market_cap_display": "\u00a31.70bn",
+    "ticker": "MRC"
   },
   "MRCH.L": {
     "business_description": "",
@@ -6910,7 +6962,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T06:50:38.366307+00:00",
+    "last_updated": "2026-10-15T06:48:31.505976+00:00",
     "market_cap": "10131496",
     "market_cap_display": "\u00a310.1m",
     "ticker": "NWT"
@@ -6927,6 +6979,19 @@
     "market_cap": "27287064",
     "market_cap_display": "\u00a327.3m",
     "ticker": "NXQ"
+  },
+  "NXR.L": {
+    "business_description": "Norcros plc, together with its subsidiaries, designs and supplies bathroom and kitchen products in the United Kingdom, South Africa, rest of Europe, and internationally. The company offers electric and mixer showers\u2026",
+    "company_name": "Norcros plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NXR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:36.978220+00:00",
+    "market_cap": "257294096",
+    "market_cap_display": "\u00a3257.3m",
+    "ticker": "NXR"
   },
   "OBI.L": {
     "business_description": "Ondine Biomedical Inc., a life-sciences company, engages in the development of activated antimicrobial therapies for the prevention and treatment of infections in Canada and internationally. Its primary product is\u2026",
@@ -8281,16 +8346,16 @@
     "ticker": "RWS"
   },
   "S32.L": {
-    "business_description": "South32 Limited operates as a diversified metals and mining company. The company operates through Worsley Alumina, Brazil Alumina, Brazil Aluminium, Hillside Aluminium, Mozal Aluminium, Sierra Gorda, Cannington,\u2026",
+    "business_description": "South32 Limited operates as a diversified metals and mining company. The company operates through Sierra Gorda, Cannington, Hermosa, Australia Manganese, South Africa Manganese, and Mozal Aluminium segments. It explores\u2026",
     "company_name": "South32 Limited",
     "currency": "GBp",
     "data_source": "yfinance:S32.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:53.994985+00:00",
-    "market_cap": "12404585472",
-    "market_cap_display": "\u00a312.40bn",
+    "last_updated": "2026-10-15T06:48:33.833514+00:00",
+    "market_cap": "10971717632",
+    "market_cap_display": "\u00a310.97bn",
     "ticker": "S32"
   },
   "SAA.L": {
@@ -8444,7 +8509,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:01.480156+00:00",
+    "last_updated": "2026-10-15T06:48:43.117398+00:00",
     "market_cap": "126849128",
     "market_cap_display": "\u00a3126.8m",
     "ticker": "SCLP"
@@ -8912,7 +8977,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T06:50:36.938020+00:00",
+    "last_updated": "2026-10-15T06:48:41.653002+00:00",
     "market_cap": "12818924",
     "market_cap_display": "\u00a312.8m",
     "ticker": "SOUC"
@@ -9003,9 +9068,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T06:48:36.482583+00:00",
-    "market_cap": "1371847680",
-    "market_cap_display": "\u00a31.37bn",
+    "last_updated": "2026-10-15T06:48:37.724074+00:00",
+    "market_cap": "1421689856",
+    "market_cap_display": "\u00a31.42bn",
     "ticker": "SRE"
   },
   "SRES.L": {
@@ -9033,6 +9098,19 @@
     "market_cap": "29810335744",
     "market_cap_display": "\u00a329.81bn",
     "ticker": "SSE"
+  },
+  "SSIT.L": {
+    "business_description": "",
+    "company_name": "Seraphim Space Investment Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:SSIT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:30.733577+00:00",
+    "market_cap": "472025216",
+    "market_cap_display": "\u00a3472.0m",
+    "ticker": "SSIT"
   },
   "SSPG.L": {
     "business_description": "SSP Group plc operates food and beverage outlets in North America, Europe, the United Kingdom, Ireland, the Asia Pacific, Eastern Europe, the Middle East, and internationally. The company engages in designing, creating,\u2026",
@@ -9575,9 +9653,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:41.630962+00:00",
-    "market_cap": "503032832",
-    "market_cap_display": "\u00a3503.0m",
+    "last_updated": "2026-10-15T06:48:36.192699+00:00",
+    "market_cap": "436702304",
+    "market_cap_display": "\u00a3436.7m",
     "ticker": "THG"
   },
   "THR.L": {
@@ -9749,6 +9827,19 @@
     "market_cap_display": "\u00a34.1m",
     "ticker": "TOO"
   },
+  "TOWN.L": {
+    "business_description": "Town Centre Securities PLC is a property investment and car parking operator with assets of 280m pounds. With more than 60 years' experience, a commitment to sustainable development and a reputation for quality and\u2026",
+    "company_name": "Town Centre Securities Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TOWN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:32.998239+00:00",
+    "market_cap": "52926068",
+    "market_cap_display": "\u00a352.9m",
+    "ticker": "TOWN"
+  },
   "TPFG.L": {
     "business_description": "The Property Franchise Group PLC engages in residential property franchise, and licensing and financial services businesses in the United Kingdom. It operates through three segments: Property Franchising, Financial\u2026",
     "company_name": "The Property Franchise Group PLC",
@@ -9761,6 +9852,19 @@
     "market_cap": "266164640",
     "market_cap_display": "\u00a3266.2m",
     "ticker": "TPFG"
+  },
+  "TPK.L": {
+    "business_description": "Travis Perkins plc engages in distribution of building material products in the United Kingdom. It operates through Merchanting and Toolstation segments. The company offers tools and building supplies. It also\u2026",
+    "company_name": "Travis Perkins plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TPK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:42.395589+00:00",
+    "market_cap": "1258330880",
+    "market_cap_display": "\u00a31.26bn",
+    "ticker": "TPK"
   },
   "TRB.L": {
     "business_description": "Tribal Group plc, through its subsidiaries, provides software and services to education institutions internationally. The company operates in two segments: Student Information Systems (SIS) and Etio. The Student\u2026",
@@ -10073,6 +10177,19 @@
     "market_cap": "946291840",
     "market_cap_display": "\u00a3946.3m",
     "ticker": "UPR"
+  },
+  "URU.L": {
+    "business_description": "URU Metals Limited engages in the exploration and development of mineral properties in Canada and South Africa. It primarily explores nickel, copper, and platinum group element deposits. The company's flagship property\u2026",
+    "company_name": "URU Metals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:URU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T06:48:39.971616+00:00",
+    "market_cap": "3894538",
+    "market_cap_display": "\u00a33.9m",
+    "ticker": "URU"
   },
   "USA.L": {
     "business_description": "",
@@ -10459,9 +10576,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:34.063882+00:00",
-    "market_cap": "697387968",
-    "market_cap_display": "\u00a3697.4m",
+    "last_updated": "2026-10-15T06:48:35.363595+00:00",
+    "market_cap": "705479296",
+    "market_cap_display": "\u00a3705.5m",
     "ticker": "WKP"
   },
   "WNX.L": {
