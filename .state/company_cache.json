@@ -1,4 +1,17 @@
 {
+  "0A7N.L": {
+    "business_description": "Keysight Technologies, Inc. provides electronic design and test solutions worldwide. The company operates through Communications Solutions Group and Electronic Industrial Solutions Group segments. It offers electronic\u2026",
+    "company_name": "Keysight Technologies, Inc.",
+    "currency": "USD",
+    "data_source": "yfinance:0A7N.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-15T18:50:41.983292+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "0A7N"
+  },
   "12WM.L": {
     "business_description": "",
     "company_name": "Barclays Bank PLC B008 FTSE YEAR 2 AUTOCALL E2",
@@ -241,7 +254,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T18:55:03.873915+00:00",
+    "last_updated": "2026-10-15T18:50:43.309838+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "74JJ"
@@ -6312,9 +6325,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:34.809835+00:00",
-    "market_cap": "28224742",
-    "market_cap_display": "\u00a328.2m",
+    "last_updated": "2026-10-15T18:50:39.225473+00:00",
+    "market_cap": "27451464",
+    "market_cap_display": "\u00a327.5m",
     "ticker": "MEX"
   },
   "MFAI.L": {
