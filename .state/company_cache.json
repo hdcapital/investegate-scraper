@@ -1261,16 +1261,16 @@
     "ticker": "ATR"
   },
   "AURA.L": {
-    "business_description": "Aura Energy Limited, together with its subsidiaries, explores and evaluates mineral properties in Mauritania and Sweden. It explores for uranium, vanadium, gold, and base metals. The company's flagship property is the\u2026",
+    "business_description": "Aura Energy Limited, together with its subsidiaries, explores and evaluates mineral properties in Mauritania and Sweden. The company explores for uranium, vanadium, gold, and base metals. Its flagship property is the\u2026",
     "company_name": "Aura Energy Limited",
     "currency": "GBp",
     "data_source": "yfinance:AURA.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:30.780943+00:00",
-    "market_cap": "50972084",
-    "market_cap_display": "\u00a351.0m",
+    "last_updated": "2026-10-16T06:48:22.987211+00:00",
+    "market_cap": "44258712",
+    "market_cap_display": "\u00a344.3m",
     "ticker": "AURA"
   },
   "AURR.L": {
@@ -2646,9 +2646,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T18:51:06.776145+00:00",
-    "market_cap": "39773936",
-    "market_cap_display": "\u00a339.8m",
+    "last_updated": "2026-10-16T06:48:27.678727+00:00",
+    "market_cap": "36014520",
+    "market_cap_display": "\u00a336.0m",
     "ticker": "COBR"
   },
   "CODE.L": {
@@ -3374,9 +3374,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T06:48:04.770671+00:00",
-    "market_cap": "6367274",
-    "market_cap_display": "\u00a36.4m",
+    "last_updated": "2026-10-16T06:48:25.649786+00:00",
+    "market_cap": "5545691",
+    "market_cap_display": "\u00a35.5m",
     "ticker": "ECR"
   },
   "EDEN.L": {
@@ -3547,6 +3547,19 @@
     "market_cap": "3860779",
     "market_cap_display": "\u00a33.9m",
     "ticker": "EME"
+  },
+  "EMG.L": {
+    "business_description": "Man Group Plc is a publicly owned investment manager. The firm provides long-only and alternative investment management services worldwide. It offers a range of liquid investment products and solutions, which include\u2026",
+    "company_name": "Man Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:EMG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-16T06:48:29.018365+00:00",
+    "market_cap": "3727449088",
+    "market_cap_display": "\u00a33.73bn",
+    "ticker": "EMG"
   },
   "EMH.L": {
     "business_description": "European Metals Holdings Limited operates as the exploration and development company in the Czech Republic. It holds interest in the Cinovec lithium projects located in the Czech Republic. The company was formerly known\u2026",
@@ -3976,6 +3989,19 @@
     "market_cap": "4754222",
     "market_cap_display": "\u00a34.8m",
     "ticker": "FIN"
+  },
+  "FKE.L": {
+    "business_description": "Fiske plc, together with its subsidiaries, provides financial intermediation services in the United Kingdom. It offers discretionary investment management, such as investment management in line with the agreed strategy,\u2026",
+    "company_name": "Fiske plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FKE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-16T06:48:24.994806+00:00",
+    "market_cap": "7097915",
+    "market_cap_display": "\u00a37.1m",
+    "ticker": "FKE"
   },
   "FLK.L": {
     "business_description": "Fletcher King Plc provides a range of property advice services in the United Kingdom. The company provides services in the areas of property fund management, property asset management, investment broking, valuations,\u2026",
@@ -4414,9 +4440,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:33.416779+00:00",
-    "market_cap": "3889457408",
-    "market_cap_display": "\u00a33.89bn",
+    "last_updated": "2026-10-16T06:48:28.353079+00:00",
+    "market_cap": "3423937280",
+    "market_cap_display": "\u00a33.42bn",
     "ticker": "GGP"
   },
   "GHH.L": {
@@ -4804,9 +4830,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:07.342067+00:00",
-    "market_cap": "70156536",
-    "market_cap_display": "\u00a370.2m",
+    "last_updated": "2026-10-16T06:48:26.952280+00:00",
+    "market_cap": "76049688",
+    "market_cap_display": "\u00a376.0m",
     "ticker": "HEX"
   },
   "HFG.L": {
@@ -6936,9 +6962,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T18:49:57.473756+00:00",
-    "market_cap": "1154650",
-    "market_cap_display": "\u00a31.2m",
+    "last_updated": "2026-10-16T06:48:24.347118+00:00",
+    "market_cap": "1402076",
+    "market_cap_display": "\u00a31.4m",
     "ticker": "NOG"
   },
   "NTVO.L": {
@@ -7599,9 +7625,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:30.597956+00:00",
-    "market_cap": "2385086",
-    "market_cap_display": "\u00a32.4m",
+    "last_updated": "2026-10-16T06:48:23.643598+00:00",
+    "market_cap": "2335396",
+    "market_cap_display": "\u00a32.3m",
     "ticker": "PR1"
   },
   "PRD.L": {
@@ -7980,6 +8006,19 @@
     "market_cap": "87354464",
     "market_cap_display": "\u00a387.4m",
     "ticker": "RCN"
+  },
+  "RCOI.L": {
+    "business_description": "",
+    "company_name": "Riverstone Credit Opportunities Income",
+    "currency": "USD",
+    "data_source": "yfinance:RCOI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-16T06:48:26.299823+00:00",
+    "market_cap": "29175776",
+    "market_cap_display": "$29.2m",
+    "ticker": "RCOI"
   },
   "REC.L": {
     "business_description": "Record plc, through its subsidiaries, provides currency and asset management services in the United Kingdom, North America, Switzerland, rest of Europe, Australia, and internationally. The company operates in two\u2026",
@@ -8968,6 +9007,19 @@
     "market_cap": "135807968",
     "market_cap_display": "\u00a3135.8m",
     "ticker": "SOM"
+  },
+  "SORT.L": {
+    "business_description": "Sorted Group Holdings Plc provides delivery experience and analyzing post-purchase performance solutions in the United States and the United Kingdom. The company offers delivery experience platform, a platform for\u2026",
+    "company_name": "Sorted Group Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SORT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-16T06:48:22.282407+00:00",
+    "market_cap": "687573",
+    "market_cap_display": "\u00a3687.6k",
+    "ticker": "SORT"
   },
   "SOU.L": {
     "business_description": "Sound Energy plc, through its subsidiaries, engages in the exploration, appraisal, and development of gas assets in Morocco. It operates through three segments: corporate; exploration and appraisal; and development and\u2026",
