@@ -2607,7 +2607,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:00.826056+00:00",
+    "last_updated": "2026-10-16T18:50:21.046132+00:00",
     "market_cap": "293203072",
     "market_cap_display": "\u00a3293.2m",
     "ticker": "CNE"
@@ -2977,16 +2977,16 @@
     "ticker": "CYAN"
   },
   "CYN.L": {
-    "business_description": "City Natural Resources High Yield Trust plc is a close ended balanced mutual fund launched and managed by CQS Asset Management Ltd. The fund invests in the public equity and fixed income markets across the globe. It\u2026",
-    "company_name": "CQS Natural Resources Growth and Income plc",
+    "business_description": "",
+    "company_name": "City Natural Resources Grow & Inc PLC",
     "currency": "GBp",
     "data_source": "yfinance:CYN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:51:58.319804+00:00",
-    "market_cap": "162091216",
-    "market_cap_display": "\u00a3162.1m",
+    "last_updated": "2026-10-16T18:50:26.015538+00:00",
+    "market_cap": "159114176",
+    "market_cap_display": "\u00a3159.1m",
     "ticker": "CYN"
   },
   "DAR.L": {
@@ -4154,9 +4154,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:13.533200+00:00",
-    "market_cap": "286625664",
-    "market_cap_display": "\u00a3286.6m",
+    "last_updated": "2026-10-16T18:50:20.249349+00:00",
+    "market_cap": "305157504",
+    "market_cap_display": "\u00a3305.2m",
     "ticker": "FRP"
   },
   "FSFL.L": {
@@ -8262,9 +8262,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:18.011548+00:00",
-    "market_cap": "99826240",
-    "market_cap_display": "\u00a399.8m",
+    "last_updated": "2026-10-16T18:50:23.585705+00:00",
+    "market_cap": "95369704",
+    "market_cap_display": "\u00a395.4m",
     "ticker": "ROAD"
   },
   "ROC.L": {
@@ -8866,16 +8866,16 @@
     "ticker": "SLP"
   },
   "SMIN.L": {
-    "business_description": "Smiths Group plc operates as an industrial technology company in Americas, Europe, the Asia Pacific, and internationally. The company operates through four segments: John Crane, Smiths Detection, Flex-Tek, and Smiths\u2026",
+    "business_description": "Smiths Group plc operates as an industrial engineering company in Americas, Europe, the Asia Pacific, and internationally. The company operates through two segments, John Crane and Flex-Tek. Its John Crane business\u2026",
     "company_name": "Smiths Group plc",
     "currency": "GBp",
     "data_source": "yfinance:SMIN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T18:50:16.246454+00:00",
-    "market_cap": "7881137152",
-    "market_cap_display": "\u00a37.88bn",
+    "last_updated": "2026-10-16T18:50:22.699647+00:00",
+    "market_cap": "7426008576",
+    "market_cap_display": "\u00a37.43bn",
     "ticker": "SMIN"
   },
   "SML.L": {
@@ -9484,9 +9484,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:14.170669+00:00",
-    "market_cap": "42508396",
-    "market_cap_display": "\u00a342.5m",
+    "last_updated": "2026-10-16T18:50:26.813652+00:00",
+    "market_cap": "44411756",
+    "market_cap_display": "\u00a344.4m",
     "ticker": "SYS1"
   },
   "TAM.L": {
@@ -10139,6 +10139,19 @@
     "market_cap_display": "\u00a35.7m",
     "ticker": "TYM"
   },
+  "UBLS.L": {
+    "business_description": "",
+    "company_name": "United Bank Limited",
+    "currency": "USD",
+    "data_source": "yfinance:UBLS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-16T18:50:21.838662+00:00",
+    "market_cap": "4561065472",
+    "market_cap_display": "$4.56bn",
+    "ticker": "UBLS"
+  },
   "UFO.L": {
     "business_description": "Alien Metals Limited, together with its subsidiaries, engages in the exploration and evaluation of mineral resource properties in Australia. The company explores for iron ore, silver, palladium, nickel, copper, gold,\u2026",
     "company_name": "Alien Metals Limited",
@@ -10303,9 +10316,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-06T18:50:52.659700+00:00",
-    "market_cap": "188941840",
-    "market_cap_display": "\u00a3188.9m",
+    "last_updated": "2026-10-16T18:50:25.233842+00:00",
+    "market_cap": "192557952",
+    "market_cap_display": "\u00a3192.6m",
     "ticker": "UTL"
   },
   "VAL.L": {
@@ -10758,7 +10771,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:11.352703+00:00",
+    "last_updated": "2026-10-16T18:50:19.468016+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
