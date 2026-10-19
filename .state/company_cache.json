@@ -3504,9 +3504,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T18:51:17.528585+00:00",
-    "market_cap": "192003360",
-    "market_cap_display": "\u00a3192.0m",
+    "last_updated": "2026-10-19T18:51:19.943673+00:00",
+    "market_cap": "192420768",
+    "market_cap_display": "\u00a3192.4m",
     "ticker": "ELCO"
   },
   "ELEG.L": {
@@ -4687,9 +4687,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:52.710207+00:00",
-    "market_cap": "70919348224",
-    "market_cap_display": "\u00a370.92bn",
+    "last_updated": "2026-10-19T18:51:21.979964+00:00",
+    "market_cap": "74330415104",
+    "market_cap_display": "\u00a374.33bn",
     "ticker": "GSK"
   },
   "GTC.L": {
@@ -6546,9 +6546,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:15.943127+00:00",
-    "market_cap": "148064576",
-    "market_cap_display": "\u00a3148.1m",
+    "last_updated": "2026-10-19T18:51:21.271967+00:00",
+    "market_cap": "131785224",
+    "market_cap_display": "\u00a3131.8m",
     "ticker": "MKA"
   },
   "MNKS.L": {
@@ -7131,9 +7131,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:08.866583+00:00",
-    "market_cap": "58449540",
-    "market_cap_display": "\u00a358.4m",
+    "last_updated": "2026-10-19T18:51:19.262528+00:00",
+    "market_cap": "54718768",
+    "market_cap_display": "\u00a354.7m",
     "ticker": "OBI"
   },
   "OCI.L": {
