@@ -280,9 +280,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-06T06:48:22.376409+00:00",
-    "market_cap": "61728380",
-    "market_cap_display": "\u00a361.7m",
+    "last_updated": "2026-10-19T06:49:11.413184+00:00",
+    "market_cap": "56109044",
+    "market_cap_display": "\u00a356.1m",
     "ticker": "80M"
   },
   "87UO.L": {
@@ -1663,6 +1663,19 @@
     "market_cap_display": "\u00a32.99bn",
     "ticker": "BKG"
   },
+  "BKS.L": {
+    "business_description": "Beeks Financial Cloud Group plc, together with its subsidiaries, provides managed cloud computing, connectivity, and analytics services for capital markets and financial services sectors in the United Kingdom, Europe,\u2026",
+    "company_name": "Beeks Financial Cloud Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BKS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:07.562040+00:00",
+    "market_cap": "120430360",
+    "market_cap_display": "\u00a3120.4m",
+    "ticker": "BKS"
+  },
   "BKY.L": {
     "business_description": "Berkeley Energia Limited engages in the exploration and development of mineral properties in Spain. The company explores for uranium, lithium, rubidium, tin, tantalum, niobium, tungsten, cobalt, antimony, and other\u2026",
     "company_name": "Berkeley Energia Limited",
@@ -2503,9 +2516,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:17.197265+00:00",
-    "market_cap": "237976560",
-    "market_cap_display": "\u00a3238.0m",
+    "last_updated": "2026-10-19T06:49:13.706723+00:00",
+    "market_cap": "256053520",
+    "market_cap_display": "\u00a3256.1m",
     "ticker": "CLIG"
   },
   "CMCL.L": {
@@ -2542,9 +2555,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T18:55:04.563471+00:00",
-    "market_cap": "52475864",
-    "market_cap_display": "\u00a352.5m",
+    "last_updated": "2026-10-19T06:49:21.400095+00:00",
+    "market_cap": "52577340",
+    "market_cap_display": "\u00a352.6m",
     "ticker": "CML"
   },
   "CMPG.L": {
@@ -2716,6 +2729,19 @@
     "market_cap_display": "\u00a3793.0k",
     "ticker": "COR"
   },
+  "CORA.L": {
+    "business_description": "Cora Gold Limited, together with its subsidiaries, explores for and develops mineral projects in West Africa. The company primarily explores for gold deposits. Its flagship project is the Sanankoro Gold project located\u2026",
+    "company_name": "Cora Gold Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CORA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:19.872598+00:00",
+    "market_cap": "84182648",
+    "market_cap_display": "\u00a384.2m",
+    "ticker": "CORA"
+  },
   "CORD.L": {
     "business_description": "Cordiant Digital Infrastructure Limited is an infrastructure investment fund specializes in investments in buy & build, capital expenditure and bolt-on acquisitions and digital infrastructure assets in the\u2026",
     "company_name": "Cordiant Digital Infrastructure Limited",
@@ -2750,9 +2776,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T18:51:02.670384+00:00",
-    "market_cap": "12658774",
-    "market_cap_display": "\u00a312.7m",
+    "last_updated": "2026-10-19T06:49:19.118576+00:00",
+    "market_cap": "11169507",
+    "market_cap_display": "\u00a311.2m",
     "ticker": "CPH2"
   },
   "CRCL.L": {
@@ -3144,6 +3170,19 @@
     "market_cap": "222695712",
     "market_cap_display": "\u00a3222.7m",
     "ticker": "DIA"
+  },
+  "DIAL.L": {
+    "business_description": "Diales Group Plc, together with its subsidiaries, provides various consultancy services to the engineering and construction industries. It offers quantum damages, delay analysis, project management, adjudicators,\u2026",
+    "company_name": "Diales Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DIAL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:16.764049+00:00",
+    "market_cap": "16104524",
+    "market_cap_display": "\u00a316.1m",
+    "ticker": "DIAL"
   },
   "DIG.L": {
     "business_description": "",
@@ -4284,9 +4323,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:40.264845+00:00",
-    "market_cap": "998420160",
-    "market_cap_display": "\u00a3998.4m",
+    "last_updated": "2026-10-19T06:49:08.325974+00:00",
+    "market_cap": "983921536",
+    "market_cap_display": "\u00a3983.9m",
     "ticker": "GAMA"
   },
   "GCG.L": {
@@ -5116,9 +5155,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T06:48:33.056655+00:00",
-    "market_cap": "112765880",
-    "market_cap_display": "\u00a3112.8m",
+    "last_updated": "2026-10-19T06:49:20.630346+00:00",
+    "market_cap": "100821576",
+    "market_cap_display": "\u00a3100.8m",
     "ticker": "IES"
   },
   "IFRX.L": {
@@ -5367,6 +5406,19 @@
     "market_cap": "6440199",
     "market_cap_display": "\u00a36.4m",
     "ticker": "ITIM"
+  },
+  "ITM.L": {
+    "business_description": "ITM Power Plc designs and manufactures proton exchange membrane (PEM) electrolysers in the United Kingdom, Germany, rest of Europe, the United States, Australia, and internationally. Its product portfolio comprises\u2026",
+    "company_name": "ITM Power Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ITM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:09.861532+00:00",
+    "market_cap": "634640448",
+    "market_cap_display": "\u00a3634.6m",
+    "ticker": "ITM"
   },
   "ITRK.L": {
     "business_description": "Intertek Group plc provides quality assurance solutions to various industries in the United Kingdom, the United States, China, Australia, and internationally. It operates through five segments: Consumer Products,\u2026",
@@ -5927,6 +5979,19 @@
     "market_cap_display": "\u00a35.07bn",
     "ticker": "LAND"
   },
+  "LBOW.L": {
+    "business_description": "ICG-Longbow Senior Secured UK Property Debt Investments Ltd specializes in mezzanine debt and whole loan investments. The fund focuses only on United Kingdom commercial real estate. ICG-Longbow Senior Secured UK\u2026",
+    "company_name": "ICG-Longbow Senior Secured UK Property Debt Investments Ltd",
+    "currency": "GBp",
+    "data_source": "yfinance:LBOW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:06.799814+00:00",
+    "market_cap": "15830012",
+    "market_cap_display": "\u00a315.8m",
+    "ticker": "LBOW"
+  },
   "LDG.L": {
     "business_description": "Logistics Development Group plc, together with its subsidiary, operates as an investment company in the United Kingdom and European Union. It invests in a portfolio of assets in logistics, IT services, consumer staples,\u2026",
     "company_name": "Logistics Development Group plc",
@@ -6026,9 +6091,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T18:49:27.002608+00:00",
-    "market_cap": "4162342144",
-    "market_cap_display": "\u00a34.16bn",
+    "last_updated": "2026-10-19T06:49:10.634728+00:00",
+    "market_cap": "4375605248",
+    "market_cap_display": "\u00a34.38bn",
     "ticker": "LMP"
   },
   "LND.L": {
@@ -6447,6 +6512,19 @@
     "market_cap_display": "\u00a311.2m",
     "ticker": "MILA"
   },
+  "MIND.L": {
+    "business_description": "Mind Gym plc operates as a behavioural science company in the United Kingdom, Singapore, the United States, and Canada. The company offers research, diagnostics, strategic advice, management and employee development,\u2026",
+    "company_name": "Mind Gym plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MIND.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:14.463989+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "MIND"
+  },
   "MIRI.L": {
     "business_description": "Mirriad Advertising plc provides in-video advertising services to broadcasters, advertisers, brand owners, and their agencies. The company inserts group of a product, signage, or video into existing content; and engages\u2026",
     "company_name": "Mirriad Advertising plc",
@@ -6667,6 +6745,19 @@
     "market_cap": "263066208",
     "market_cap_display": "\u00a3263.1m",
     "ticker": "MSI"
+  },
+  "MTE.L": {
+    "business_description": "",
+    "company_name": "Montanaro European Smaller Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MTE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:12.173481+00:00",
+    "market_cap": "202445824",
+    "market_cap_display": "\u00a3202.4m",
+    "ticker": "MTE"
   },
   "MTEC.L": {
     "business_description": "Made Tech Group Plc, through its subsidiaries, engages in the provision of digital, data, and technology services to the public sector in the United Kingdom. It offers repairs, voids, evidence, Awaab's law, inspection\u2026",
@@ -7729,9 +7820,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T06:48:47.536124+00:00",
-    "market_cap": "298430720",
-    "market_cap_display": "\u00a3298.4m",
+    "last_updated": "2026-10-19T06:49:22.162424+00:00",
+    "market_cap": "280975872",
+    "market_cap_display": "\u00a3281.0m",
     "ticker": "PRTC"
   },
   "PRU.L": {
@@ -10056,9 +10147,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:35.808219+00:00",
-    "market_cap": "29636270080",
-    "market_cap_display": "\u00a329.64bn",
+    "last_updated": "2026-10-19T06:49:15.996091+00:00",
+    "market_cap": "33323677696",
+    "market_cap_display": "\u00a333.32bn",
     "ticker": "TSCO"
   },
   "TST.L": {
@@ -10073,6 +10164,19 @@
     "market_cap": "5597545",
     "market_cap_display": "\u00a35.6m",
     "ticker": "TST"
+  },
+  "TSTL.L": {
+    "business_description": "Tristel plc develops, manufactures, and sells infection prevention products in the United Kingdom, Australia, Germany, Western Europe, and internationally. The company operates through three segments: Hospital Medical\u2026",
+    "company_name": "Tristel plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TSTL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-19T06:49:09.095468+00:00",
+    "market_cap": "206716000",
+    "market_cap_display": "\u00a3206.7m",
+    "ticker": "TSTL"
   },
   "TTG.L": {
     "business_description": "TT Electronics plc provides design-led advanced electronics technologies for performance critical applications in the healthcare, aerospace and defense, and automation and electrification markets in the United Kingdom,\u2026",
@@ -10290,7 +10394,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:22.737059+00:00",
+    "last_updated": "2026-10-19T06:49:18.277190+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "USFP"
@@ -10446,9 +10550,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-25T06:47:35.842420+00:00",
-    "market_cap": "977341632",
-    "market_cap_display": "\u00a3977.3m",
+    "last_updated": "2026-10-19T06:49:12.939194+00:00",
+    "market_cap": "1156697984",
+    "market_cap_display": "\u00a31.16bn",
     "ticker": "VLX"
   },
   "VNH.L": {
@@ -10823,9 +10927,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-04T06:47:20.957327+00:00",
-    "market_cap": "1452486272",
-    "market_cap_display": "\u00a31.45bn",
+    "last_updated": "2026-10-19T06:49:15.223881+00:00",
+    "market_cap": "1330608000",
+    "market_cap_display": "\u00a31.33bn",
     "ticker": "YCA"
   },
   "YOU.L": {
@@ -10888,9 +10992,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:36.835583+00:00",
-    "market_cap": "33130374",
-    "market_cap_display": "\u00a333.1m",
+    "last_updated": "2026-10-19T06:49:17.522218+00:00",
+    "market_cap": "29622452",
+    "market_cap_display": "\u00a329.6m",
     "ticker": "ZEN"
   },
   "ZIN.L": {
