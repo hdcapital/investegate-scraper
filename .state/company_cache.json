@@ -1905,9 +1905,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:09.518516+00:00",
-    "market_cap": "38901244",
-    "market_cap_display": "\u00a338.9m",
+    "last_updated": "2026-10-20T18:49:53.347359+00:00",
+    "market_cap": "31780904",
+    "market_cap_display": "\u00a331.8m",
     "ticker": "BRES"
   },
   "BRK.L": {
@@ -8306,6 +8306,19 @@
     "market_cap_display": "\u00a328.6m",
     "ticker": "RMII"
   },
+  "RMMC.L": {
+    "business_description": "River and Mercantile UK Micro Cap Investment Company Limited is a closed-ended equity mutual fund launched by Carne Global AIFM Solutions. The fund is managed by River and Mercantile Asset Management LLP. It invests in\u2026",
+    "company_name": "River UK Micro Cap Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:RMMC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-20T18:49:52.503163+00:00",
+    "market_cap": "83113136",
+    "market_cap_display": "\u00a383.1m",
+    "ticker": "RMMC"
+  },
   "RMR.L": {
     "business_description": "Rome Resources Plc operates as a mineral exploration and evaluation company in the Democratic Republic of Congo. Its flagship project is the 51% owned Bisie North Tin project, which consists of two contiguous\u2026",
     "company_name": "Rome Resources Plc",
@@ -8593,14 +8606,14 @@
     "ticker": "SAR"
   },
   "SATS.L": {
-    "business_description": "Satsuma Technology PLC operates as an AI-focused software development company in the United Kingdom. It provides subnet infrastructure and AI agent development, as well as deploying and managing subnet alpha tokens. The\u2026",
+    "business_description": "Satsuma Technology PLC engages in the bitcoin business in the United Kingdom. It provides advisory, consultancy and infrastructure-related income in connection with digital asset and network activities; as well as\u2026",
     "company_name": "Satsuma Technology PLC",
     "currency": "GBp",
     "data_source": "yfinance:SATS.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:15.926828+00:00",
+    "last_updated": "2026-10-20T18:49:51.697378+00:00",
     "market_cap": "23482980",
     "market_cap_display": "\u00a323.5m",
     "ticker": "SATS"
@@ -10290,9 +10303,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:48.389106+00:00",
-    "market_cap": "7678654",
-    "market_cap_display": "\u00a37.7m",
+    "last_updated": "2026-10-20T18:49:54.156603+00:00",
+    "market_cap": "7383321",
+    "market_cap_display": "\u00a37.4m",
     "ticker": "UFO"
   },
   "UJO.L": {
