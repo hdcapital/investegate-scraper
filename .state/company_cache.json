@@ -358,9 +358,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T18:54:22.978448+00:00",
-    "market_cap": "44070297600",
-    "market_cap_display": "\u00a344.07bn",
+    "last_updated": "2026-10-20T06:48:33.120843+00:00",
+    "market_cap": "41605873664",
+    "market_cap_display": "\u00a341.61bn",
     "ticker": "AAL"
   },
   "AAU.L": {
@@ -709,9 +709,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:00.315812+00:00",
-    "market_cap": "3061855",
-    "market_cap_display": "\u00a33.1m",
+    "last_updated": "2026-10-20T06:48:38.510206+00:00",
+    "market_cap": "2226804",
+    "market_cap_display": "\u00a32.2m",
     "ticker": "AKN"
   },
   "ALF.L": {
@@ -1489,9 +1489,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:10.583646+00:00",
-    "market_cap": "90729408",
-    "market_cap_display": "\u00a390.7m",
+    "last_updated": "2026-10-20T06:48:32.357146+00:00",
+    "market_cap": "87239816",
+    "market_cap_display": "\u00a387.2m",
     "ticker": "BBSN"
   },
   "BBY.L": {
@@ -1612,16 +1612,16 @@
     "ticker": "BHL"
   },
   "BHP.L": {
-    "business_description": "BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore,\u2026",
+    "business_description": "BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, and South America. The company operates through three segments: Copper, Iron Ore,\u2026",
     "company_name": "BHP Group Limited",
     "currency": "GBp",
     "data_source": "yfinance:BHP.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:00.787364+00:00",
-    "market_cap": "164766777344",
-    "market_cap_display": "\u00a3164.77bn",
+    "last_updated": "2026-10-20T06:48:35.443101+00:00",
+    "market_cap": "158638997504",
+    "market_cap_display": "\u00a3158.64bn",
     "ticker": "BHP"
   },
   "BIG.L": {
@@ -1879,9 +1879,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:31.187248+00:00",
-    "market_cap": "232909680",
-    "market_cap_display": "\u00a3232.9m",
+    "last_updated": "2026-10-20T06:48:33.900296+00:00",
+    "market_cap": "235992736",
+    "market_cap_display": "\u00a3236.0m",
     "ticker": "BPM"
   },
   "BPT.L": {
@@ -2806,6 +2806,19 @@
     "market_cap": "57689540",
     "market_cap_display": "\u00a357.7m",
     "ticker": "CREO"
+  },
+  "CRPR.L": {
+    "business_description": "James Cropper PLC manufactures and sells paper products and advanced materials in the United Kingdom, Europe, the United States, Asia, Australasia, Africa, and internationally. It operates through James Cropper Paper &\u2026",
+    "company_name": "James Cropper PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CRPR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-20T06:48:36.975087+00:00",
+    "market_cap": "66883620",
+    "market_cap_display": "\u00a366.9m",
+    "ticker": "CRPR"
   },
   "CRTA.L": {
     "business_description": "Cirata plc, together with its subsidiaries, engages in the development and provision of collaboration software in North America, the United Kingdom, and internationally. The company provides Data Migrator, an automated\u2026",
@@ -3855,9 +3868,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T06:48:06.766432+00:00",
-    "market_cap": "22575697920",
-    "market_cap_display": "\u00a322.58bn",
+    "last_updated": "2026-10-20T06:48:41.593720+00:00",
+    "market_cap": "24810831872",
+    "market_cap_display": "\u00a324.81bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -7222,9 +7235,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:21.244343+00:00",
-    "market_cap": "1191757056",
-    "market_cap_display": "\u00a31.19bn",
+    "last_updated": "2026-10-20T06:48:40.821821+00:00",
+    "market_cap": "2046909440",
+    "market_cap_display": "\u00a32.05bn",
     "ticker": "ONT"
   },
   "ONWD.L": {
@@ -7612,9 +7625,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:49:00.746773+00:00",
-    "market_cap": "115713432",
-    "market_cap_display": "\u00a3115.7m",
+    "last_updated": "2026-10-20T06:48:39.276417+00:00",
+    "market_cap": "134784720",
+    "market_cap_display": "\u00a3134.8m",
     "ticker": "PLSR"
   },
   "PMP.L": {
@@ -7989,9 +8002,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:51.410011+00:00",
-    "market_cap": "9497225",
-    "market_cap_display": "\u00a39.5m",
+    "last_updated": "2026-10-20T06:48:40.050190+00:00",
+    "market_cap": "7497809",
+    "market_cap_display": "\u00a37.5m",
     "ticker": "QHE"
   },
   "QTX.L": {
@@ -8617,6 +8630,19 @@
     "market_cap": "18363336",
     "market_cap_display": "\u00a318.4m",
     "ticker": "SBAR"
+  },
+  "SBRE.L": {
+    "business_description": "Sabre Insurance Group plc, through its subsidiaries, writes general insurance for motor vehicles in the United Kingdom. It offers taxi, private car, and motorcycle insurance through a network of insurance brokers, as\u2026",
+    "company_name": "Sabre Insurance Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SBRE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-20T06:48:37.741049+00:00",
+    "market_cap": "447624000",
+    "market_cap_display": "\u00a3447.6m",
+    "ticker": "SBRE"
   },
   "SBTX.L": {
     "business_description": "SkinBioTherapeutics plc, a life science company, engages in research and development, and commercialization of technology that harnesses the microbiome for human health in the United Kingdom, the United States, Europe,\u2026",
@@ -9497,9 +9523,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:48:55.763387+00:00",
-    "market_cap": "236622144",
-    "market_cap_display": "\u00a3236.6m",
+    "last_updated": "2026-10-20T06:48:36.206354+00:00",
+    "market_cap": "208227488",
+    "market_cap_display": "\u00a3208.2m",
     "ticker": "SWC"
   },
   "SWG.L": {
@@ -10892,6 +10918,19 @@
     "market_cap": "32057512",
     "market_cap_display": "\u00a332.1m",
     "ticker": "XPF"
+  },
+  "XPP.L": {
+    "business_description": "XP Power Limited, an investment holding company, designs, manufactures, and sells power supply solutions in Europe, North America, and Asia. It offers AC-DC power supplies, DC-DC converters, high voltage AC-DC power\u2026",
+    "company_name": "XP Power Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:XPP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-20T06:48:34.672396+00:00",
+    "market_cap": "495608928",
+    "market_cap_display": "\u00a3495.6m",
+    "ticker": "XPP"
   },
   "XSG.L": {
     "business_description": "Xeros Technology Group plc, together with its subsidiaries, provides technologies for the laundry and apparel industries in Europe, North America, and internationally. The company offers XOrbs, a reusable polymer\u2026",
