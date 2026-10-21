@@ -397,9 +397,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T18:52:21.546970+00:00",
-    "market_cap": "4197971712",
-    "market_cap_display": "\u00a34.20bn",
+    "last_updated": "2026-10-21T06:48:55.451244+00:00",
+    "market_cap": "4208717568",
+    "market_cap_display": "\u00a34.21bn",
     "ticker": "ABDN"
   },
   "ABDP.L": {
@@ -1190,9 +1190,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T18:50:21.029399+00:00",
-    "market_cap": "438585664",
-    "market_cap_display": "\u00a3438.6m",
+    "last_updated": "2026-10-21T06:48:49.482836+00:00",
+    "market_cap": "426121344",
+    "market_cap_display": "\u00a3426.1m",
     "ticker": "AT"
   },
   "ATC.L": {
@@ -1216,9 +1216,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:38.216890+00:00",
-    "market_cap": "138531632",
-    "market_cap_display": "\u00a3138.5m",
+    "last_updated": "2026-10-21T06:48:51.462310+00:00",
+    "market_cap": "149966000",
+    "market_cap_display": "\u00a3150.0m",
     "ticker": "ATM"
   },
   "ATN.L": {
@@ -1229,9 +1229,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:35.769761+00:00",
-    "market_cap": "4798325",
-    "market_cap_display": "\u00a34.8m",
+    "last_updated": "2026-10-21T06:49:02.898364+00:00",
+    "market_cap": "4504550",
+    "market_cap_display": "\u00a34.5m",
     "ticker": "ATN"
   },
   "ATOM.L": {
@@ -1599,16 +1599,16 @@
     "ticker": "BGUK"
   },
   "BHL.L": {
-    "business_description": "Bradda Head Lithium Limited, together with its subsidiaries, engages in the exploration and development of lithium deposits and resources in the United States. It primarily explores for lithium, brine, pegmatite, and\u2026",
+    "business_description": "Bradda Head Lithium Limited, together with its subsidiaries, explores and develops lithium deposits and resources in the United States. It primarily explores for lithium, brine, pegmatite, and sedimentary. The company\u2026",
     "company_name": "Bradda Head Lithium Limited",
     "currency": "GBp",
     "data_source": "yfinance:BHL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T18:50:19.136361+00:00",
-    "market_cap": "11115926",
-    "market_cap_display": "\u00a311.1m",
+    "last_updated": "2026-10-21T06:48:52.829907+00:00",
+    "market_cap": "8265689",
+    "market_cap_display": "\u00a38.3m",
     "ticker": "BHL"
   },
   "BHP.L": {
@@ -2274,6 +2274,19 @@
     "market_cap_display": "\u00a378.9m",
     "ticker": "CDGP"
   },
+  "CDL.L": {
+    "business_description": "Cloudbreak Discovery Plc engages in the acquisition of natural resource project and royalty generation worldwide. The company has interests in mineral projects. It has an option to acquire the Darlot West Gold Project\u2026",
+    "company_name": "Cloudbreak Discovery Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CDL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-21T06:49:02.244347+00:00",
+    "market_cap": "8309511",
+    "market_cap_display": "\u00a38.3m",
+    "ticker": "CDL"
+  },
   "CEPS.L": {
     "business_description": "CEPS PLC operates as an industrial trading holding company in the United Kingdom, rest of Europe, and internationally. It operates through Aford Awards and Signature Fabrics segments. The Aford Awards segment offers\u2026",
     "company_name": "CEPS PLC",
@@ -2477,9 +2490,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:21.396596+00:00",
-    "market_cap": "10511725",
-    "market_cap_display": "\u00a310.5m",
+    "last_updated": "2026-10-21T06:49:00.932502+00:00",
+    "market_cap": "8807121",
+    "market_cap_display": "\u00a38.8m",
     "ticker": "CLBX"
   },
   "CLDN.L": {
@@ -4367,6 +4380,19 @@
     "market_cap_display": "\u00a31.10bn",
     "ticker": "GDWN"
   },
+  "GELN.L": {
+    "business_description": "Gelion plc, together with its subsidiary, engages in the research and development, manufacture, and sale of battery systems in the United Kingdom and internationally. The company offers storage batteries, which include\u2026",
+    "company_name": "Gelion plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GELN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-21T06:48:50.801962+00:00",
+    "market_cap": "36707432",
+    "market_cap_display": "\u00a336.7m",
+    "ticker": "GELN"
+  },
   "GEMD.L": {
     "business_description": "Gem Diamonds Limited, together with its subsidiaries, operates diamond mines. The company also produces, manufactures, sells, and markets rough and polished diamonds; and provides technical, financial, and management\u2026",
     "company_name": "Gem Diamonds Limited",
@@ -4843,10 +4869,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:20.661343+00:00",
-    "market_cap": "1885883776",
-    "market_cap_display": "\u00a31.89bn",
+    "last_updated": "2026-10-21T06:49:03.554920+00:00",
+    "market_cap": "1929337216",
+    "market_cap_display": "\u00a31.93bn",
     "ticker": "HCM"
+  },
+  "HDD.L": {
+    "business_description": "Hardide plc engages in the production of chemical vapour deposition (CVD) coatings in the United Kingdom, Europe, North America, and internationally. The company offers advanced tungsten carbide/tungsten metal matrix\u2026",
+    "company_name": "Hardide plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HDD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-21T06:48:57.426370+00:00",
+    "market_cap": "81991264",
+    "market_cap_display": "\u00a382.0m",
+    "ticker": "HDD"
   },
   "HEAD.L": {
     "business_description": "Headlam Group plc, together with its subsidiaries, engages in the sale, marketing, supply, and distribution of floorcovering and other ancillary products in the United Kingdom and Continental Europe. The company offers\u2026",
@@ -4873,6 +4912,19 @@
     "market_cap": "31966602",
     "market_cap_display": "\u00a332.0m",
     "ticker": "HEMO"
+  },
+  "HERC.L": {
+    "business_description": "Hercules Plc engages in general construction and civil engineering businesses in the United Kingdom. The company operates through three segments: Labour Supply, Civil Projects, and Other Activities. It offers labor\u2026",
+    "company_name": "Hercules Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HERC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-21T06:48:54.796627+00:00",
+    "market_cap": "27399086",
+    "market_cap_display": "\u00a327.4m",
+    "ticker": "HERC"
   },
   "HEX.L": {
     "business_description": "Helix Exploration PLC, a helium exploration company, engages in the development and exploitation of small-scale gas leases. It holds interests in the Rudyard project and the Ingomar Dome project located in Montana,\u2026",
@@ -4986,9 +5038,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:14.713098+00:00",
-    "market_cap": "3295106048",
-    "market_cap_display": "\u00a33.30bn",
+    "last_updated": "2026-10-21T06:49:00.275373+00:00",
+    "market_cap": "2603159808",
+    "market_cap_display": "\u00a32.60bn",
     "ticker": "HOC"
   },
   "HOME.L": {
@@ -6520,9 +6572,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:49:04.949211+00:00",
-    "market_cap": "11213292",
-    "market_cap_display": "\u00a311.2m",
+    "last_updated": "2026-10-21T06:48:52.167656+00:00",
+    "market_cap": "9488170",
+    "market_cap_display": "\u00a39.5m",
     "ticker": "MILA"
   },
   "MIND.L": {
@@ -7655,6 +7707,19 @@
     "market_cap": "2132238976",
     "market_cap_display": "\u00a32.13bn",
     "ticker": "PNN"
+  },
+  "PNPL.L": {
+    "business_description": "Pineapple Power Corporation plc does not have significant operations. It focuses on identifying companies, businesses, or assets for acquisition. The company was incorporated in 2014 and is based in London, the United\u2026",
+    "company_name": "Pineapple Power Corporation plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PNPL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-21T06:48:53.483541+00:00",
+    "market_cap": "4957561",
+    "market_cap_display": "\u00a35.0m",
+    "ticker": "PNPL"
   },
   "PNS.L": {
     "business_description": "Panther Securities PLC is a property investment company quoted on the AIM market (AIM) since 2013. Prior to this the Company was fully listed and included in the FTSE fledgling index, first being fully listed as a\u2026",
@@ -8899,9 +8964,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:51:51.735840+00:00",
-    "market_cap": "12718183424",
-    "market_cap_display": "\u00a312.72bn",
+    "last_updated": "2026-10-21T06:48:56.770809+00:00",
+    "market_cap": "12195999744",
+    "market_cap_display": "\u00a312.20bn",
     "ticker": "SGRO"
   },
   "SHR.L": {
@@ -8990,7 +9055,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:18.972933+00:00",
+    "last_updated": "2026-10-21T06:48:59.566356+00:00",
     "market_cap": "240405744",
     "market_cap_display": "\u00a3240.4m",
     "ticker": "SLP"
@@ -9367,9 +9432,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:04.321942+00:00",
-    "market_cap": "277578976",
-    "market_cap_display": "\u00a3277.6m",
+    "last_updated": "2026-10-21T06:48:58.082039+00:00",
+    "market_cap": "259136944",
+    "market_cap_display": "\u00a3259.1m",
     "ticker": "STB"
   },
   "STCM.L": {
@@ -9528,6 +9593,19 @@
     "market_cap_display": "\u00a37.8m",
     "ticker": "SVNS"
   },
+  "SVS.L": {
+    "business_description": "Savills plc, together with its subsidiaries, engages in the provision of real estate services in the United Kingdom, Continental Europe, the Asia Pacific, North America, Africa, and the Middle East. The company advises\u2026",
+    "company_name": "Savills plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SVS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-21T06:48:56.114931+00:00",
+    "market_cap": "1715467776",
+    "market_cap_display": "\u00a31.72bn",
+    "ticker": "SVS"
+  },
   "SWC.L": {
     "business_description": "The Smarter Web Company Plc operates as a web design agency. It offers web design packages, logo designing, SEO, animation, custom development, web development, and online marketing services. The company is based in\u2026",
     "company_name": "The Smarter Web Company Plc",
@@ -9685,16 +9763,16 @@
     "ticker": "TATE"
   },
   "TAVI.L": {
-    "business_description": "Tavistock Investments Plc, together with its subsidiaries, provides financial advisory and investment management services in the United Kingdom. The company offers wealth and portfolio management services; and life\u2026",
+    "business_description": "Tavistock Investments Plc, together with its subsidiaries, provides financial advisory and investment management services in the United Kingdom. It operates through two segments: Investment Management and Advisory\u2026",
     "company_name": "Tavistock Investments Plc",
     "currency": "GBp",
     "data_source": "yfinance:TAVI.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:08.341721+00:00",
-    "market_cap": "12786977",
-    "market_cap_display": "\u00a312.8m",
+    "last_updated": "2026-10-21T06:48:54.138407+00:00",
+    "market_cap": "8157209",
+    "market_cap_display": "\u00a38.2m",
     "ticker": "TAVI"
   },
   "TBLD.L": {
@@ -9770,9 +9848,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:32.107989+00:00",
-    "market_cap": "7780324",
-    "market_cap_display": "\u00a37.8m",
+    "last_updated": "2026-10-21T06:49:01.585887+00:00",
+    "market_cap": "7093824",
+    "market_cap_display": "\u00a37.1m",
     "ticker": "TERA"
   },
   "TERN.L": {
@@ -10554,6 +10632,19 @@
     "market_cap": "83005880",
     "market_cap_display": "\u00a383.0m",
     "ticker": "VID"
+  },
+  "VINO.L": {
+    "business_description": "Virgin Wines UK PLC operates as a direct-to-consumer online wine retailer in the United Kingdom. It sells wines through its WineBank and Wine Plan subscription models or on a pay as you go basis. The company also\u2026",
+    "company_name": "Virgin Wines UK PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:VINO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-21T06:48:50.145363+00:00",
+    "market_cap": "12132019",
+    "market_cap_display": "\u00a312.1m",
+    "ticker": "VINO"
   },
   "VLE.L": {
     "business_description": "Volvere plc is a private equity and venture capital firm specializing in start-up, early or development-stage, distressed/vulture, growth capital, acquisitions, emerging growth and turnaround investments. The firm\u2026",
