@@ -363,6 +363,19 @@
     "market_cap_display": "\u00a341.61bn",
     "ticker": "AAL"
   },
+  "AAS.L": {
+    "business_description": "",
+    "company_name": "Aberdeen Asia Focus PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:AAS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:48:56.660958+00:00",
+    "market_cap": "582776576",
+    "market_cap_display": "\u00a3582.8m",
+    "ticker": "AAS"
+  },
   "AAU.L": {
     "business_description": "Ariana Resources plc engages in acquisition, exploration, and development of mineral resources in Turkey, Zimbabwe, and the United Kingdom and other territories. It explores for gold, silver, copper, nickel, molybdenum,\u2026",
     "company_name": "Ariana Resources plc",
@@ -683,9 +696,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:50:04.016494+00:00",
-    "market_cap": "2336507392",
-    "market_cap_display": "\u00a32.34bn",
+    "last_updated": "2026-10-22T06:49:11.206196+00:00",
+    "market_cap": "2301209856",
+    "market_cap_display": "\u00a32.30bn",
     "ticker": "AJB"
   },
   "AJOT.L": {
@@ -865,9 +878,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:45.971079+00:00",
-    "market_cap": "613939264",
-    "market_cap_display": "\u00a3613.9m",
+    "last_updated": "2026-10-22T06:49:03.177379+00:00",
+    "market_cap": "615027776",
+    "market_cap_display": "\u00a3615.0m",
     "ticker": "AMS"
   },
   "ANG.L": {
@@ -1012,6 +1025,19 @@
     "market_cap": "367500",
     "market_cap_display": "\u00a3367.5k",
     "ticker": "ARA"
+  },
+  "ARBB.L": {
+    "business_description": "Arbuthnot Banking Group PLC, together with its subsidiaries, engages in the provision of private and commercial banking products and services in the United Kingdom. The company operates through Banking, Wealth\u2026",
+    "company_name": "Arbuthnot Banking Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ARBB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:49:04.622052+00:00",
+    "market_cap": "130967408",
+    "market_cap_display": "\u00a3131.0m",
+    "ticker": "ARBB"
   },
   "ARC.L": {
     "business_description": "Arcontech Group plc, together with its subsidiaries, engages in the development and sale of proprietary software in the United Kingdom, rest of Europe, Africa, North America, Australasia, and the Asia Pacific. The\u2026",
@@ -1208,6 +1234,19 @@
     "market_cap_display": "\u00a343.5m",
     "ticker": "ATC"
   },
+  "ATG.L": {
+    "business_description": "Auction Technology Group plc operates online auction marketplaces in the United Kingdom, the United States, and Germany. The company operates through, Arts and Antiques and Industrial and Commercial segments. It offers\u2026",
+    "company_name": "Auction Technology Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ATG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:49:05.341016+00:00",
+    "market_cap": "581957376",
+    "market_cap_display": "\u00a3582.0m",
+    "ticker": "ATG"
+  },
   "ATM.L": {
     "business_description": "Andrada Mining Limited engages in the exploration, development, and production of mineral resources in Namibia. The company explores for lithium, tin, tantalum, rubidium, tungsten, copper, petalite, and spodumene\u2026",
     "company_name": "Andrada Mining Limited",
@@ -1294,9 +1333,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:18.863161+00:00",
-    "market_cap": "216758320",
-    "market_cap_display": "\u00a3216.8m",
+    "last_updated": "2026-10-22T06:48:55.216830+00:00",
+    "market_cap": "227606768",
+    "market_cap_display": "\u00a3227.6m",
     "ticker": "AUSC"
   },
   "AVAP.L": {
@@ -1428,6 +1467,19 @@
     "market_cap": "13860008",
     "market_cap_display": "\u00a313.9m",
     "ticker": "BANK"
+  },
+  "BARC.L": {
+    "business_description": "Barclays PLC provides various financial services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia. The company operates through Barclays UK; Barclays UK Corporate Bank; Barclays Private\u2026",
+    "company_name": "Barclays PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BARC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:49:00.271154+00:00",
+    "market_cap": "55885225984",
+    "market_cap_display": "\u00a355.89bn",
+    "ticker": "BARC"
   },
   "BASC.L": {
     "business_description": "",
@@ -1740,6 +1792,19 @@
     "market_cap": "1154550",
     "market_cap_display": "\u00a31.2m",
     "ticker": "BMV"
+  },
+  "BMY.L": {
+    "business_description": "Bloomsbury Publishing Plc publishes academic, educational, and general fiction and non-fiction books publishing for children, general reader, teachers, students, libraries, researchers, and professionals worldwide. It\u2026",
+    "company_name": "Bloomsbury Publishing Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BMY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:48:58.822757+00:00",
+    "market_cap": "543265728",
+    "market_cap_display": "\u00a3543.3m",
+    "ticker": "BMY"
   },
   "BNC.L": {
     "business_description": "Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments:\u2026",
@@ -2152,9 +2217,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T18:50:21.928650+00:00",
-    "market_cap": "144716272",
-    "market_cap_display": "\u00a3144.7m",
+    "last_updated": "2026-10-22T06:49:02.447060+00:00",
+    "market_cap": "145348208",
+    "market_cap_display": "\u00a3145.3m",
     "ticker": "CAM"
   },
   "CAML.L": {
@@ -2169,6 +2234,19 @@
     "market_cap": "246748960",
     "market_cap_display": "\u00a3246.7m",
     "ticker": "CAML"
+  },
+  "CAN.L": {
+    "business_description": "Canal+ SA operates as a media and entertainment company in Europe, Africa, Asia, and internationally. The company is involved in the production, financing, and broadcasting of various contents; and production,\u2026",
+    "company_name": "Canal+ SA",
+    "currency": "GBp",
+    "data_source": "yfinance:CAN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:48:59.549924+00:00",
+    "market_cap": "2380869376",
+    "market_cap_display": "\u00a32.38bn",
+    "ticker": "CAN"
   },
   "CAPD.L": {
     "business_description": "Capital Limited, together with its subsidiaries, provides drilling, mining, mineral assaying, and surveying services. It offers exploration drilling services, including air core, reverse circulation, diamond core,\u2026",
@@ -2451,9 +2529,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:12.120042+00:00",
-    "market_cap": "24301926",
-    "market_cap_display": "\u00a324.3m",
+    "last_updated": "2026-10-22T06:49:08.236327+00:00",
+    "market_cap": "16201284",
+    "market_cap_display": "\u00a316.2m",
     "ticker": "CKT"
   },
   "CLA.L": {
@@ -3933,9 +4011,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:39.543901+00:00",
-    "market_cap": "14705933",
-    "market_cap_display": "\u00a314.7m",
+    "last_updated": "2026-10-22T06:49:09.688211+00:00",
+    "market_cap": "7196520",
+    "market_cap_display": "\u00a37.2m",
     "ticker": "FAB"
   },
   "FADL.L": {
@@ -4991,6 +5069,19 @@
     "market_cap_display": "$48.95bn",
     "ticker": "HHPD"
   },
+  "HICL.L": {
+    "business_description": "",
+    "company_name": "HICL Infrastructure PLC Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:HICL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:49:06.793104+00:00",
+    "market_cap": "2454196480",
+    "market_cap_display": "\u00a32.45bn",
+    "ticker": "HICL"
+  },
   "HLMA.L": {
     "business_description": "Halma plc, together with its subsidiaries, provides technology solutions in the safety, health, and environmental markets in the United States, Mainland Europe, the United Kingdom, the Asia Pacific, Africa, the Middle\u2026",
     "company_name": "Halma plc",
@@ -5160,6 +5251,19 @@
     "market_cap_display": "\u00a344.1m",
     "ticker": "HVO"
   },
+  "HVPE.L": {
+    "business_description": "HarbourVest Global Private Equity Ltd. is Private Equity and Venture Capital Fund specializes in private equity buyouts, private credit, primary, secondary, and direct co-investments as well as fund of funds\u2026",
+    "company_name": "HarbourVest Global Private Equity Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:HVPE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:48:55.946456+00:00",
+    "market_cap": "2293201152",
+    "market_cap_display": "\u00a32.29bn",
+    "ticker": "HVPE"
+  },
   "HWG.L": {
     "business_description": "Harworth Group plc operates as a regeneration, strategic land, and development businesses. It operates through two segments, Income Generation and Capital Growth. The Income Generation segment is involved in generating\u2026",
     "company_name": "Harworth Group plc",
@@ -5259,9 +5363,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:04.075333+00:00",
-    "market_cap": "4216024064",
-    "market_cap_display": "\u00a34.22bn",
+    "last_updated": "2026-10-22T06:48:57.381024+00:00",
+    "market_cap": "3112653312",
+    "market_cap_display": "\u00a33.11bn",
     "ticker": "IGG"
   },
   "IGR.L": {
@@ -5328,6 +5432,19 @@
     "market_cap": "92663840",
     "market_cap_display": "\u00a392.7m",
     "ticker": "INAC"
+  },
+  "INCH.L": {
+    "business_description": "Inchcape plc operates as an automotive distributor. It engages in the distribution, sales, and marketing of new and used vehicles, and parts. The company provides aftersales service and body shop repairs; and vehicle\u2026",
+    "company_name": "Inchcape plc",
+    "currency": "GBp",
+    "data_source": "yfinance:INCH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:49:01.717440+00:00",
+    "market_cap": "2322318848",
+    "market_cap_display": "\u00a32.32bn",
+    "ticker": "INCH"
   },
   "INF.L": {
     "business_description": "Informa plc operates as an international events, digital services, and academic research company in the United Kingdom, Continental Europe, North America, China, and internationally. It operates through five segments:\u2026",
@@ -6213,6 +6330,19 @@
     "market_cap_display": "\u00a3447.5m",
     "ticker": "LSC"
   },
+  "LSEG.L": {
+    "business_description": "London Stock Exchange Group plc provides financial markets infrastructure and data products in the United Kingdom, the United States, Europe, Asia, and internationally. The company operates through four segments: Data &\u2026",
+    "company_name": "London Stock Exchange Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LSEG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:49:00.993261+00:00",
+    "market_cap": "42211131392",
+    "market_cap_display": "\u00a342.21bn",
+    "ticker": "LSEG"
+  },
   "LSL.L": {
     "business_description": "LSL Property Services plc, together with its subsidiaries, provides business-to-business platform for residential market services in the United Kingdom. The company operates through three segments: Financial Services,\u2026",
     "company_name": "LSL Property Services plc",
@@ -6468,9 +6598,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:35.086043+00:00",
-    "market_cap": "14066429",
-    "market_cap_display": "\u00a314.1m",
+    "last_updated": "2026-10-22T06:49:03.897824+00:00",
+    "market_cap": "13503776",
+    "market_cap_display": "\u00a313.5m",
     "ticker": "MET1"
   },
   "MEX.L": {
@@ -7105,9 +7235,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:39.817198+00:00",
-    "market_cap": "276088288",
-    "market_cap_display": "\u00a3276.1m",
+    "last_updated": "2026-10-22T06:49:08.963449+00:00",
+    "market_cap": "277771744",
+    "market_cap_display": "\u00a3277.8m",
     "ticker": "NIOX"
   },
   "NOG.L": {
@@ -7807,9 +7937,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:19.581504+00:00",
-    "market_cap": "25776488",
-    "market_cap_display": "\u00a325.8m",
+    "last_updated": "2026-10-22T06:49:07.511375+00:00",
+    "market_cap": "12209916",
+    "market_cap_display": "\u00a312.2m",
     "ticker": "PRD"
   },
   "PREM.L": {
@@ -8210,9 +8340,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T18:55:02.464878+00:00",
-    "market_cap": "40227560",
-    "market_cap_display": "\u00a340.2m",
+    "last_updated": "2026-10-22T06:49:11.928636+00:00",
+    "market_cap": "35869572",
+    "market_cap_display": "\u00a335.9m",
     "ticker": "RENX"
   },
   "RESI.L": {
@@ -8561,9 +8691,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:47.750325+00:00",
-    "market_cap": "7996610560",
-    "market_cap_display": "\u00a38.00bn",
+    "last_updated": "2026-10-22T06:48:58.099694+00:00",
+    "market_cap": "7918607360",
+    "market_cap_display": "\u00a37.92bn",
     "ticker": "RTO"
   },
   "RWS.L": {
@@ -8721,6 +8851,19 @@
     "market_cap": "447624000",
     "market_cap_display": "\u00a3447.6m",
     "ticker": "SBRE"
+  },
+  "SBRY.L": {
+    "business_description": "J Sainsbury plc, together with its subsidiaries, engages in the food, general merchandise and clothing retailing, and financial services activities in the United Kingdom. The company operates through Retail and\u2026",
+    "company_name": "J Sainsbury plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SBRY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T06:48:54.165759+00:00",
+    "market_cap": "7844432384",
+    "market_cap_display": "\u00a37.84bn",
+    "ticker": "SBRY"
   },
   "SBTX.L": {
     "business_description": "SkinBioTherapeutics plc, a life science company, engages in research and development, and commercialization of technology that harnesses the microbiome for human health in the United Kingdom, the United States, Europe,\u2026",
@@ -9679,9 +9822,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:44.450186+00:00",
-    "market_cap": "171812992",
-    "market_cap_display": "\u00a3171.8m",
+    "last_updated": "2026-10-22T06:49:06.069483+00:00",
+    "market_cap": "185584256",
+    "market_cap_display": "\u00a3185.6m",
     "ticker": "SYNT"
   },
   "SYS1.L": {
