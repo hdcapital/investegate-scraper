@@ -3933,9 +3933,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:30.280549+00:00",
-    "market_cap": "695792192",
-    "market_cap_display": "\u00a3695.8m",
+    "last_updated": "2026-10-22T18:50:52.780441+00:00",
+    "market_cap": "761328192",
+    "market_cap_display": "\u00a3761.3m",
     "ticker": "EWG"
   },
   "EWI.L": {
@@ -5181,9 +5181,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:43.805329+00:00",
-    "market_cap": "260988352",
-    "market_cap_display": "\u00a3261.0m",
+    "last_updated": "2026-10-22T18:50:51.955700+00:00",
+    "market_cap": "265286976",
+    "market_cap_display": "\u00a3265.3m",
     "ticker": "HSP"
   },
   "HTG.L": {
@@ -5289,6 +5289,19 @@
     "market_cap": "57107992",
     "market_cap_display": "\u00a357.1m",
     "ticker": "ICFG"
+  },
+  "ICON.L": {
+    "business_description": "Iconic Labs Plc does not have significant operations. Previously, it was engaged in the identification and acquisition of companies in the online media, artificial intelligence, and big data gathering, processing, and\u2026",
+    "company_name": "Iconic Labs Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ICON.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T18:50:50.205205+00:00",
+    "market_cap": "214182",
+    "market_cap_display": "\u00a3214.2k",
+    "ticker": "ICON"
   },
   "IDHC.L": {
     "business_description": "Integrated Diagnostics Holdings plc, a consumer healthcare company, provides medical diagnostics services to patients. It offers approximately 3,000 diagnostic pathology tests, such as immunology, microbiology,\u2026",
@@ -5900,6 +5913,19 @@
     "market_cap": "7635459072",
     "market_cap_display": "$7.64bn",
     "ticker": "KAP"
+  },
+  "KCR.L": {
+    "business_description": "KCR Residential REIT plc is a public company limited by shares incorporated in the United Kingdom and registered in England and Wales.",
+    "company_name": "KCR Residential REIT plc",
+    "currency": "GBp",
+    "data_source": "yfinance:KCR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-22T18:50:49.476619+00:00",
+    "market_cap": "2812700",
+    "market_cap_display": "\u00a32.8m",
+    "ticker": "KCR"
   },
   "KDNC.L": {
     "business_description": "Cadence Minerals Plc, an investment and development company, engages in identification, investment and development of mineral resources in the United Kingdom. It explores for iron, rare earth, and lithium deposits. The\u2026",
@@ -7007,16 +7033,16 @@
     "ticker": "MUT"
   },
   "MVI.L": {
-    "business_description": "",
-    "company_name": "Marwyn Value Investors Ord",
+    "business_description": "Marwyn Value Investors Limited is a private equity and venture capital fund specializing in investments in early-stage, growth capital, bridge, PIPE, buyout, industry consolidation, and acquisition-led growth strategies\u2026",
+    "company_name": "Marwyn Value Investors Limited",
     "currency": "GBp",
     "data_source": "yfinance:MVI.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:19.187162+00:00",
-    "market_cap": "79996808",
-    "market_cap_display": "\u00a380.0m",
+    "last_updated": "2026-10-22T18:50:51.139300+00:00",
+    "market_cap": "79714136",
+    "market_cap_display": "\u00a379.7m",
     "ticker": "MVI"
   },
   "MYSE.L": {
@@ -7027,7 +7053,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T18:50:10.505766+00:00",
+    "last_updated": "2026-10-22T18:50:55.241453+00:00",
     "market_cap": "3075635456",
     "market_cap_display": "$3.08bn",
     "ticker": "MYSE"
@@ -7365,9 +7391,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:47.550207+00:00",
-    "market_cap": "188650000",
-    "market_cap_display": "\u00a3188.7m",
+    "last_updated": "2026-10-22T18:50:56.119710+00:00",
+    "market_cap": "189000000",
+    "market_cap_display": "\u00a3189.0m",
     "ticker": "OIG"
   },
   "OMG.L": {
@@ -8106,7 +8132,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T18:51:19.645347+00:00",
+    "last_updated": "2026-10-22T18:50:53.565364+00:00",
     "market_cap": "1634974848",
     "market_cap_display": "\u20ac1.63bn",
     "ticker": "PTSB"
@@ -8223,9 +8249,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:18.389589+00:00",
-    "market_cap": "1669834496",
-    "market_cap_display": "\u00a31.67bn",
+    "last_updated": "2026-10-22T18:50:54.382988+00:00",
+    "market_cap": "1700701184",
+    "market_cap_display": "\u00a31.70bn",
     "ticker": "RAT"
   },
   "RBD.L": {
