@@ -3218,7 +3218,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:39.838593+00:00",
+    "last_updated": "2026-10-23T18:50:55.059327+00:00",
     "market_cap": "12412971008",
     "market_cap_display": "$12.41bn",
     "ticker": "DFIJ"
@@ -4094,6 +4094,19 @@
     "market_cap_display": "\u00a32.4m",
     "ticker": "FDR"
   },
+  "FEDS.L": {
+    "business_description": "",
+    "company_name": "The Federal Bank Limited",
+    "currency": "USD",
+    "data_source": "yfinance:FEDS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-23T18:50:55.720267+00:00",
+    "market_cap": "2272761088",
+    "market_cap_display": "$2.27bn",
+    "ticker": "FEDS"
+  },
   "FEVR.L": {
     "business_description": "Fevertree Drinks PLC, together with its subsidiaries, engages in the development and sale of mixer drinks in the United Kingdom, the United States, Europe, and internationally. The company offers tonics, soft drinks,\u2026",
     "company_name": "Fevertree Drinks PLC",
@@ -4271,9 +4284,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:50.632121+00:00",
-    "market_cap": "3403640064",
-    "market_cap_display": "\u00a33.40bn",
+    "last_updated": "2026-10-23T18:50:56.422292+00:00",
+    "market_cap": "3750345472",
+    "market_cap_display": "\u00a33.75bn",
     "ticker": "FRAS"
   },
   "FRG.L": {
@@ -4340,6 +4353,19 @@
     "market_cap": "229705952",
     "market_cap_display": "\u00a3229.7m",
     "ticker": "FSJ"
+  },
+  "FTC.L": {
+    "business_description": "Filtronic plc designs, develops, manufactures, and sells radio frequency (RF) technology in the United Kingdom, Europe, the Americas, and internationally. It provides Morpheus II and X2, an E-band transceiver module;\u2026",
+    "company_name": "Filtronic plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FTC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-23T18:50:57.113786+00:00",
+    "market_cap": "538859712",
+    "market_cap_display": "\u00a3538.9m",
+    "ticker": "FTC"
   },
   "FUM.L": {
     "business_description": "Futura Medical plc research, develops, and commercializes pharmaceutical and healthcare products for sexual health. The company's lead product includes Eroxon, a topical treatment for erectile dysfunction. It also\u2026",
@@ -6442,9 +6468,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T06:48:23.206654+00:00",
-    "market_cap": "13121650",
-    "market_cap_display": "\u00a313.1m",
+    "last_updated": "2026-10-23T18:50:57.803857+00:00",
+    "market_cap": "12607076",
+    "market_cap_display": "\u00a312.6m",
     "ticker": "MAC"
   },
   "MAI.L": {
@@ -6719,6 +6745,19 @@
     "market_cap": "151716048",
     "market_cap_display": "\u00a3151.7m",
     "ticker": "MIDW"
+  },
+  "MIG1.L": {
+    "business_description": "Maven Income and Growth VCT PLC is a venture capital trust fund. The fund invests in management buy-in, buy-out, buy & build and replacement capital. The fund does not invest in hostile public to private transactions.\u2026",
+    "company_name": "Maven Income and Growth VCT PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:MIG1.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-23T18:50:53.670147+00:00",
+    "market_cap": "65477728",
+    "market_cap_display": "\u00a365.5m",
+    "ticker": "MIG1"
   },
   "MII.L": {
     "business_description": "Milton Capital Plc does not have significant operations. The company intends to identify and acquire a suitable business opportunity or opportunities and undertake an acquisition or merger or a series of acquisitions or\u2026",
@@ -10719,9 +10758,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T18:50:25.233842+00:00",
-    "market_cap": "192557952",
-    "market_cap_display": "\u00a3192.6m",
+    "last_updated": "2026-10-23T18:50:58.513041+00:00",
+    "market_cap": "198886160",
+    "market_cap_display": "\u00a3198.9m",
     "ticker": "UTL"
   },
   "VAL.L": {
@@ -11187,7 +11226,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T18:50:19.468016+00:00",
+    "last_updated": "2026-10-23T18:50:54.322814+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
