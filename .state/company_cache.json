@@ -111,9 +111,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:27.072187+00:00",
-    "market_cap": "3597165312",
-    "market_cap_display": "\u00a33.60bn",
+    "last_updated": "2026-10-26T07:50:02.458674+00:00",
+    "market_cap": "3620223744",
+    "market_cap_display": "\u00a33.62bn",
     "ticker": "3IN"
   },
   "3SMF.L": {
@@ -806,16 +806,16 @@
     "ticker": "ALU"
   },
   "AMC.L": {
-    "business_description": "Airtel Mobile Commerce N.V. develops and provides a scaled digital financial services platform. The company through its platform offers payments services, global transfers, loans, savings services, insurance, wallet\u2026",
+    "business_description": "Airtel Mobile Commerce N.V. develops and provides a scaled digital financial services platform. The company offers payments services, mobile commerce, global transfers, loans, savings services, insurance, mobile money\u2026",
     "company_name": "Airtel Mobile Commerce N.V.",
     "currency": "GBp",
     "data_source": "yfinance:AMC.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:16.458946+00:00",
-    "market_cap": "",
-    "market_cap_display": "",
+    "last_updated": "2026-10-26T07:49:53.606353+00:00",
+    "market_cap": "4843800064",
+    "market_cap_display": "\u00a34.84bn",
     "ticker": "AMC"
   },
   "AMCO.L": {
@@ -2144,6 +2144,19 @@
     "market_cap_display": "\u00a3192.2m",
     "ticker": "BVT"
   },
+  "BVXP.L": {
+    "business_description": "Bioventix PLC creates, manufactures, and supplies sheep monoclonal antibodies (SMAs) for diagnostic applications worldwide. It offers a portfolio of purified SMAs for thyroid, vitamin D, cardiac, drugs of abuse,\u2026",
+    "company_name": "Bioventix PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BVXP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:49:55.854635+00:00",
+    "market_cap": "104497200",
+    "market_cap_display": "\u00a3104.5m",
+    "ticker": "BVXP"
+  },
   "BWY.L": {
     "business_description": "Bellway p.l.c., together with its subsidiaries, engages in the homebuilding business in the United Kingdom. It builds and sells homes ranging from one-bedroom apartments to six-bedroom family homes, as well as provides\u2026",
     "company_name": "Bellway p.l.c.",
@@ -2308,9 +2321,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:27.766708+00:00",
-    "market_cap": "5877123072",
-    "market_cap_display": "\u00a35.88bn",
+    "last_updated": "2026-10-26T07:50:00.984766+00:00",
+    "market_cap": "4817141760",
+    "market_cap_display": "\u00a34.82bn",
     "ticker": "CCC"
   },
   "CCP.L": {
@@ -2503,9 +2516,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:42.345981+00:00",
-    "market_cap": "7224374",
-    "market_cap_display": "\u00a37.2m",
+    "last_updated": "2026-10-26T07:50:03.193427+00:00",
+    "market_cap": "4355872",
+    "market_cap_display": "\u00a34.4m",
     "ticker": "CIZ"
   },
   "CKI.L": {
@@ -2594,9 +2607,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:57.980392+00:00",
-    "market_cap": "179657440",
-    "market_cap_display": "\u00a3179.7m",
+    "last_updated": "2026-10-26T07:50:00.249497+00:00",
+    "market_cap": "189091968",
+    "market_cap_display": "\u00a3189.1m",
     "ticker": "CLI"
   },
   "CLIG.L": {
@@ -2750,9 +2763,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:27.678727+00:00",
-    "market_cap": "36014520",
-    "market_cap_display": "\u00a336.0m",
+    "last_updated": "2026-10-26T07:49:56.584217+00:00",
+    "market_cap": "35063136",
+    "market_cap_display": "\u00a335.1m",
     "ticker": "COBR"
   },
   "CODE.L": {
@@ -2841,9 +2854,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:19.463532+00:00",
-    "market_cap": "968633472",
-    "market_cap_display": "\u00a3968.6m",
+    "last_updated": "2026-10-26T07:50:05.398465+00:00",
+    "market_cap": "899718848",
+    "market_cap_display": "\u00a3899.7m",
     "ticker": "CORD"
   },
   "CORO.L": {
@@ -2923,6 +2936,19 @@
     "market_cap": "18710366",
     "market_cap_display": "\u00a318.7m",
     "ticker": "CRTA"
+  },
+  "CRTM.L": {
+    "business_description": "Critical Metals Plc focuses on identifying potential companies, businesses or assets that have operations in the natural resources exploration, development, and production sector. Critical Metals Plc was incorporated in\u2026",
+    "company_name": "Critical Metals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CRTM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:49:54.336731+00:00",
+    "market_cap": "83446096",
+    "market_cap_display": "\u00a383.4m",
+    "ticker": "CRTM"
   },
   "CRW.L": {
     "business_description": "Craneware plc, together with its subsidiaries, develops, licenses, and supports computer software for the healthcare industry in the United States. It provides solutions, such as Trisus Pricing Analyzer and\u2026",
@@ -4120,6 +4146,19 @@
     "market_cap_display": "\u00a3896.3m",
     "ticker": "FEVR"
   },
+  "FGEN.L": {
+    "business_description": "John Laing Environmental Assets Group Limited is a fund of John Laing Capital Management Limited.",
+    "company_name": "Foresight Environmental Infrastructure Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:FGEN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:49:55.120510+00:00",
+    "market_cap": "545421056",
+    "market_cap_display": "\u00a3545.4m",
+    "ticker": "FGEN"
+  },
   "FIH.L": {
     "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism, shipping, and cruise ship agency services in the Falkland Islands and the United Kingdom. It is involved in the\u2026",
     "company_name": "FIH group plc",
@@ -4622,9 +4661,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:28.353079+00:00",
-    "market_cap": "3423937280",
-    "market_cap_display": "\u00a33.42bn",
+    "last_updated": "2026-10-26T07:49:57.317937+00:00",
+    "market_cap": "3068387328",
+    "market_cap_display": "\u00a33.07bn",
     "ticker": "GGP"
   },
   "GHH.L": {
@@ -5038,9 +5077,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:26.952280+00:00",
-    "market_cap": "76049688",
-    "market_cap_display": "\u00a376.0m",
+    "last_updated": "2026-10-26T07:50:04.663277+00:00",
+    "market_cap": "76470624",
+    "market_cap_display": "\u00a376.5m",
     "ticker": "HEX"
   },
   "HFG.L": {
@@ -7890,6 +7929,19 @@
     "market_cap_display": "\u00a3134.8m",
     "ticker": "PLSR"
   },
+  "PLUS.L": {
+    "business_description": "Plus500 Ltd., a fintech company, operates technology-based trading platforms in Europe, the United Kingdom, Australia, and internationally. It develops and operates an online trading platform, such as over the counter\u2026",
+    "company_name": "Plus500 Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:PLUS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:49:52.875263+00:00",
+    "market_cap": "2321755648",
+    "market_cap_display": "\u00a32.32bn",
+    "ticker": "PLUS"
+  },
   "PMP.L": {
     "business_description": "Portmeirion Group PLC, together with its subsidiaries, manufactures, markets, and distributes ceramics, home fragrances, and associated homeware products in the United Kingdom, South Korea, North America, and\u2026",
     "company_name": "Portmeirion Group PLC",
@@ -8106,9 +8158,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:22.162424+00:00",
-    "market_cap": "280975872",
-    "market_cap_display": "\u00a3281.0m",
+    "last_updated": "2026-10-26T07:50:06.136335+00:00",
+    "market_cap": "267760000",
+    "market_cap_display": "\u00a3267.8m",
     "ticker": "PRTC"
   },
   "PRU.L": {
@@ -8266,6 +8318,19 @@
     "market_cap": "6058998",
     "market_cap_display": "\u00a36.1m",
     "ticker": "QDE"
+  },
+  "QED.L": {
+    "business_description": "Quadrise Plc, together with its subsidiaries, manufactures and markets emulsion fuels for use in power generation, industrial, marine diesel engines, and steam generation applications in the United Kingdom. It produces\u2026",
+    "company_name": "Quadrise Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:QED.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:49:51.411283+00:00",
+    "market_cap": "20408610",
+    "market_cap_display": "\u00a320.4m",
+    "ticker": "QED"
   },
   "QHE.L": {
     "business_description": "Quantum Helium Limited, together with its subsidiaries, engages in the exploration, development, and production of oil and gas properties in Australia and the United States. It explores for helium, hydrogen, and\u2026",
@@ -8600,9 +8665,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:43.628099+00:00",
-    "market_cap": "16253252",
-    "market_cap_display": "\u00a316.3m",
+    "last_updated": "2026-10-26T07:50:01.726264+00:00",
+    "market_cap": "15846920",
+    "market_cap_display": "\u00a315.8m",
     "ticker": "RMR"
   },
   "RNEP.L": {
@@ -8748,6 +8813,19 @@
     "market_cap_display": "\u00a31.41bn",
     "ticker": "RSG"
   },
+  "RST.L": {
+    "business_description": "Restore plc, together with its subsidiaries, provides secure and sustainable business services for data, information, communications, and assets primarily in the United Kingdom. It operates through three segments:\u2026",
+    "company_name": "Restore plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:50:03.924146+00:00",
+    "market_cap": "403790304",
+    "market_cap_display": "\u00a3403.8m",
+    "ticker": "RST"
+  },
   "RSW.L": {
     "business_description": "Renishaw plc, an engineering and scientific technology company, designs, manufactures, distributes, sells, and services technological products and services, and analytical instruments and medical devices worldwide. It\u2026",
     "company_name": "Renishaw plc",
@@ -8773,6 +8851,19 @@
     "market_cap": "7918607360",
     "market_cap_display": "\u00a37.92bn",
     "ticker": "RTO"
+  },
+  "RVRB.L": {
+    "business_description": "River Global Plc engages in acquiring, managing, operating asset and wealth management activities and interests, and other related services in the United Kingdom. It also offers investment management services. The\u2026",
+    "company_name": "River Global Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RVRB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:49:58.780513+00:00",
+    "market_cap": "8595944",
+    "market_cap_display": "\u00a38.6m",
+    "ticker": "RVRB"
   },
   "RWS.L": {
     "business_description": "RWS Holdings plc engages in the provision of artificial intelligence (AI) solutions in the United States, the United Kingdom, continental Europe, and internationally. The company operates through three segments:\u2026",
@@ -9085,6 +9176,19 @@
     "market_cap": "201583200",
     "market_cap_display": "\u00a3201.6m",
     "ticker": "SEE"
+  },
+  "SEED.L": {
+    "business_description": "Seed Innovations Limited, is a venture capital firm specializing in early stage investments. The firm prefers to focus on investments in innovative lifestyle, wellness, health, medical cannabis, technology, life\u2026",
+    "company_name": "Seed Innovations Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SEED.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:50:06.872104+00:00",
+    "market_cap": "6794431",
+    "market_cap_display": "\u00a36.8m",
+    "ticker": "SEED"
   },
   "SEEN.L": {
     "business_description": "SEEEN plc, together with its subsidiaries, operates as a media and technology platform company in the United States and internationally. It offers CreatorSuite 2.0 and ShortsCut that use AI to provide key video moments\u2026",
@@ -9627,7 +9731,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:42.157938+00:00",
+    "last_updated": "2026-10-26T07:49:58.049445+00:00",
     "market_cap": "5519510",
     "market_cap_display": "\u00a35.5m",
     "ticker": "SSTY"
@@ -10647,16 +10751,16 @@
     "ticker": "ULTP"
   },
   "UMR.L": {
-    "business_description": "Unicorn Mineral Resources Public Limited Company explores for minerals and precious metals in the Republic of Ireland. The company focuses on the exploration for deposits of Irish type carbonate hosted copper/lead/zinc,\u2026",
+    "business_description": "Unicorn Mineral Resources Public Limited Company engages in the exploration of minerals and precious metals in the Republic of Ireland. It primarily explores copper, lead, zinc, and silver mineral deposits. The company\u2026",
     "company_name": "Unicorn Mineral Resources Public Limited Company",
     "currency": "GBp",
     "data_source": "yfinance:UMR.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:33.177477+00:00",
-    "market_cap": "3064124",
-    "market_cap_display": "\u00a33.1m",
+    "last_updated": "2026-10-26T07:49:59.516298+00:00",
+    "market_cap": "3370536",
+    "market_cap_display": "\u00a33.4m",
     "ticker": "UMR"
   },
   "UOG.L": {
@@ -10931,6 +11035,19 @@
     "market_cap": "29596170240",
     "market_cap_display": "\u00a329.60bn",
     "ticker": "VOD"
+  },
+  "VOF.L": {
+    "business_description": "VinaCapital Vietnam Opportunity Fund Limited specializes in growth equity investments. The fund seeks to invest 80 percent of its portfolio in private equity and 20 percent in equitization projects will be re-allocated\u2026",
+    "company_name": "VinaCapital Vietnam Opportunity Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:VOF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-26T07:49:50.675476+00:00",
+    "market_cap": "496603040",
+    "market_cap_display": "\u00a3496.6m",
+    "ticker": "VOF"
   },
   "VOX.L": {
     "business_description": "Vox Valor Capital Limited engages in the business of digital marketing, advertising, and content. The company provides mobile advertising services through a Software-as-a-Service (SaaS) programmatic advertising\u2026",
