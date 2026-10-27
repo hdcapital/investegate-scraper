@@ -683,9 +683,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:40.679162+00:00",
-    "market_cap": "55142504",
-    "market_cap_display": "\u00a355.1m",
+    "last_updated": "2026-10-27T07:48:40.635358+00:00",
+    "market_cap": "55545000",
+    "market_cap_display": "\u00a355.5m",
     "ticker": "AIRE"
   },
   "AJB.L": {
@@ -767,16 +767,16 @@
     "ticker": "ALK"
   },
   "ALL.L": {
-    "business_description": "Atlantic Lithium Limited engages in the exploration and development of mineral properties in Australia, Ivory Coast, and Ghana. The company primarily explores for lithium deposits. The company evaluation, development\u2026",
+    "business_description": "Atlantic Lithium Limited engages in the exploration and development of mineral properties in Australia, Ivory Coast, and Ghana. The company primarily explores for lithium deposits. The company flagship project is the\u2026",
     "company_name": "Atlantic Lithium Limited",
     "currency": "GBp",
     "data_source": "yfinance:ALL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T06:47:32.840648+00:00",
-    "market_cap": "119423992",
-    "market_cap_display": "\u00a3119.4m",
+    "last_updated": "2026-10-27T07:48:43.890142+00:00",
+    "market_cap": "128240528",
+    "market_cap_display": "\u00a3128.2m",
     "ticker": "ALL"
   },
   "ALRT.L": {
@@ -800,9 +800,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:17.859991+00:00",
-    "market_cap": "85403544",
-    "market_cap_display": "\u00a385.4m",
+    "last_updated": "2026-10-27T07:48:47.733314+00:00",
+    "market_cap": "83307272",
+    "market_cap_display": "\u00a383.3m",
     "ticker": "ALU"
   },
   "AMC.L": {
@@ -1424,9 +1424,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:58.755500+00:00",
-    "market_cap": "193736671232",
-    "market_cap_display": "\u00a3193.74bn",
+    "last_updated": "2026-10-27T07:48:50.983918+00:00",
+    "market_cap": "199353417728",
+    "market_cap_display": "\u00a3199.35bn",
     "ticker": "AZN"
   },
   "B90.L": {
@@ -2061,9 +2061,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:05.125242+00:00",
-    "market_cap": "173477760",
-    "market_cap_display": "\u00a3173.5m",
+    "last_updated": "2026-10-27T07:48:42.601988+00:00",
+    "market_cap": "179473392",
+    "market_cap_display": "\u00a3179.5m",
     "ticker": "BTG"
   },
   "BTRW.L": {
@@ -2243,9 +2243,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T18:50:18.438717+00:00",
-    "market_cap": "246748960",
-    "market_cap_display": "\u00a3246.7m",
+    "last_updated": "2026-10-27T07:48:46.457922+00:00",
+    "market_cap": "235161296",
+    "market_cap_display": "\u00a3235.2m",
     "ticker": "CAML"
   },
   "CAN.L": {
@@ -2819,6 +2819,19 @@
     "market_cap": "5213333",
     "market_cap_display": "\u00a35.2m",
     "ticker": "COM"
+  },
+  "COPC.L": {
+    "business_description": "Coppa Collective plc, together with its subsidiaries, owns, develops, and operates restaurant and hotel sites in the United Kingdom. The company operates through Restaurant and Hotel segments. It also operates brands\u2026",
+    "company_name": "Coppa Collective plc",
+    "currency": "GBp",
+    "data_source": "yfinance:COPC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-27T07:48:47.094298+00:00",
+    "market_cap": "21443046",
+    "market_cap_display": "\u00a321.4m",
+    "ticker": "COPC"
   },
   "COR.L": {
     "business_description": "Corpus Resources Plc, a natural resources company, focuses on the oil and gas exploration, acquisition, and development business. The company was formerly known as Curzon Energy Plc and changed its name to Corpus\u2026",
@@ -5259,9 +5272,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:29.462498+00:00",
-    "market_cap": "265864577024",
-    "market_cap_display": "\u00a3265.86bn",
+    "last_updated": "2026-10-27T07:48:38.688685+00:00",
+    "market_cap": "233482649600",
+    "market_cap_display": "\u00a3233.48bn",
     "ticker": "HSBA"
   },
   "HSD.L": {
@@ -5506,7 +5519,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:40.123722+00:00",
+    "last_updated": "2026-10-27T07:48:39.976836+00:00",
     "market_cap": "16587725",
     "market_cap_display": "\u00a316.6m",
     "ticker": "IHC"
@@ -5848,6 +5861,19 @@
     "market_cap": "134816000",
     "market_cap_display": "\u00a3134.8m",
     "ticker": "JEL"
+  },
+  "JEMI.L": {
+    "business_description": "",
+    "company_name": "JPMorgan Emerging Markets Div Inc",
+    "currency": "GBp",
+    "data_source": "yfinance:JEMI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-27T07:48:39.326946+00:00",
+    "market_cap": "504116320",
+    "market_cap_display": "\u00a3504.1m",
+    "ticker": "JEMI"
   },
   "JGGI.L": {
     "business_description": "",
@@ -6884,9 +6910,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T18:51:21.271967+00:00",
-    "market_cap": "131785224",
-    "market_cap_display": "\u00a3131.8m",
+    "last_updated": "2026-10-27T07:48:45.816888+00:00",
+    "market_cap": "101552152",
+    "market_cap_display": "\u00a3101.6m",
     "ticker": "MKA"
   },
   "MNKS.L": {
@@ -7287,9 +7313,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:03.653089+00:00",
-    "market_cap": "387709120",
-    "market_cap_display": "\u00a3387.7m",
+    "last_updated": "2026-10-27T07:48:38.041677+00:00",
+    "market_cap": "263679216",
+    "market_cap_display": "\u00a3263.7m",
     "ticker": "NCC"
   },
   "NCYF.L": {
@@ -7343,6 +7369,19 @@
     "market_cap": "213245728",
     "market_cap_display": "\u00a3213.2m",
     "ticker": "NET"
+  },
+  "NFM.L": {
+    "business_description": "New Frontier Minerals Limited engages in the exploration and examination of mineral properties primarily in Australia and Canada. It primarily explores for copper, cobalt, silver, gold, lead, niobium, uranium, and zinc\u2026",
+    "company_name": "New Frontier Minerals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:NFM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-27T07:48:49.021084+00:00",
+    "market_cap": "4780315",
+    "market_cap_display": "\u00a34.8m",
+    "ticker": "NFM"
   },
   "NG.L": {
     "business_description": "National Grid plc engages in the transmission and distribution of electricity and gas. It operates through UK Electricity Transmission, UK Electricity Distribution, New England, New York, National Grid Ventures, and\u2026",
@@ -7989,9 +8028,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:39.534016+00:00",
-    "market_cap": "2132238976",
-    "market_cap_display": "\u00a32.13bn",
+    "last_updated": "2026-10-27T07:48:43.246938+00:00",
+    "market_cap": "1741689472",
+    "market_cap_display": "\u00a31.74bn",
     "ticker": "PNN"
   },
   "PNPL.L": {
@@ -8535,9 +8574,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:39.913605+00:00",
-    "market_cap": "36962968",
-    "market_cap_display": "\u00a337.0m",
+    "last_updated": "2026-10-27T07:48:41.954931+00:00",
+    "market_cap": "39137264",
+    "market_cap_display": "\u00a339.1m",
     "ticker": "REVB"
   },
   "RFG.L": {
@@ -8643,6 +8682,19 @@
     "market_cap": "684456704",
     "market_cap_display": "\u00a3684.5m",
     "ticker": "RKH"
+  },
+  "RKT.L": {
+    "business_description": "Reckitt Benckiser Group plc manufactures and sells health, hygiene, and nutrition products in the United Kingdom and internationally. The company offers germ protection under Dettol name; intimate wellness under Durex\u2026",
+    "company_name": "Reckitt Benckiser Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RKT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-27T07:48:44.528949+00:00",
+    "market_cap": "34747244544",
+    "market_cap_display": "\u00a334.75bn",
+    "ticker": "RKT"
   },
   "RLE.L": {
     "business_description": "Real Estate Investors Plc is a publicly quoted, internally managed property investment company and REIT with a portfolio of mixed-use commercial property. It is managed by a highly experienced property team with over\u2026",
@@ -9965,9 +10017,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-20T06:48:36.206354+00:00",
-    "market_cap": "208227488",
-    "market_cap_display": "\u00a3208.2m",
+    "last_updated": "2026-10-27T07:48:48.374139+00:00",
+    "market_cap": "178699824",
+    "market_cap_display": "\u00a3178.7m",
     "ticker": "SWC"
   },
   "SWG.L": {
@@ -9978,9 +10030,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T18:49:18.713661+00:00",
-    "market_cap": "14178679",
-    "market_cap_display": "\u00a314.2m",
+    "last_updated": "2026-10-27T07:48:37.358618+00:00",
+    "market_cap": "16680799",
+    "market_cap_display": "\u00a316.7m",
     "ticker": "SWG"
   },
   "SWT.L": {
@@ -10004,9 +10056,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:04.961795+00:00",
-    "market_cap": "15954570",
-    "market_cap_display": "\u00a316.0m",
+    "last_updated": "2026-10-27T07:48:50.337554+00:00",
+    "market_cap": "15363660",
+    "market_cap_display": "\u00a315.4m",
     "ticker": "SYM"
   },
   "SYNC.L": {
@@ -10771,9 +10823,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:48:02.749186+00:00",
-    "market_cap": "44051760",
-    "market_cap_display": "\u00a344.1m",
+    "last_updated": "2026-10-27T07:48:41.313562+00:00",
+    "market_cap": "37544112",
+    "market_cap_display": "\u00a337.5m",
     "ticker": "ULTP"
   },
   "UMR.L": {
@@ -11135,9 +11187,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:05.062180+00:00",
-    "market_cap": "851144960",
-    "market_cap_display": "\u00a3851.1m",
+    "last_updated": "2026-10-27T07:48:51.628874+00:00",
+    "market_cap": "811198208",
+    "market_cap_display": "\u00a3811.2m",
     "ticker": "VTY"
   },
   "VUL.L": {
@@ -11434,9 +11486,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:15.223881+00:00",
-    "market_cap": "1330608000",
-    "market_cap_display": "\u00a31.33bn",
+    "last_updated": "2026-10-27T07:48:45.174853+00:00",
+    "market_cap": "1299196160",
+    "market_cap_display": "\u00a31.30bn",
     "ticker": "YCA"
   },
   "YOU.L": {
