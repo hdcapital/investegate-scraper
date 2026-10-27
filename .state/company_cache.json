@@ -194,6 +194,19 @@
     "market_cap_display": "",
     "ticker": "54XE"
   },
+  "58WT.L": {
+    "business_description": "",
+    "company_name": "National Grid Gas plc 1.5803% IDX/LKD SNR EMTN 22/08/2052 GBP",
+    "currency": "GBP",
+    "data_source": "yfinance:58WT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-27T19:49:36.611133+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "58WT"
+  },
   "59AY.L": {
     "business_description": "",
     "company_name": "0 UBS 43 REG-S",
@@ -3153,9 +3166,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T18:50:26.015538+00:00",
-    "market_cap": "159114176",
-    "market_cap_display": "\u00a3159.1m",
+    "last_updated": "2026-10-27T19:49:35.925137+00:00",
+    "market_cap": "156539136",
+    "market_cap_display": "\u00a3156.5m",
     "ticker": "CYN"
   },
   "DAR.L": {
@@ -3478,9 +3491,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:43.126387+00:00",
-    "market_cap": "5614758",
-    "market_cap_display": "\u00a35.6m",
+    "last_updated": "2026-10-27T19:49:31.646984+00:00",
+    "market_cap": "10055187",
+    "market_cap_display": "\u00a310.1m",
     "ticker": "EAAS"
   },
   "EARN.L": {
@@ -3660,7 +3673,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T18:51:19.943673+00:00",
+    "last_updated": "2026-10-27T19:49:30.272661+00:00",
     "market_cap": "192420768",
     "market_cap_display": "\u00a3192.4m",
     "ticker": "ELCO"
@@ -6629,6 +6642,19 @@
     "market_cap_display": "\u00a381.2m",
     "ticker": "MAV4"
   },
+  "MAW.L": {
+    "business_description": "Maruwa Co.,Ltd. produces and sells ceramics and electronic parts in Japan and internationally. It operates through Ceramic Components Business and Lighting Equipment segments. The company offers ceramics, including\u2026",
+    "company_name": "Maruwa Co.,Ltd.",
+    "currency": "JPY",
+    "data_source": "yfinance:MAW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-27T19:49:33.762894+00:00",
+    "market_cap": "712502738944",
+    "market_cap_display": "JPY 712.50bn",
+    "ticker": "MAW"
+  },
   "MBH.L": {
     "business_description": "Michelmersh Brick Holdings plc, together with its subsidiaries, manufactures bricks and brick prefabricated products in the United Kingdom and Europe. The company offers extruded wire cut facing bricks, clay pavers,\u2026",
     "company_name": "Michelmersh Brick Holdings plc",
@@ -9289,9 +9315,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:47:55.406016+00:00",
-    "market_cap": "120492992",
-    "market_cap_display": "\u00a3120.5m",
+    "last_updated": "2026-10-27T19:49:34.461029+00:00",
+    "market_cap": "112086504",
+    "market_cap_display": "\u00a3112.1m",
     "ticker": "SEI"
   },
   "SEIT.L": {
@@ -9306,6 +9332,19 @@
     "market_cap": "395635424",
     "market_cap_display": "\u00a3395.6m",
     "ticker": "SEIT"
+  },
+  "SER.L": {
+    "business_description": "Serica Energy plc, together with its subsidiaries, engages in identifying, acquiring, exploring, and exploiting of oil and gas reserves in the United Kingdom. It produces and sale gas, oil, and natural gas liquids. The\u2026",
+    "company_name": "Serica Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SER.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-27T19:49:37.326295+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "SER"
   },
   "SERE.L": {
     "business_description": "",
@@ -11161,7 +11200,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T18:51:13.932877+00:00",
+    "last_updated": "2026-10-27T19:49:32.330545+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "VSVS"
