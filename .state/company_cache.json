@@ -506,6 +506,19 @@
     "market_cap_display": "\u00a314.1m",
     "ticker": "ADF"
   },
+  "ADIG.L": {
+    "business_description": "As of March 30, 2026 Abrdn Diversified Income And Growth Plc fund has gone out of business. Abrdn Diversified Income And Growth Plc is a closed ended balanced mutual fund launched by BlackRock Fund Managers Limited. The\u2026",
+    "company_name": "Abrdn Diversified Income And Growth Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ADIG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T19:49:48.344677+00:00",
+    "market_cap": "37055712",
+    "market_cap_display": "\u00a337.1m",
+    "ticker": "ADIG"
+  },
   "ADVT.L": {
     "business_description": "AdvancedAdvT Limited engages in the provision of software solutions and platforms in Europe, the United Kingdom, North America, and internationally. It offers business solutions and healthcare compliance; and human\u2026",
     "company_name": "AdvancedAdvT Limited",
@@ -3686,9 +3699,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T18:50:09.218581+00:00",
-    "market_cap": "240416672",
-    "market_cap_display": "\u00a3240.4m",
+    "last_updated": "2026-10-28T19:49:46.688004+00:00",
+    "market_cap": "247629376",
+    "market_cap_display": "\u00a3247.6m",
     "ticker": "EGL"
   },
   "EGT.L": {
@@ -3933,9 +3946,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:34.628321+00:00",
-    "market_cap": "2844118784",
-    "market_cap_display": "\u00a32.84bn",
+    "last_updated": "2026-10-28T19:49:43.693647+00:00",
+    "market_cap": "3002836480",
+    "market_cap_display": "\u00a33.00bn",
     "ticker": "ENT"
   },
   "ENW.L": {
@@ -4692,6 +4705,19 @@
     "market_cap_display": "\u00a3152.7m",
     "ticker": "GENL"
   },
+  "GEO.L": {
+    "business_description": "Geo Exploration Limited, together with its subsidiaries, explores for oil and gas exploration and development in Africa and Australia. Its flagship project is its 70% interest owned Juno Project located in Western\u2026",
+    "company_name": "Geo Exploration Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:GEO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T19:49:42.826882+00:00",
+    "market_cap": "3816685",
+    "market_cap_display": "\u00a33.8m",
+    "ticker": "GEO"
+  },
   "GETB.L": {
     "business_description": "GetBusy plc, a SaaS company, provides productivity software for professional and financial services in the United Kingdom, the United States, Australia, and New Zealand. It operates through SmartVault and Workiro\u2026",
     "company_name": "GetBusy plc",
@@ -4999,9 +5025,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:48:59.052836+00:00",
-    "market_cap": "1696938",
-    "market_cap_display": "\u00a31.7m",
+    "last_updated": "2026-10-28T19:49:45.934654+00:00",
+    "market_cap": "1106698",
+    "market_cap_display": "\u00a31.1m",
     "ticker": "GUN"
   },
   "GV1O.L": {
@@ -6975,9 +7001,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:14.463989+00:00",
-    "market_cap": "",
-    "market_cap_display": "",
+    "last_updated": "2026-10-28T19:49:47.462969+00:00",
+    "market_cap": "4265454",
+    "market_cap_display": "\u00a34.3m",
     "ticker": "MIND"
   },
   "MIRI.L": {
@@ -7018,6 +7044,19 @@
     "market_cap": "2472887040",
     "market_cap_display": "\u00a32.47bn",
     "ticker": "MNKS"
+  },
+  "MNO.L": {
+    "business_description": "Meridian Mining Plc, together with its subsidiaries, engages in the acquisition, exploration, and development of mineral properties in Brazil. The company explores manganese, gold, copper, and silver deposits. It's\u2026",
+    "company_name": "Meridian Mining Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MNO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T19:49:45.159978+00:00",
+    "market_cap": "480492224",
+    "market_cap_display": "\u00a3480.5m",
+    "ticker": "MNO"
   },
   "MNTL.L": {
     "business_description": "Technology Minerals Plc operates as a mineral exploration company in Ireland, Spain, Cameroon, and the United States. It explores for cobalt, copper, lithium, nickel, manganese, and rare earth deposits. Technology\u2026",
@@ -7612,9 +7651,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:53.213136+00:00",
-    "market_cap": "859675520",
-    "market_cap_display": "\u00a3859.7m",
+    "last_updated": "2026-10-28T19:49:42.076239+00:00",
+    "market_cap": "902799552",
+    "market_cap_display": "\u00a3902.8m",
     "ticker": "OCI"
   },
   "OGN.L": {
@@ -11369,9 +11408,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:12.756902+00:00",
-    "market_cap": "247083728",
-    "market_cap_display": "\u00a3247.1m",
+    "last_updated": "2026-10-28T19:49:44.433417+00:00",
+    "market_cap": "268825728",
+    "market_cap_display": "\u00a3268.8m",
     "ticker": "VTU"
   },
   "VTY.L": {
@@ -11759,9 +11798,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:22.159425+00:00",
-    "market_cap": "16874750",
-    "market_cap_display": "\u00a316.9m",
+    "last_updated": "2026-10-28T19:49:41.189190+00:00",
+    "market_cap": "12992065",
+    "market_cap_display": "\u00a313.0m",
     "ticker": "ZIN"
   },
   "ZPHR.L": {
