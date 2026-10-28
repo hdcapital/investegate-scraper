@@ -605,9 +605,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T06:47:43.752433+00:00",
-    "market_cap": "167877888",
-    "market_cap_display": "\u00a3167.9m",
+    "last_updated": "2026-10-28T07:48:33.319290+00:00",
+    "market_cap": "165656448",
+    "market_cap_display": "\u00a3165.7m",
     "ticker": "AEWU"
   },
   "AEX.L": {
@@ -870,6 +870,19 @@
     "market_cap_display": "$87.5m",
     "ticker": "AMIF"
   },
+  "AML.L": {
+    "business_description": "Aston Martin Lagonda Global Holdings plc engages in the design, development, manufacture, and marketing of sports cars and sports utility vehicles(SUVs) in the United Kingdom, the United States, the Middle East, Africa,\u2026",
+    "company_name": "Aston Martin Lagonda Global Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AML.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:35.337474+00:00",
+    "market_cap": "385872640",
+    "market_cap_display": "\u00a3385.9m",
+    "ticker": "AML"
+  },
   "AMP.L": {
     "business_description": "AMPEAK ENERGY LIMITED engages in developing, building, owning, and operating energy projects in the United Kingdom. The company operates through four segments: Project Development, Tidal, Battery Storage, and Corporate.\u2026",
     "company_name": "AMPEAK ENERGY LIMITED",
@@ -1112,9 +1125,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T18:51:03.326462+00:00",
-    "market_cap": "12331512",
-    "market_cap_display": "\u00a312.3m",
+    "last_updated": "2026-10-28T07:48:39.262924+00:00",
+    "market_cap": "8510481",
+    "market_cap_display": "\u00a38.5m",
     "ticker": "ARS"
   },
   "ART.L": {
@@ -1623,6 +1636,19 @@
     "market_cap": "162755600",
     "market_cap_display": "\u00a3162.8m",
     "ticker": "BGCG"
+  },
+  "BGFD.L": {
+    "business_description": "",
+    "company_name": "Baillie Gifford Japan Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:BGFD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:27.316859+00:00",
+    "market_cap": "671034560",
+    "market_cap_display": "\u00a3671.0m",
+    "ticker": "BGFD"
   },
   "BGO.L": {
     "business_description": "Bango PLC, together with its subsidiaries, develops, markets, and sells technology that enables the marketing and sale of products and services to mobile phone users. It operates through two segments, Payment and\u2026",
@@ -2352,6 +2378,19 @@
     "market_cap_display": "\u00a3166.4m",
     "ticker": "CCP"
   },
+  "CCR.L": {
+    "business_description": "C&C Group plc engages in the manufacture, marketing, and distribution of beer, cider, wine, spirits, and soft drinks in the United Kingdom, the Republic of Ireland, Great Britain, and internationally. The company offers\u2026",
+    "company_name": "C&C Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CCR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:27.960219+00:00",
+    "market_cap": "372856736",
+    "market_cap_display": "\u00a3372.9m",
+    "ticker": "CCR"
+  },
   "CCT.L": {
     "business_description": "The Character Group plc, a holding company, designs, develops, manufactures, and distributes toys, games, and giftware products in the United Kingdom, Scandinavia, the Far East, and internationally. The company also\u2026",
     "company_name": "The Character Group plc",
@@ -2416,6 +2455,19 @@
     "market_cap": "199109760",
     "market_cap_display": "\u00a3199.1m",
     "ticker": "CER"
+  },
+  "CGEO.L": {
+    "business_description": "Georgia Capital PLC is a private equity and venture capital firm specializing in early stage, organic growth and acquisitions. It considers Greenfields through mature stage companies. The firm typically invests in\u2026",
+    "company_name": "Georgia Capital PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:CGEO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:26.678301+00:00",
+    "market_cap": "1258226944",
+    "market_cap_display": "\u00a31.26bn",
+    "ticker": "CGEO"
   },
   "CHAR.L": {
     "business_description": "Chariot Limited, together with its subsidiaries, engages in exploration, appraisal and development of upstream oil and gas assets. The company operates through Upstream Oil & Gas, Renewable Power, and Green Hydrogen\u2026",
@@ -4037,7 +4089,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:33.848044+00:00",
+    "last_updated": "2026-10-28T07:48:42.655691+00:00",
     "market_cap": "1180858",
     "market_cap_display": "\u00a31.2m",
     "ticker": "EXR"
@@ -4271,9 +4323,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:08.050004+00:00",
-    "market_cap": "10918435",
-    "market_cap_display": "\u00a310.9m",
+    "last_updated": "2026-10-28T07:48:41.259663+00:00",
+    "market_cap": "8974634",
+    "market_cap_display": "\u00a39.0m",
     "ticker": "FMET"
   },
   "FNTL.L": {
@@ -4596,9 +4648,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:16.678107+00:00",
-    "market_cap": "3909635",
-    "market_cap_display": "\u00a33.9m",
+    "last_updated": "2026-10-28T07:48:37.289739+00:00",
+    "market_cap": "4210377",
+    "market_cap_display": "\u00a34.2m",
     "ticker": "GEMR"
   },
   "GENF.L": {
@@ -4921,9 +4973,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T18:51:21.979964+00:00",
-    "market_cap": "74330415104",
-    "market_cap_display": "\u00a374.33bn",
+    "last_updated": "2026-10-28T07:48:26.033726+00:00",
+    "market_cap": "77075234816",
+    "market_cap_display": "\u00a377.08bn",
     "ticker": "GSK"
   },
   "GTC.L": {
@@ -5324,9 +5376,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:21.053578+00:00",
-    "market_cap": "688604864",
-    "market_cap_display": "\u00a3688.6m",
+    "last_updated": "2026-10-28T07:48:32.001175+00:00",
+    "market_cap": "615675904",
+    "market_cap_display": "\u00a3615.7m",
     "ticker": "HTG"
   },
   "HUD.L": {
@@ -5705,6 +5757,19 @@
     "market_cap": "631602688",
     "market_cap_display": "\u00a3631.6m",
     "ticker": "IQE"
+  },
+  "IRON.L": {
+    "business_description": "Ironveld Plc, a holding company, engages in the development of a vanadiferous and titaniferous magnetite ore deposit in South Africa. The company engages in the processing of magnetite ore into high purity iron powders,\u2026",
+    "company_name": "Ironveld Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IRON.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:40.587675+00:00",
+    "market_cap": "3936774",
+    "market_cap_display": "\u00a33.9m",
+    "ticker": "IRON"
   },
   "ITH.L": {
     "business_description": "Ithaca Energy plc, together with its subsidiaries, engages in the development and production of oil and gas in the North Sea. It owns a portfolio of assets located in the Northern, Central, and Southern North Sea, as\u2026",
@@ -6923,7 +6988,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:45.110355+00:00",
+    "last_updated": "2026-10-28T07:48:39.938857+00:00",
     "market_cap": "409736",
     "market_cap_display": "\u00a3409.7k",
     "ticker": "MIRI"
@@ -7729,9 +7794,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:49.150694+00:00",
-    "market_cap": "13465838",
-    "market_cap_display": "\u00a313.5m",
+    "last_updated": "2026-10-28T07:48:41.939493+00:00",
+    "market_cap": "13221005",
+    "market_cap_display": "\u00a313.2m",
     "ticker": "ORR"
   },
   "OXB.L": {
@@ -7885,7 +7950,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T18:51:02.828687+00:00",
+    "last_updated": "2026-10-28T07:48:37.939040+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "PEYS"
@@ -8145,9 +8210,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:23.643598+00:00",
-    "market_cap": "2335396",
-    "market_cap_display": "\u00a32.3m",
+    "last_updated": "2026-10-28T07:48:36.619079+00:00",
+    "market_cap": "2385086",
+    "market_cap_display": "\u00a32.4m",
     "ticker": "PR1"
   },
   "PRD.L": {
@@ -8332,6 +8397,19 @@
     "market_cap_display": "\u20ac1.63bn",
     "ticker": "PTSB"
   },
+  "PULS.L": {
+    "business_description": "Pulsar Group plc, together with its subsidiaries, provides software-as-a-service products and services to consumer brands and blue-chip enterprises, marketing agencies, and public sector organizations. The company's\u2026",
+    "company_name": "Pulsar Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PULS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:35.976790+00:00",
+    "market_cap": "20000038",
+    "market_cap_display": "\u00a320.0m",
+    "ticker": "PULS"
+  },
   "PWR.L": {
     "business_description": "Power Probe PLC manufactures and sells automotive electrical diagnostic tools for professional service technicians in the United States and internationally. Its products include circuit testers, battery current draw,\u2026",
     "company_name": "Power Probe PLC",
@@ -8449,6 +8527,19 @@
     "market_cap_display": "\u00a3109.0m",
     "ticker": "QTX"
   },
+  "QUBE.L": {
+    "business_description": "Quantum Base Holdings PLC engages in the quantum science business. It develops and scales Q-ID solution, a quantum-secure unique fingerprint that cannot be copied, cloned, or faked, as well as stops counterfeits and\u2026",
+    "company_name": "Quantum Base Holdings PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:QUBE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:29.369519+00:00",
+    "market_cap": "16029763",
+    "market_cap_display": "\u00a316.0m",
+    "ticker": "QUBE"
+  },
   "RAT.L": {
     "business_description": "Rathbones Group Plc, together with its subsidiaries, provides wealth management, asset management, and related services in the United Kingdom and Channel Islands. The company operates in two segments: Wealth Management\u2026",
     "company_name": "Rathbones Group Plc",
@@ -8552,6 +8643,19 @@
     "market_cap": "29175776",
     "market_cap_display": "$29.2m",
     "ticker": "RCOI"
+  },
+  "RDT.L": {
+    "business_description": "Rosslyn Data Technologies plc, together with its subsidiaries, provides data analytics solutions in the United Kingdom, Europe, and North America. The company offers Rosslyn, a cloud-based software as a service platform\u2026",
+    "company_name": "Rosslyn Data Technologies plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RDT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:31.353116+00:00",
+    "market_cap": "1120077",
+    "market_cap_display": "\u00a31.1m",
+    "ticker": "RDT"
   },
   "REC.L": {
     "business_description": "Record plc, through its subsidiaries, provides currency and asset management services in the United Kingdom, North America, Switzerland, rest of Europe, Australia, and internationally. The company operates in two\u2026",
@@ -9060,6 +9164,19 @@
     "market_cap_display": "\u00a39.4m",
     "ticker": "SALT"
   },
+  "SANB.L": {
+    "business_description": "Santander UK plc, through its subsidiaries, provides a range of banking and financial products and services to personal, business, and corporate customers in the United Kingdom. It offers current accounts, credit cards,\u2026",
+    "company_name": "Santander UK plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SANB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:33.957764+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "SANB"
+  },
   "SAR.L": {
     "business_description": "Sareum Holdings plc, a clinical stage small molecule drug development company, engages in the discovery and development of therapeutic drugs for cancer and autoimmune diseases. The company's lead product is SDC-1801, a\u2026",
     "company_name": "Sareum Holdings plc",
@@ -9372,6 +9489,19 @@
     "market_cap_display": "",
     "ticker": "SF22"
   },
+  "SFOR.L": {
+    "business_description": "S4 Capital plc, together with its subsidiaries, provides digital advertising, marketing, and technology services in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company offers contents,\u2026",
+    "company_name": "S4 Capital plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SFOR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:32.649822+00:00",
+    "market_cap": "356901632",
+    "market_cap_display": "\u00a3356.9m",
+    "ticker": "SFOR"
+  },
   "SFT.L": {
     "business_description": "Software Circle plc, together with its subsidiaries, licenses a suite of mission critical software in the United Kingdom, Ireland, Europe, Belgium, the Netherlands, New Zealand, South Africa, and the United States. It\u2026",
     "company_name": "Software Circle plc",
@@ -9497,9 +9627,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:48:59.566356+00:00",
-    "market_cap": "240405744",
-    "market_cap_display": "\u00a3240.4m",
+    "last_updated": "2026-10-28T07:48:38.584449+00:00",
+    "market_cap": "232922816",
+    "market_cap_display": "\u00a3232.9m",
     "ticker": "SLP"
   },
   "SMIN.L": {
@@ -9852,6 +9982,19 @@
     "market_cap": "5519510",
     "market_cap_display": "\u00a35.5m",
     "ticker": "SSTY"
+  },
+  "STAN.L": {
+    "business_description": "Standard Chartered PLC, together with its subsidiaries, provides various banking products and services in Asia, Africa, the Middle East, Europe, and the Americas. The company operates in three segments: Corporate &\u2026",
+    "company_name": "Standard Chartered PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:STAN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:30.004030+00:00",
+    "market_cap": "43781730304",
+    "market_cap_display": "\u00a343.78bn",
+    "ticker": "STAN"
   },
   "STAR.L": {
     "business_description": "Star Energy Group Plc engages in the exploration, development, processing, and production of oil and gas in the United Kingdom. The company holds gas and oil reserves at onshore locations in the East Midlands; and the\u2026",
@@ -10866,6 +11009,19 @@
     "market_cap": "37544112",
     "market_cap_display": "\u00a337.5m",
     "ticker": "ULTP"
+  },
+  "ULVR.L": {
+    "business_description": "Unilever PLC operates as a fast-moving consumer goods company in the Asia Pacific, Africa, the Americas, and Europe. It operates through four segments: Beauty & Wellbeing, Personal Care, Home Care, and Foods. The Beauty\u2026",
+    "company_name": "Unilever PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ULVR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-28T07:48:30.671028+00:00",
+    "market_cap": "105361899520",
+    "market_cap_display": "\u00a3105.36bn",
+    "ticker": "ULVR"
   },
   "UMR.L": {
     "business_description": "Unicorn Mineral Resources Public Limited Company engages in the exploration of minerals and precious metals in the Republic of Ireland. It primarily explores copper, lead, zinc, and silver mineral deposits. The company\u2026",
