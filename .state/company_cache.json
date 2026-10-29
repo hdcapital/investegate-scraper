@@ -605,9 +605,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-06T18:50:51.805280+00:00",
-    "market_cap": "189984784",
-    "market_cap_display": "\u00a3190.0m",
+    "last_updated": "2026-10-29T19:50:05.462714+00:00",
+    "market_cap": "197271712",
+    "market_cap_display": "\u00a3197.3m",
     "ticker": "AET"
   },
   "AEWU.L": {
@@ -3049,9 +3049,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:10.583762+00:00",
-    "market_cap": "441659232",
-    "market_cap_display": "\u00a3441.7m",
+    "last_updated": "2026-10-29T19:50:00.992608+00:00",
+    "market_cap": "369761184",
+    "market_cap_display": "\u00a3369.8m",
     "ticker": "CRW"
   },
   "CSN.L": {
@@ -3179,9 +3179,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:48:54.217761+00:00",
-    "market_cap": "2971250432",
-    "market_cap_display": "\u00a32.97bn",
+    "last_updated": "2026-10-29T19:50:00.215476+00:00",
+    "market_cap": "3044646912",
+    "market_cap_display": "\u00a33.04bn",
     "ticker": "CTY"
   },
   "CVSG.L": {
@@ -4744,6 +4744,19 @@
     "market_cap_display": "\u00a335.0m",
     "ticker": "GETB"
   },
+  "GEX.L": {
+    "business_description": "Georgina Energy PLC engages in the exploration and development of helium, hydrogen, hydrocarbon, and natural gas assets in Australia. It holds interests in the Mt Winter project (EPA155) located in the northern Amadeus\u2026",
+    "company_name": "Georgina Energy PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:GEX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T19:49:57.015262+00:00",
+    "market_cap": "16294116",
+    "market_cap_display": "\u00a316.3m",
+    "ticker": "GEX"
+  },
   "GFIN.L": {
     "business_description": "Gfinity plc, together with its subsidiaries, provides digital media services in the United Kingdom, North America, and internationally. It owns websites and related social platforms that deliver news and content\u2026",
     "company_name": "Gfinity plc",
@@ -4921,9 +4934,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:26.277319+00:00",
-    "market_cap": "91990784",
-    "market_cap_display": "\u00a392.0m",
+    "last_updated": "2026-10-29T19:49:58.501419+00:00",
+    "market_cap": "76441904",
+    "market_cap_display": "\u00a376.4m",
     "ticker": "GPM"
   },
   "GRI.L": {
@@ -6442,9 +6455,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T18:52:25.759884+00:00",
-    "market_cap": "5074567680",
-    "market_cap_display": "\u00a35.07bn",
+    "last_updated": "2026-10-29T19:50:07.757076+00:00",
+    "market_cap": "5468105216",
+    "market_cap_display": "\u00a35.47bn",
     "ticker": "LAND"
   },
   "LBOW.L": {
@@ -7599,9 +7612,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:24.347118+00:00",
-    "market_cap": "1402076",
-    "market_cap_display": "\u00a31.4m",
+    "last_updated": "2026-10-29T19:49:56.196578+00:00",
+    "market_cap": "1030938",
+    "market_cap_display": "\u00a31.0m",
     "ticker": "NOG"
   },
   "NTVO.L": {
@@ -7707,6 +7720,19 @@
     "market_cap": "392288640",
     "market_cap_display": "\u00a3392.3m",
     "ticker": "OGN"
+  },
+  "OHGR.L": {
+    "business_description": "One Health Group Plc provides diagnosis and treatment for orthopaedics, spine, general surgery, gynaecology, and urology patients. It provides treatments for back and spine; elbow; foot and ankle; hernias; hips; knees;\u2026",
+    "company_name": "One Health Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:OHGR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T19:50:04.682742+00:00",
+    "market_cap": "41904716",
+    "market_cap_display": "\u00a341.9m",
+    "ticker": "OHGR"
   },
   "OIG.L": {
     "business_description": "Oryx International Growth Fund Ltd is a closed ended equity mutual fund launched and managed by Harwood Capital LLP. The fund invests in the public equity markets of the United Kingdom and United States. It seeks to\u2026",
@@ -8704,9 +8730,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:17.120477+00:00",
-    "market_cap": "87354464",
-    "market_cap_display": "\u00a387.4m",
+    "last_updated": "2026-10-29T19:50:02.637139+00:00",
+    "market_cap": "88857424",
+    "market_cap_display": "\u00a388.9m",
     "ticker": "RCN"
   },
   "RCOI.L": {
@@ -8964,7 +8990,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:18.208006+00:00",
+    "last_updated": "2026-10-29T19:50:06.238709+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "RNEP"
@@ -9406,9 +9432,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:48:54.969237+00:00",
-    "market_cap": "55643760",
-    "market_cap_display": "\u00a355.6m",
+    "last_updated": "2026-10-29T19:50:08.499214+00:00",
+    "market_cap": "52391856",
+    "market_cap_display": "\u00a352.4m",
     "ticker": "SDG"
   },
   "SDI.L": {
@@ -9835,9 +9861,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:19.118396+00:00",
-    "market_cap": "180073824",
-    "market_cap_display": "\u00a3180.1m",
+    "last_updated": "2026-10-29T19:50:01.782273+00:00",
+    "market_cap": "198468448",
+    "market_cap_display": "\u00a3198.5m",
     "ticker": "SNWS"
   },
   "SNX.L": {
@@ -10828,6 +10854,19 @@
     "market_cap_display": "\u00a31.26bn",
     "ticker": "TPK"
   },
+  "TRAF.L": {
+    "business_description": "Trafalgar Minerals Plc, through its subsidiaries, engages in development of residential property in the United Kingdom. The company undertakes residential property and assisted living schemes projects. It also engages\u2026",
+    "company_name": "Trafalgar Minerals Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRAF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T19:50:03.935502+00:00",
+    "market_cap": "279363",
+    "market_cap_display": "\u00a3279.4k",
+    "ticker": "TRAF"
+  },
   "TRB.L": {
     "business_description": "Tribal Group plc, through its subsidiaries, provides software and services to education institutions internationally. The company operates in two segments: Student Information Systems (SIS) and Etio. The Student\u2026",
     "company_name": "Tribal Group plc",
@@ -11460,10 +11499,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T18:50:10.452000+00:00",
-    "market_cap": "5146450",
-    "market_cap_display": "\u00a35.1m",
+    "last_updated": "2026-10-29T19:49:59.404627+00:00",
+    "market_cap": "8536170",
+    "market_cap_display": "\u00a38.5m",
     "ticker": "VRCI"
+  },
+  "VSL.L": {
+    "business_description": "",
+    "company_name": "Vpc Specialty Lending Investments Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VSL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T19:50:07.011062+00:00",
+    "market_cap": "33880152",
+    "market_cap_display": "\u00a333.9m",
+    "ticker": "VSL"
   },
   "VSVS.L": {
     "business_description": "Vesuvius plc provides molten metal flow engineering and technology services to steel and foundry casting industries worldwide. It operates through Steel Flow Control, Steel Advanced Refractories, Steel Sensors & Probes,\u2026",
