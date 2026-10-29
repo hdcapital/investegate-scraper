@@ -1164,9 +1164,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:39.479965+00:00",
-    "market_cap": "247453568",
-    "market_cap_display": "\u00a3247.5m",
+    "last_updated": "2026-10-29T07:48:28.252162+00:00",
+    "market_cap": "252343952",
+    "market_cap_display": "\u00a3252.3m",
     "ticker": "ASAI"
   },
   "ASC.L": {
@@ -1372,9 +1372,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:48:55.216830+00:00",
-    "market_cap": "227606768",
-    "market_cap_display": "\u00a3227.6m",
+    "last_updated": "2026-10-29T07:48:20.178356+00:00",
+    "market_cap": "229745936",
+    "market_cap_display": "\u00a3229.7m",
     "ticker": "AUSC"
   },
   "AVAP.L": {
@@ -3717,6 +3717,19 @@
     "market_cap_display": "\u00a335.1m",
     "ticker": "EGT"
   },
+  "EJFI.L": {
+    "business_description": "EJF Investments Limited is a principal investment firm. The firm seeks to invest in financial services sector with a focus in structured debt and equity, loans, bonds, preference shares, convertible notes and private\u2026",
+    "company_name": "EJF Investments Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:EJFI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T07:48:24.141236+00:00",
+    "market_cap": "79580472",
+    "market_cap_display": "\u00a379.6m",
+    "ticker": "EJFI"
+  },
   "EKF.L": {
     "business_description": "EKF Diagnostics Holdings plc engages in the design, development, manufacture, and sale of diagnostic instruments, reagents, and other ancillary products in the Americas, Europe, the Middle East, Asia, Africa, and\u2026",
     "company_name": "EKF Diagnostics Holdings plc",
@@ -5628,6 +5641,19 @@
     "market_cap_display": "\u00a346.7m",
     "ticker": "IKA"
   },
+  "IMI.L": {
+    "business_description": "IMI plc designs and manufactures fluid and motion control solutions in the United Kingdom, Germany, rest of Europe, the United States, rest of the Americas, China, rest of the Asia Pacific, the Middle East, and Africa.\u2026",
+    "company_name": "IMI plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IMI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T07:48:22.814786+00:00",
+    "market_cap": "6819302400",
+    "market_cap_display": "\u00a36.82bn",
+    "ticker": "IMI"
+  },
   "IMM.L": {
     "business_description": "ImmuPharma plc, together with its subsidiaries, engages in the research, development, and commercialization of peptide-based therapeutics for autoimmune diseases, infectious diseases, and metabolic disorders in the\u2026",
     "company_name": "ImmuPharma plc",
@@ -6117,9 +6143,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T18:51:22.134379+00:00",
-    "market_cap": "422889312",
-    "market_cap_display": "\u00a3422.9m",
+    "last_updated": "2026-10-29T07:48:19.526243+00:00",
+    "market_cap": "426977280",
+    "market_cap_display": "\u00a3427.0m",
     "ticker": "JUGI"
   },
   "JUSC.L": {
@@ -6524,6 +6550,19 @@
     "market_cap": "345596448",
     "market_cap_display": "\u00a3345.6m",
     "ticker": "LIVE"
+  },
+  "LLOY.L": {
+    "business_description": "Lloyds Banking Group plc, together with its subsidiaries, provides a range of banking and financial products and services for retail and commercial customers in the United Kingdom. It operates in three segments: Retail;\u2026",
+    "company_name": "Lloyds Banking Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LLOY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T07:48:21.491000+00:00",
+    "market_cap": "59571449856",
+    "market_cap_display": "\u00a359.57bn",
+    "ticker": "LLOY"
   },
   "LMP.L": {
     "business_description": "LondonMetric Property Plc is the UK's leading triple net lease REIT with a 8 billion pounds portfolio. It is aligned to structurally supported sectors of logistics, healthcare, convenience, entertainment and leisure. It\u2026",
@@ -8236,9 +8275,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:26.919747+00:00",
-    "market_cap": "658854848",
-    "market_cap_display": "\u00a3658.9m",
+    "last_updated": "2026-10-29T07:48:26.231908+00:00",
+    "market_cap": "635908672",
+    "market_cap_display": "\u00a3635.9m",
     "ticker": "PPH"
   },
   "PR1.L": {
@@ -9055,9 +9094,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:43.720174+00:00",
-    "market_cap": "1406420864",
-    "market_cap_display": "\u00a31.41bn",
+    "last_updated": "2026-10-29T07:48:23.470428+00:00",
+    "market_cap": "1239702272",
+    "market_cap_display": "\u00a31.24bn",
     "ticker": "RSG"
   },
   "RST.L": {
@@ -9294,6 +9333,19 @@
     "market_cap_display": "\u00a37.84bn",
     "ticker": "SBRY"
   },
+  "SBSI.L": {
+    "business_description": "",
+    "company_name": "Schroder BSC Social Impact Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:SBSI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T07:48:18.872558+00:00",
+    "market_cap": "61462624",
+    "market_cap_display": "\u00a361.5m",
+    "ticker": "SBSI"
+  },
   "SBTX.L": {
     "business_description": "SkinBioTherapeutics plc, a life science company, engages in research and development, and commercialization of technology that harnesses the microbiome for human health in the United Kingdom, the United States, Europe,\u2026",
     "company_name": "SkinBioTherapeutics plc",
@@ -9488,6 +9540,19 @@
     "market_cap": "395635424",
     "market_cap_display": "\u00a3395.6m",
     "ticker": "SEIT"
+  },
+  "SEPL.L": {
+    "business_description": "Seplat Energy Plc, an independent energy company, engages in the oil and gas exploration and production, and gas processing activities in Africa, Asia, Europe, and the Americas. It operates through two segments, Oil and\u2026",
+    "company_name": "Seplat Energy Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SEPL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T07:48:20.833015+00:00",
+    "market_cap": "4967540736",
+    "market_cap_display": "\u00a34.97bn",
+    "ticker": "SEPL"
   },
   "SER.L": {
     "business_description": "Serica Energy plc, together with its subsidiaries, engages in identifying, acquiring, exploring, and exploiting of oil and gas reserves in the United Kingdom. It produces and sale gas, oil, and natural gas liquids. The\u2026",
@@ -10556,16 +10621,16 @@
     "ticker": "THG"
   },
   "THR.L": {
-    "business_description": "Thor Energy Plc engages in the exploration and development of mineral properties in Australia. It explores for uranium, vanadium, copper, tungsten, molybdenum, gold, lithium, nickel, and other mineral deposits. The\u2026",
+    "business_description": "Thor Energy Plc engages in the exploration and development of mineral properties in Australia. It explores for uranium, vanadium, copper, tungsten, molybdenum, gold, lithium, nickel, and other mineral deposits. Its\u2026",
     "company_name": "Thor Energy Plc",
     "currency": "GBp",
     "data_source": "yfinance:THR.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:26.961231+00:00",
-    "market_cap": "5665399",
-    "market_cap_display": "\u00a35.7m",
+    "last_updated": "2026-10-29T07:48:24.797917+00:00",
+    "market_cap": "5407881",
+    "market_cap_display": "\u00a35.4m",
     "ticker": "THR"
   },
   "THRL.L": {
@@ -10802,6 +10867,19 @@
     "market_cap_display": "\u00a3115.6m",
     "ticker": "TRI"
   },
+  "TRIG.L": {
+    "business_description": "The Renewables Infrastructure Group Limited specializes in infrastructure investments. The fund typically invests in operational assets which generate electricity from renewable sources, with a particular focus on\u2026",
+    "company_name": "The Renewables Infrastructure Group Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:TRIG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-29T07:48:27.596328+00:00",
+    "market_cap": "1828413056",
+    "market_cap_display": "\u00a31.83bn",
+    "ticker": "TRIG"
+  },
   "TRN.L": {
     "business_description": "Trainline plc engages in the operation of an independent rail and coach travel platform that sells rail and coach tickets worldwide. It operates in three segments: UK Consumer, International Consumer, and Trainline\u2026",
     "company_name": "Trainline plc",
@@ -10966,9 +11044,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:19.110589+00:00",
-    "market_cap": "36393220",
-    "market_cap_display": "\u00a336.4m",
+    "last_updated": "2026-10-29T07:48:26.891148+00:00",
+    "market_cap": "44112992",
+    "market_cap_display": "\u00a344.1m",
     "ticker": "TXP"
   },
   "TYM.L": {
@@ -11577,9 +11655,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:51:57.589297+00:00",
-    "market_cap": "4160947456",
-    "market_cap_display": "\u00a34.16bn",
+    "last_updated": "2026-10-29T07:48:22.146958+00:00",
+    "market_cap": "4143694848",
+    "market_cap_display": "\u00a34.14bn",
     "ticker": "WPP"
   },
   "WSL.L": {
