@@ -46,9 +46,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:15.225020+00:00",
-    "market_cap": "74777824",
-    "market_cap_display": "\u00a374.8m",
+    "last_updated": "2026-10-30T07:48:05.241877+00:00",
+    "market_cap": "70984752",
+    "market_cap_display": "\u00a371.0m",
     "ticker": "1SN"
   },
   "33WK.L": {
@@ -298,6 +298,19 @@
     "market_cap_display": "\u00a356.1m",
     "ticker": "80M"
   },
+  "83NF.L": {
+    "business_description": "",
+    "company_name": "The Royal Bank of Scotland Group plc 6.876%-FRN SNR 20/12/2033 GBP100000'4169",
+    "currency": "GBP",
+    "data_source": "yfinance:83NF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T07:48:06.686454+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "83NF"
+  },
   "87UO.L": {
     "business_description": "",
     "company_name": "ASB Finance Ltd. (London Branch) 1.691% GTD SNR MTN 04/10/2032 EUR100000",
@@ -350,6 +363,19 @@
     "market_cap_display": "",
     "ticker": "99IY"
   },
+  "AAF.L": {
+    "business_description": "Airtel Africa Plc, together with its subsidiaries, provides telecommunications and mobile money services in Nigeria, East Africa, and Francophone Africa. It offers pre and post-paid wireless voice, international\u2026",
+    "company_name": "Airtel Africa Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AAF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T07:48:04.519601+00:00",
+    "market_cap": "9937637376",
+    "market_cap_display": "\u00a39.94bn",
+    "ticker": "AAF"
+  },
   "AAIF.L": {
     "business_description": "Aberdeen Asian Income Fund Limited is a closed ended balanced mutual fund launched by Aberdeen Private Wealth Management Limited. It is managed by Aberdeen Standard Investments (Asia) Limited. The fund invests in the\u2026",
     "company_name": "Aberdeen Asian Income Fund Limited",
@@ -397,9 +423,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:29.757478+00:00",
-    "market_cap": "40362200",
-    "market_cap_display": "\u00a340.4m",
+    "last_updated": "2026-10-30T07:48:11.086366+00:00",
+    "market_cap": "34980572",
+    "market_cap_display": "\u00a335.0m",
     "ticker": "AAU"
   },
   "AAZ.L": {
@@ -1957,9 +1983,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:32.670741+00:00",
-    "market_cap": "1603227520",
-    "market_cap_display": "\u00a31.60bn",
+    "last_updated": "2026-10-30T07:48:10.359505+00:00",
+    "market_cap": "1551032832",
+    "market_cap_display": "\u00a31.55bn",
     "ticker": "BOY"
   },
   "BP.L": {
@@ -1970,9 +1996,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:44.012147+00:00",
-    "market_cap": "90866868224",
-    "market_cap_display": "\u00a390.87bn",
+    "last_updated": "2026-10-30T07:48:02.283048+00:00",
+    "market_cap": "96476495872",
+    "market_cap_display": "\u00a396.48bn",
     "ticker": "BP"
   },
   "BPCP.L": {
@@ -2438,9 +2464,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:49:02.244347+00:00",
-    "market_cap": "8309511",
-    "market_cap_display": "\u00a38.3m",
+    "last_updated": "2026-10-30T07:48:03.005540+00:00",
+    "market_cap": "7910654",
+    "market_cap_display": "\u00a37.9m",
     "ticker": "CDL"
   },
   "CEPS.L": {
@@ -2633,7 +2659,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-23T06:48:31.733388+00:00",
+    "last_updated": "2026-10-30T07:48:08.854950+00:00",
     "market_cap": "9320061",
     "market_cap_display": "\u00a39.3m",
     "ticker": "CLA"
@@ -4979,16 +5005,16 @@
     "ticker": "GRP"
   },
   "GRX.L": {
-    "business_description": "GreenX Metals Limited engages in the exploration and evaluation of mineral properties in Greenland and Germany. The company explores for copper, antimony, and gold. It holds interests in the Tannenberg Project that\u2026",
+    "business_description": "GreenX Metals Limited engages in the exploration and evaluation of mineral properties in Australia. It primarily explores copper, antimony, and gold. The company's primary focus is the Tannenberg Project that covers an\u2026",
     "company_name": "GreenX Metals Limited",
     "currency": "GBp",
     "data_source": "yfinance:GRX.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:34.915994+00:00",
-    "market_cap": "159250816",
-    "market_cap_display": "\u00a3159.3m",
+    "last_updated": "2026-10-30T07:48:12.604408+00:00",
+    "market_cap": "157689536",
+    "market_cap_display": "\u00a3157.7m",
     "ticker": "GRX"
   },
   "GSC.L": {
@@ -6377,9 +6403,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T06:47:30.142359+00:00",
-    "market_cap": "188404160",
-    "market_cap_display": "\u00a3188.4m",
+    "last_updated": "2026-10-30T07:48:14.052933+00:00",
+    "market_cap": "181157840",
+    "market_cap_display": "\u00a3181.2m",
     "ticker": "KP2"
   },
   "KR1.L": {
@@ -6845,9 +6871,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T18:50:06.178863+00:00",
-    "market_cap": "239430192",
-    "market_cap_display": "\u00a3239.4m",
+    "last_updated": "2026-10-30T07:48:01.547173+00:00",
+    "market_cap": "239917584",
+    "market_cap_display": "\u00a3239.9m",
     "ticker": "MCG"
   },
   "MCJ.L": {
@@ -7326,9 +7352,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:46.010754+00:00",
-    "market_cap": "7066521600",
-    "market_cap_display": "\u20ac7.07bn",
+    "last_updated": "2026-10-30T07:48:17.007302+00:00",
+    "market_cap": "6890564608",
+    "market_cap_display": "\u20ac6.89bn",
     "ticker": "MTLN"
   },
   "MTO.L": {
@@ -7638,9 +7664,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T18:50:24.060157+00:00",
-    "market_cap": "52974624768",
-    "market_cap_display": "\u00a352.97bn",
+    "last_updated": "2026-10-30T07:48:03.791362+00:00",
+    "market_cap": "50232573952",
+    "market_cap_display": "\u00a350.23bn",
     "ticker": "NWG"
   },
   "NWT.L": {
@@ -7681,6 +7707,19 @@
     "market_cap": "257294096",
     "market_cap_display": "\u00a3257.3m",
     "ticker": "NXR"
+  },
+  "NZI.L": {
+    "business_description": "Net Zero Infrastructure Plc does not have significant operations. It intends to acquire renewable or clean energy technology companies and finance, develop, and promote environmental sound projects internationally. The\u2026",
+    "company_name": "Net Zero Infrastructure Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NZI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T07:48:11.814852+00:00",
+    "market_cap": "1379025",
+    "market_cap_display": "\u00a31.4m",
+    "ticker": "NZI"
   },
   "OBI.L": {
     "business_description": "Ondine Biomedical Inc., a life-sciences company, engages in the development of activated antimicrobial therapies for the prevention and treatment of infections in Canada and internationally. Its primary product is\u2026",
@@ -8327,9 +8366,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:49:07.511375+00:00",
-    "market_cap": "12209916",
-    "market_cap_display": "\u00a312.2m",
+    "last_updated": "2026-10-30T07:48:15.496656+00:00",
+    "market_cap": "12029029",
+    "market_cap_display": "\u00a312.0m",
     "ticker": "PRD"
   },
   "PREM.L": {
@@ -8496,7 +8535,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T18:50:53.565364+00:00",
+    "last_updated": "2026-10-30T07:48:16.217992+00:00",
     "market_cap": "1634974848",
     "market_cap_display": "\u20ac1.63bn",
     "ticker": "PTSB"
@@ -8665,9 +8704,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:06.000123+00:00",
-    "market_cap": "9280778",
-    "market_cap_display": "\u00a39.3m",
+    "last_updated": "2026-10-30T07:48:14.776497+00:00",
+    "market_cap": "9135766",
+    "market_cap_display": "\u00a39.1m",
     "ticker": "RBD"
   },
   "RBN.L": {
@@ -8847,9 +8886,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T06:50:33.306867+00:00",
-    "market_cap": "159922864",
-    "market_cap_display": "\u00a3159.9m",
+    "last_updated": "2026-10-30T07:48:13.329871+00:00",
+    "market_cap": "171594368",
+    "market_cap_display": "\u00a3171.6m",
     "ticker": "RGG"
   },
   "RGL.L": {
@@ -10373,6 +10412,19 @@
     "market_cap_display": "\u00a315.4m",
     "ticker": "SYM"
   },
+  "SYN.L": {
+    "business_description": "Synergia Energy Ltd engages in the exploration, evaluation, appraisal, development, production, and sale of oil and gas. It holds interests in the Cambay gas field covering 161 square kilometers located in the Cambay\u2026",
+    "company_name": "Synergia Energy Ltd",
+    "currency": "GBp",
+    "data_source": "yfinance:SYN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T07:48:07.410761+00:00",
+    "market_cap": "1323598",
+    "market_cap_display": "\u00a31.3m",
+    "ticker": "SYN"
+  },
   "SYNC.L": {
     "business_description": "Syncona Limited is a fund specializes in investments in hedge, equity and long-term alternative investment funds across multiple asset classes. It manages private equity, debt, fixed income and alternative investments.\u2026",
     "company_name": "Syncona Limited",
@@ -10563,9 +10615,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:49:01.585887+00:00",
-    "market_cap": "7093824",
-    "market_cap_display": "\u00a37.1m",
+    "last_updated": "2026-10-30T07:48:08.134132+00:00",
+    "market_cap": "6178493",
+    "market_cap_display": "\u00a36.2m",
     "ticker": "TERA"
   },
   "TERN.L": {
@@ -10919,6 +10971,19 @@
     "market_cap_display": "\u00a31.83bn",
     "ticker": "TRIG"
   },
+  "TRLS.L": {
+    "business_description": "Trellus Health plc provides digital chronic condition management solutions for employers and health plans. The company offers GRITT resilience-based methodology; and TrellusElevate, a HIPAA-compliant technology platform\u2026",
+    "company_name": "Trellus Health plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRLS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T07:48:18.516030+00:00",
+    "market_cap": "516143",
+    "market_cap_display": "\u00a3516.1k",
+    "ticker": "TRLS"
+  },
   "TRN.L": {
     "business_description": "Trainline plc engages in the operation of an independent rail and coach travel platform that sells rail and coach tickets worldwide. It operates in three segments: UK Consumer, International Consumer, and Trainline\u2026",
     "company_name": "Trainline plc",
@@ -11005,9 +11070,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:15.996091+00:00",
-    "market_cap": "33323677696",
-    "market_cap_display": "\u00a333.32bn",
+    "last_updated": "2026-10-30T07:48:09.643373+00:00",
+    "market_cap": "32902469632",
+    "market_cap_display": "\u00a332.90bn",
     "ticker": "TSCO"
   },
   "TST.L": {
@@ -11681,9 +11746,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:27.388589+00:00",
-    "market_cap": "4016475",
-    "market_cap_display": "\u00a34.0m",
+    "last_updated": "2026-10-30T07:48:05.968370+00:00",
+    "market_cap": "3286206",
+    "market_cap_display": "\u00a33.3m",
     "ticker": "WNX"
   },
   "WPHO.L": {
@@ -11915,9 +11980,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:17.522218+00:00",
-    "market_cap": "29622452",
-    "market_cap_display": "\u00a329.6m",
+    "last_updated": "2026-10-30T07:48:17.797496+00:00",
+    "market_cap": "30012218",
+    "market_cap_display": "\u00a330.0m",
     "ticker": "ZEN"
   },
   "ZIN.L": {
