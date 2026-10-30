@@ -25,6 +25,19 @@
     "market_cap_display": "",
     "ticker": "12WM"
   },
+  "14MD.L": {
+    "business_description": "",
+    "company_name": "Stonewater Funding plc 5.034% SNR SEC NTS 20/09/2042 GBP100000",
+    "currency": "GBP",
+    "data_source": "yfinance:14MD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T19:52:10.642929+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "14MD"
+  },
   "17TZ.L": {
     "business_description": "",
     "company_name": "Royal Bank of Canada 0% SNR NTS 19/03/2043 CAD200000 '10501'",
@@ -115,6 +128,19 @@
     "market_cap": "3620223744",
     "market_cap_display": "\u00a33.62bn",
     "ticker": "3IN"
+  },
+  "3SAZ.L": {
+    "business_description": "",
+    "company_name": "GraniteShares 3x Short AstraZeneca Daily ETC",
+    "currency": "GBp",
+    "data_source": "yfinance:3SAZ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T19:52:18.921741+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "3SAZ"
   },
   "3SMF.L": {
     "business_description": "",
@@ -358,7 +384,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:52:00.503014+00:00",
+    "last_updated": "2026-10-30T19:52:09.996369+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "99IY"
@@ -492,6 +518,19 @@
     "market_cap": "14106087424",
     "market_cap_display": "\u00a314.11bn",
     "ticker": "ABF"
+  },
+  "ABT.L": {
+    "business_description": "Aben\u00f3jar Tungsten, S.A. engages in the mining and exploration of tungsten. It operates El Moto project located in Alcudia Valley, Spain and explores tungsten and gold concentrates. Aben\u00f3jar Tungsten, S.A. was formerly\u2026",
+    "company_name": "Aben\u00f3jar Tungsten, S.A.",
+    "currency": "GBp",
+    "data_source": "yfinance:ABT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T19:52:12.673950+00:00",
+    "market_cap": "481883264",
+    "market_cap_display": "\u00a3481.9m",
+    "ticker": "ABT"
   },
   "AC8.L": {
     "business_description": "Intuitive Investments Group Plc intends to invest in early and later-stage investments. The firm invests in life sciences businesses. It primarily invests in the United Kingdom, continental Europe, and the United\u2026",
@@ -891,9 +930,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:49:01.634103+00:00",
-    "market_cap": "37234364",
-    "market_cap_display": "\u00a337.2m",
+    "last_updated": "2026-10-30T19:52:05.635113+00:00",
+    "market_cap": "32912520",
+    "market_cap_display": "\u00a332.9m",
     "ticker": "AMGO"
   },
   "AMIF.L": {
@@ -2308,9 +2347,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:49:02.447060+00:00",
-    "market_cap": "145348208",
-    "market_cap_display": "\u00a3145.3m",
+    "last_updated": "2026-10-30T19:52:14.785210+00:00",
+    "market_cap": "135237024",
+    "market_cap_display": "\u00a3135.2m",
     "ticker": "CAM"
   },
   "CAML.L": {
@@ -3842,9 +3881,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:39.276085+00:00",
-    "market_cap": "49812996",
-    "market_cap_display": "\u00a349.8m",
+    "last_updated": "2026-10-30T19:52:14.112605+00:00",
+    "market_cap": "47968072",
+    "market_cap_display": "\u00a348.0m",
     "ticker": "EMAN"
   },
   "EME.L": {
@@ -3881,7 +3920,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-23T06:48:36.111966+00:00",
+    "last_updated": "2026-10-30T19:52:09.264802+00:00",
     "market_cap": "16052763",
     "market_cap_display": "\u00a316.1m",
     "ticker": "EMH"
@@ -4128,9 +4167,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-20T06:48:41.593720+00:00",
-    "market_cap": "24810831872",
-    "market_cap_display": "\u00a324.81bn",
+    "last_updated": "2026-10-30T19:52:13.324133+00:00",
+    "market_cap": "26163675136",
+    "market_cap_display": "\u00a326.16bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -4314,6 +4353,19 @@
     "market_cap": "16901864",
     "market_cap_display": "\u00a316.9m",
     "ticker": "FIH"
+  },
+  "FIL.L": {
+    "business_description": "Fairview International PLC owns and operates independent schools, which offers international baccalaureate programmes for students in Malaysia. Its school subjects include science, mathematics, humanities, arts and\u2026",
+    "company_name": "Fairview International PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:FIL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T19:52:03.587857+00:00",
+    "market_cap": "40310000",
+    "market_cap_display": "\u00a340.3m",
+    "ticker": "FIL"
   },
   "FIN.L": {
     "business_description": "Finseta Plc, a financial technology company, engages in the provision of multi-currency accounts to businesses and individuals in the United Kingdom and internationally. The company offers international payment,\u2026",
@@ -5407,6 +5459,19 @@
     "market_cap_display": "",
     "ticker": "HOME"
   },
+  "HREE.L": {
+    "business_description": "Harena Rare Earths Plc, a natural resources company, engages in the mining and processing of ionic clay materials to extract rare earth elements to produce mixed rare earth carbonates or concentrates. It develops the\u2026",
+    "company_name": "Harena Rare Earths Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HREE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T19:52:08.613885+00:00",
+    "market_cap": "20044406",
+    "market_cap_display": "\u00a320.0m",
+    "ticker": "HREE"
+  },
   "HSBA.L": {
     "business_description": "HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through four segments: Hong Kong, UK, Corporate and Institutional Banking, and International Wealth and\u2026",
     "company_name": "HSBC Holdings plc",
@@ -5636,9 +5701,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:48:57.381024+00:00",
-    "market_cap": "3112653312",
-    "market_cap_display": "\u00a33.11bn",
+    "last_updated": "2026-10-30T19:52:15.479226+00:00",
+    "market_cap": "3091970816",
+    "market_cap_display": "\u00a33.09bn",
     "ticker": "IGG"
   },
   "IGR.L": {
@@ -6676,9 +6741,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:49:00.993261+00:00",
-    "market_cap": "42211131392",
-    "market_cap_display": "\u00a342.21bn",
+    "last_updated": "2026-10-30T19:52:18.277970+00:00",
+    "market_cap": "45520207872",
+    "market_cap_display": "\u00a345.52bn",
     "ticker": "LSEG"
   },
   "LSL.L": {
@@ -7137,16 +7202,16 @@
     "ticker": "MNO"
   },
   "MNTL.L": {
-    "business_description": "Technology Minerals Plc operates as a mineral exploration company in Ireland, Spain, Cameroon, and the United States. It explores for cobalt, copper, lithium, nickel, manganese, and rare earth deposits. Technology\u2026",
-    "company_name": "Technology Minerals Plc",
+    "business_description": "Mantle Resilience Plc invests in and develops the UK's natural-resource supply chains. It also manufactures and builds the technological capabilities needed to underpin the defense, energy, and infrastructure sectors.\u2026",
+    "company_name": "Mantle Resilience Plc",
     "currency": "GBp",
     "data_source": "yfinance:MNTL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:38.461588+00:00",
-    "market_cap": "11845724",
-    "market_cap_display": "\u00a311.8m",
+    "last_updated": "2026-10-30T19:52:04.246306+00:00",
+    "market_cap": "8710092",
+    "market_cap_display": "\u00a38.7m",
     "ticker": "MNTL"
   },
   "MNTN.L": {
@@ -7651,9 +7716,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T06:47:23.507751+00:00",
-    "market_cap": "2673862",
-    "market_cap_display": "\u00a32.7m",
+    "last_updated": "2026-10-30T19:52:16.876075+00:00",
+    "market_cap": "3977448",
+    "market_cap_display": "\u00a34.0m",
     "ticker": "NTVO"
   },
   "NWG.L": {
@@ -8860,9 +8925,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:32.218461+00:00",
-    "market_cap": "25791706",
-    "market_cap_display": "\u00a325.8m",
+    "last_updated": "2026-10-30T19:52:02.939161+00:00",
+    "market_cap": "20734508",
+    "market_cap_display": "\u00a320.7m",
     "ticker": "RFG"
   },
   "RFX.L": {
@@ -9107,9 +9172,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:07.591703+00:00",
-    "market_cap": "3943451904",
-    "market_cap_display": "\u00a33.94bn",
+    "last_updated": "2026-10-30T19:52:12.008349+00:00",
+    "market_cap": "4023311616",
+    "market_cap_display": "\u00a34.02bn",
     "ticker": "ROR"
   },
   "ROSE.L": {
@@ -10017,9 +10082,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T18:51:14.915012+00:00",
-    "market_cap": "983467520",
-    "market_cap_display": "\u00a3983.5m",
+    "last_updated": "2026-10-30T19:52:11.332793+00:00",
+    "market_cap": "997488448",
+    "market_cap_display": "\u00a3997.5m",
     "ticker": "SPI"
   },
   "SPR.L": {
@@ -11218,6 +11283,19 @@
     "market_cap_display": "\u00a33.3m",
     "ticker": "UKR"
   },
+  "UKW.L": {
+    "business_description": "Greencoat UK Wind PLC specializes in renewables infrastructure investments in energy, wind generation assets and onshore and offshore wind farm projects with a capacity of over 10 megawatt. For offshore wind farms, the\u2026",
+    "company_name": "Greencoat Uk Wind Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:UKW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-10-30T19:52:17.538331+00:00",
+    "market_cap": "2566928896",
+    "market_cap_display": "\u00a32.57bn",
+    "ticker": "UKW"
+  },
   "ULTP.L": {
     "business_description": "Ultimate Products Plc, together with its subsidiaries, supplies branded household products in the United Kingdom, Rest of Europe, and internationally. The company offers a range of household products, including vacuum\u2026",
     "company_name": "Ultimate Products Plc",
@@ -11356,9 +11434,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-23T18:50:58.513041+00:00",
-    "market_cap": "198886160",
-    "market_cap_display": "\u00a3198.9m",
+    "last_updated": "2026-10-30T19:52:16.212781+00:00",
+    "market_cap": "192557952",
+    "market_cap_display": "\u00a3192.6m",
     "ticker": "UTL"
   },
   "VAL.L": {
@@ -11850,7 +11928,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-23T18:50:54.322814+00:00",
+    "last_updated": "2026-10-30T19:52:07.108512+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
