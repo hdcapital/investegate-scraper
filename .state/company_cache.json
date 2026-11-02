@@ -5031,16 +5031,16 @@
     "ticker": "GRI"
   },
   "GRID.L": {
-    "business_description": "",
-    "company_name": "Gresham House Energy Storage Ord",
+    "business_description": "Gresham House Energy Storage Fund plc is an infrastructure investment fund.",
+    "company_name": "Gresham House Energy Storage Fund plc",
     "currency": "GBp",
     "data_source": "yfinance:GRID.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:28.168294+00:00",
-    "market_cap": "550854080",
-    "market_cap_display": "\u00a3550.9m",
+    "last_updated": "2026-11-02T19:56:46.846907+00:00",
+    "market_cap": "581868032",
+    "market_cap_display": "\u00a3581.9m",
     "ticker": "GRID"
   },
   "GRP.L": {
