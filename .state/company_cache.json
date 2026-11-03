@@ -727,6 +727,19 @@
     "market_cap_display": "\u00a3987.6m",
     "ticker": "AGT"
   },
+  "AGY.L": {
+    "business_description": "Allergy Therapeutics plc, a commercial biotechnology company, focuses on the diagnosis and treatment of allergic disorders in Germany, Austria, United Kingdom, Netherlands, Switzerland, Italy, Spain, and\u2026",
+    "company_name": "Allergy Therapeutics plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AGY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-03T07:48:54.658263+00:00",
+    "market_cap": "221638528",
+    "market_cap_display": "\u00a3221.6m",
+    "ticker": "AGY"
+  },
   "AIC.L": {
     "business_description": "Achilles Investment Company Limited invests in the shares of closed-ended investment companies. The company was incorporated in 2025 and is based in St Peter Port, Guernsey.",
     "company_name": "Achilles Investment Company Limited",
@@ -11109,9 +11122,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:23.499090+00:00",
-    "market_cap": "50115108",
-    "market_cap_display": "\u00a350.1m",
+    "last_updated": "2026-11-03T07:48:53.908901+00:00",
+    "market_cap": "54695520",
+    "market_cap_display": "\u00a354.7m",
     "ticker": "TRU"
   },
   "TRUE.L": {
