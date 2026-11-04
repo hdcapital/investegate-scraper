@@ -3303,15 +3303,15 @@
   },
   "CYN.L": {
     "business_description": "",
-    "company_name": "City Natural Resources Grow & Inc PLC",
+    "company_name": "CQS Natural Resources Growth and Income plc",
     "currency": "GBp",
     "data_source": "yfinance:CYN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T19:49:35.925137+00:00",
-    "market_cap": "156539136",
-    "market_cap_display": "\u00a3156.5m",
+    "last_updated": "2026-11-04T19:50:53.480640+00:00",
+    "market_cap": "141042208",
+    "market_cap_display": "\u00a3141.0m",
     "ticker": "CYN"
   },
   "DAR.L": {
@@ -3777,9 +3777,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T19:49:46.688004+00:00",
-    "market_cap": "247629376",
-    "market_cap_display": "\u00a3247.6m",
+    "last_updated": "2026-11-04T19:50:52.811577+00:00",
+    "market_cap": "248445200",
+    "market_cap_display": "\u00a3248.4m",
     "ticker": "EGL"
   },
   "EGT.L": {
