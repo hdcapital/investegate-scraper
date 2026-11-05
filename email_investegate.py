@@ -9,6 +9,30 @@ from email.utils import formataddr
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
+# Investegate (from ~Nov 2026) serves the RNS inside a declarative shadow root:
+#   <div class="announcement-shadow-wrapper"><template shadowrootmode="open">...</template></div>
+# BeautifulSoup treats text inside <template> as TemplateString and skips it in
+# get_text()/p-tag scraping, so only Investegate's short AI-summary blurb was
+# read. Strip the template tags and read the announcement container directly.
+_TEMPLATE_TAG_RE = re.compile(r"(?i)</?template\b[^>]*>")
+
+
+def unwrap_templates(html_text):
+    return _TEMPLATE_TAG_RE.sub("", html_text or "")
+
+
+def announcement_text(soup, sep="\n"):
+    wrapper = soup.select_one(".announcement-shadow-wrapper")
+    if wrapper is not None:
+        for node in wrapper.find_all(["script", "style", "noscript", "svg", "img", "head", "title"]):
+            node.decompose()
+        text = wrapper.get_text(sep, strip=True)
+        if text:
+            return text
+    # Fallback: the pre-Nov-2026 page layout.
+    return sep.join(t.get_text(" ", strip=True) for t in soup.find_all(["p", "li"]))
+
+
 # ------------------------------------------------
 # CONFIG VIA ENV VARS
 # ------------------------------------------------
@@ -248,9 +272,8 @@ def fetch_article_text(url: str) -> str:
     try:
         r = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
         r.raise_for_status()
-        soup = BeautifulSoup(r.text, "lxml")
-        parts = [t.get_text(" ", strip=True) for t in soup.find_all(["p", "li"])]
-        text = " ".join(parts)
+        soup = BeautifulSoup(unwrap_templates(r.text), "lxml")
+        text = announcement_text(soup, " ")
         text = re.sub(r"\s{2,}", " ", text)
         return text[:12000]
     except Exception:

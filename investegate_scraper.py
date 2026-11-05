@@ -39,6 +39,29 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dtparse
 
+# Investegate (from ~Nov 2026) serves the RNS inside a declarative shadow root:
+#   <div class="announcement-shadow-wrapper"><template shadowrootmode="open">...</template></div>
+# BeautifulSoup treats text inside <template> as TemplateString and skips it in
+# get_text()/p-tag scraping, so only Investegate's short AI-summary blurb was
+# read. Strip the template tags and read the announcement container directly.
+_TEMPLATE_TAG_RE = re.compile(r"(?i)</?template\b[^>]*>")
+
+
+def unwrap_templates(html_text):
+    return _TEMPLATE_TAG_RE.sub("", html_text or "")
+
+
+def announcement_text(soup, sep="\n"):
+    wrapper = soup.select_one(".announcement-shadow-wrapper")
+    if wrapper is not None:
+        for node in wrapper.find_all(["script", "style", "noscript", "svg", "img", "head", "title"]):
+            node.decompose()
+        text = wrapper.get_text(sep, strip=True)
+        if text:
+            return text
+    # Fallback: the pre-Nov-2026 page layout.
+    return sep.join(t.get_text(" ", strip=True) for t in soup.find_all(["p", "li"]))
+
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120 Safari/537.36"
@@ -193,15 +216,17 @@ def parse_list_page(html_text: str):
 
 
 def parse_detail_page(html_text: str):
-    soup = BeautifulSoup(html_text, "lxml")
+    soup = BeautifulSoup(unwrap_templates(html_text), "lxml")
 
     title = soup.find("h1").get_text(strip=True) if soup.find("h1") else ""
-    parts = [t.get_text(" ", strip=True) for t in soup.find_all(["p", "li"])]
-    body = clean_text("\n".join(parts))
+    body = clean_text(announcement_text(soup))
 
     # Best-effort date extraction (Investegate pages usually contain a date string)
     dt_iso = None
-    match = re.search(r"\b\d{1,2}\s+\w+\s+\d{4}\b", soup.get_text(" ", strip=True))
+    # Prefer a date from the announcement itself; the page's AI summary often
+    # quotes settlement/admission dates that are not the publication date.
+    date_rx = r"\b\d{1,2}\s+\w+\s+\d{4}\b"
+    match = re.search(date_rx, body[:600]) or re.search(date_rx, soup.get_text(" ", strip=True))
     if match:
         try:
             dt_iso = dtparse.parse(match.group(0), dayfirst=True).isoformat()
