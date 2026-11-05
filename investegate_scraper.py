@@ -51,6 +51,10 @@ def unwrap_templates(html_text):
     return _TEMPLATE_TAG_RE.sub("", html_text or "")
 
 
+# How each page's body was found this run; read by body_health_problems().
+EXTRACTION_STATS = {"container": 0, "fallback": 0}
+
+
 def announcement_text(soup, sep="\n"):
     wrapper = soup.select_one(".announcement-shadow-wrapper")
     if wrapper is not None:
@@ -58,9 +62,47 @@ def announcement_text(soup, sep="\n"):
             node.decompose()
         text = wrapper.get_text(sep, strip=True)
         if text:
+            EXTRACTION_STATS["container"] += 1
             return text
     # Fallback: the pre-Nov-2026 page layout.
+    EXTRACTION_STATS["fallback"] += 1
     return sep.join(t.get_text(" ", strip=True) for t in soup.find_all(["p", "li"]))
+
+
+def body_health_problems(bodies, min_items=10):
+    """
+    Detect a silently broken scrape (e.g. Investegate changing its page layout).
+    Returns human-readable problems; empty list means healthy. Normal days have
+    a median body of ~5,000-6,500 chars and almost no identical bodies.
+    """
+    from collections import Counter
+    import statistics
+
+    bodies = [b or "" for b in bodies]
+    n = len(bodies)
+    if n < min_items:
+        return []
+    problems = []
+    fallback = EXTRACTION_STATS["fallback"]
+    total = fallback + EXTRACTION_STATS["container"]
+    if total and fallback / total > 0.5:
+        problems.append(
+            f"Investegate's announcement container was missing or empty on {fallback}/{total} pages "
+            f"- the page layout has probably changed"
+        )
+    top_text, top_count = Counter(bodies).most_common(1)[0]
+    if top_count >= 5 and top_count / n >= 0.2:
+        problems.append(
+            f"{top_count}/{n} announcement bodies are identical ({len(top_text)} chars) "
+            f"- the scraper is reading page furniture, not announcements"
+        )
+    median = statistics.median(len(b) for b in bodies)
+    if median < 1000:
+        problems.append(
+            f"median announcement body is only {int(median)} chars (normal is ~5,000+) "
+            f"- announcement text is not being extracted"
+        )
+    return problems
 
 
 DEFAULT_HEADERS = {
@@ -416,6 +458,7 @@ def run(pages: int,
             rows.extend(parse_list_page(html_text))
 
     results = []
+    bodies = []  # every new announcement body this run, for body_health_problems()
 
     for row in rows:
         url = row["href"]
@@ -430,6 +473,7 @@ def run(pages: int,
             continue
 
         title, body, dt_iso = parse_detail_page(html_text)
+        bodies.append(body or "")
         issuer_hint, ticker_hint, eodhd_symbol = parse_issuer_ticker_from_url(url)
 
         # Mark seen early so we don't refetch this same item next run,
@@ -510,6 +554,15 @@ def run(pages: int,
         w.writeheader()
         for r in sorted(results, key=lambda x: (x["score"], x["dt_iso"] or ""), reverse=True):
             w.writerow(r)
+
+    # Body-text health check. Problems are written next to the CSV so the email
+    # can show a warning banner and the workflow's final step can fail the run.
+    problems = body_health_problems(bodies)
+    (out_base / "body_health.txt").write_text("\n".join(problems), encoding="utf-8")
+    print(f"[DONE] Body health: {len(bodies)} new announcements, "
+          f"{EXTRACTION_STATS['container']} via container, {EXTRACTION_STATS['fallback']} via fallback")
+    for prob in problems:
+        print(f"::error title=Investegate body extraction looks broken::{prob}")
 
     print(f"[DONE] New matches: {len(results)} (duplicates & previously seen suppressed)")
     print(f"Seen history: {seen_path}")

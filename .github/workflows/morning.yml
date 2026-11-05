@@ -128,3 +128,16 @@ jobs:
         with:
           name: investegate-morning-out
           path: out/
+
+      - name: Fail run if announcement text looked broken
+        # Runs last so the email and state commit above are never blocked; a red
+        # run here means GitHub notifies you that body extraction needs a look.
+        if: always() && steps.london_time.outputs.should_run == 'true'
+        run: |
+          f="$(ls -td out/* 2>/dev/null | head -1)/body_health.txt"
+          if [ -s "$f" ]; then
+            echo "::error::Investegate body extraction looks broken:"
+            cat "$f"
+            exit 1
+          fi
+          echo "Body health OK"

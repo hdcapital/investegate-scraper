@@ -399,6 +399,18 @@ if new_rows:
     </div>
     """)
 
+    # Written by investegate_scraper.py when announcement text looks broken.
+    health_file = csv_path.parent / "body_health.txt"
+    health_problems = [l for l in (health_file.read_text(encoding="utf-8").splitlines() if health_file.exists() else []) if l.strip()]
+    if health_problems:
+        html_parts.append(
+            '<div style="margin:0 0 18px 0; padding:12px 14px; border:2px solid #c62828; background:#fdecea; color:#8e0000;">'
+            '<b>⚠ Scraper health warning – announcement text may not have been read.</b> '
+            'Keyword matching and summaries in this email may be based on headlines only.<ul style="margin:6px 0 0 18px; padding:0;">'
+            + "".join(f"<li>{esc(p)}</li>" for p in health_problems)
+            + "</ul></div>"
+        )
+
     html_parts.append('<ol style="padding-left:22px; margin-top:0;">')
 
     for r in new_rows:
