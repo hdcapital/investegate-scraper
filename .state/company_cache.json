@@ -12,6 +12,19 @@
     "market_cap_display": "",
     "ticker": "0A7N"
   },
+  "11XV.L": {
+    "business_description": "",
+    "company_name": "Stadshypotek AB (publ) 3.25% MTN 03/11/2026 SEK",
+    "currency": "SEK",
+    "data_source": "yfinance:11XV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-05T19:50:57.941055+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "11XV"
+  },
   "12WM.L": {
     "business_description": "",
     "company_name": "Barclays Bank PLC B008 FTSE YEAR 2 AUTOCALL E2",
@@ -150,7 +163,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T18:51:20.405628+00:00",
+    "last_updated": "2026-11-05T19:50:54.973090+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "3SMF"
@@ -878,9 +891,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:43.890142+00:00",
-    "market_cap": "128240528",
-    "market_cap_display": "\u00a3128.2m",
+    "last_updated": "2026-11-05T19:50:56.470234+00:00",
+    "market_cap": "134251808",
+    "market_cap_display": "\u00a3134.3m",
     "ticker": "ALL"
   },
   "ALRT.L": {
@@ -5545,9 +5558,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T18:50:51.955700+00:00",
-    "market_cap": "265286976",
-    "market_cap_display": "\u00a3265.3m",
+    "last_updated": "2026-11-05T19:50:54.242797+00:00",
+    "market_cap": "269585600",
+    "market_cap_display": "\u00a3269.6m",
     "ticker": "HSP"
   },
   "HTG.L": {
@@ -8782,9 +8795,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-20T06:48:40.050190+00:00",
-    "market_cap": "7497809",
-    "market_cap_display": "\u00a37.5m",
+    "last_updated": "2026-11-05T19:50:57.214121+00:00",
+    "market_cap": "8997371",
+    "market_cap_display": "\u00a39.0m",
     "ticker": "QHE"
   },
   "QTX.L": {
@@ -9354,9 +9367,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:49:58.780513+00:00",
-    "market_cap": "8595944",
-    "market_cap_display": "\u00a38.6m",
+    "last_updated": "2026-11-05T19:50:55.722252+00:00",
+    "market_cap": "7978555",
+    "market_cap_display": "\u00a38.0m",
     "ticker": "RVRB"
   },
   "RWS.L": {
@@ -10693,9 +10706,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:48:54.138407+00:00",
-    "market_cap": "8157209",
-    "market_cap_display": "\u00a38.2m",
+    "last_updated": "2026-11-05T19:50:52.771692+00:00",
+    "market_cap": "7054884",
+    "market_cap_display": "\u00a37.1m",
     "ticker": "TAVI"
   },
   "TBLD.L": {
@@ -12162,9 +12175,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T19:49:41.189190+00:00",
-    "market_cap": "12992065",
-    "market_cap_display": "\u00a313.0m",
+    "last_updated": "2026-11-05T19:50:53.510092+00:00",
+    "market_cap": "11428713",
+    "market_cap_display": "\u00a311.4m",
     "ticker": "ZIN"
   },
   "ZPHR.L": {
