@@ -1255,9 +1255,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:10.912538+00:00",
-    "market_cap": "514489536",
-    "market_cap_display": "\u00a3514.5m",
+    "last_updated": "2026-11-05T07:49:04.159646+00:00",
+    "market_cap": "504917632",
+    "market_cap_display": "\u00a3504.9m",
     "ticker": "ASC"
   },
   "ASHM.L": {
@@ -1454,6 +1454,19 @@
     "market_cap": "229745936",
     "market_cap_display": "\u00a3229.7m",
     "ticker": "AUSC"
+  },
+  "AUTO.L": {
+    "business_description": "Autotrader Group plc operates an automotive platform in the United Kingdom. The company operates through Autotrader and Autorama segments. It provides vehicle advertisement on its websites for private sellers, as well\u2026",
+    "company_name": "Autotrader Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AUTO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-05T07:49:06.190270+00:00",
+    "market_cap": "4339930624",
+    "market_cap_display": "\u00a34.34bn",
+    "ticker": "AUTO"
   },
   "AVAP.L": {
     "business_description": "Avation PLC, together with its subsidiaries, leases commercial passenger aircraft to airlines in Europe and the Asia-Pacific. The company's fleet includes 14 narrow-body jets, two twin-aisle jets, and 17 ATR 72\u2026",
@@ -2789,9 +2802,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T06:48:03.464643+00:00",
-    "market_cap": "348031424",
-    "market_cap_display": "\u00a3348.0m",
+    "last_updated": "2026-11-05T07:49:20.364040+00:00",
+    "market_cap": "292443104",
+    "market_cap_display": "\u00a3292.4m",
     "ticker": "CMCL"
   },
   "CMET.L": {
@@ -2919,9 +2932,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:49:56.584217+00:00",
-    "market_cap": "35063136",
-    "market_cap_display": "\u00a335.1m",
+    "last_updated": "2026-11-05T07:49:15.516081+00:00",
+    "market_cap": "36305924",
+    "market_cap_display": "\u00a336.3m",
     "ticker": "COBR"
   },
   "CODE.L": {
@@ -3452,9 +3465,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T18:50:16.901901+00:00",
-    "market_cap": "36244733952",
-    "market_cap_display": "\u00a336.24bn",
+    "last_updated": "2026-11-05T07:49:16.963058+00:00",
+    "market_cap": "40354091008",
+    "market_cap_display": "\u00a340.35bn",
     "ticker": "DGE"
   },
   "DGI9.L": {
@@ -4485,16 +4498,16 @@
     "ticker": "FORF"
   },
   "FORG.L": {
-    "business_description": "Forgent plc designs, develops and supplies proprietary advanced gasification technology to customers in the utility, industrial and waste management sectors in the Republic of Ireland, the United Kingdom, European\u2026",
+    "business_description": "Forgent plc, a critical and precious metals exploration company, engages in the acquisition, exploration, and development of gold, copper, nickel, and PGE projects in Western Australia. It holds a 99% interest in the\u2026",
     "company_name": "Forgent plc",
     "currency": "GBp",
     "data_source": "yfinance:FORG.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:37.576904+00:00",
-    "market_cap": "2446594",
-    "market_cap_display": "\u00a32.4m",
+    "last_updated": "2026-11-05T07:49:21.748484+00:00",
+    "market_cap": "5344095",
+    "market_cap_display": "\u00a35.3m",
     "ticker": "FORG"
   },
   "FOX.L": {
@@ -4518,9 +4531,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T18:50:18.601988+00:00",
-    "market_cap": "109416672",
-    "market_cap_display": "\u00a3109.4m",
+    "last_updated": "2026-11-05T07:49:17.640245+00:00",
+    "market_cap": "106341456",
+    "market_cap_display": "\u00a3106.3m",
     "ticker": "FOXT"
   },
   "FRAS.L": {
@@ -4687,9 +4700,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T18:50:13.184900+00:00",
-    "market_cap": "266313712",
-    "market_cap_display": "\u00a3266.3m",
+    "last_updated": "2026-11-05T07:49:14.177987+00:00",
+    "market_cap": "163406608",
+    "market_cap_display": "\u00a3163.4m",
     "ticker": "GAL"
   },
   "GAMA.L": {
@@ -5251,6 +5264,19 @@
     "market_cap_display": "",
     "ticker": "HAYD"
   },
+  "HBR.L": {
+    "business_description": "Harbour Energy plc, together with its subsidiaries, engages in the acquisition, exploration, development, and production of oil and gas reserves in Norway, the United Kingdom, Germany, Mexico, Argentina, North Africa,\u2026",
+    "company_name": "Harbour Energy plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HBR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-05T07:49:07.485675+00:00",
+    "market_cap": "4170716160",
+    "market_cap_display": "\u00a34.17bn",
+    "ticker": "HBR"
+  },
   "HCM.L": {
     "business_description": "HUTCHMED (China) Limited, together with its subsidiaries, discovers, develops, and commercializes targeted therapeutics and immunotherapies to treat cancer and immunological diseases in Hong Kong, the United States, and\u2026",
     "company_name": "HUTCHMED (China) Limited",
@@ -5343,16 +5369,16 @@
     "ticker": "HFG"
   },
   "HGT.L": {
-    "business_description": "Hg Capital Trust plc specializes in direct, quoted and unquoted companies and fund of funds investments. The funds maximum exposure to unlisted investments is 100% of the gross assets and single investment in an\u2026",
-    "company_name": "HgCapital Trust plc",
+    "business_description": "",
+    "company_name": "HgCapital Trust Ord",
     "currency": "GBp",
     "data_source": "yfinance:HGT.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T18:50:07.443598+00:00",
-    "market_cap": "1807447296",
-    "market_cap_display": "\u00a31.81bn",
+    "last_updated": "2026-11-05T07:49:18.281520+00:00",
+    "market_cap": "1789327488",
+    "market_cap_display": "\u00a31.79bn",
     "ticker": "HGT"
   },
   "HHI.L": {
@@ -5536,6 +5562,19 @@
     "market_cap": "615675904",
     "market_cap_display": "\u00a3615.7m",
     "ticker": "HTG"
+  },
+  "HTWS.L": {
+    "business_description": "Helios Towers plc, an independent tower company, acquires, builds, and operates telecommunications towers. It offers colocation lease-up, build-to-suit, sale and leaseback, in-building, small cells/outdoor distributed\u2026",
+    "company_name": "Helios Towers plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HTWS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-05T07:49:08.132547+00:00",
+    "market_cap": "2156426752",
+    "market_cap_display": "\u00a32.16bn",
+    "ticker": "HTWS"
   },
   "HUD.L": {
     "business_description": "Huddled Group Plc operates as an e-commerce retail company in the United Kingdom. The company sells primarily surplus stock under the Discount Dragon, Boop Beauty, and Nutricircle brand name. It also engages in the\u2026",
@@ -6585,9 +6624,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:44.115456+00:00",
-    "market_cap": "78626568",
-    "market_cap_display": "\u00a378.6m",
+    "last_updated": "2026-11-05T07:49:09.453618+00:00",
+    "market_cap": "87937616",
+    "market_cap_display": "\u00a387.9m",
     "ticker": "LDG"
   },
   "LEND.L": {
@@ -7066,9 +7105,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:37.601511+00:00",
-    "market_cap": "30201216",
-    "market_cap_display": "\u00a330.2m",
+    "last_updated": "2026-11-05T07:49:10.099379+00:00",
+    "market_cap": "25621264",
+    "market_cap_display": "\u00a325.6m",
     "ticker": "MFX"
   },
   "MGAM.L": {
@@ -7079,10 +7118,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:42.769183+00:00",
-    "market_cap": "656485120",
-    "market_cap_display": "\u00a3656.5m",
+    "last_updated": "2026-11-05T07:49:14.825146+00:00",
+    "market_cap": "715914304",
+    "market_cap_display": "\u00a3715.9m",
     "ticker": "MGAM"
+  },
+  "MGNS.L": {
+    "business_description": "Morgan Sindall Group plc operates as a construction and regeneration company in the United Kingdom. The company operates through six segments: Partnership Housing, Mixed Use Partnerships, Fit Out, Construction,\u2026",
+    "company_name": "Morgan Sindall Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MGNS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-05T07:49:12.818215+00:00",
+    "market_cap": "1963546752",
+    "market_cap_display": "\u00a31.96bn",
+    "ticker": "MGNS"
   },
   "MHPC.L": {
     "business_description": "MHP SE, together with its subsidiaries, engages in the poultry and related business in Ukraine and internationally. It operates through Poultry and Related Operations, Vegetable Oil Operations, Agricultural Operations,\u2026",
@@ -7183,9 +7235,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:45.816888+00:00",
-    "market_cap": "101552152",
-    "market_cap_display": "\u00a3101.6m",
+    "last_updated": "2026-11-05T07:49:16.320926+00:00",
+    "market_cap": "128651696",
+    "market_cap_display": "\u00a3128.7m",
     "ticker": "MKA"
   },
   "MNKS.L": {
@@ -7677,9 +7729,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T06:48:40.231913+00:00",
-    "market_cap": "57633513472",
-    "market_cap_display": "\u00a357.63bn",
+    "last_updated": "2026-11-05T07:49:04.875777+00:00",
+    "market_cap": "63591120896",
+    "market_cap_display": "\u00a363.59bn",
     "ticker": "NG"
   },
   "NICL.L": {
@@ -7781,9 +7833,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:36.978220+00:00",
-    "market_cap": "257294096",
-    "market_cap_display": "\u00a3257.3m",
+    "last_updated": "2026-11-05T07:49:21.005212+00:00",
+    "market_cap": "277841888",
+    "market_cap_display": "\u00a3277.8m",
     "ticker": "NXR"
   },
   "NZI.L": {
@@ -8548,9 +8600,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:16.680114+00:00",
-    "market_cap": "22091771904",
-    "market_cap_display": "\u00a322.09bn",
+    "last_updated": "2026-11-05T07:49:12.175993+00:00",
+    "market_cap": "23609954304",
+    "market_cap_display": "\u00a323.61bn",
     "ticker": "PRU"
   },
   "PRV.L": {
@@ -9215,6 +9267,19 @@
     "market_cap": "1223023232",
     "market_cap_display": "\u00a31.22bn",
     "ticker": "RPI"
+  },
+  "RS1.L": {
+    "business_description": "RS Group plc, together with its subsidiaries, engages in the distribution of maintenance, repair, and operations products and service solutions in the United Kingdom, the United States, France, Mexico, Germany, Italy,\u2026",
+    "company_name": "RS Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RS1.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-05T07:49:05.540243+00:00",
+    "market_cap": "3473818624",
+    "market_cap_display": "\u00a33.47bn",
+    "ticker": "RS1"
   },
   "RSE.L": {
     "business_description": "Riverstone Energy Limited is a private equity/ buyouts fund. The fund prefers to invest through buyout. It prefers to make investments in energy companies focusing decarbonization, midstream exploration, production,\u2026",
@@ -10035,6 +10100,19 @@
     "market_cap_display": "\u00a3687.6k",
     "ticker": "SORT"
   },
+  "SOS.L": {
+    "business_description": "Sosandar Plc engages in the manufacture and distribution of clothing products in the United Kingdom and internationally. It offers dresses, tops, knitwear, coats and jackets, suits and tailoring cloths, jumpsuits and\u2026",
+    "company_name": "Sosandar Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SOS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-05T07:49:11.524486+00:00",
+    "market_cap": "21487198",
+    "market_cap_display": "\u00a321.5m",
+    "ticker": "SOS"
+  },
   "SOU.L": {
     "business_description": "Sound Energy plc, through its subsidiaries, engages in the exploration, appraisal, and development of gas assets in Morocco. It operates through three segments: corporate; exploration and appraisal; and development and\u2026",
     "company_name": "Sound Energy plc",
@@ -10849,9 +10927,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T18:55:00.358444+00:00",
-    "market_cap": "53082220",
-    "market_cap_display": "\u00a353.1m",
+    "last_updated": "2026-11-05T07:49:06.843917+00:00",
+    "market_cap": "53999012",
+    "market_cap_display": "\u00a354.0m",
     "ticker": "TIME"
   },
   "TLW.L": {
@@ -11707,9 +11785,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:51.628874+00:00",
-    "market_cap": "811198208",
-    "market_cap_display": "\u00a3811.2m",
+    "last_updated": "2026-11-05T07:49:08.779216+00:00",
+    "market_cap": "921816192",
+    "market_cap_display": "\u00a3921.8m",
     "ticker": "VTY"
   },
   "VUL.L": {
@@ -11850,9 +11928,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:32.959317+00:00",
-    "market_cap": "4617128",
-    "market_cap_display": "\u00a34.6m",
+    "last_updated": "2026-11-05T07:49:19.724638+00:00",
+    "market_cap": "8368790",
+    "market_cap_display": "\u00a38.4m",
     "ticker": "WPHO"
   },
   "WPP.L": {
