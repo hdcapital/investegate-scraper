@@ -72,9 +72,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:05.241877+00:00",
-    "market_cap": "70984752",
-    "market_cap_display": "\u00a371.0m",
+    "last_updated": "2026-11-06T19:50:18.123989+00:00",
+    "market_cap": "75861560",
+    "market_cap_display": "\u00a375.9m",
     "ticker": "1SN"
   },
   "33WK.L": {
@@ -115,6 +115,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "38LO"
+  },
+  "3CNE.L": {
+    "business_description": "",
+    "company_name": "Leverage Shares 3x Long Coinbase (COIN) ETP Securities",
+    "currency": "EUR",
+    "data_source": "yfinance:3CNE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-06T19:50:17.466826+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "3CNE"
   },
   "3DIE.L": {
     "business_description": "",
@@ -3569,9 +3582,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T18:50:17.610074+00:00",
-    "market_cap": "19368042",
-    "market_cap_display": "\u00a319.4m",
+    "last_updated": "2026-11-06T19:50:12.725920+00:00",
+    "market_cap": "19818462",
+    "market_cap_display": "\u00a319.8m",
     "ticker": "DNM"
   },
   "DOCS.L": {
@@ -4947,9 +4960,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:49:57.317937+00:00",
-    "market_cap": "3068387328",
-    "market_cap_display": "\u00a33.07bn",
+    "last_updated": "2026-11-06T19:50:20.914699+00:00",
+    "market_cap": "3643203840",
+    "market_cap_display": "\u00a33.64bn",
     "ticker": "GGP"
   },
   "GHH.L": {
@@ -6780,9 +6793,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:31.263587+00:00",
-    "market_cap": "6887613",
-    "market_cap_display": "\u00a36.9m",
+    "last_updated": "2026-11-06T19:50:13.408009+00:00",
+    "market_cap": "5956854",
+    "market_cap_display": "\u00a36.0m",
     "ticker": "LND"
   },
   "LORD.L": {
@@ -6914,6 +6927,19 @@
     "market_cap": "11613243",
     "market_cap_display": "\u00a311.6m",
     "ticker": "MAI"
+  },
+  "MAJE.L": {
+    "business_description": "",
+    "company_name": "Majedie Investments Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MAJE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-06T19:50:16.105801+00:00",
+    "market_cap": "182580864",
+    "market_cap_display": "\u00a3182.6m",
+    "ticker": "MAJE"
   },
   "MANO.L": {
     "business_description": "Manolete Partners Plc operates as an insolvency litigation financing company in the United Kingdom. It is involved in the acquisition and funding of insolvency litigation cases. Manolete Partners Plc was founded in 2009\u2026",
@@ -7174,6 +7200,19 @@
     "market_cap": "1963546752",
     "market_cap_display": "\u00a31.96bn",
     "ticker": "MGNS"
+  },
+  "MHID.L": {
+    "business_description": "Mahindra & Mahindra Limited provides mobility products and farm solutions in India and internationally. It operates through Automotive; Farm Equipment; Auto Investments; Farm Investments; and Investments in Industrial\u2026",
+    "company_name": "Mahindra & Mahindra Limited",
+    "currency": "USD",
+    "data_source": "yfinance:MHID.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-06T19:50:16.770867+00:00",
+    "market_cap": "17407090688",
+    "market_cap_display": "$17.41bn",
+    "ticker": "MHID"
   },
   "MHPC.L": {
     "business_description": "MHP SE, together with its subsidiaries, engages in the poultry and related business in Ukraine and internationally. It operates through Poultry and Related Operations, Vegetable Oil Operations, Agricultural Operations,\u2026",
@@ -7807,9 +7846,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-29T19:49:56.196578+00:00",
-    "market_cap": "1030938",
-    "market_cap_display": "\u00a31.0m",
+    "last_updated": "2026-11-06T19:50:14.095043+00:00",
+    "market_cap": "907225",
+    "market_cap_display": "\u00a3907.2k",
     "ticker": "NOG"
   },
   "NTVO.L": {
@@ -10862,9 +10901,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T18:51:07.584300+00:00",
-    "market_cap": "730807104",
-    "market_cap_display": "\u00a3730.8m",
+    "last_updated": "2026-11-06T19:50:18.795190+00:00",
+    "market_cap": "677426368",
+    "market_cap_display": "\u00a3677.4m",
     "ticker": "TGA"
   },
   "TGR.L": {
@@ -11135,9 +11174,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T19:51:02.607870+00:00",
-    "market_cap": "215451808",
-    "market_cap_display": "\u00a3215.5m",
+    "last_updated": "2026-11-06T19:50:15.449378+00:00",
+    "market_cap": "214379904",
+    "market_cap_display": "\u00a3214.4m",
     "ticker": "TRB"
   },
   "TRCS.L": {
