@@ -1632,9 +1632,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:38.711842+00:00",
-    "market_cap": "176328320",
-    "market_cap_display": "\u00a3176.3m",
+    "last_updated": "2026-11-06T07:48:16.823831+00:00",
+    "market_cap": "182635536",
+    "market_cap_display": "\u00a3182.6m",
     "ticker": "BASC"
   },
   "BAY.L": {
@@ -1853,9 +1853,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:37.674406+00:00",
-    "market_cap": "58484520",
-    "market_cap_display": "\u00a358.5m",
+    "last_updated": "2026-11-06T07:48:21.878450+00:00",
+    "market_cap": "52700340",
+    "market_cap_display": "\u00a352.7m",
     "ticker": "BILN"
   },
   "BKG.L": {
@@ -2191,9 +2191,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:43.464380+00:00",
-    "market_cap": "142071440",
-    "market_cap_display": "\u00a3142.1m",
+    "last_updated": "2026-11-06T07:48:18.980471+00:00",
+    "market_cap": "123687208",
+    "market_cap_display": "\u00a3123.7m",
     "ticker": "BSRT"
   },
   "BSV.L": {
@@ -3821,6 +3821,19 @@
     "market_cap_display": "\u00a335.1m",
     "ticker": "EGT"
   },
+  "EGY.L": {
+    "business_description": "VAALCO Energy, Inc., an independent energy company, engages in the acquisition, exploration, development, and production of crude oil, natural gas, and natural gas liquids in Gabon, Egypt, Equatorial Guinea, Cote\u2026",
+    "company_name": "VAALCO Energy, Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:EGY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-06T07:48:17.544592+00:00",
+    "market_cap": "441805440",
+    "market_cap_display": "\u00a3441.8m",
+    "ticker": "EGY"
+  },
   "EJFI.L": {
     "business_description": "EJF Investments Limited is a principal investment firm. The firm seeks to invest in financial services sector with a focus in structured debt and equity, loans, bonds, preference shares, convertible notes and private\u2026",
     "company_name": "EJF Investments Limited",
@@ -4258,7 +4271,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:49:09.688211+00:00",
+    "last_updated": "2026-11-06T07:48:24.040192+00:00",
     "market_cap": "7196520",
     "market_cap_display": "\u00a37.2m",
     "ticker": "FAB"
@@ -4314,6 +4327,19 @@
     "market_cap": "651072320",
     "market_cap_display": "\u00a3651.1m",
     "ticker": "FCH"
+  },
+  "FDBK.L": {
+    "business_description": "Feedback plc provides software and systems to those working in the field of medical imaging. The company's products include Bleepa, an image-based communication platform for frontline clinicians; CareLocker, a\u2026",
+    "company_name": "Feedback plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FDBK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-06T07:48:11.751817+00:00",
+    "market_cap": "2103109",
+    "market_cap_display": "\u00a32.1m",
+    "ticker": "FDBK"
   },
   "FDEV.L": {
     "business_description": "Frontier Developments plc develops and publishes video games for the interactive entertainment sector. It develops games using its cross-platform technology, Cobra. The company was incorporated in 1994 and is\u2026",
@@ -4414,9 +4440,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:00.339212+00:00",
-    "market_cap": "4754222",
-    "market_cap_display": "\u00a34.8m",
+    "last_updated": "2026-11-06T07:48:13.920423+00:00",
+    "market_cap": "4402057",
+    "market_cap_display": "\u00a34.4m",
     "ticker": "FIN"
   },
   "FKE.L": {
@@ -4687,9 +4713,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:30.551507+00:00",
-    "market_cap": "64071408",
-    "market_cap_display": "\u00a364.1m",
+    "last_updated": "2026-11-06T07:48:23.320892+00:00",
+    "market_cap": "61678700",
+    "market_cap_display": "\u00a361.7m",
     "ticker": "GABI"
   },
   "GAID.L": {
@@ -4791,9 +4817,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:37.289739+00:00",
-    "market_cap": "4210377",
-    "market_cap_display": "\u00a34.2m",
+    "last_updated": "2026-11-06T07:48:18.262429+00:00",
+    "market_cap": "4811859",
+    "market_cap_display": "\u00a34.8m",
     "ticker": "GEMR"
   },
   "GENF.L": {
@@ -4940,16 +4966,16 @@
     "ticker": "GHH"
   },
   "GLE.L": {
-    "business_description": "MJ Gleeson plc engages in house building, and land promotion and sale businesses in the United Kingdom. The company operates through two divisions, Gleeson Homes and Gleeson Land. It builds homes in the North of England\u2026",
+    "business_description": "MJ Gleeson plc engages in house building, and land promotion and sale businesses in the United Kingdom. The company operates through two segments, Gleeson Homes and Gleeson Land. It builds homes in the North of England\u2026",
     "company_name": "MJ Gleeson plc",
     "currency": "GBp",
     "data_source": "yfinance:GLE.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T06:48:41.722516+00:00",
-    "market_cap": "168007904",
-    "market_cap_display": "\u00a3168.0m",
+    "last_updated": "2026-11-06T07:48:21.141744+00:00",
+    "market_cap": "161299264",
+    "market_cap_display": "\u00a3161.3m",
     "ticker": "GLE"
   },
   "GLR.L": {
@@ -5532,9 +5558,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:38.688685+00:00",
-    "market_cap": "233482649600",
-    "market_cap_display": "\u00a3233.48bn",
+    "last_updated": "2026-11-06T07:48:13.195238+00:00",
+    "market_cap": "223550439424",
+    "market_cap_display": "\u00a3223.55bn",
     "ticker": "HSBA"
   },
   "HSD.L": {
@@ -6325,9 +6351,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:37.996155+00:00",
-    "market_cap": "199326912",
-    "market_cap_display": "\u00a3199.3m",
+    "last_updated": "2026-11-06T07:48:14.640262+00:00",
+    "market_cap": "195369680",
+    "market_cap_display": "\u00a3195.4m",
     "ticker": "JUSC"
   },
   "KAP.L": {
@@ -6767,9 +6793,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:05.612738+00:00",
-    "market_cap": "22859572",
-    "market_cap_display": "\u00a322.9m",
+    "last_updated": "2026-11-06T07:48:19.699290+00:00",
+    "market_cap": "19118764",
+    "market_cap_display": "\u00a319.1m",
     "ticker": "LORD"
   },
   "LPA.L": {
@@ -8951,9 +8977,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:52.890245+00:00",
-    "market_cap": "83967520",
-    "market_cap_display": "\u00a384.0m",
+    "last_updated": "2026-11-06T07:48:16.096659+00:00",
+    "market_cap": "91387904",
+    "market_cap_display": "\u00a391.4m",
     "ticker": "REC"
   },
   "RENX.L": {
@@ -9978,10 +10004,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:40.933874+00:00",
-    "market_cap": "146576352",
-    "market_cap_display": "\u00a3146.6m",
+    "last_updated": "2026-11-06T07:48:20.419751+00:00",
+    "market_cap": "137752528",
+    "market_cap_display": "\u00a3137.8m",
     "ticker": "SML"
+  },
+  "SMT.L": {
+    "business_description": "",
+    "company_name": "Scottish Mortgage Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:SMT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-06T07:48:15.376334+00:00",
+    "market_cap": "14808227840",
+    "market_cap_display": "\u00a314.81bn",
+    "ticker": "SMT"
   },
   "SMWH.L": {
     "business_description": "WH Smith PLC operates as a travel retailer in the United Kingdom, North America, Australia, Ireland, Spain, and internationally. It offers news, books, and convenience for travelling customers. It operates stores in\u2026",
@@ -10602,9 +10641,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:56.559332+00:00",
-    "market_cap": "743223296",
-    "market_cap_display": "\u00a3743.2m",
+    "last_updated": "2026-11-06T07:48:22.602094+00:00",
+    "market_cap": "731059264",
+    "market_cap_display": "\u00a3731.1m",
     "ticker": "SYNC"
   },
   "SYNT.L": {
@@ -11867,6 +11906,19 @@
     "market_cap": "227735824",
     "market_cap_display": "\u00a3227.7m",
     "ticker": "WIL"
+  },
+  "WINE.L": {
+    "business_description": "Naked Wines plc, together with its subsidiaries, engages in the direct-to-consumer online retailing of wines in Australia, the United Kingdom, and the United States. It sells its products to wine drinkers through\u2026",
+    "company_name": "Naked Wines plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WINE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-06T07:48:12.468539+00:00",
+    "market_cap": "41659844",
+    "market_cap_display": "\u00a341.7m",
+    "ticker": "WINE"
   },
   "WINK.L": {
     "business_description": "M Winkworth PLC operates as a franchisor to the Winkworth estate agencies in the United Kingdom. The company offers estate agency sales franchising, residential letting, and property management, and other business\u2026",
