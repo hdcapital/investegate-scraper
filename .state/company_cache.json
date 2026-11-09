@@ -709,9 +709,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:33.319290+00:00",
-    "market_cap": "165656448",
-    "market_cap_display": "\u00a3165.7m",
+    "last_updated": "2026-11-09T07:49:48.808281+00:00",
+    "market_cap": "159944144",
+    "market_cap_display": "\u00a3159.9m",
     "ticker": "AEWU"
   },
   "AEX.L": {
@@ -943,9 +943,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:49:53.606353+00:00",
-    "market_cap": "4843800064",
-    "market_cap_display": "\u00a34.84bn",
+    "last_updated": "2026-11-09T07:49:55.298344+00:00",
+    "market_cap": "5243400192",
+    "market_cap_display": "\u00a35.24bn",
     "ticker": "AMC"
   },
   "AMCO.L": {
@@ -1411,9 +1411,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:49:02.898364+00:00",
-    "market_cap": "4504550",
-    "market_cap_display": "\u00a34.5m",
+    "last_updated": "2026-11-09T07:49:52.412945+00:00",
+    "market_cap": "4045675",
+    "market_cap_display": "\u00a34.0m",
     "ticker": "ATN"
   },
   "ATOM.L": {
@@ -2339,6 +2339,19 @@
     "market_cap_display": "\u00a32.21bn",
     "ticker": "BWY"
   },
+  "BXP.L": {
+    "business_description": "Beximco Pharmaceuticals PLC. manufactures and markets generic pharmaceutical formulations and active pharmaceutical ingredients in Bangladesh and internationally. The company provides allergic disorder, analgesics and\u2026",
+    "company_name": "Beximco Pharmaceuticals PLC.",
+    "currency": "GBp",
+    "data_source": "yfinance:BXP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-09T07:49:46.641033+00:00",
+    "market_cap": "267667248",
+    "market_cap_display": "\u00a3267.7m",
+    "ticker": "BXP"
+  },
   "BYG.L": {
     "business_description": "Big Yellow Group Plc is the UK's brand leader in self-storage and operates from a platform of 115 stores. We have a pipeline of 0.8 million sq ft comprising 10 proposed self-storage facilities. The current maximum\u2026",
     "company_name": "Big Yellow Group Plc",
@@ -2919,9 +2932,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T18:50:21.046132+00:00",
-    "market_cap": "293203072",
-    "market_cap_display": "\u00a3293.2m",
+    "last_updated": "2026-11-09T07:49:56.017541+00:00",
+    "market_cap": "287023136",
+    "market_cap_display": "\u00a3287.0m",
     "ticker": "CNE"
   },
   "CNS.L": {
@@ -3764,9 +3777,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:25.649786+00:00",
-    "market_cap": "5545691",
-    "market_cap_display": "\u00a35.5m",
+    "last_updated": "2026-11-09T07:49:45.920342+00:00",
+    "market_cap": "5340294",
+    "market_cap_display": "\u00a35.3m",
     "ticker": "ECR"
   },
   "EDEN.L": {
@@ -4011,9 +4024,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:03.110928+00:00",
-    "market_cap": "13564253",
-    "market_cap_display": "\u00a313.6m",
+    "last_updated": "2026-11-09T07:49:53.855880+00:00",
+    "market_cap": "12026039",
+    "market_cap_display": "\u00a312.0m",
     "ticker": "EMVC"
   },
   "ENET.L": {
@@ -4544,7 +4557,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:29.217195+00:00",
+    "last_updated": "2026-11-09T07:49:50.972660+00:00",
     "market_cap": "2662098",
     "market_cap_display": "\u00a32.7m",
     "ticker": "FORF"
@@ -5550,6 +5563,19 @@
     "market_cap_display": "",
     "ticker": "HOME"
   },
+  "HPOW.L": {
+    "business_description": "H-Power plc engages in the development of ammonia-based low carbon hydrogen production and hydrogen-to-power solutions in the United Kingdom. It operates through Sales of fuel cell generators and Rental segments. The\u2026",
+    "company_name": "H-Power plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HPOW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-09T07:49:47.366098+00:00",
+    "market_cap": "85075064",
+    "market_cap_display": "\u00a385.1m",
+    "ticker": "HPOW"
+  },
   "HREE.L": {
     "business_description": "Harena Rare Earths Plc, a natural resources company, engages in the mining and processing of ionic clay materials to extract rare earth elements to produce mixed rare earth carbonates or concentrates. It develops the\u2026",
     "company_name": "Harena Rare Earths Plc",
@@ -5857,9 +5883,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-29T07:48:22.814786+00:00",
-    "market_cap": "6819302400",
-    "market_cap_display": "\u00a36.82bn",
+    "last_updated": "2026-11-09T07:49:53.132117+00:00",
+    "market_cap": "6533436416",
+    "market_cap_display": "\u00a36.53bn",
     "ticker": "IMI"
   },
   "IMM.L": {
@@ -6533,9 +6559,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-18T06:48:09.917607+00:00",
-    "market_cap": "1121242496",
-    "market_cap_display": "\u00a31.12bn",
+    "last_updated": "2026-11-09T07:49:41.543550+00:00",
+    "market_cap": "1419211264",
+    "market_cap_display": "\u00a31.42bn",
     "ticker": "KNOS"
   },
   "KOD.L": {
@@ -6618,13 +6644,13 @@
   },
   "KRS.L": {
     "business_description": "Keras Resources Plc operates as a mining and exploration company. The company intends to acquire a 51% interest in a contiguous land package for copper mining and exploration, which covers an area of 6,214 hectares\u2026",
-    "company_name": "Keras Resources Plc",
+    "company_name": "Keras Resources PLC",
     "currency": "GBp",
     "data_source": "yfinance:KRS.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T18:51:16.120689+00:00",
+    "last_updated": "2026-11-09T07:49:42.988705+00:00",
     "market_cap": "2902151",
     "market_cap_display": "\u00a32.9m",
     "ticker": "KRS"
@@ -7339,9 +7365,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T19:49:45.159978+00:00",
-    "market_cap": "480492224",
-    "market_cap_display": "\u00a3480.5m",
+    "last_updated": "2026-11-09T07:49:50.249278+00:00",
+    "market_cap": "421039840",
+    "market_cap_display": "\u00a3421.0m",
     "ticker": "MNO"
   },
   "MNTL.L": {
@@ -7603,6 +7629,19 @@
     "market_cap": "79714136",
     "market_cap_display": "\u00a379.7m",
     "ticker": "MVI"
+  },
+  "MWE.L": {
+    "business_description": "M.T.I Wireless Edge Ltd. designs, develops, manufactures, and markets antennas for the military and civilian sectors in Israel, the United States, Europe, the Middle East, Africa, and the Asia Pacific. The Antennas\u2026",
+    "company_name": "M.T.I Wireless Edge Ltd.",
+    "currency": "GBp",
+    "data_source": "yfinance:MWE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-09T07:49:42.265529+00:00",
+    "market_cap": "53028824",
+    "market_cap_display": "\u00a353.0m",
+    "ticker": "MWE"
   },
   "MYSE.L": {
     "business_description": "",
@@ -8176,6 +8215,19 @@
     "market_cap_display": "\u00a321.9m",
     "ticker": "PALM"
   },
+  "PAM.L": {
+    "business_description": "Potter & Moore Plc, together with its subsidiaries, develops, manufactures, and markets personal care, beauty care, and fragrance products in the United Kingdom and internationally. The company offers haircare products,\u2026",
+    "company_name": "Potter & Moore Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PAM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-09T07:49:54.573814+00:00",
+    "market_cap": "14562056",
+    "market_cap_display": "\u00a314.6m",
+    "ticker": "PAM"
+  },
   "PANR.L": {
     "business_description": "Pantheon Resources Plc, through its subsidiaries, engages in the exploration, appraisal, development, investment, and production of oil and gas in the United States. Its primary assets are the Ahpun project located in\u2026",
     "company_name": "Pantheon Resources Plc",
@@ -8561,9 +8613,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:36.619079+00:00",
-    "market_cap": "2385086",
-    "market_cap_display": "\u00a32.4m",
+    "last_updated": "2026-11-09T07:49:45.142041+00:00",
+    "market_cap": "2086950",
+    "market_cap_display": "\u00a32.1m",
     "ticker": "PR1"
   },
   "PRD.L": {
@@ -9770,9 +9822,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T18:50:19.537247+00:00",
-    "market_cap": "201583200",
-    "market_cap_display": "\u00a3201.6m",
+    "last_updated": "2026-11-09T07:49:51.694507+00:00",
+    "market_cap": "180224976",
+    "market_cap_display": "\u00a3180.2m",
     "ticker": "SEE"
   },
   "SEED.L": {
@@ -10333,6 +10385,19 @@
     "market_cap": "1668727",
     "market_cap_display": "\u00a31.7m",
     "ticker": "SRES"
+  },
+  "SRT.L": {
+    "business_description": "SRT Marine Systems plc, together with its subsidiaries, develops and supplies automatic identification system (AIS) based maritime domain awareness technologies, products, and systems. It offers Digital AtoN Systems\u2026",
+    "company_name": "SRT Marine Systems plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SRT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-09T07:49:43.705267+00:00",
+    "market_cap": "187013312",
+    "market_cap_display": "\u00a3187.0m",
+    "ticker": "SRT"
   },
   "SSE.L": {
     "business_description": "SSE plc engages in the generation, transmission, distribution, and supply of electricity. The company distributes electricity to approximately 4 million homes and businesses in southern central England and the north of\u2026",
@@ -10906,6 +10971,19 @@
     "market_cap_display": "\u00a3677.4m",
     "ticker": "TGA"
   },
+  "TGP.L": {
+    "business_description": "Tekmar Group plc, together with its subsidiaries, designs, manufactures, and supplies subsea stability and protection technology to offshore energy markets. The company offers subsea cable, and umbilical and flexible\u2026",
+    "company_name": "Tekmar Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TGP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-09T07:49:49.527670+00:00",
+    "market_cap": "16775542",
+    "market_cap_display": "\u00a316.8m",
+    "ticker": "TGP"
+  },
   "TGR.L": {
     "business_description": "Total Graphite plc, together with its subsidiaries, engages in the development and operation of graphite mines in Madagascar and Mozambique. It holds interests in the Vatomina and Sahamamy flake graphite mining\u2026",
     "company_name": "Total Graphite plc",
@@ -10979,9 +11057,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:47.272326+00:00",
-    "market_cap": "367400064",
-    "market_cap_display": "\u00a3367.4m",
+    "last_updated": "2026-11-09T07:49:48.087534+00:00",
+    "market_cap": "305179072",
+    "market_cap_display": "\u00a3305.2m",
     "ticker": "THS"
   },
   "TIA.L": {
