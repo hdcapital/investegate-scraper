@@ -579,9 +579,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:11.347899+00:00",
-    "market_cap": "99444016",
-    "market_cap_display": "\u00a399.4m",
+    "last_updated": "2026-11-09T19:51:40.311855+00:00",
+    "market_cap": "101711472",
+    "market_cap_display": "\u00a3101.7m",
     "ticker": "ACSO"
   },
   "ADF.L": {
@@ -2685,9 +2685,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:31.683702+00:00",
-    "market_cap": "2313331",
-    "market_cap_display": "\u00a32.3m",
+    "last_updated": "2026-11-09T19:51:48.577356+00:00",
+    "market_cap": "2533648",
+    "market_cap_display": "\u00a32.5m",
     "ticker": "CHP"
   },
   "CHRY.L": {
@@ -3250,16 +3250,16 @@
     "ticker": "CTG"
   },
   "CTHT.L": {
-    "business_description": "CT Healthcare Trust PLC is a closed ended equity mutual fund launched by Bellevue Asset Management AG. The fund is managed by Bellevue Advisors Limited. It invests in public equity markets across the globe. The fund\u2026",
-    "company_name": "CT Healthcare Trust PLC",
+    "business_description": "",
+    "company_name": "CT Healthcare Trust plc",
     "currency": "GBp",
     "data_source": "yfinance:CTHT.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T18:50:04.856452+00:00",
-    "market_cap": "63613132",
-    "market_cap_display": "\u00a363.6m",
+    "last_updated": "2026-11-09T19:51:37.991216+00:00",
+    "market_cap": "51894328",
+    "market_cap_display": "\u00a351.9m",
     "ticker": "CTHT"
   },
   "CTL.L": {
@@ -4076,9 +4076,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:43.779046+00:00",
-    "market_cap": "274687584",
-    "market_cap_display": "\u00a3274.7m",
+    "last_updated": "2026-11-09T19:51:39.511049+00:00",
+    "market_cap": "248168752",
+    "market_cap_display": "\u00a3248.2m",
     "ticker": "ENRG"
   },
   "ENSI.L": {
@@ -8269,15 +8269,15 @@
   },
   "PCGH.L": {
     "business_description": "",
-    "company_name": "Polar Capital Global Healthcare Trust plc",
+    "company_name": "Polar Capital Glb Healthcare Ord",
     "currency": "GBp",
     "data_source": "yfinance:PCGH.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T18:51:08.997777+00:00",
-    "market_cap": "483949600",
-    "market_cap_display": "\u00a3483.9m",
+    "last_updated": "2026-11-09T19:51:50.202467+00:00",
+    "market_cap": "498189216",
+    "market_cap_display": "\u00a3498.2m",
     "ticker": "PCGH"
   },
   "PCTN.L": {
@@ -9120,9 +9120,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:02.939161+00:00",
-    "market_cap": "20734508",
-    "market_cap_display": "\u00a320.7m",
+    "last_updated": "2026-11-09T19:51:49.261984+00:00",
+    "market_cap": "10620114",
+    "market_cap_display": "\u00a310.6m",
     "ticker": "RFG"
   },
   "RFX.L": {
@@ -9475,6 +9475,19 @@
     "market_cap": "7918607360",
     "market_cap_display": "\u00a37.92bn",
     "ticker": "RTO"
+  },
+  "RUA.L": {
+    "business_description": "RUA Life Sciences plc, together with its subsidiaries, develops medical devices in Europe, North America, the Middle East, the Asia Pacific, and Africa. It operates through four segments: Biomaterials, Contract\u2026",
+    "company_name": "RUA Life Sciences plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RUA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-09T19:51:38.746161+00:00",
+    "market_cap": "14273862",
+    "market_cap_display": "\u00a314.3m",
+    "ticker": "RUA"
   },
   "RVRB.L": {
     "business_description": "River Global Plc engages in acquiring, managing, operating asset and wealth management activities and interests, and other related services in the United Kingdom. It also offers investment management services. The\u2026",
@@ -11688,15 +11701,15 @@
   },
   "UTL.L": {
     "business_description": "UIL Limited is a closed-ended equity mutual fund launched and managed by ICM Limited. The fund invests in public equity markets across the globe. It seeks to invest in stocks of companies operating in the\u2026",
-    "company_name": "UIL Limited",
+    "company_name": "UIL Ord",
     "currency": "GBp",
     "data_source": "yfinance:UTL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:16.212781+00:00",
-    "market_cap": "192557952",
-    "market_cap_display": "\u00a3192.6m",
+    "last_updated": "2026-11-09T19:51:50.984205+00:00",
+    "market_cap": "193461984",
+    "market_cap_display": "\u00a3193.5m",
     "ticker": "UTL"
   },
   "VAL.L": {
@@ -12162,9 +12175,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:35.130599+00:00",
-    "market_cap": "4195252736",
-    "market_cap_display": "\u00a34.20bn",
+    "last_updated": "2026-11-09T19:51:51.735238+00:00",
+    "market_cap": "4629172736",
+    "market_cap_display": "\u00a34.63bn",
     "ticker": "WTB"
   },
   "WVIA.L": {
@@ -12201,7 +12214,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:07.108512+00:00",
+    "last_updated": "2026-11-09T19:51:37.284926+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
