@@ -345,9 +345,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:11.413184+00:00",
-    "market_cap": "56109044",
-    "market_cap_display": "\u00a356.1m",
+    "last_updated": "2026-11-10T19:52:20.739898+00:00",
+    "market_cap": "53951008",
+    "market_cap_display": "\u00a354.0m",
     "ticker": "80M"
   },
   "83NF.L": {
@@ -3907,9 +3907,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T19:49:30.272661+00:00",
-    "market_cap": "192420768",
-    "market_cap_display": "\u00a3192.4m",
+    "last_updated": "2026-11-10T19:52:19.064492+00:00",
+    "market_cap": "192838144",
+    "market_cap_display": "\u00a3192.8m",
     "ticker": "ELCO"
   },
   "ELEG.L": {
@@ -4245,9 +4245,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T18:49:16.161464+00:00",
-    "market_cap": "930428736",
-    "market_cap_display": "\u00a3930.4m",
+    "last_updated": "2026-11-10T19:52:21.549148+00:00",
+    "market_cap": "892381440",
+    "market_cap_display": "\u00a3892.4m",
     "ticker": "EWI"
   },
   "EXPN.L": {
@@ -5740,9 +5740,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T19:51:06.128067+00:00",
-    "market_cap": "604207616",
-    "market_cap_display": "\u00a3604.2m",
+    "last_updated": "2026-11-10T19:52:23.201779+00:00",
+    "market_cap": "660412160",
+    "market_cap_display": "\u00a3660.4m",
     "ticker": "HWG"
   },
   "ICFG.L": {
@@ -6169,9 +6169,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T18:53:39.194431+00:00",
-    "market_cap": "18294611968",
-    "market_cap_display": "$18.29bn",
+    "last_updated": "2026-11-10T19:52:19.920640+00:00",
+    "market_cap": "18276519936",
+    "market_cap_display": "$18.28bn",
     "ticker": "JAR"
   },
   "JARE.L": {
@@ -7902,6 +7902,19 @@
     "market_cap": "277771744",
     "market_cap_display": "\u00a3277.8m",
     "ticker": "NIOX"
+  },
+  "NLB.L": {
+    "business_description": "Nova Ljubljanska Banka d.d., together with its subsidiaries, provides various banking services for retail and corporate clients in Slovenia, South East Europe, and Western Europe. It operates through Retail Banking in\u2026",
+    "company_name": "Nova Ljubljanska Banka d.d.",
+    "currency": "EUR",
+    "data_source": "yfinance:NLB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T19:52:22.377665+00:00",
+    "market_cap": "1132409984",
+    "market_cap_display": "\u20ac1.13bn",
+    "ticker": "NLB"
   },
   "NOG.L": {
     "business_description": "Nostrum Oil & Gas PLC, together with its subsidiaries, operates as a mixed-asset energy company in the United Kingdom and internationally. Its product portfolio comprises crude oil, stabilized condensate, LPG, and dry\u2026",
@@ -10996,6 +11009,19 @@
     "market_cap": "7458177",
     "market_cap_display": "\u00a37.5m",
     "ticker": "TEK"
+  },
+  "TEM.L": {
+    "business_description": "",
+    "company_name": "Templeton Emerging Mkts Invmt Tr TEMIT",
+    "currency": "GBp",
+    "data_source": "yfinance:TEM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T19:52:24.015853+00:00",
+    "market_cap": "2696235776",
+    "market_cap_display": "\u00a32.70bn",
+    "ticker": "TEM"
   },
   "TENG.L": {
     "business_description": "Ten Lifestyle Group Plc offers concierge services to private banks, premium financial services, and high-net-worth individuals in Europe, Asia-Pacific, the Middle East, Africa, and the Americas. The company assists its\u2026",
