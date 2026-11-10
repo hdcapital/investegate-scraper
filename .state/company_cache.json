@@ -150,9 +150,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:50:02.458674+00:00",
-    "market_cap": "3620223744",
-    "market_cap_display": "\u00a33.62bn",
+    "last_updated": "2026-11-10T07:49:34.326283+00:00",
+    "market_cap": "3689399808",
+    "market_cap_display": "\u00a33.69bn",
     "ticker": "3IN"
   },
   "3SAZ.L": {
@@ -514,9 +514,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-20T06:47:42.192379+00:00",
-    "market_cap": "178771984",
-    "market_cap_display": "\u00a3178.8m",
+    "last_updated": "2026-11-10T07:49:33.536960+00:00",
+    "market_cap": "181976624",
+    "market_cap_display": "\u00a3182.0m",
     "ticker": "ABDP"
   },
   "ABDX.L": {
@@ -741,16 +741,16 @@
     "ticker": "AFP"
   },
   "AGT.L": {
-    "business_description": "AVI Global Trust plc is a closed-ended equity mutual fund launched and managed by Asset Value Investors Limited. The fund invests in public equity markets of countries across the globe. It seeks to invest in stocks of\u2026",
-    "company_name": "AVI Global Trust plc",
+    "business_description": "",
+    "company_name": "AVI Global Trust Ord",
     "currency": "GBp",
     "data_source": "yfinance:AGT.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T18:50:22.352428+00:00",
-    "market_cap": "987577088",
-    "market_cap_display": "\u00a3987.6m",
+    "last_updated": "2026-11-10T07:49:28.659740+00:00",
+    "market_cap": "940297856",
+    "market_cap_display": "\u00a3940.3m",
     "ticker": "AGT"
   },
   "AGY.L": {
@@ -813,9 +813,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:40.635358+00:00",
-    "market_cap": "55545000",
-    "market_cap_display": "\u00a355.5m",
+    "last_updated": "2026-11-10T07:49:39.973883+00:00",
+    "market_cap": "57155000",
+    "market_cap_display": "\u00a357.2m",
     "ticker": "AIRE"
   },
   "AJB.L": {
@@ -1541,9 +1541,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-07T06:48:44.414338+00:00",
-    "market_cap": "561937472",
-    "market_cap_display": "\u00a3561.9m",
+    "last_updated": "2026-11-10T07:49:35.206509+00:00",
+    "market_cap": "706839488",
+    "market_cap_display": "\u00a3706.8m",
     "ticker": "AVON"
   },
   "AXB.L": {
@@ -2495,6 +2495,19 @@
     "market_cap_display": "\u00a3581.8m",
     "ticker": "CBG"
   },
+  "CBKD.L": {
+    "business_description": "Commercial International Bank Egypt (CIB) S.A.E. provides retail, corporate, and investment banking services in Egypt. The company operates through Corporate Banking & SME's; Investment; Retail Banking; and Assets and\u2026",
+    "company_name": "Commercial International Bank Egypt (CIB) S.A.E.",
+    "currency": "USD",
+    "data_source": "yfinance:CBKD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:46.699318+00:00",
+    "market_cap": "5641765888",
+    "market_cap_display": "$5.64bn",
+    "ticker": "CBKD"
+  },
   "CCC.L": {
     "business_description": "Computacenter plc provides technology and services to corporate and public sector organizations in the United Kingdom, Germany, Western Europe, North America, and internationally. It offers procurement, specialist,\u2026",
     "company_name": "Computacenter plc",
@@ -2795,16 +2808,16 @@
     "ticker": "CLBX"
   },
   "CLDN.L": {
-    "business_description": "Caledonia Investments plc is a self-managed investment trust company. It invests in private and public equity markets across the globe. The firm benchmarks the performance of its portfolios against the FTSE All-Share\u2026",
-    "company_name": "Caledonia Investments Plc",
+    "business_description": "",
+    "company_name": "Caledonia Investments Ord",
     "currency": "GBp",
     "data_source": "yfinance:CLDN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:09.229805+00:00",
-    "market_cap": "1922347136",
-    "market_cap_display": "\u00a31.92bn",
+    "last_updated": "2026-11-10T07:49:31.060901+00:00",
+    "market_cap": "1934593664",
+    "market_cap_display": "\u00a31.93bn",
     "ticker": "CLDN"
   },
   "CLI.L": {
@@ -2951,16 +2964,16 @@
     "ticker": "CNS"
   },
   "CNSL.L": {
-    "business_description": "Cambridge Nutritional Sciences plc, together with its subsidiaries, develops, manufactures, and distributes medical diagnostics products for the food sensitivity testing market. The company is involved in the research,\u2026",
+    "business_description": "Cambridge Nutritional Sciences plc, together with its subsidiaries, develops, manufactures, and distributes medical diagnostics products for the food sensitivity testing market in the United Kingdom, rest of Europe, the\u2026",
     "company_name": "Cambridge Nutritional Sciences plc",
     "currency": "GBp",
     "data_source": "yfinance:CNSL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:32.343120+00:00",
-    "market_cap": "4402087",
-    "market_cap_display": "\u00a34.4m",
+    "last_updated": "2026-11-10T07:49:47.500025+00:00",
+    "market_cap": "3688235",
+    "market_cap_display": "\u00a33.7m",
     "ticker": "CNSL"
   },
   "COBR.L": {
@@ -3413,9 +3426,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T06:48:00.769195+00:00",
-    "market_cap": "5505585664",
-    "market_cap_display": "\u00a35.51bn",
+    "last_updated": "2026-11-10T07:49:30.262323+00:00",
+    "market_cap": "5520005120",
+    "market_cap_display": "\u00a35.52bn",
     "ticker": "DCC"
   },
   "DCI.L": {
@@ -3530,7 +3543,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-01T06:52:24.600484+00:00",
+    "last_updated": "2026-11-10T07:49:38.378337+00:00",
     "market_cap": "222695712",
     "market_cap_display": "\u00a3222.7m",
     "ticker": "DIA"
@@ -3738,9 +3751,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T18:50:19.153103+00:00",
-    "market_cap": "138484768",
-    "market_cap_display": "\u00a3138.5m",
+    "last_updated": "2026-11-10T07:49:45.018609+00:00",
+    "market_cap": "161791968",
+    "market_cap_display": "\u00a3161.8m",
     "ticker": "ECO"
   },
   "ECOB.L": {
@@ -6239,6 +6252,19 @@
     "market_cap_display": "\u00a3504.1m",
     "ticker": "JEMI"
   },
+  "JET2.L": {
+    "business_description": "Jet2 plc, together with its subsidiaries, engages in the leisure travel business in the United Kingdom. The company offers package holidays to leisure destinations in the Mediterranean, the Canary Islands, and European\u2026",
+    "company_name": "Jet2 plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JET2.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:53.397803+00:00",
+    "market_cap": "2702792192",
+    "market_cap_display": "\u00a32.70bn",
+    "ticker": "JET2"
+  },
   "JGGI.L": {
     "business_description": "",
     "company_name": "JPMorgan Global Growth & Income Ord",
@@ -7586,9 +7612,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:17.007302+00:00",
-    "market_cap": "6890564608",
-    "market_cap_display": "\u20ac6.89bn",
+    "last_updated": "2026-11-10T07:49:45.899574+00:00",
+    "market_cap": "6477300224",
+    "market_cap_display": "\u20ac6.48bn",
     "ticker": "MTLN"
   },
   "MTO.L": {
@@ -7890,6 +7916,19 @@
     "market_cap_display": "\u00a3907.2k",
     "ticker": "NOG"
   },
+  "NTBR.L": {
+    "business_description": "Northern Bear PLC, together with its subsidiaries, provides construction and building services for residential, commercial, and public sectors in the United Kingdom. It operates through three segments: Roofing\u2026",
+    "company_name": "Northern Bear PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:NTBR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:36.791919+00:00",
+    "market_cap": "16168324",
+    "market_cap_display": "\u00a316.2m",
+    "ticker": "NTBR"
+  },
   "NTVO.L": {
     "business_description": "Nativo Resources plc engages in gold mining and exploration projects in Peru. It is also involved in the production and sale of gold ore; and secures and cleans known tailings deposits containing gold, silver, and other\u2026",
     "company_name": "Nativo Resources plc",
@@ -7937,9 +7976,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:31.648097+00:00",
-    "market_cap": "27287064",
-    "market_cap_display": "\u00a327.3m",
+    "last_updated": "2026-11-10T07:49:48.302022+00:00",
+    "market_cap": "22375394",
+    "market_cap_display": "\u00a322.4m",
     "ticker": "NXQ"
   },
   "NXR.L": {
@@ -8201,6 +8240,19 @@
     "market_cap": "562856576",
     "market_cap_display": "\u00a3562.9m",
     "ticker": "OXB"
+  },
+  "OXIG.L": {
+    "business_description": "Oxford Instruments plc provides scientific technology products and services for academic and commercial organizations in the United Kingdom, North America, China, Japan, Germany, Rest of Europe, Rest of Asia, and\u2026",
+    "company_name": "Oxford Instruments plc",
+    "currency": "GBp",
+    "data_source": "yfinance:OXIG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:35.995032+00:00",
+    "market_cap": "1405568896",
+    "market_cap_display": "\u00a31.41bn",
+    "ticker": "OXIG"
   },
   "PALM.L": {
     "business_description": "Panther Metals PLC engages in exploration and development of mineral resources in Canada and Australia. The company explores for copper, zinc, lead, and nickel, gold, silver, platinum group metals, lithium and graphite\u2026",
@@ -8605,6 +8657,19 @@
     "market_cap_display": "\u00a3635.9m",
     "ticker": "PPH"
   },
+  "PPHC.L": {
+    "business_description": "Public Policy Holding Company, Inc. engages in the provision of consulting services in the United States. The company operates through three segments: Government Relations Consulting, Corporate Communications & Public\u2026",
+    "company_name": "Public Policy Holding Company, Inc.",
+    "currency": "GBp",
+    "data_source": "yfinance:PPHC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:37.584934+00:00",
+    "market_cap": "261418960",
+    "market_cap_display": "\u00a3261.4m",
+    "ticker": "PPHC"
+  },
   "PR1.L": {
     "business_description": "Pri0r1ty Intelligence Group PLC, a technology and data intelligence company, focuses on the development and commercialisation of software and analytics solutions. It operates through AI and Data Intelligence Services\u2026",
     "company_name": "Pri0r1ty Intelligence Group PLC",
@@ -8782,9 +8847,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:42.347471+00:00",
-    "market_cap": "1103612416",
-    "market_cap_display": "\u00a31.10bn",
+    "last_updated": "2026-11-10T07:49:50.772594+00:00",
+    "market_cap": "1023592128",
+    "market_cap_display": "\u00a31.02bn",
     "ticker": "PTEC"
   },
   "PTSB.L": {
@@ -9710,6 +9775,19 @@
     "market_cap_display": "\u00a324.6m",
     "ticker": "SBTX"
   },
+  "SCF.L": {
+    "business_description": "",
+    "company_name": "Schroder Income Growth Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:SCF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:29.450216+00:00",
+    "market_cap": "235516352",
+    "market_cap_display": "\u00a3235.5m",
+    "ticker": "SCF"
+  },
   "SCGL.L": {
     "business_description": "Sealand Capital Galaxy Limited, together with its subsidiaries, operates as an investment, development, and operating platform focused on technology, e-commerce, and IT businesses in Hong Kong and Mainland China. It\u2026",
     "company_name": "Sealand Capital Galaxy Limited",
@@ -10186,9 +10264,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T06:48:44.004739+00:00",
-    "market_cap": "1031093",
-    "market_cap_display": "\u00a31.0m",
+    "last_updated": "2026-11-10T07:49:43.421555+00:00",
+    "market_cap": "951778",
+    "market_cap_display": "\u00a3951.8k",
     "ticker": "SNT"
   },
   "SNWS.L": {
@@ -10693,9 +10771,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:48.374139+00:00",
-    "market_cap": "178699824",
-    "market_cap_display": "\u00a3178.7m",
+    "last_updated": "2026-11-10T07:49:49.909361+00:00",
+    "market_cap": "136544896",
+    "market_cap_display": "\u00a3136.5m",
     "ticker": "SWC"
   },
   "SWG.L": {
@@ -10790,16 +10868,16 @@
     "ticker": "SYS1"
   },
   "TAM.L": {
-    "business_description": "Tatton Asset Management plc, through its subsidiaries, engages in the provision of discretionary fund management of investment on-platform and investment wrap services in the United Kingdom. It operates in two segments,\u2026",
+    "business_description": "Tatton Asset Management plc, through its subsidiaries, operates as an on-platform model portfolio services discretionary fund managers in the United Kingdom. It operates through Tatton and Paradigm segments. The company\u2026",
     "company_name": "Tatton Asset Management plc",
     "currency": "GBp",
     "data_source": "yfinance:TAM.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-11T18:50:31.427580+00:00",
-    "market_cap": "407951040",
-    "market_cap_display": "\u00a3408.0m",
+    "last_updated": "2026-11-10T07:49:31.925876+00:00",
+    "market_cap": "408167040",
+    "market_cap_display": "\u00a3408.2m",
     "ticker": "TAM"
   },
   "TAN.L": {
@@ -11239,10 +11317,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:42.395589+00:00",
-    "market_cap": "1258330880",
-    "market_cap_display": "\u00a31.26bn",
+    "last_updated": "2026-11-10T07:49:44.224945+00:00",
+    "market_cap": "1384375808",
+    "market_cap_display": "\u00a31.38bn",
     "ticker": "TPK"
+  },
+  "TPX.L": {
+    "business_description": "TPXimpact Holdings plc, together with its subsidiaries, provides digital native technology services in the United Kingdom, the United States, Switzerland, and internationally. It operates through three segments: Digital\u2026",
+    "company_name": "TPXimpact Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TPX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:40.775899+00:00",
+    "market_cap": "100122416",
+    "market_cap_display": "\u00a3100.1m",
+    "ticker": "TPX"
   },
   "TRAF.L": {
     "business_description": "Trafalgar Minerals Plc, through its subsidiaries, engages in development of residential property in the United Kingdom. The company undertakes residential property and assisted living schemes projects. It also engages\u2026",
@@ -11876,9 +11967,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:40.783605+00:00",
-    "market_cap": "29596170240",
-    "market_cap_display": "\u00a329.60bn",
+    "last_updated": "2026-11-10T07:49:32.717966+00:00",
+    "market_cap": "27095721984",
+    "market_cap_display": "\u00a327.10bn",
     "ticker": "VOD"
   },
   "VOF.L": {
@@ -12162,7 +12253,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:49.295998+00:00",
+    "last_updated": "2026-11-10T07:49:41.583136+00:00",
     "market_cap": "24269552",
     "market_cap_display": "\u00a324.3m",
     "ticker": "WSP"
@@ -12253,9 +12344,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:38.620082+00:00",
-    "market_cap": "12496982",
-    "market_cap_display": "\u00a312.5m",
+    "last_updated": "2026-11-10T07:49:49.108336+00:00",
+    "market_cap": "8618608",
+    "market_cap_display": "\u00a38.6m",
     "ticker": "XSG"
   },
   "XTR.L": {
@@ -12361,6 +12452,32 @@
     "market_cap": "11428713",
     "market_cap_display": "\u00a311.4m",
     "ticker": "ZIN"
+  },
+  "ZIOC.L": {
+    "business_description": "Zanaga Iron Ore Company Limited, an investment holding company, engages in the exploration and development of iron ore project. Its flagship asset is the 100% owned Zanaga Iron Ore Project located in the south-west of\u2026",
+    "company_name": "Zanaga Iron Ore Company Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ZIOC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:52.599020+00:00",
+    "market_cap": "29733050",
+    "market_cap_display": "\u00a329.7m",
+    "ticker": "ZIOC"
+  },
+  "ZOO.L": {
+    "business_description": "ZOO Digital Group plc provides localization and media services in the United Kingdom, the United State, India, Italy, Dubai, South Korea, and internationally. The company provides services for digital content authoring,\u2026",
+    "company_name": "ZOO Digital Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ZOO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-10T07:49:39.182250+00:00",
+    "market_cap": "14018902",
+    "market_cap_display": "\u00a314.0m",
+    "ticker": "ZOO"
   },
   "ZPHR.L": {
     "business_description": "Zephyr Energy plc, together with its subsidiaries, engages in the exploration, development, and production of oil and gas resources in the United States. Its flagship property is the Paradox Project that covers an area\u2026",
