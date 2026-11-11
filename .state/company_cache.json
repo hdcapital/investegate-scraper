@@ -2469,6 +2469,19 @@
     "market_cap_display": "\u00a3240.0m",
     "ticker": "CARD"
   },
+  "CAV.L": {
+    "business_description": "Cavendish plc, together with its subsidiaries, operates as an investment bank in the United Kingdom. The company offers corporate advisory and broking; M&A advisory; and institutional stockbroking. It also provides debt\u2026",
+    "company_name": "Cavendish plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CAV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:32.780414+00:00",
+    "market_cap": "21486838",
+    "market_cap_display": "\u00a321.5m",
+    "ticker": "CAV"
+  },
   "CBA.L": {
     "business_description": "Ceiba Investments Ltd is a Guernsey based Investment fund dedicated to attract investment and invest in various sectors of the Cuban economy.",
     "company_name": "CEIBA Investments Limited",
@@ -3132,6 +3145,19 @@
     "market_cap_display": "\u00a337.8m",
     "ticker": "CRCL"
   },
+  "CRE.L": {
+    "business_description": "Conduit Holdings Limited, through its subsidiary, provides reinsurance products and services in the United States, Europe, and worldwide. It operates in three divisions: Property, Casualty, and Specialty. The company\u2026",
+    "company_name": "Conduit Holdings Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:CRE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:34.601731+00:00",
+    "market_cap": "623886336",
+    "market_cap_display": "\u00a3623.9m",
+    "ticker": "CRE"
+  },
   "CREO.L": {
     "business_description": "Creo Medical Group PLC, through its subsidiaries, engages in the research, development, manufacture, and sale of medical devices and instruments for clinics and hospitals in the United Kingdom. It develops CROMA, an\u2026",
     "company_name": "Creo Medical Group PLC",
@@ -3153,9 +3179,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-20T06:48:36.975087+00:00",
-    "market_cap": "66883620",
-    "market_cap_display": "\u00a366.9m",
+    "last_updated": "2026-11-11T07:49:35.827631+00:00",
+    "market_cap": "80260344",
+    "market_cap_display": "\u00a380.3m",
     "ticker": "CRPR"
   },
   "CRTA.L": {
@@ -4692,6 +4718,19 @@
     "market_cap_display": "\u00a3229.7m",
     "ticker": "FSJ"
   },
+  "FSTA.L": {
+    "business_description": "Fuller, Smith & Turner P.L.C. operates pubs and hotels in the United Kingdom. It operates through the Managed Pubs and Hotels, and Tenanted Inns segments. The company also operates pubs operated by third parties under\u2026",
+    "company_name": "Fuller, Smith & Turner P.L.C.",
+    "currency": "GBp",
+    "data_source": "yfinance:FSTA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:30.942621+00:00",
+    "market_cap": "423778720",
+    "market_cap_display": "\u00a3423.8m",
+    "ticker": "FSTA"
+  },
   "FTC.L": {
     "business_description": "Filtronic plc designs, develops, manufactures, and sells radio frequency (RF) technology in the United Kingdom, Europe, the Americas, and internationally. It provides Morpheus II and X2, an E-band transceiver module;\u2026",
     "company_name": "Filtronic plc",
@@ -4823,16 +4862,16 @@
     "ticker": "GDWN"
   },
   "GELN.L": {
-    "business_description": "Gelion plc, together with its subsidiary, engages in the research and development, manufacture, and sale of battery systems in the United Kingdom and internationally. The company offers storage batteries, which include\u2026",
+    "business_description": "Gelion plc, together with its subsidiary, engages in the research and development, manufacture, and sale of battery systems in the United Kingdom and internationally. The company provides storage batteries, which\u2026",
     "company_name": "Gelion plc",
     "currency": "GBp",
     "data_source": "yfinance:GELN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:48:50.801962+00:00",
-    "market_cap": "36707432",
-    "market_cap_display": "\u00a336.7m",
+    "last_updated": "2026-11-11T07:49:38.876744+00:00",
+    "market_cap": "44048920",
+    "market_cap_display": "\u00a344.0m",
     "ticker": "GELN"
   },
   "GEMD.L": {
@@ -5432,6 +5471,19 @@
     "market_cap": "76470624",
     "market_cap_display": "\u00a376.5m",
     "ticker": "HEX"
+  },
+  "HFEL.L": {
+    "business_description": "Henderson Far East Income Limited is a closed ended balanced mutual fund launched and managed by Henderson Investment Funds Limited. The fund is managed by Henderson Global Investors Limited. It invests in the public\u2026",
+    "company_name": "Henderson Far East Income Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:HFEL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:33.995235+00:00",
+    "market_cap": "587661568",
+    "market_cap_display": "\u00a3587.7m",
+    "ticker": "HFEL"
   },
   "HFG.L": {
     "business_description": "Hilton Food Group plc, together with its subsidiaries, engages in the multi-protein food business. The company offers meat products; seafood products, such as smoked salmon, wet fish, shellfish, coated fish, and fish\u2026",
@@ -6121,6 +6173,19 @@
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "ITRK"
+  },
+  "ITV.L": {
+    "business_description": "ITV plc, a vertically integrated production, broadcasting, and streaming company, which creates, owns, and distributes content on various platforms worldwide. It operates through ITV Studios and Media & Entertainment\u2026",
+    "company_name": "ITV plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ITV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:36.449624+00:00",
+    "market_cap": "2420423168",
+    "market_cap_display": "\u00a32.42bn",
+    "ticker": "ITV"
   },
   "ITX.L": {
     "business_description": "Itaconix plc, together with its subsidiaries, engages in the development of plant-based polymers for homecare and personal care applications in North America, Europe, Middle East, Africa, and internationally. It offers\u2026",
@@ -7443,9 +7508,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:16.566851+00:00",
-    "market_cap": "106783752",
-    "market_cap_display": "\u00a3106.8m",
+    "last_updated": "2026-11-11T07:49:33.387815+00:00",
+    "market_cap": "114997896",
+    "market_cap_display": "\u00a3115.0m",
     "ticker": "MOTR"
   },
   "MPAC.L": {
@@ -7859,10 +7924,23 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:49.021084+00:00",
-    "market_cap": "4780315",
-    "market_cap_display": "\u00a34.8m",
+    "last_updated": "2026-11-11T07:49:41.940122+00:00",
+    "market_cap": "4345741",
+    "market_cap_display": "\u00a34.3m",
     "ticker": "NFM"
+  },
+  "NFX.L": {
+    "business_description": "Nuformix plc, together with its subsidiary, Nuformix Technologies Limited, operates in the field of pharmaceutical development for treating fibrosis and oncology through drug repurposing in the United Kingdom. The\u2026",
+    "company_name": "Nuformix plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NFX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:37.665178+00:00",
+    "market_cap": "2740236",
+    "market_cap_display": "\u00a32.7m",
+    "ticker": "NFX"
   },
   "NG.L": {
     "business_description": "National Grid plc engages in the transmission and distribution of electricity and gas. It operates through UK Electricity Transmission, UK Electricity Distribution, New England, New York, National Grid Ventures, and\u2026",
@@ -7969,16 +8047,16 @@
     "ticker": "NWG"
   },
   "NWT.L": {
-    "business_description": "Newmark Security plc designs, manufactures, and sells electronic and physical security systems in the United Kingdom, the United States, Belgium, Canada, the Netherlands, Mexico, the Middle East, Sweden, Switzerland,\u2026",
+    "business_description": "Newmark Security plc provides people-data solutions for human capital management (HCM) systems in the United Kingdom, the United States, Belgium, Canada, the Netherlands, Mexico, the Middle East, Sweden, Switzerland,\u2026",
     "company_name": "Newmark Security plc",
     "currency": "GBp",
     "data_source": "yfinance:NWT.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:31.505976+00:00",
-    "market_cap": "10131496",
-    "market_cap_display": "\u00a310.1m",
+    "last_updated": "2026-11-11T07:49:39.486244+00:00",
+    "market_cap": "9047661",
+    "market_cap_display": "\u00a39.0m",
     "ticker": "NWT"
   },
   "NXQ.L": {
@@ -8418,7 +8496,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:37.939040+00:00",
+    "last_updated": "2026-11-11T07:49:37.052402+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "PEYS"
@@ -8526,6 +8604,19 @@
     "market_cap": "546416704",
     "market_cap_display": "\u00a3546.4m",
     "ticker": "PINT"
+  },
+  "PIP.L": {
+    "business_description": "PipeHawk plc engages in the development, assembly, and sale of automated manufacturing units, test system, rail industry solutions, and ground probing radar (GPR) equipment in the United Kingdom, Europe and\u2026",
+    "company_name": "PipeHawk plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PIP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:35.218239+00:00",
+    "market_cap": "689943",
+    "market_cap_display": "\u00a3689.9k",
+    "ticker": "PIP"
   },
   "PLAZ.L": {
     "business_description": "Plaza Centers N.V. does not have significant operations. Previously, it was engaged in the establishment, operation, and sale of shopping and entertainment centers, as well as other mixed-use projects. The company was\u2026",
@@ -9939,9 +10030,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:50:06.872104+00:00",
-    "market_cap": "6794431",
-    "market_cap_display": "\u00a36.8m",
+    "last_updated": "2026-11-11T07:49:30.334617+00:00",
+    "market_cap": "7103269",
+    "market_cap_display": "\u00a37.1m",
     "ticker": "SEED"
   },
   "SEEN.L": {
@@ -9952,9 +10043,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:27.707517+00:00",
-    "market_cap": "7158998",
-    "market_cap_display": "\u00a37.2m",
+    "last_updated": "2026-11-11T07:49:38.270904+00:00",
+    "market_cap": "6801048",
+    "market_cap_display": "\u00a36.8m",
     "ticker": "SEEN"
   },
   "SEI.L": {
@@ -10308,6 +10399,19 @@
     "market_cap_display": "\u00a332.7m",
     "ticker": "SNX"
   },
+  "SOI.L": {
+    "business_description": "",
+    "company_name": "Schroder Oriental Income Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:SOI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:29.728663+00:00",
+    "market_cap": "928771712",
+    "market_cap_display": "\u00a3928.8m",
+    "ticker": "SOI"
+  },
   "SOLI.L": {
     "business_description": "Solid State plc, together with its subsidiaries, manufactures, distributes and supplies electronic equipment in the United Kingdom, rest of Europe, Asia, North America, and Internationally. The company operates through\u2026",
     "company_name": "Solid State plc",
@@ -10550,9 +10654,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:45.318487+00:00",
-    "market_cap": "314994496",
-    "market_cap_display": "\u00a3315.0m",
+    "last_updated": "2026-11-11T07:49:31.546046+00:00",
+    "market_cap": "272698432",
+    "market_cap_display": "\u00a3272.7m",
     "ticker": "SST"
   },
   "SSTY.L": {
@@ -11024,16 +11128,16 @@
     "ticker": "TEM"
   },
   "TENG.L": {
-    "business_description": "Ten Lifestyle Group Plc offers concierge services to private banks, premium financial services, and high-net-worth individuals in Europe, Asia-Pacific, the Middle East, Africa, and the Americas. The company assists its\u2026",
-    "company_name": "Ten Lifestyle Group Plc",
+    "business_description": "Ten Technologies Group plc offers concierge services to private banks, premium financial services, and high-net-worth individuals in Europe, Asia-Pacific, the Middle East, Africa, and the Americas. The company assists\u2026",
+    "company_name": "Ten Technologies Group plc",
     "currency": "GBp",
     "data_source": "yfinance:TENG.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:05.841334+00:00",
-    "market_cap": "99646312",
-    "market_cap_display": "\u00a399.6m",
+    "last_updated": "2026-11-11T07:49:32.166720+00:00",
+    "market_cap": "89511392",
+    "market_cap_display": "\u00a389.5m",
     "ticker": "TENG"
   },
   "TERA.L": {
@@ -11642,9 +11746,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-20T18:49:54.156603+00:00",
-    "market_cap": "7383321",
-    "market_cap_display": "\u00a37.4m",
+    "last_updated": "2026-11-11T07:49:41.332749+00:00",
+    "market_cap": "6792656",
+    "market_cap_display": "\u00a36.8m",
     "ticker": "UFO"
   },
   "UJO.L": {
@@ -12214,9 +12318,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:35.363595+00:00",
-    "market_cap": "705479296",
-    "market_cap_display": "\u00a3705.5m",
+    "last_updated": "2026-11-11T07:49:40.716274+00:00",
+    "market_cap": "688526144",
+    "market_cap_display": "\u00a3688.5m",
     "ticker": "WKP"
   },
   "WNX.L": {
@@ -12309,6 +12413,19 @@
     "market_cap": "260188320",
     "market_cap_display": "\u00a3260.2m",
     "ticker": "WVIA"
+  },
+  "WYN.L": {
+    "business_description": "Wynnstay Group Plc manufactures and supplies agricultural products and services in the United Kingdom. It operates through three segments: Feed and Grain, Arable, and Stores. The company offers feed and animal nutrition\u2026",
+    "company_name": "Wynnstay Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WYN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T07:49:40.103887+00:00",
+    "market_cap": "77805824",
+    "market_cap_display": "\u00a377.8m",
+    "ticker": "WYN"
   },
   "XAR.L": {
     "business_description": "Xaar plc designs, develops, manufactures, markets, and sells industrial printheads and print systems in Europe, the Middle East, Africa, Asia, and the Americas. It operates through Printhead, Product Print Systems,\u2026",
