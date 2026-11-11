@@ -116,6 +116,19 @@
     "market_cap_display": "",
     "ticker": "38LO"
   },
+  "38OI.L": {
+    "business_description": "",
+    "company_name": "Barclays Bank PLC 0% 10/08/2018 GBP1 W/W",
+    "currency": "GBP",
+    "data_source": "yfinance:38OI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-11T19:50:18.903474+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "38OI"
+  },
   "3CNE.L": {
     "business_description": "",
     "company_name": "Leverage Shares 3x Long Coinbase (COIN) ETP Securities",
@@ -3101,9 +3114,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:50:05.398465+00:00",
-    "market_cap": "899718848",
-    "market_cap_display": "\u00a3899.7m",
+    "last_updated": "2026-11-11T19:50:20.209577+00:00",
+    "market_cap": "934176128",
+    "market_cap_display": "\u00a3934.2m",
     "ticker": "CORD"
   },
   "CORO.L": {
@@ -3114,9 +3127,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:08.839296+00:00",
-    "market_cap": "3744231",
-    "market_cap_display": "\u00a33.7m",
+    "last_updated": "2026-11-11T19:50:18.283743+00:00",
+    "market_cap": "3093060",
+    "market_cap_display": "\u00a33.1m",
     "ticker": "CORO"
   },
   "CPH2.L": {
@@ -5896,9 +5909,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:15.479226+00:00",
-    "market_cap": "3091970816",
-    "market_cap_display": "\u00a33.09bn",
+    "last_updated": "2026-11-11T19:50:17.654556+00:00",
+    "market_cap": "3189212672",
+    "market_cap_display": "\u00a33.19bn",
     "ticker": "IGG"
   },
   "IGR.L": {
@@ -8704,9 +8717,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T18:50:05.159849+00:00",
-    "market_cap": "50181392",
-    "market_cap_display": "\u00a350.2m",
+    "last_updated": "2026-11-11T19:50:19.539154+00:00",
+    "market_cap": "50007392",
+    "market_cap_display": "\u00a350.0m",
     "ticker": "PNS"
   },
   "POLB.L": {
