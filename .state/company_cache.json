@@ -1372,9 +1372,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:48:49.482836+00:00",
-    "market_cap": "426121344",
-    "market_cap_display": "\u00a3426.1m",
+    "last_updated": "2026-11-12T07:50:10.407585+00:00",
+    "market_cap": "489284576",
+    "market_cap_display": "\u00a3489.3m",
     "ticker": "AT"
   },
   "ATC.L": {
@@ -1454,6 +1454,19 @@
     "market_cap": "669457024",
     "market_cap_display": "\u00a3669.5m",
     "ticker": "ATR"
+  },
+  "ATYM.L": {
+    "business_description": "Atalaya Mining Copper, S.A., together with its subsidiaries, engages in the mineral exploration and development in Spain. The company's flagship property is the Proyecto Riotinto, an open-pit copper mine located in the\u2026",
+    "company_name": "Atalaya Mining Copper, S.A.",
+    "currency": "GBp",
+    "data_source": "yfinance:ATYM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:05.832163+00:00",
+    "market_cap": "1343129472",
+    "market_cap_display": "\u00a31.34bn",
+    "ticker": "ATYM"
   },
   "AURA.L": {
     "business_description": "Aura Energy Limited, together with its subsidiaries, explores and evaluates mineral properties in Mauritania and Sweden. The company explores for uranium, vanadium, gold, and base metals. Its flagship property is the\u2026",
@@ -1948,6 +1961,19 @@
     "market_cap": "188353120",
     "market_cap_display": "\u00a3188.4m",
     "ticker": "BMD"
+  },
+  "BME.L": {
+    "business_description": "B&M European Value Retail plc operates as a European variety discount retailer in the United Kingdom and France. The company operates through three segments: B&M UK, Heron Foods, and B&M France. It operates a chain of\u2026",
+    "company_name": "B&M European Value Retail plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BME.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:11.059290+00:00",
+    "market_cap": "2806481920",
+    "market_cap_display": "\u00a32.81bn",
+    "ticker": "BME"
   },
   "BMTO.L": {
     "business_description": "Braime Group PLC, together with its subsidiaries, engages in the manufacturing and distribution of metal presswork and bulk material handling components in the United Kingdom, Rest of Europe, the Middle East, the United\u2026",
@@ -2482,6 +2508,19 @@
     "market_cap_display": "\u00a3240.0m",
     "ticker": "CARD"
   },
+  "CASP.L": {
+    "business_description": "Caspian Sunrise plc engages in the exploration and production of crude oil. The company operates through four segments: Exploration for and Production of Crude Oil; Onshore Drilling Services; Offshore Drilling Services;\u2026",
+    "company_name": "Caspian Sunrise plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CASP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:05.147019+00:00",
+    "market_cap": "44769812",
+    "market_cap_display": "\u00a344.8m",
+    "ticker": "CASP"
+  },
   "CAV.L": {
     "business_description": "Cavendish plc, together with its subsidiaries, operates as an investment bank in the United Kingdom. The company offers corporate advisory and broking; M&A advisory; and institutional stockbroking. It also provides debt\u2026",
     "company_name": "Cavendish plc",
@@ -2685,9 +2724,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:20.187999+00:00",
-    "market_cap": "1352216960",
-    "market_cap_display": "\u00a31.35bn",
+    "last_updated": "2026-11-12T07:50:12.433518+00:00",
+    "market_cap": "1425866368",
+    "market_cap_display": "\u00a31.43bn",
     "ticker": "CHG"
   },
   "CHH.L": {
@@ -2880,9 +2919,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T07:49:20.364040+00:00",
-    "market_cap": "292443104",
-    "market_cap_display": "\u00a3292.4m",
+    "last_updated": "2026-11-12T07:50:13.810718+00:00",
+    "market_cap": "306944384",
+    "market_cap_display": "\u00a3306.9m",
     "ticker": "CMCL"
   },
   "CMET.L": {
@@ -3010,9 +3049,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T07:49:15.516081+00:00",
-    "market_cap": "36305924",
-    "market_cap_display": "\u00a336.3m",
+    "last_updated": "2026-11-12T07:50:21.695044+00:00",
+    "market_cap": "37406108",
+    "market_cap_display": "\u00a337.4m",
     "ticker": "COBR"
   },
   "CODE.L": {
@@ -3101,9 +3140,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:19.872598+00:00",
-    "market_cap": "84182648",
-    "market_cap_display": "\u00a384.2m",
+    "last_updated": "2026-11-12T07:50:18.453266+00:00",
+    "market_cap": "78442928",
+    "market_cap_display": "\u00a378.4m",
     "ticker": "CORA"
   },
   "CORD.L": {
@@ -3660,9 +3699,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:20.016102+00:00",
-    "market_cap": "642235136",
-    "market_cap_display": "\u00a3642.2m",
+    "last_updated": "2026-11-12T07:50:06.471890+00:00",
+    "market_cap": "606905536",
+    "market_cap_display": "\u00a3606.9m",
     "ticker": "DOCS"
   },
   "DOTL.L": {
@@ -3699,9 +3738,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:35.150389+00:00",
-    "market_cap": "2759475200",
-    "market_cap_display": "\u00a32.76bn",
+    "last_updated": "2026-11-12T07:50:22.979270+00:00",
+    "market_cap": "2863312640",
+    "market_cap_display": "\u00a32.86bn",
     "ticker": "DRX"
   },
   "DSG.L": {
@@ -4011,9 +4050,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:14.112605+00:00",
-    "market_cap": "47968072",
-    "market_cap_display": "\u00a348.0m",
+    "last_updated": "2026-11-12T07:50:23.624175+00:00",
+    "market_cap": "54886544",
+    "market_cap_display": "\u00a354.9m",
     "ticker": "EMAN"
   },
   "EME.L": {
@@ -5940,6 +5979,19 @@
     "market_cap_display": "\u00a316.6m",
     "ticker": "IHC"
   },
+  "III.L": {
+    "business_description": "3i Group plc is a private equity firm specializing in mature companies, growth capital, middle markets, infrastructure, and management leveraged buyouts and buy-ins. The firm also provides infrastructure financing and\u2026",
+    "company_name": "3i Group Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:III.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:03.184470+00:00",
+    "market_cap": "25987254272",
+    "market_cap_display": "\u00a325.99bn",
+    "ticker": "III"
+  },
   "IKA.L": {
     "business_description": "Ilika plc engages in designing, production, and development of solid state batteries in the United Kingdom, Asia, Europe, and North America. The company offers solid state batteries under the Goliath name for electric\u2026",
     "company_name": "Ilika plc",
@@ -6026,9 +6078,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:26.836324+00:00",
-    "market_cap": "12465622",
-    "market_cap_display": "\u00a312.5m",
+    "last_updated": "2026-11-12T07:50:21.050721+00:00",
+    "market_cap": "10109315",
+    "market_cap_display": "\u00a310.1m",
     "ticker": "ING"
   },
   "INOV.L": {
@@ -8514,6 +8566,19 @@
     "market_cap_display": "",
     "ticker": "PEYS"
   },
+  "PFD.L": {
+    "business_description": "Premier Foods plc, together with its subsidiaries, manufactures, distributes, and sells branded and own label food products in the United Kingdom, other European countries, and internationally. It operates through\u2026",
+    "company_name": "Premier Foods plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PFD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:07.157699+00:00",
+    "market_cap": "1746759296",
+    "market_cap_display": "\u00a31.75bn",
+    "ticker": "PFD"
+  },
   "PGH.L": {
     "business_description": "Personal Group Holdings Plc engages in the provision of employee services and salary sacrifice technology products in the United Kingdom. It operates through Affordable Insurance, Benefits and Reward segments. The\u2026",
     "company_name": "Personal Group Holdings Plc",
@@ -8943,6 +9008,19 @@
     "market_cap_display": "\u00a3122.8m",
     "ticker": "PSDL"
   },
+  "PSN.L": {
+    "business_description": "Persimmon Plc, together with its subsidiaries, operates as a house builder in the United Kingdom. The company offers family housing under the Persimmon Homes brand name; housing under the Charles Church brand name; and\u2026",
+    "company_name": "Persimmon Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PSN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:20.403028+00:00",
+    "market_cap": "4022718720",
+    "market_cap_display": "\u00a34.02bn",
+    "ticker": "PSN"
+  },
   "PTAL.L": {
     "business_description": "PetroTal Corp. engages in the acquisition, exploration, appraisal, development, and production of oil and natural gas properties in Peru. Its flagship property is the 100%-owned Breta\u00f1a Norte oil field located within\u2026",
     "company_name": "PetroTal Corp.",
@@ -9098,6 +9176,19 @@
     "market_cap": "8997371",
     "market_cap_display": "\u00a39.0m",
     "ticker": "QHE"
+  },
+  "QQ.L": {
+    "business_description": "QinetiQ Group plc provides science and technology solution in the defense, security, and infrastructure markets in the United States, Australia, Canada, and Germany. The company operates through four segments: Test and\u2026",
+    "company_name": "QinetiQ Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:QQ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:03.832425+00:00",
+    "market_cap": "2656401408",
+    "market_cap_display": "\u00a32.66bn",
+    "ticker": "QQ"
   },
   "QTX.L": {
     "business_description": "Quartix Technologies plc designs, develops, markets, and delivers vehicle telematics services in the United Kingdom, France, the United States, and other European Territories. The company offers GPS Vehicle Tracking\u2026",
@@ -9334,16 +9425,16 @@
     "ticker": "RGG"
   },
   "RGL.L": {
-    "business_description": "Regional REIT Limited (Regional REIT or the Company) and its subsidiaries (the Group) is a United Kingdom (UK) based real estate investment trust that launched in November 2015. It is managed by ESR Europe LSPIM\u2026",
+    "business_description": "Regional REIT Ltd. (Regional REIT or the Company) and its subsidiaries (the Group) is a United Kingdom (UK) based real estate investment trust that launched in November 2015. It is managed by ESR Europe LSPIM Ltd., the\u2026",
     "company_name": "Regional REIT Limited",
     "currency": "GBp",
     "data_source": "yfinance:RGL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:30.360781+00:00",
-    "market_cap": "153011520",
-    "market_cap_display": "\u00a3153.0m",
+    "last_updated": "2026-11-12T07:50:15.121248+00:00",
+    "market_cap": "141827424",
+    "market_cap_display": "\u00a3141.8m",
     "ticker": "RGL"
   },
   "RHIM.L": {
@@ -9579,6 +9670,19 @@
     "market_cap": "1223023232",
     "market_cap_display": "\u00a31.22bn",
     "ticker": "RPI"
+  },
+  "RR.L": {
+    "business_description": "Rolls-Royce Holdings plc designs and manages mission-critical power systems in the United Kingdom and internationally. The company operates through three segments: Civil Aerospace, Defence, and Power Systems. The Civil\u2026",
+    "company_name": "Rolls-Royce Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:RR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:17.149560+00:00",
+    "market_cap": "110061985792",
+    "market_cap_display": "\u00a3110.06bn",
+    "ticker": "RR"
   },
   "RS1.L": {
     "business_description": "RS Group plc, together with its subsidiaries, engages in the distribution of maintenance, repair, and operations products and service solutions in the United Kingdom, the United States, France, Mexico, Germany, Italy,\u2026",
@@ -10191,6 +10295,19 @@
     "market_cap_display": "\u00a312.20bn",
     "ticker": "SGRO"
   },
+  "SHAW.L": {
+    "business_description": "Shawbrook Group PLC, through its subsidiary, Shawbrook Bank Limited, provides lending and savings products and services to private and business customers in the United Kingdom. It offers personal and business savings;\u2026",
+    "company_name": "Shawbrook Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:SHAW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:19.751611+00:00",
+    "market_cap": "1501896192",
+    "market_cap_display": "\u00a31.50bn",
+    "ticker": "SHAW"
+  },
   "SHR.L": {
     "business_description": "Shaires Holdings Ltd is a venture capital firm specializing in mid to late stage investments with lesser weighting on earlier stage. The firm is sector agnostic and prefers to invest in technology, energy, materials,\u2026",
     "company_name": "Shaires Holdings Ltd",
@@ -10329,9 +10446,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:04.449466+00:00",
-    "market_cap": "546014272",
-    "market_cap_display": "\u00a3546.0m",
+    "last_updated": "2026-11-12T07:50:07.804165+00:00",
+    "market_cap": "642936320",
+    "market_cap_display": "\u00a3642.9m",
     "ticker": "SMWH"
   },
   "SN.L": {
@@ -10606,6 +10723,19 @@
     "market_cap": "1668727",
     "market_cap_display": "\u00a31.7m",
     "ticker": "SRES"
+  },
+  "SRP.L": {
+    "business_description": "Serco Group plc provides public services in the United Kingdom, Europe, North America, the Asia Pacific, and the Middle East. It offers service design and advisory, resourcing, programme management, systems integration,\u2026",
+    "company_name": "Serco Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SRP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:16.499623+00:00",
+    "market_cap": "2734071552",
+    "market_cap_display": "\u00a32.73bn",
+    "ticker": "SRP"
   },
   "SRT.L": {
     "business_description": "SRT Marine Systems plc, together with its subsidiaries, develops and supplies automatic identification system (AIS) based maritime domain awareness technologies, products, and systems. It offers Digital AtoN Systems\u2026",
@@ -11083,9 +11213,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:12.863986+00:00",
-    "market_cap": "58992260",
-    "market_cap_display": "\u00a359.0m",
+    "last_updated": "2026-11-12T07:50:22.342110+00:00",
+    "market_cap": "51126624",
+    "market_cap_display": "\u00a351.1m",
     "ticker": "TBLD"
   },
   "TBTG.L": {
@@ -11946,6 +12076,19 @@
     "market_cap_display": "\u00a3193.5m",
     "ticker": "UTL"
   },
+  "UU.L": {
+    "business_description": "United Utilities Group PLC provides water and wastewater services in the United Kingdom. It is also involved in the energy generation, corporate trustee, financing, and property management activities. The company\u2026",
+    "company_name": "United Utilities Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:UU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:04.475533+00:00",
+    "market_cap": "11440105472",
+    "market_cap_display": "\u00a311.44bn",
+    "ticker": "UU"
+  },
   "VAL.L": {
     "business_description": "ValiRx plc, together with its subsidiaries, engages in the development of oncology therapeutics and companion diagnostics in the United Kingdom. The company develops VAL401, a reformulation of anti-psychotic drug\u2026",
     "company_name": "ValiRx plc",
@@ -12084,9 +12227,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:12.939194+00:00",
-    "market_cap": "1156697984",
-    "market_cap_display": "\u00a31.16bn",
+    "last_updated": "2026-11-12T07:50:09.750729+00:00",
+    "market_cap": "1029588224",
+    "market_cap_display": "\u00a31.03bn",
     "ticker": "VLX"
   },
   "VNH.L": {
@@ -12323,6 +12466,19 @@
     "market_cap_display": "\u00a3388.3m",
     "ticker": "WIX"
   },
+  "WIZZ.L": {
+    "business_description": "Wizz Air Holdings Plc, together with its subsidiaries, engages in the provision of passenger air transportation services. The company offers scheduled short-haul and medium-haul point-to-point routes in Europe, the\u2026",
+    "company_name": "Wizz Air Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WIZZ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:08.448059+00:00",
+    "market_cap": "1187560192",
+    "market_cap_display": "\u00a31.19bn",
+    "ticker": "WIZZ"
+  },
   "WKP.L": {
     "business_description": "Workspace Group Plc is London's leading owner and operator of flexible workspace, currently managing 3.8 million sq. ft. of sustainable space at 50+ locations in London and the Southeast. They are home to nearly 4,000\u2026",
     "company_name": "Workspace Group Plc",
@@ -12374,6 +12530,19 @@
     "market_cap": "4143694848",
     "market_cap_display": "\u00a34.14bn",
     "ticker": "WPP"
+  },
+  "WRKS.L": {
+    "business_description": "TheWorks plc engages in the retailing of art and craft products, hobby products, stationery, toys and games, jigsaws, books, gifts, and seasonal products in the United Kingdom and Ireland. It sells its products through\u2026",
+    "company_name": "TheWorks plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WRKS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:19.103579+00:00",
+    "market_cap": "66072924",
+    "market_cap_display": "\u00a366.1m",
+    "ticker": "WRKS"
   },
   "WSL.L": {
     "business_description": "Worldsec Limited, a closed-ended investment company, invests in small and medium sized trading companies in the Greater China and South East Asian regions. The company was founded in 1991 and is based in Sheung Wan,\u2026",
@@ -12530,6 +12699,19 @@
     "market_cap": "1299196160",
     "market_cap_display": "\u00a31.30bn",
     "ticker": "YCA"
+  },
+  "YNGA.L": {
+    "business_description": "Young & Co.'s Brewery, P.L.C. engages in the operation and management of pubs and hotels in the United Kingdom. The company was founded in 1831 and is based in London, the United Kingdom.",
+    "company_name": "Young & Co.'s Brewery, P.L.C.",
+    "currency": "GBp",
+    "data_source": "yfinance:YNGA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T07:50:09.108640+00:00",
+    "market_cap": "677416576",
+    "market_cap_display": "\u00a3677.4m",
+    "ticker": "YNGA"
   },
   "YOU.L": {
     "business_description": "YouGov plc provides online market research services in the United Kingdom, the Americas, the Middle East, Mainland Europe, India, and the Asia Pacific. It operates through three divisions: Data Products, Research, and\u2026",
