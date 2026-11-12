@@ -77,6 +77,19 @@
     "market_cap_display": "\u00a375.9m",
     "ticker": "1SN"
   },
+  "33JE.L": {
+    "business_description": "",
+    "company_name": "Barclays Bank PLC IDX/LKD NTS 17/08/2045 BRL200000 '7422'",
+    "currency": "BRL",
+    "data_source": "yfinance:33JE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-12T19:51:15.969722+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "33JE"
+  },
   "33WK.L": {
     "business_description": "",
     "company_name": "UDI STEERS NOTES SERIES 2007-1 ",
@@ -3913,16 +3926,16 @@
     "ticker": "EEE"
   },
   "EGL.L": {
-    "business_description": "Ecofin Global Utilities and Infrastructure Trust plc is a closed-ended equity mutual fund launched and managed by Tortoise Advisors UK Limited. manages assets for clients worldwide. The fund invests in the public equity\u2026",
-    "company_name": "Ecofin Global Utilities and Infrastructure Trust plc",
+    "business_description": "",
+    "company_name": "Ecofin Global Utilities & Infra Ord",
     "currency": "GBp",
     "data_source": "yfinance:EGL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-04T19:50:52.811577+00:00",
-    "market_cap": "248445200",
-    "market_cap_display": "\u00a3248.4m",
+    "last_updated": "2026-11-12T19:51:16.590021+00:00",
+    "market_cap": "255543648",
+    "market_cap_display": "\u00a3255.5m",
     "ticker": "EGL"
   },
   "EGT.L": {
@@ -5402,9 +5415,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:39.443541+00:00",
-    "market_cap": "2557694",
-    "market_cap_display": "\u00a32.6m",
+    "last_updated": "2026-11-12T19:51:15.359098+00:00",
+    "market_cap": "3069233",
+    "market_cap_display": "\u00a33.1m",
     "ticker": "HAMA"
   },
   "HAN.L": {
@@ -9497,9 +9510,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:44.528949+00:00",
-    "market_cap": "34747244544",
-    "market_cap_display": "\u00a334.75bn",
+    "last_updated": "2026-11-12T19:51:14.745137+00:00",
+    "market_cap": "35884392448",
+    "market_cap_display": "\u00a335.88bn",
     "ticker": "RKT"
   },
   "RLE.L": {
@@ -11720,9 +11733,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:09.332630+00:00",
-    "market_cap": "1006583168",
-    "market_cap_display": "\u00a31.01bn",
+    "last_updated": "2026-11-12T19:51:14.100051+00:00",
+    "market_cap": "1023334400",
+    "market_cap_display": "\u00a31.02bn",
     "ticker": "TRST"
   },
   "TRT.L": {
