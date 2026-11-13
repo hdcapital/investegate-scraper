@@ -5051,9 +5051,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T18:51:18.966263+00:00",
-    "market_cap": "4429061",
-    "market_cap_display": "\u00a34.4m",
+    "last_updated": "2026-11-13T19:50:54.255458+00:00",
+    "market_cap": "4049427",
+    "market_cap_display": "\u00a34.0m",
     "ticker": "GFIN"
   },
   "GFRD.L": {
@@ -5740,9 +5740,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-06T07:48:13.195238+00:00",
-    "market_cap": "223550439424",
-    "market_cap_display": "\u00a3223.55bn",
+    "last_updated": "2026-11-13T19:50:56.746502+00:00",
+    "market_cap": "231511490560",
+    "market_cap_display": "\u00a3231.51bn",
     "ticker": "HSBA"
   },
   "HSD.L": {
@@ -9822,9 +9822,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T19:50:55.722252+00:00",
-    "market_cap": "7978555",
-    "market_cap_display": "\u00a38.0m",
+    "last_updated": "2026-11-13T19:50:57.355850+00:00",
+    "market_cap": "9617009",
+    "market_cap_display": "\u00a39.6m",
     "ticker": "RVRB"
   },
   "RWS.L": {
