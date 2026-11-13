@@ -787,9 +787,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-03T07:48:54.658263+00:00",
-    "market_cap": "221638528",
-    "market_cap_display": "\u00a3221.6m",
+    "last_updated": "2026-11-13T07:47:49.517037+00:00",
+    "market_cap": "94354688",
+    "market_cap_display": "\u00a394.4m",
     "ticker": "AGY"
   },
   "AIC.L": {
@@ -930,9 +930,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T19:50:56.470234+00:00",
-    "market_cap": "134251808",
-    "market_cap_display": "\u00a3134.3m",
+    "last_updated": "2026-11-13T07:47:54.014598+00:00",
+    "market_cap": "134652544",
+    "market_cap_display": "\u00a3134.7m",
     "ticker": "ALL"
   },
   "ALRT.L": {
@@ -1411,9 +1411,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:49:05.341016+00:00",
-    "market_cap": "581957376",
-    "market_cap_display": "\u00a3582.0m",
+    "last_updated": "2026-11-13T07:47:53.272092+00:00",
+    "market_cap": "582441728",
+    "market_cap_display": "\u00a3582.4m",
     "ticker": "ATG"
   },
   "ATM.L": {
@@ -5485,6 +5485,19 @@
     "market_cap_display": "\u00a382.0m",
     "ticker": "HDD"
   },
+  "HE1.L": {
+    "business_description": "Helium One Global Limited engages in the exploration and production of helium gas. Its project portfolio includes its flagship Southern Rukwa Helium Project covering an area of approximately 480 square kilometers\u2026",
+    "company_name": "Helium One Global Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:HE1.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-13T07:47:48.781202+00:00",
+    "market_cap": "27606190",
+    "market_cap_display": "\u00a327.6m",
+    "ticker": "HE1"
+  },
   "HEAD.L": {
     "business_description": "Headlam Group plc, together with its subsidiaries, engages in the sale, marketing, supply, and distribution of floorcovering and other ancillary products in the United Kingdom and Continental Europe. The company offers\u2026",
     "company_name": "Headlam Group plc",
@@ -6838,16 +6851,16 @@
     "ticker": "KZG"
   },
   "LAND.L": {
-    "business_description": "Land Securities Group Plc identify and shape places that create opportunities, enhance quality of life, and bring joy to the people connected to them. This is how they created the leading portfolio of urban places in UK\u2026",
+    "business_description": "Land Securities Group Plc identify and shape places that create opportunities, enhance quality of life, and bring joy to the people connected to them. This is how the firm created the leading portfolio of urban places\u2026",
     "company_name": "Land Securities Group Plc",
     "currency": "GBp",
     "data_source": "yfinance:LAND.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-29T19:50:07.757076+00:00",
-    "market_cap": "5468105216",
-    "market_cap_display": "\u00a35.47bn",
+    "last_updated": "2026-11-13T07:47:48.042553+00:00",
+    "market_cap": "5766365696",
+    "market_cap_display": "\u00a35.77bn",
     "ticker": "LAND"
   },
   "LBOW.L": {
@@ -7772,6 +7785,19 @@
     "market_cap": "2673660672",
     "market_cap_display": "\u00a32.67bn",
     "ticker": "MTO"
+  },
+  "MTU.L": {
+    "business_description": "",
+    "company_name": "Montanaro UK Smaller Companies Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:MTU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-13T07:47:51.061527+00:00",
+    "market_cap": "123033896",
+    "market_cap_display": "\u00a3123.0m",
+    "ticker": "MTU"
   },
   "MUT.L": {
     "business_description": "",
@@ -11863,9 +11889,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-29T07:48:26.891148+00:00",
-    "market_cap": "44112992",
-    "market_cap_display": "\u00a344.1m",
+    "last_updated": "2026-11-13T07:47:51.805861+00:00",
+    "market_cap": "43010172",
+    "market_cap_display": "\u00a343.0m",
     "ticker": "TXP"
   },
   "TYM.L": {
@@ -12461,9 +12487,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T18:50:24.690460+00:00",
-    "market_cap": "9054245888",
-    "market_cap_display": "\u00a39.05bn",
+    "last_updated": "2026-11-13T07:47:50.331471+00:00",
+    "market_cap": "8014252544",
+    "market_cap_display": "\u00a38.01bn",
     "ticker": "WISE"
   },
   "WIX.L": {
