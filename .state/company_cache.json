@@ -2405,16 +2405,16 @@
     "ticker": "BXP"
   },
   "BYG.L": {
-    "business_description": "Big Yellow Group Plc is the UK's brand leader in self-storage and operates from a platform of 115 stores. We have a pipeline of 0.8 million sq ft comprising 10 proposed self-storage facilities. The current maximum\u2026",
+    "business_description": "Big Yellow Group Plc is a Real Estate Investment Trust listed on the London Stock Exchange and a member of the FTSE 250. It provides self-storage to domestic and business customers across the UK through two brands. On\u2026",
     "company_name": "Big Yellow Group Plc",
     "currency": "GBp",
     "data_source": "yfinance:BYG.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:43.838084+00:00",
-    "market_cap": "1650818304",
-    "market_cap_display": "\u00a31.65bn",
+    "last_updated": "2026-11-16T19:52:44.476929+00:00",
+    "market_cap": "1842956160",
+    "market_cap_display": "\u00a31.84bn",
     "ticker": "BYG"
   },
   "BYIT.L": {
@@ -3472,15 +3472,15 @@
   },
   "CYN.L": {
     "business_description": "",
-    "company_name": "CQS Natural Resources Growth and Income plc",
+    "company_name": "City Natural Resources Grow & Inc PLC",
     "currency": "GBp",
     "data_source": "yfinance:CYN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-04T19:50:53.480640+00:00",
-    "market_cap": "141042208",
-    "market_cap_display": "\u00a3141.0m",
+    "last_updated": "2026-11-16T19:52:49.367764+00:00",
+    "market_cap": "135788480",
+    "market_cap_display": "\u00a3135.8m",
     "ticker": "CYN"
   },
   "DAR.L": {
@@ -3712,7 +3712,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-06T19:50:12.725920+00:00",
+    "last_updated": "2026-11-16T19:52:45.184340+00:00",
     "market_cap": "19818462",
     "market_cap_display": "\u00a319.8m",
     "ticker": "DNM"
@@ -4115,9 +4115,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:09.264802+00:00",
-    "market_cap": "16052763",
-    "market_cap_display": "\u00a316.1m",
+    "last_updated": "2026-11-16T19:52:47.311751+00:00",
+    "market_cap": "14031304",
+    "market_cap_display": "\u00a314.0m",
     "ticker": "EMH"
   },
   "EMR.L": {
@@ -5662,9 +5662,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:49:06.793104+00:00",
-    "market_cap": "2454196480",
-    "market_cap_display": "\u00a32.45bn",
+    "last_updated": "2026-11-16T19:52:48.658714+00:00",
+    "market_cap": "2544781568",
+    "market_cap_display": "\u00a32.54bn",
     "ticker": "HICL"
   },
   "HLCL.L": {
@@ -5896,9 +5896,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:48:55.946456+00:00",
-    "market_cap": "2293201152",
-    "market_cap_display": "\u00a32.29bn",
+    "last_updated": "2026-11-16T19:52:50.070499+00:00",
+    "market_cap": "2368162048",
+    "market_cap_display": "\u00a32.37bn",
     "ticker": "HVPE"
   },
   "HWG.L": {
@@ -9939,9 +9939,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T18:49:50.425459+00:00",
-    "market_cap": "174754352",
-    "market_cap_display": "\u00a3174.8m",
+    "last_updated": "2026-11-16T19:52:45.873377+00:00",
+    "market_cap": "142656608",
+    "market_cap_display": "\u00a3142.7m",
     "ticker": "SAA"
   },
   "SAAS.L": {
@@ -11401,16 +11401,16 @@
     "ticker": "TENG"
   },
   "TERA.L": {
-    "business_description": "NeoTerra Group Plc, a junior exploration company, engages in the discovery and development of critical raw materials mining projects in Africa. Its flagship project is the Monte Muambe located in Northwest Mozambique.\u2026",
+    "business_description": "NeoTerra Group Plc, a junior exploration company, engages in the exploration and development of critical raw materials mining projects in Africa. Its flagship project is the Monte Muambe located in Northwest Mozambique,\u2026",
     "company_name": "NeoTerra Group Plc",
     "currency": "GBp",
     "data_source": "yfinance:TERA.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:08.134132+00:00",
-    "market_cap": "6178493",
-    "market_cap_display": "\u00a36.2m",
+    "last_updated": "2026-11-16T19:52:50.765815+00:00",
+    "market_cap": "4596661",
+    "market_cap_display": "\u00a34.6m",
     "ticker": "TERA"
   },
   "TERN.L": {
@@ -12195,15 +12195,15 @@
   },
   "UTL.L": {
     "business_description": "UIL Limited is a closed-ended equity mutual fund launched and managed by ICM Limited. The fund invests in public equity markets across the globe. It seeks to invest in stocks of companies operating in the\u2026",
-    "company_name": "UIL Ord",
+    "company_name": "UIL Limited",
     "currency": "GBp",
     "data_source": "yfinance:UTL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T19:51:50.984205+00:00",
-    "market_cap": "193461984",
-    "market_cap_display": "\u00a3193.5m",
+    "last_updated": "2026-11-16T19:52:47.981244+00:00",
+    "market_cap": "194366016",
+    "market_cap_display": "\u00a3194.4m",
     "ticker": "UTL"
   },
   "UU.L": {
@@ -12881,6 +12881,19 @@
     "market_cap": "290194976",
     "market_cap_display": "\u00a3290.2m",
     "ticker": "YU"
+  },
+  "ZAM.L": {
+    "business_description": "Zambeef Products PLC, together with its subsidiaries, engages in the agri-businesses in Zambia, Nigeria, and Ghana. It operates through Retailing and Food Production and Cropping and Milling segments. The company\u2026",
+    "company_name": "Zambeef Products PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:ZAM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T19:52:46.571372+00:00",
+    "market_cap": "30454538",
+    "market_cap_display": "\u00a330.5m",
+    "ticker": "ZAM"
   },
   "ZCC.L": {
     "business_description": "",
