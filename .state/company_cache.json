@@ -1151,9 +1151,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T18:49:28.519629+00:00",
-    "market_cap": "732499968",
-    "market_cap_display": "\u00a3732.5m",
+    "last_updated": "2026-11-16T07:48:46.172869+00:00",
+    "market_cap": "788750016",
+    "market_cap_display": "\u00a3788.8m",
     "ticker": "APN"
   },
   "APTA.L": {
@@ -1307,9 +1307,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T07:49:04.159646+00:00",
-    "market_cap": "504917632",
-    "market_cap_display": "\u00a3504.9m",
+    "last_updated": "2026-11-16T07:48:49.099299+00:00",
+    "market_cap": "572258048",
+    "market_cap_display": "\u00a3572.3m",
     "ticker": "ASC"
   },
   "ASHM.L": {
@@ -1619,9 +1619,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:50.983918+00:00",
-    "market_cap": "199353417728",
-    "market_cap_display": "\u00a3199.35bn",
+    "last_updated": "2026-11-16T07:48:55.684622+00:00",
+    "market_cap": "216849317888",
+    "market_cap_display": "\u00a3216.85bn",
     "ticker": "AZN"
   },
   "B90.L": {
@@ -2074,9 +2074,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:46.616837+00:00",
-    "market_cap": "171498752",
-    "market_cap_display": "\u00a3171.5m",
+    "last_updated": "2026-11-16T07:49:00.043217+00:00",
+    "market_cap": "176914496",
+    "market_cap_display": "\u00a3176.9m",
     "ticker": "BOOK"
   },
   "BOOM.L": {
@@ -2599,6 +2599,19 @@
     "market_cap_display": "\u00a34.82bn",
     "ticker": "CCC"
   },
+  "CCH.L": {
+    "business_description": "Coca-Cola HBC AG engages in the production, sale, and distribution of non-alcoholic ready-to-drink beverages under franchise in Switzerland, West Coast of Ireland, Central and Eastern Europe, Nigeria, and\u2026",
+    "company_name": "Coca-Cola HBC AG",
+    "currency": "GBp",
+    "data_source": "yfinance:CCH.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:48:56.404103+00:00",
+    "market_cap": "15446006784",
+    "market_cap_display": "\u00a315.45bn",
+    "ticker": "CCH"
+  },
   "CCP.L": {
     "business_description": "Celtic plc, together with its subsidiaries, operates a professional football club in the United Kingdom. It operates through three segments: Football and Stadium Operations; Merchandising; and Multimedia and Other\u2026",
     "company_name": "Celtic plc",
@@ -2685,9 +2698,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T18:51:05.909285+00:00",
-    "market_cap": "199109760",
-    "market_cap_display": "\u00a3199.1m",
+    "last_updated": "2026-11-16T07:49:00.776667+00:00",
+    "market_cap": "265873568",
+    "market_cap_display": "\u00a3265.9m",
     "ticker": "CER"
   },
   "CGEO.L": {
@@ -2958,9 +2971,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:21.400095+00:00",
-    "market_cap": "52577340",
-    "market_cap_display": "\u00a352.6m",
+    "last_updated": "2026-11-16T07:48:51.345236+00:00",
+    "market_cap": "49991568",
+    "market_cap_display": "\u00a350.0m",
     "ticker": "CML"
   },
   "CMPG.L": {
@@ -4193,9 +4206,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T06:48:34.983538+00:00",
-    "market_cap": "99334208",
-    "market_cap_display": "\u00a399.3m",
+    "last_updated": "2026-11-16T07:48:58.573484+00:00",
+    "market_cap": "94387992",
+    "market_cap_display": "\u00a394.4m",
     "ticker": "ENSI"
   },
   "ENT.L": {
@@ -4913,6 +4926,19 @@
     "market_cap_display": "\u00a31.2m",
     "ticker": "GCG"
   },
+  "GCP.L": {
+    "business_description": "GCP Infrastructure Investments Limited focuses on investing in the United Kingdom infrastructure debt. The company makes infrastructure investments through acquiring interests in debt instruments issued by\u2026",
+    "company_name": "GCP Infrastructure Investments Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:GCP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:49:01.489091+00:00",
+    "market_cap": "614473792",
+    "market_cap_display": "\u00a3614.5m",
+    "ticker": "GCP"
+  },
   "GDWN.L": {
     "business_description": "Goodwin PLC, together with its subsidiaries, provides refractory engineering and technological solutions in the United Kingdom, rest of Europe, the United States, the Pacific Basin, and internationally. It designs,\u2026",
     "company_name": "Goodwin PLC",
@@ -5212,6 +5238,19 @@
     "market_cap_display": "\u00a31.48bn",
     "ticker": "GNS"
   },
+  "GPE.L": {
+    "business_description": "Great Portland Estates Plc is a FTSE 250 property investment and development company, owning a 2.4 billion pounds portfolio of London real estate. They aim to deliver value by unlocking the often hidden potential in\u2026",
+    "company_name": "Great Portland Estates Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GPE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:49:04.402536+00:00",
+    "market_cap": "1436945408",
+    "market_cap_display": "\u00a31.44bn",
+    "ticker": "GPE"
+  },
   "GPM.L": {
     "business_description": "Golden Prospect Precious Metals Ltd. is a close ended equity mutual fund launched and managed by CQS Asset Management Ltd. It is co-managed by CQS Cayman Limited Partnership. The fund invests in public equity markets.\u2026",
     "company_name": "Golden Prospect Precious Metals Ltd.",
@@ -5467,7 +5506,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:49:03.554920+00:00",
+    "last_updated": "2026-11-16T07:49:05.125886+00:00",
     "market_cap": "1929337216",
     "market_cap_display": "\u00a31.93bn",
     "ticker": "HCM"
@@ -5532,9 +5571,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:48:54.796627+00:00",
-    "market_cap": "27399086",
-    "market_cap_display": "\u00a327.4m",
+    "last_updated": "2026-11-16T07:48:54.232936+00:00",
+    "market_cap": "26996158",
+    "market_cap_display": "\u00a327.0m",
     "ticker": "HERC"
   },
   "HEX.L": {
@@ -5545,9 +5584,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:50:04.663277+00:00",
-    "market_cap": "76470624",
-    "market_cap_display": "\u00a376.5m",
+    "last_updated": "2026-11-16T07:49:03.677945+00:00",
+    "market_cap": "80263448",
+    "market_cap_display": "\u00a380.3m",
     "ticker": "HEX"
   },
   "HFEL.L": {
@@ -6169,9 +6208,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T18:50:24.802117+00:00",
-    "market_cap": "12762634240",
-    "market_cap_display": "\u00a312.76bn",
+    "last_updated": "2026-11-16T07:48:57.134570+00:00",
+    "market_cap": "13557824512",
+    "market_cap_display": "\u00a313.56bn",
     "ticker": "IPC"
   },
   "IPO.L": {
@@ -7864,6 +7903,19 @@
     "market_cap_display": "\u00a313.4m",
     "ticker": "MYX"
   },
+  "N91.L": {
+    "business_description": "Ninety One Group operates as an independent global asset manager worldwide. It serves private and public sector pension funds, sovereign wealth funds, insurers, corporates, foundations, and central banks, as well as\u2026",
+    "company_name": "Ninety One Group",
+    "currency": "GBp",
+    "data_source": "yfinance:N91.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:48:47.622073+00:00",
+    "market_cap": "1943072896",
+    "market_cap_display": "\u00a31.94bn",
+    "ticker": "N91"
+  },
   "NAH.L": {
     "business_description": "NAHL Group Plc operates in the consumer legal services and catastrophic injury markets in the United Kingdom. The company operates through Consumer Legal Services and Critical Care segments. Its Consumer Legal Services\u2026",
     "company_name": "NAHL Group Plc",
@@ -8020,6 +8072,19 @@
     "market_cap_display": "\u00a3213.2m",
     "ticker": "NET"
   },
+  "NEWS.L": {
+    "business_description": "Pathos Communications PLC, together with its subsidiaries, operates as a technology-enabled and human-led public relations and communications company in the United States, Canada, the United Kingdom, Europe, and\u2026",
+    "company_name": "Pathos Communications PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:NEWS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:48:50.628519+00:00",
+    "market_cap": "19333332",
+    "market_cap_display": "\u00a319.3m",
+    "ticker": "NEWS"
+  },
   "NFM.L": {
     "business_description": "New Frontier Minerals Limited engages in the exploration and examination of mineral properties primarily in Australia and Canada. It primarily explores for copper, cobalt, silver, gold, lead, niobium, uranium, and zinc\u2026",
     "company_name": "New Frontier Minerals Limited",
@@ -8132,9 +8197,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:16.876075+00:00",
-    "market_cap": "3977448",
-    "market_cap_display": "\u00a34.0m",
+    "last_updated": "2026-11-16T07:48:52.794311+00:00",
+    "market_cap": "4307456",
+    "market_cap_display": "\u00a34.3m",
     "ticker": "NTVO"
   },
   "NWG.L": {
@@ -8357,6 +8422,19 @@
     "market_cap": "6817820",
     "market_cap_display": "\u00a36.8m",
     "ticker": "OPTI"
+  },
+  "ORCA.L": {
+    "business_description": "Orcadian Energy Plc, together with its subsidiaries, engages in the exploration, appraisal, and development of oil and gas in the United Kingdom. The company holds 100% interest in UKCS Seaward Licences P2244, which\u2026",
+    "company_name": "Orcadian Energy Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ORCA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:48:57.853565+00:00",
+    "market_cap": "10714288",
+    "market_cap_display": "\u00a310.7m",
+    "ticker": "ORCA"
   },
   "ORCH.L": {
     "business_description": "Orchard Funding Group plc, through its subsidiaries, offers insurance premium finance, professional fee funding, finance, and secured property lending services in the United Kingdom. It operates in two segments,\u2026",
@@ -10212,9 +10290,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T19:49:34.461029+00:00",
-    "market_cap": "112086504",
-    "market_cap_display": "\u00a3112.1m",
+    "last_updated": "2026-11-16T07:48:54.967421+00:00",
+    "market_cap": "100877856",
+    "market_cap_display": "\u00a3100.9m",
     "ticker": "SEI"
   },
   "SEIT.L": {
@@ -10563,9 +10641,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:37.907791+00:00",
-    "market_cap": "32738752",
-    "market_cap_display": "\u00a332.7m",
+    "last_updated": "2026-11-16T07:49:02.952403+00:00",
+    "market_cap": "31463216",
+    "market_cap_display": "\u00a331.5m",
     "ticker": "SNX"
   },
   "SOI.L": {
@@ -10589,9 +10667,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:48.617109+00:00",
-    "market_cap": "93981048",
-    "market_cap_display": "\u00a394.0m",
+    "last_updated": "2026-11-16T07:48:49.898189+00:00",
+    "market_cap": "103379160",
+    "market_cap_display": "\u00a3103.4m",
     "ticker": "SOLI"
   },
   "SOM.L": {
@@ -10745,9 +10823,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:37.724074+00:00",
-    "market_cap": "1421689856",
-    "market_cap_display": "\u00a31.42bn",
+    "last_updated": "2026-11-16T07:48:46.899104+00:00",
+    "market_cap": "1585457024",
+    "market_cap_display": "\u00a31.59bn",
     "ticker": "SRE"
   },
   "SRES.L": {
@@ -11024,16 +11102,16 @@
     "ticker": "SUS"
   },
   "SVML.L": {
-    "business_description": "Sovereign Metals Limited, together with its subsidiaries, engages in the exploration and development of mineral resource projects in Malawi. The company primary explores rutile and graphite. It holds interest in the\u2026",
+    "business_description": "Sovereign Metals Limited, together with its subsidiaries, engages in the exploration and development of mineral resource projects in Malawi. The company primary explores rutile and graphite products. It holds interest\u2026",
     "company_name": "Sovereign Metals Limited",
     "currency": "GBp",
     "data_source": "yfinance:SVML.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:44.779855+00:00",
-    "market_cap": "172189824",
-    "market_cap_display": "\u00a3172.2m",
+    "last_updated": "2026-11-16T07:48:53.513770+00:00",
+    "market_cap": "141031664",
+    "market_cap_display": "\u00a3141.0m",
     "ticker": "SVML"
   },
   "SVNS.L": {
@@ -11686,6 +11764,19 @@
     "market_cap_display": "\u00a395.3m",
     "ticker": "TRCS"
   },
+  "TRD.L": {
+    "business_description": "Triad Group plc provides information technology consultancy services to the public, private, and not-for-profit sectors in the United Kingdom. The company offers consulting, early strategy, programme management, project\u2026",
+    "company_name": "Triad Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TRD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:48:52.069110+00:00",
+    "market_cap": "68045560",
+    "market_cap_display": "\u00a368.0m",
+    "ticker": "TRD"
+  },
   "TRI.L": {
     "business_description": "Trifast plc, together with its subsidiaries, designs, engineers, manufactures, and supplies industrial fasteners and category C components in the United Kingdom, Ireland, Sweden, Hungary, Holland, Italy, Germany, Spain,\u2026",
     "company_name": "Trifast plc",
@@ -12084,7 +12175,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:18.277190+00:00",
+    "last_updated": "2026-11-16T07:48:59.323169+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "USFP"
@@ -12188,9 +12279,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-24T06:48:12.226507+00:00",
-    "market_cap": "853836992",
-    "market_cap_display": "\u00a3853.8m",
+    "last_updated": "2026-11-16T07:49:02.232124+00:00",
+    "market_cap": "814061952",
+    "market_cap_display": "\u00a3814.1m",
     "ticker": "VCT"
   },
   "VIC.L": {
@@ -12621,6 +12712,19 @@
     "market_cap": "4629172736",
     "market_cap_display": "\u00a34.63bn",
     "ticker": "WTB"
+  },
+  "WTE.L": {
+    "business_description": "Westmount Energy Limited is a venture capital firm specializing in seed capital to small medium sized companies. The firm invests in Guyana-Suriname Basin regions. Westmount Energy Limited was incorporated in October 1,\u2026",
+    "company_name": "Westmount Energy Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:WTE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-16T07:48:48.377284+00:00",
+    "market_cap": "3529261",
+    "market_cap_display": "\u00a33.5m",
+    "ticker": "WTE"
   },
   "WVIA.L": {
     "business_description": "Winvia Entertainment Plc, together with its subsidiaries, operates as a technology-led entertainment company. It operates prize draws and skill games competitions with prizes and unique formats for a broad audience; the\u2026",
