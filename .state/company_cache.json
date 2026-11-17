@@ -2287,6 +2287,19 @@
     "market_cap_display": "\u00a3302.8m",
     "ticker": "BSV"
   },
+  "BTC.L": {
+    "business_description": "London BTC Company Limited engages in bitcoin mining and related cryptocurrency operations in the United States and Canada. It also engages in gold exploration. The company was formerly known as Vinanz Limited and\u2026",
+    "company_name": "London BTC Company Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:BTC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T19:51:58.618042+00:00",
+    "market_cap": "4071909",
+    "market_cap_display": "\u00a34.1m",
+    "ticker": "BTC"
+  },
   "BTG.L": {
     "business_description": "BTG Consulting plc operates as a financial and real estate advisory company in the United Kingdom. It operates in two segments, Restructuring and Advisory, and Real Estate Advisory. The company offers business\u2026",
     "company_name": "BTG Consulting plc",
@@ -5701,9 +5714,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-26T18:49:16.344395+00:00",
-    "market_cap": "48949633024",
-    "market_cap_display": "$48.95bn",
+    "last_updated": "2026-11-17T19:51:59.418594+00:00",
+    "market_cap": "49119178752",
+    "market_cap_display": "$49.12bn",
     "ticker": "HHPD"
   },
   "HICL.L": {
@@ -6962,9 +6975,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:19.289756+00:00",
-    "market_cap": "17373176",
-    "market_cap_display": "\u00a317.4m",
+    "last_updated": "2026-11-17T19:52:02.555550+00:00",
+    "market_cap": "14400321",
+    "market_cap_display": "\u00a314.4m",
     "ticker": "KZG"
   },
   "LAND.L": {
@@ -7898,9 +7911,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T18:50:05.360585+00:00",
-    "market_cap": "2673660672",
-    "market_cap_display": "\u00a32.67bn",
+    "last_updated": "2026-11-17T19:51:57.860964+00:00",
+    "market_cap": "2638195968",
+    "market_cap_display": "\u00a32.64bn",
     "ticker": "MTO"
   },
   "MTU.L": {
@@ -8340,9 +8353,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:11.814852+00:00",
-    "market_cap": "1379025",
-    "market_cap_display": "\u00a31.4m",
+    "last_updated": "2026-11-17T19:52:00.980793+00:00",
+    "market_cap": "1041525",
+    "market_cap_display": "\u00a31.0m",
     "ticker": "NZI"
   },
   "OBI.L": {
@@ -8444,9 +8457,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:36.250626+00:00",
-    "market_cap": "2393153024",
-    "market_cap_display": "\u00a32.39bn",
+    "last_updated": "2026-11-17T19:52:00.226356+00:00",
+    "market_cap": "2642184448",
+    "market_cap_display": "\u00a32.64bn",
     "ticker": "OMU"
   },
   "ONT.L": {
@@ -9432,9 +9445,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:14.776497+00:00",
-    "market_cap": "9135766",
-    "market_cap_display": "\u00a39.1m",
+    "last_updated": "2026-11-17T19:52:01.778704+00:00",
+    "market_cap": "8120680",
+    "market_cap_display": "\u00a38.1m",
     "ticker": "RBD"
   },
   "RBN.L": {
@@ -12864,7 +12877,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T19:51:37.284926+00:00",
+    "last_updated": "2026-11-17T19:51:57.098934+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
