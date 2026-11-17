@@ -597,6 +597,19 @@
     "market_cap_display": "\u00a3631.8m",
     "ticker": "AC8"
   },
+  "ACG.L": {
+    "business_description": "ACG Metals Limited produces gold and silver in Europe. It owns 100% interest in the Gediktepe copper-gold mine located in Turkey. It also focuses on copper and zinc production. The company was founded in 2024 and is\u2026",
+    "company_name": "ACG Metals Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:ACG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T07:49:30.196016+00:00",
+    "market_cap": "390296256",
+    "market_cap_display": "\u00a3390.3m",
+    "ticker": "ACG"
+  },
   "ACSO.L": {
     "business_description": "accesso Technology Group plc, together with its subsidiaries, engages in the development and application of technology solutions in the United Kingdom, Europe, North America, Central and South America, the Middle East,\u2026",
     "company_name": "accesso Technology Group plc",
@@ -3743,6 +3756,19 @@
     "market_cap_display": "\u00a353.3m",
     "ticker": "DOTL"
   },
+  "DPLM.L": {
+    "business_description": "Diploma PLC, together with its subsidiaries, supplies specialized technical products and services in the United Kingdom, Europe, North America, and internationally. It operates through three business sectors: Controls,\u2026",
+    "company_name": "Diploma PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:DPLM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T07:49:27.770129+00:00",
+    "market_cap": "9601190912",
+    "market_cap_display": "\u00a39.60bn",
+    "ticker": "DPLM"
+  },
   "DPP.L": {
     "business_description": "DP Poland Plc, together with its subsidiaries, develops, operates, and sub-franchises Domino's Pizza stores in Poland and Croatia. It operates through two segments Corporate Store Sales and Commissary Operations. The\u2026",
     "company_name": "DP Poland Plc",
@@ -4549,6 +4575,19 @@
     "market_cap_display": "\u00a3545.4m",
     "ticker": "FGEN"
   },
+  "FGP.L": {
+    "business_description": "FirstGroup plc provides public transport services in the United Kingdom. It operates through First Bus and First Rail segments. It operates a fleet of approximately 6,000 buses and coaches, as well as 320 trains. The\u2026",
+    "company_name": "FirstGroup plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FGP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T07:49:24.098467+00:00",
+    "market_cap": "1191448320",
+    "market_cap_display": "\u00a31.19bn",
+    "ticker": "FGP"
+  },
   "FIH.L": {
     "business_description": "FIH group plc, through its subsidiaries, provides retailing, property, automotive, insurance, tourism, shipping, and cruise ship agency services in the Falkland Islands and the United Kingdom. It is involved in the\u2026",
     "company_name": "FIH group plc",
@@ -4860,6 +4899,19 @@
     "market_cap": "297274240",
     "market_cap_display": "\u00a3297.3m",
     "ticker": "FXPO"
+  },
+  "G4M.L": {
+    "business_description": "Gear4music (Holdings) plc engages in the retail of musical instruments, musician equipment, and audio-visual equipment in the United Kingdom, rest of Europe, and internationally. The company offers guitars and bass,\u2026",
+    "company_name": "Gear4music (Holdings) plc",
+    "currency": "GBp",
+    "data_source": "yfinance:G4M.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T07:49:24.707568+00:00",
+    "market_cap": "44133244",
+    "market_cap_display": "\u00a344.1m",
+    "ticker": "G4M"
   },
   "GABI.L": {
     "business_description": "Project Finance Investments Limited is an investment firm based in Jersey, Channel Islands.",
@@ -5914,6 +5966,19 @@
     "market_cap_display": "\u00a3660.4m",
     "ticker": "HWG"
   },
+  "IBST.L": {
+    "business_description": "Ibstock plc manufactures and sells clay and concrete building products and solutions to customers in the residential construction sector in the United Kingdom. It operates through Clay and Concrete segments. The company\u2026",
+    "company_name": "Ibstock plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IBST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T07:49:32.611900+00:00",
+    "market_cap": "273746144",
+    "market_cap_display": "\u00a3273.7m",
+    "ticker": "IBST"
+  },
   "ICFG.L": {
     "business_description": "ICFG Limited provides microfinance and adjacent financial solutions. It also provides financial services; capital markets and investment banking related services; AI and IT services; and real estate management services.\u2026",
     "company_name": "ICFG Limited",
@@ -6069,6 +6134,19 @@
     "market_cap": "46738992",
     "market_cap_display": "\u00a346.7m",
     "ticker": "IKA"
+  },
+  "IMB.L": {
+    "business_description": "Imperial Brands PLC, together with its subsidiaries, manufactures, imports, markets, and sells tobacco and tobacco-related products in Europe, the Americas, Africa, the Asia, Australasia, and internationally. It offers\u2026",
+    "company_name": "Imperial Brands PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:IMB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T07:49:25.919912+00:00",
+    "market_cap": "22225098752",
+    "market_cap_display": "\u00a322.23bn",
+    "ticker": "IMB"
   },
   "IMI.L": {
     "business_description": "IMI plc designs and manufactures fluid and motion control solutions in the United Kingdom, Germany, rest of Europe, the United States, rest of the Americas, China, rest of the Asia Pacific, the Middle East, and Africa.\u2026",
@@ -8834,9 +8912,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-20T06:48:39.276417+00:00",
-    "market_cap": "134784720",
-    "market_cap_display": "\u00a3134.8m",
+    "last_updated": "2026-11-17T07:49:31.404091+00:00",
+    "market_cap": "117856280",
+    "market_cap_display": "\u00a3117.9m",
     "ticker": "PLSR"
   },
   "PLUS.L": {
@@ -9055,9 +9133,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:14.568434+00:00",
-    "market_cap": "739002944",
-    "market_cap_display": "\u00a3739.0m",
+    "last_updated": "2026-11-17T07:49:28.377209+00:00",
+    "market_cap": "948224000",
+    "market_cap_display": "\u00a3948.2m",
     "ticker": "PRN"
   },
   "PRO.L": {
@@ -9185,7 +9263,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:35.976790+00:00",
+    "last_updated": "2026-11-17T07:49:25.315220+00:00",
     "market_cap": "20000038",
     "market_cap_display": "\u00a320.0m",
     "ticker": "PULS"
@@ -9848,9 +9926,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:50:03.924146+00:00",
-    "market_cap": "403790304",
-    "market_cap_display": "\u00a3403.8m",
+    "last_updated": "2026-11-17T07:49:26.520493+00:00",
+    "market_cap": "391952832",
+    "market_cap_display": "\u00a3392.0m",
     "ticker": "RST"
   },
   "RSW.L": {
@@ -10680,9 +10758,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-21T06:48:43.130395+00:00",
-    "market_cap": "135807968",
-    "market_cap_display": "\u00a3135.8m",
+    "last_updated": "2026-11-17T07:49:27.165933+00:00",
+    "market_cap": "149780128",
+    "market_cap_display": "\u00a3149.8m",
     "ticker": "SOM"
   },
   "SORT.L": {
@@ -11270,6 +11348,19 @@
     "market_cap_display": "\u00a36.9m",
     "ticker": "TAN"
   },
+  "TAND.L": {
+    "business_description": "Tan Delta Systems plc engages in the development, manufacture, and sale of oil sensors in the United Kingdom, Europe, and internationally. The company offers oil quality sensors; kits, including mobile oil test,\u2026",
+    "company_name": "Tan Delta Systems plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TAND.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-17T07:49:32.005079+00:00",
+    "market_cap": "14644760",
+    "market_cap_display": "\u00a314.6m",
+    "ticker": "TAND"
+  },
   "TAP.L": {
     "business_description": "Tap Global Group Plc, together with its subsidiaries, provides application and trading platform for crypto currencies in the United Kingdom and internationally. The company was formerly known as Quetzal Capital PLC. Tap\u2026",
     "company_name": "Tap Global Group Plc",
@@ -11278,9 +11369,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:40.124094+00:00",
-    "market_cap": "8749162",
-    "market_cap_display": "\u00a38.7m",
+    "last_updated": "2026-11-17T07:49:28.982074+00:00",
+    "market_cap": "7073791",
+    "market_cap_display": "\u00a37.1m",
     "ticker": "TAP"
   },
   "TAPH.L": {
@@ -11421,9 +11512,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:34.094315+00:00",
-    "market_cap": "8178191",
-    "market_cap_display": "\u00a38.2m",
+    "last_updated": "2026-11-17T07:49:30.797449+00:00",
+    "market_cap": "7216051",
+    "market_cap_display": "\u00a37.2m",
     "ticker": "TERN"
   },
   "TFW.L": {
@@ -11785,9 +11876,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T18:50:21.672470+00:00",
-    "market_cap": "115597096",
-    "market_cap_display": "\u00a3115.6m",
+    "last_updated": "2026-11-17T07:49:23.494967+00:00",
+    "market_cap": "118568056",
+    "market_cap_display": "\u00a3118.6m",
     "ticker": "TRI"
   },
   "TRIG.L": {
@@ -12266,9 +12357,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T18:51:04.369751+00:00",
-    "market_cap": "53818100",
-    "market_cap_display": "\u00a353.8m",
+    "last_updated": "2026-11-17T07:49:29.591844+00:00",
+    "market_cap": "39436656",
+    "market_cap_display": "\u00a339.4m",
     "ticker": "VCP"
   },
   "VCT.L": {
