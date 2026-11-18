@@ -1962,6 +1962,19 @@
     "market_cap_display": "\u00a3111.6m",
     "ticker": "BKY"
   },
+  "BLND.L": {
+    "business_description": "British Land Company PLC is a UK commercial property company focused on real estate sectors with the strongest operational fundamentals: London campuses and retail parks. We own or manage a portfolio valued at 15.8bn\u2026",
+    "company_name": "British Land Company PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BLND.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-18T07:48:58.247683+00:00",
+    "market_cap": "4429097984",
+    "market_cap_display": "\u00a34.43bn",
+    "ticker": "BLND"
+  },
   "BLOE.L": {
     "business_description": "Block Energy Plc, an independent energy company, explores, develops, and produces oil and gas in the Republic of Georgia. The company holds 76.5% indirect economic interest in the Ndjila and Mpari PSCs, as well as hold\u2026",
     "company_name": "Block Energy Plc",
@@ -2945,9 +2958,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:50:00.249497+00:00",
-    "market_cap": "189091968",
-    "market_cap_display": "\u00a3189.1m",
+    "last_updated": "2026-11-18T07:48:53.720461+00:00",
+    "market_cap": "172631744",
+    "market_cap_display": "\u00a3172.6m",
     "ticker": "CLI"
   },
   "CLIG.L": {
@@ -4219,9 +4232,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:27.375444+00:00",
-    "market_cap": "509005792",
-    "market_cap_display": "\u00a3509.0m",
+    "last_updated": "2026-11-18T07:48:53.074274+00:00",
+    "market_cap": "516450112",
+    "market_cap_display": "\u00a3516.5m",
     "ticker": "ENQ"
   },
   "ENRG.L": {
@@ -4401,9 +4414,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:13.324133+00:00",
-    "market_cap": "26163675136",
-    "market_cap_display": "\u00a326.16bn",
+    "last_updated": "2026-11-18T07:48:50.484485+00:00",
+    "market_cap": "24693977088",
+    "market_cap_display": "\u00a324.69bn",
     "ticker": "EXPN"
   },
   "EXR.L": {
@@ -5343,16 +5356,16 @@
     "ticker": "GRI"
   },
   "GRID.L": {
-    "business_description": "Gresham House Energy Storage Fund plc is an infrastructure investment fund.",
-    "company_name": "Gresham House Energy Storage Fund plc",
+    "business_description": "",
+    "company_name": "Gresham House Energy Storage Ord",
     "currency": "GBp",
     "data_source": "yfinance:GRID.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-02T19:56:46.846907+00:00",
-    "market_cap": "581868032",
-    "market_cap_display": "\u00a3581.9m",
+    "last_updated": "2026-11-18T07:49:02.820856+00:00",
+    "market_cap": "617434560",
+    "market_cap_display": "\u00a3617.4m",
     "ticker": "GRID"
   },
   "GRP.L": {
@@ -6052,9 +6065,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:20.630346+00:00",
-    "market_cap": "100821576",
-    "market_cap_display": "\u00a3100.8m",
+    "last_updated": "2026-11-18T07:49:04.115145+00:00",
+    "market_cap": "55537304",
+    "market_cap_display": "\u00a355.5m",
     "ticker": "IES"
   },
   "IFRX.L": {
@@ -6351,9 +6364,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:48:59.920146+00:00",
-    "market_cap": "4710812160",
-    "market_cap_display": "\u00a34.71bn",
+    "last_updated": "2026-11-18T07:48:56.955524+00:00",
+    "market_cap": "4185921536",
+    "market_cap_display": "\u00a34.19bn",
     "ticker": "ITH"
   },
   "ITIM.L": {
@@ -6546,9 +6559,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-10T07:49:53.397803+00:00",
-    "market_cap": "2702792192",
-    "market_cap_display": "\u00a32.70bn",
+    "last_updated": "2026-11-18T07:48:51.776249+00:00",
+    "market_cap": "2636724224",
+    "market_cap_display": "\u00a32.64bn",
     "ticker": "JET2"
   },
   "JGGI.L": {
@@ -7742,9 +7755,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-15T06:49:27.227130+00:00",
-    "market_cap": "104504616",
-    "market_cap_display": "\u00a3104.5m",
+    "last_updated": "2026-11-18T07:48:57.596288+00:00",
+    "market_cap": "103000952",
+    "market_cap_display": "\u00a3103.0m",
     "ticker": "MPAC"
   },
   "MPAL.L": {
@@ -7837,6 +7850,19 @@
     "market_cap": "47333452",
     "market_cap_display": "\u00a347.3m",
     "ticker": "MRK"
+  },
+  "MRO.L": {
+    "business_description": "Melrose Industries PLC, together with its subsidiaries, designs and delivers aerospace components and systems for civil and defence markets in the United Kingdom, rest of Europe, North America, and internationally. The\u2026",
+    "company_name": "Melrose Industries PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:MRO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-18T07:49:00.892705+00:00",
+    "market_cap": "6009928192",
+    "market_cap_display": "\u00a36.01bn",
+    "ticker": "MRO"
   },
   "MRV.L": {
     "business_description": "",
@@ -8145,9 +8171,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-05T06:48:37.234299+00:00",
-    "market_cap": "21643010",
-    "market_cap_display": "\u00a321.6m",
+    "last_updated": "2026-11-18T07:48:58.919049+00:00",
+    "market_cap": "11594470",
+    "market_cap_display": "\u00a311.6m",
     "ticker": "NEO"
   },
   "NET.L": {
@@ -8587,9 +8613,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:41.939493+00:00",
-    "market_cap": "13221005",
-    "market_cap_display": "\u00a313.2m",
+    "last_updated": "2026-11-18T07:49:04.771116+00:00",
+    "market_cap": "9548502",
+    "market_cap_display": "\u00a39.5m",
     "ticker": "ORR"
   },
   "OXB.L": {
@@ -8639,7 +8665,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T07:49:54.573814+00:00",
+    "last_updated": "2026-11-18T07:48:52.428172+00:00",
     "market_cap": "14562056",
     "market_cap_display": "\u00a314.6m",
     "ticker": "PAM"
@@ -8734,6 +8760,19 @@
     "market_cap": "90538216",
     "market_cap_display": "\u00a390.5m",
     "ticker": "PEBB"
+  },
+  "PEEL.L": {
+    "business_description": "Peel Hunt Limited engages in the integrated investment banking, research and distribution, and execution service businesses in the United Kingdom. The Investment Banking segment provides financial advisory and capital\u2026",
+    "company_name": "Peel Hunt Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:PEEL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-18T07:48:54.368416+00:00",
+    "market_cap": "103473432",
+    "market_cap_display": "\u00a3103.5m",
+    "ticker": "PEEL"
   },
   "PEG.L": {
     "business_description": "Petards Group plc, together with its subsidiaries, engages in the development, supply, and maintenance of technologies used in advanced security, communications, surveillance, and ruggedised electronic applications in\u2026",
@@ -9081,9 +9120,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:15.496656+00:00",
-    "market_cap": "12029029",
-    "market_cap_display": "\u00a312.0m",
+    "last_updated": "2026-11-18T07:49:01.536388+00:00",
+    "market_cap": "8836615",
+    "market_cap_display": "\u00a38.8m",
     "ticker": "PRD"
   },
   "PREM.L": {
@@ -9152,16 +9191,16 @@
     "ticker": "PRN"
   },
   "PRO.L": {
-    "business_description": "ProService Building Services Marketplace Plc, together with its subsidiaries, provides tool and equipment hire, and related services in the United Kingdom and the Republic of Ireland. It operates through HSS ProService,\u2026",
+    "business_description": "ProService Building Services Marketplace Plc, together with its subsidiaries, provides tool and equipment hire, and related services in the United Kingdom and the Republic of Ireland. It operates through ProService, and\u2026",
     "company_name": "ProService Building Services Marketplace Plc",
     "currency": "GBp",
     "data_source": "yfinance:PRO.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:25.158163+00:00",
-    "market_cap": "19660332",
-    "market_cap_display": "\u00a319.7m",
+    "last_updated": "2026-11-18T07:49:03.469768+00:00",
+    "market_cap": "35457140",
+    "market_cap_display": "\u00a335.5m",
     "ticker": "PRO"
   },
   "PRTC.L": {
@@ -9848,8 +9887,8 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:12.008349+00:00",
-    "market_cap": "4023311616",
+    "last_updated": "2026-11-18T07:48:59.560986+00:00",
+    "market_cap": "4016797696",
     "market_cap_display": "\u00a34.02bn",
     "ticker": "ROR"
   },
@@ -10321,6 +10360,19 @@
     "market_cap_display": "\u00a39.18bn",
     "ticker": "SDR"
   },
+  "SDY.L": {
+    "business_description": "Speedy Hire Plc, together with its subsidiaries, provides tools, equipment and specialist services to the construction, infrastructure, industrial, utilities, and energy sectors in the United Kingdom and Ireland. The\u2026",
+    "company_name": "Speedy Hire Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SDY.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-18T07:48:51.127139+00:00",
+    "market_cap": "61871448",
+    "market_cap_display": "\u00a361.9m",
+    "ticker": "SDY"
+  },
   "SEA.L": {
     "business_description": "Seascape Energy Asia plc, a full-cycle E&P company, is involved in acquiring oil and gas assets in Malaysia. The company was formerly known as Longboat Energy plc and changed its name to Seascape Energy Asia plc in\u2026",
     "company_name": "Seascape Energy Asia plc",
@@ -10615,9 +10667,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T18:50:22.699647+00:00",
-    "market_cap": "7426008576",
-    "market_cap_display": "\u00a37.43bn",
+    "last_updated": "2026-11-18T07:48:55.667345+00:00",
+    "market_cap": "7111378944",
+    "market_cap_display": "\u00a37.11bn",
     "ticker": "SMIN"
   },
   "SML.L": {
@@ -10966,9 +11018,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:14.482807+00:00",
-    "market_cap": "29810335744",
-    "market_cap_display": "\u00a329.81bn",
+    "last_updated": "2026-11-18T07:48:49.842661+00:00",
+    "market_cap": "32092864512",
+    "market_cap_display": "\u00a332.09bn",
     "ticker": "SSE"
   },
   "SSIT.L": {
@@ -11231,6 +11283,19 @@
     "market_cap_display": "\u00a31.72bn",
     "ticker": "SVS"
   },
+  "SVT.L": {
+    "business_description": "Severn Trent PLC provides water and wastewater services in the United Kingdom. It operates in two segments, Regulated Water and Wastewater, and Infrastructure Services. It offers water and wastewater services. The\u2026",
+    "company_name": "Severn Trent PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:SVT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-18T07:48:56.313131+00:00",
+    "market_cap": "9981419520",
+    "market_cap_display": "\u00a39.98bn",
+    "ticker": "SVT"
+  },
   "SWC.L": {
     "business_description": "The Smarter Web Company Plc operates as a web design agency. It offers web design packages, logo designing, SEO, animation, custom development, web development, and online marketing services. The company is based in\u2026",
     "company_name": "The Smarter Web Company Plc",
@@ -11321,6 +11386,19 @@
     "market_cap": "185584256",
     "market_cap_display": "\u00a3185.6m",
     "ticker": "SYNT"
+  },
+  "SYS.L": {
+    "business_description": "SysGroup plc, together with its subsidiaries, provides managed information technology services delivering end-to-end solutions at the intersection of cybersecurity and digital transformation in the United Kingdom and\u2026",
+    "company_name": "SysGroup plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SYS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-18T07:48:55.010860+00:00",
+    "market_cap": "29303810",
+    "market_cap_display": "\u00a329.3m",
+    "ticker": "SYS"
   },
   "SYS1.L": {
     "business_description": "System1 Group PLC, together with its subsidiaries, provides market research data and insight services in the United States, Latin America, the United Kingdom, rest of Europe, and the Asia Pacific. The company offers\u2026",
@@ -11453,16 +11531,16 @@
     "ticker": "TBTG"
   },
   "TCF.L": {
-    "business_description": "Theracryf Plc, a clinical stage therapeutics company, engages in the development of therapeutics for oncology and behavioural brain disorders. The company develops orexin-1 antagonist for the treatment of binge eating\u2026",
+    "business_description": "Theracryf Plc, a clinical stage therapeutics company, engages in the development of therapeutics for behavioural brain disorders. The company develops orexin-1 antagonist for the treatment of binge eating disorder and\u2026",
     "company_name": "Theracryf Plc",
     "currency": "GBp",
     "data_source": "yfinance:TCF.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:14.075224+00:00",
-    "market_cap": "3653238",
-    "market_cap_display": "\u00a33.7m",
+    "last_updated": "2026-11-18T07:49:02.181252+00:00",
+    "market_cap": "3545790",
+    "market_cap_display": "\u00a33.5m",
     "ticker": "TCF"
   },
   "TEK.L": {
@@ -12387,6 +12465,19 @@
     "market_cap": "814061952",
     "market_cap_display": "\u00a3814.1m",
     "ticker": "VCT"
+  },
+  "VEL.L": {
+    "business_description": "Velocity Composites plc, together with its subsidiaries, provides engineered composite and process material kits and related products to the aerospace industry in the United Kingdom, Europe, the United States, and\u2026",
+    "company_name": "Velocity Composites plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VEL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-18T07:49:00.209112+00:00",
+    "market_cap": "7243691",
+    "market_cap_display": "\u00a37.2m",
+    "ticker": "VEL"
   },
   "VIC.L": {
     "business_description": "Victorian Plumbing Group plc operates as an online retailer of bathroom products and accessories for B2C and trade customers in the United Kingdom. Its products include showers, toilets, baths, taps, radiators and\u2026",
