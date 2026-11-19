@@ -371,9 +371,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-10T19:52:20.739898+00:00",
-    "market_cap": "53951008",
-    "market_cap_display": "\u00a354.0m",
+    "last_updated": "2026-11-19T07:49:10.610449+00:00",
+    "market_cap": "42513392",
+    "market_cap_display": "\u00a342.5m",
     "ticker": "80M"
   },
   "83NF.L": {
@@ -852,9 +852,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-10T07:49:39.973883+00:00",
-    "market_cap": "57155000",
-    "market_cap_display": "\u00a357.2m",
+    "last_updated": "2026-11-19T07:49:02.602408+00:00",
+    "market_cap": "55142504",
+    "market_cap_display": "\u00a355.1m",
     "ticker": "AIRE"
   },
   "AJB.L": {
@@ -1481,6 +1481,19 @@
     "market_cap_display": "\u00a3669.5m",
     "ticker": "ATR"
   },
+  "ATT.L": {
+    "business_description": "",
+    "company_name": "Allianz Technology Trust Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:ATT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:49:12.225080+00:00",
+    "market_cap": "1943574272",
+    "market_cap_display": "\u00a31.94bn",
+    "ticker": "ATT"
+  },
   "ATYM.L": {
     "business_description": "Atalaya Mining Copper, S.A., together with its subsidiaries, engages in the mineral exploration and development in Spain. The company's flagship property is the Proyecto Riotinto, an open-pit copper mine located in the\u2026",
     "company_name": "Atalaya Mining Copper, S.A.",
@@ -1567,9 +1580,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:33.605852+00:00",
-    "market_cap": "337354688",
-    "market_cap_display": "\u00a3337.4m",
+    "last_updated": "2026-11-19T07:49:13.912768+00:00",
+    "market_cap": "248575648",
+    "market_cap_display": "\u00a3248.6m",
     "ticker": "AVCT"
   },
   "AVG.L": {
@@ -1649,6 +1662,19 @@
     "market_cap": "21379514",
     "market_cap_display": "\u00a321.4m",
     "ticker": "B90"
+  },
+  "BAB.L": {
+    "business_description": "Babcock International Group PLC, together with its subsidiaries, engages in the design, development, manufacture, and integration of specialist systems for aerospace, defense, and security in the United Kingdom, rest of\u2026",
+    "company_name": "Babcock International Group PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:BAB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:48:53.530946+00:00",
+    "market_cap": "4746417152",
+    "market_cap_display": "\u00a34.75bn",
+    "ticker": "BAB"
   },
   "BAG.L": {
     "business_description": "A.G. BARR p.l.c., together with its subsidiaries, manufactures, distributes, and sells soft drinks and cocktail solutions in the United Kingdom and internationally. It operates in three segments: Soft Drinks, Cocktail\u2026",
@@ -2334,9 +2360,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:42.601988+00:00",
-    "market_cap": "179473392",
-    "market_cap_display": "\u00a3179.5m",
+    "last_updated": "2026-11-19T07:49:05.761043+00:00",
+    "market_cap": "182707136",
+    "market_cap_display": "\u00a3182.7m",
     "ticker": "BTG"
   },
   "BTRW.L": {
@@ -2613,16 +2639,16 @@
     "ticker": "CBA"
   },
   "CBG.L": {
-    "business_description": "Close Brothers Group plc, a merchant banking company, engages in the provision of financial services to small businesses and individuals in the United Kingdom. It operates through three segments: Commercial, Retail, and\u2026",
+    "business_description": "Close Brothers Group plc, a banking company, engages in the provision of lending and deposit taking in the United Kingdom. It operates through three segments: Commercial, Retail, and Property. The company offers asset\u2026",
     "company_name": "Close Brothers Group plc",
     "currency": "GBp",
     "data_source": "yfinance:CBG.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-29T06:49:26.921901+00:00",
-    "market_cap": "581759872",
-    "market_cap_display": "\u00a3581.8m",
+    "last_updated": "2026-11-19T07:49:11.441334+00:00",
+    "market_cap": "573048448",
+    "market_cap_display": "\u00a3573.0m",
     "ticker": "CBG"
   },
   "CBKD.L": {
@@ -3387,9 +3413,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:48:58.981727+00:00",
-    "market_cap": "24287192",
-    "market_cap_display": "\u00a324.3m",
+    "last_updated": "2026-11-19T07:49:07.397070+00:00",
+    "market_cap": "17847406",
+    "market_cap_display": "\u00a317.8m",
     "ticker": "CTA"
   },
   "CTAI.L": {
@@ -4245,9 +4271,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-09T06:48:33.658672+00:00",
-    "market_cap": "1462026752",
-    "market_cap_display": "\u00a31.46bn",
+    "last_updated": "2026-11-19T07:49:04.174087+00:00",
+    "market_cap": "1264214912",
+    "market_cap_display": "\u00a31.26bn",
     "ticker": "ENOG"
   },
   "ENQ.L": {
@@ -5220,9 +5246,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-06T19:50:20.914699+00:00",
-    "market_cap": "3643203840",
-    "market_cap_display": "\u00a33.64bn",
+    "last_updated": "2026-11-19T07:49:14.774505+00:00",
+    "market_cap": "3174984960",
+    "market_cap_display": "\u00a33.17bn",
     "ticker": "GGP"
   },
   "GHH.L": {
@@ -5376,9 +5402,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-07T06:49:03.011733+00:00",
-    "market_cap": "1245903232",
-    "market_cap_display": "\u00a31.25bn",
+    "last_updated": "2026-11-19T07:48:52.738053+00:00",
+    "market_cap": "1302265472",
+    "market_cap_display": "\u00a31.30bn",
     "ticker": "GRI"
   },
   "GRID.L": {
@@ -6182,9 +6208,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:49:09.890311+00:00",
-    "market_cap": "46738992",
-    "market_cap_display": "\u00a346.7m",
+    "last_updated": "2026-11-19T07:49:09.040469+00:00",
+    "market_cap": "36794520",
+    "market_cap_display": "\u00a336.8m",
     "ticker": "IKA"
   },
   "IMB.L": {
@@ -6317,6 +6343,19 @@
     "market_cap_display": "\u00a313.6m",
     "ticker": "INSG"
   },
+  "INVP.L": {
+    "business_description": "Investec Group provides various financial products and services in South Africa, the United Kingdom, and internationally. It operates through four segments: Wealth & Investment, Private Banking, Corporate and Investment\u2026",
+    "company_name": "Investec Group",
+    "currency": "GBp",
+    "data_source": "yfinance:INVP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:49:00.987340+00:00",
+    "market_cap": "3756568320",
+    "market_cap_display": "\u00a33.76bn",
+    "ticker": "INVP"
+  },
   "IOF.L": {
     "business_description": "Iofina plc, together with its subsidiaries, explores for, develops, and produces iodine and halogen-based specialty chemical derivatives from oil and gas operations in North America, Asia, South America, Europe, and\u2026",
     "company_name": "Iofina plc",
@@ -6329,6 +6368,19 @@
     "market_cap": "97847784",
     "market_cap_display": "\u00a397.8m",
     "ticker": "IOF"
+  },
+  "IOM.L": {
+    "business_description": "iomart Group plc engages in the provision of cloud and managed hosting services in the United Kingdom and internationally. It operates through Iomart Cloud Services; Atech; and Domain & Mass Hosting segments. The\u2026",
+    "company_name": "iomart Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IOM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:49:01.816715+00:00",
+    "market_cap": "13630560",
+    "market_cap_display": "\u00a313.6m",
+    "ticker": "IOM"
   },
   "IPC.L": {
     "business_description": "International Paper Company produces and sells renewable fiber-based packaging in North America, Latin America, Europe, South America, and North Africa. It operates through two segments, Packaging Solutions North\u2026",
@@ -6642,6 +6694,19 @@
     "market_cap_display": "\u00a365.9m",
     "ticker": "JLP"
   },
+  "JMAT.L": {
+    "business_description": "Johnson Matthey Plc engages in the clean air, catalyst and hydrogen technology, and platinum group metals (PGM) service businesses in the United Kingdom, Germany, rest of Europe, the United States, rest of North\u2026",
+    "company_name": "Johnson Matthey Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:JMAT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:48:55.384734+00:00",
+    "market_cap": "2858954496",
+    "market_cap_display": "\u00a32.86bn",
+    "ticker": "JMAT"
+  },
   "JMGI.L": {
     "business_description": "",
     "company_name": "JPMorgan Emerging Markets Growth & Income plc.",
@@ -6845,9 +6910,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-21T06:47:23.002041+00:00",
-    "market_cap": "151302464",
-    "market_cap_display": "\u00a3151.3m",
+    "last_updated": "2026-11-19T07:49:06.544998+00:00",
+    "market_cap": "141846064",
+    "market_cap_display": "\u00a3141.8m",
     "ticker": "KGH"
   },
   "KIE.L": {
@@ -7097,6 +7162,19 @@
     "market_cap_display": "\u00a3126.9m",
     "ticker": "LIKE"
   },
+  "LIO.L": {
+    "business_description": "Liontrust Asset Management Plc is a publicly owned investment manager. The firm also launches equity, fixed income, , multi-asset and managed funds for its clients. It invests into the public equity and multi-asset\u2026",
+    "company_name": "Liontrust Asset Management PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:LIO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:48:56.998239+00:00",
+    "market_cap": "167052272",
+    "market_cap_display": "\u00a3167.1m",
+    "ticker": "LIO"
+  },
   "LIT.L": {
     "business_description": "Litigation Capital Management Limited provides litigation finance and risk management services in Australia and the United Kingdom. It operates through two segments: LCM and Fund. The company operates in two business\u2026",
     "company_name": "Litigation Capital Management Limited",
@@ -7326,9 +7404,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:06.647892+00:00",
-    "market_cap": "18474106",
-    "market_cap_display": "\u00a318.5m",
+    "last_updated": "2026-11-19T07:49:00.205088+00:00",
+    "market_cap": "12711945",
+    "market_cap_display": "\u00a312.7m",
     "ticker": "MANO"
   },
   "MARS.L": {
@@ -7577,6 +7655,19 @@
     "market_cap": "1963546752",
     "market_cap_display": "\u00a31.96bn",
     "ticker": "MGNS"
+  },
+  "MHA.L": {
+    "business_description": "Mha Plc offers financial and business strategy services to enterprises and individuals. The company's services include business advice, audit, accountancy, tax, vat, corporate finance, corporate recovery, counter fraud,\u2026",
+    "company_name": "Mha Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MHA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:48:58.627932+00:00",
+    "market_cap": "413516320",
+    "market_cap_display": "\u00a3413.5m",
+    "ticker": "MHA"
   },
   "MHID.L": {
     "business_description": "Mahindra & Mahindra Limited provides mobility products and farm solutions in India and internationally. It operates through Automotive; Farm Equipment; Auto Investments; Farm Investments; and Investments in Industrial\u2026",
@@ -7872,9 +7963,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:45.653856+00:00",
-    "market_cap": "47333452",
-    "market_cap_display": "\u00a347.3m",
+    "last_updated": "2026-11-19T07:49:03.392332+00:00",
+    "market_cap": "50454340",
+    "market_cap_display": "\u00a350.5m",
     "ticker": "MRK"
   },
   "MRO.L": {
@@ -7980,6 +8071,19 @@
     "market_cap": "123033896",
     "market_cap_display": "\u00a3123.0m",
     "ticker": "MTU"
+  },
+  "MUL.L": {
+    "business_description": "Mulberry Group plc, together with its subsidiaries, designs, manufactures, and sells clothing and fashion accessories for men and women in the United Kingdom, Europe, the United States, and the Asia Pacific. The company\u2026",
+    "company_name": "Mulberry Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MUL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:49:04.967059+00:00",
+    "market_cap": "196449568",
+    "market_cap_display": "\u00a3196.4m",
+    "ticker": "MUL"
   },
   "MUT.L": {
     "business_description": "",
@@ -8392,9 +8496,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T07:49:21.005212+00:00",
-    "market_cap": "277841888",
-    "market_cap_display": "\u00a3277.8m",
+    "last_updated": "2026-11-19T07:48:57.846101+00:00",
+    "market_cap": "275161728",
+    "market_cap_display": "\u00a3275.2m",
     "ticker": "NXR"
   },
   "NZI.L": {
@@ -10296,16 +10400,16 @@
     "ticker": "SCGL"
   },
   "SCLP.L": {
-    "business_description": "Scancell Holdings plc, a clinical stage biopharmaceutical company, discovers and develops of immunotherapies for the treatment of cancer in the United Kingdom. Its product candidates include SCIB1/iSCIB1+ that is in\u2026",
+    "business_description": "Scancell Holdings plc, a clinical stage biopharmaceutical company, discovers and develops of immunotherapies for the treatment of cancer in the United Kingdom. The company's product candidates include ImmunoBody, DNA\u2026",
     "company_name": "Scancell Holdings plc",
     "currency": "GBp",
     "data_source": "yfinance:SCLP.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-15T06:48:43.117398+00:00",
-    "market_cap": "126849128",
-    "market_cap_display": "\u00a3126.8m",
+    "last_updated": "2026-11-19T07:49:09.827894+00:00",
+    "market_cap": "107177336",
+    "market_cap_display": "\u00a3107.2m",
     "ticker": "SCLP"
   },
   "SCT.L": {
@@ -10563,9 +10667,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T18:50:23.199013+00:00",
-    "market_cap": "8975410176",
-    "market_cap_display": "\u00a38.98bn",
+    "last_updated": "2026-11-19T07:48:54.491406+00:00",
+    "market_cap": "10127343616",
+    "market_cap_display": "\u00a310.13bn",
     "ticker": "SGE"
   },
   "SGRO.L": {
@@ -11330,9 +11434,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-10T07:49:49.909361+00:00",
-    "market_cap": "136544896",
-    "market_cap_display": "\u00a3136.5m",
+    "last_updated": "2026-11-19T07:49:08.184857+00:00",
+    "market_cap": "132006008",
+    "market_cap_display": "\u00a3132.0m",
     "ticker": "SWC"
   },
   "SWG.L": {
@@ -11967,9 +12071,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T06:48:24.119801+00:00",
-    "market_cap": "95302032",
-    "market_cap_display": "\u00a395.3m",
+    "last_updated": "2026-11-19T07:48:56.202530+00:00",
+    "market_cap": "98360648",
+    "market_cap_display": "\u00a398.4m",
     "ticker": "TRCS"
   },
   "TRD.L": {
@@ -12357,9 +12461,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-08T06:48:31.054559+00:00",
-    "market_cap": "946291840",
-    "market_cap_display": "\u00a3946.3m",
+    "last_updated": "2026-11-19T07:49:13.123935+00:00",
+    "market_cap": "954288704",
+    "market_cap_display": "\u00a3954.3m",
     "ticker": "UPR"
   },
   "URU.L": {
@@ -13037,6 +13141,19 @@
     "market_cap": "495608928",
     "market_cap_display": "\u00a3495.6m",
     "ticker": "XPP"
+  },
+  "XPS.L": {
+    "business_description": "XPS Pensions Group plc, together with its subsidiaries, provides consulting and administration services related to UK pension schemes and insurers in the United Kingdom. It offers convent and pension advisory;\u2026",
+    "company_name": "XPS Pensions Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:XPS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T07:48:59.414016+00:00",
+    "market_cap": "714667072",
+    "market_cap_display": "\u00a3714.7m",
+    "ticker": "XPS"
   },
   "XSG.L": {
     "business_description": "Xeros Technology Group plc, together with its subsidiaries, provides technologies for the laundry and apparel industries in Europe, North America, and internationally. The company offers XOrbs, a reusable polymer\u2026",
