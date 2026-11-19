@@ -415,6 +415,19 @@
     "market_cap_display": "",
     "ticker": "90NI"
   },
+  "91VA.L": {
+    "business_description": "",
+    "company_name": "Elenia Finance Oyj 4.102% GTD SNR SEC BDS 17/12/2030 EUR",
+    "currency": "EUR",
+    "data_source": "yfinance:91VA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-19T19:51:41.772672+00:00",
+    "market_cap": "",
+    "market_cap_display": "",
+    "ticker": "91VA"
+  },
   "93TH.L": {
     "business_description": "",
     "company_name": "Alliance Oil Company Limited 10%-VAR GTD SNR NTS 11/03/2019 USD1000",
@@ -3114,9 +3127,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T07:49:56.017541+00:00",
-    "market_cap": "287023136",
-    "market_cap_display": "\u00a3287.0m",
+    "last_updated": "2026-11-19T19:51:39.905471+00:00",
+    "market_cap": "295263040",
+    "market_cap_display": "\u00a3295.3m",
     "ticker": "CNE"
   },
   "CNS.L": {
@@ -4115,9 +4128,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-10T19:52:19.064492+00:00",
-    "market_cap": "192838144",
-    "market_cap_display": "\u00a3192.8m",
+    "last_updated": "2026-11-19T19:51:40.517515+00:00",
+    "market_cap": "195342544",
+    "market_cap_display": "\u00a3195.3m",
     "ticker": "ELCO"
   },
   "ELEG.L": {
@@ -5863,16 +5876,16 @@
     "ticker": "HOC"
   },
   "HOME.L": {
-    "business_description": "Home REIT plc is a closed-ended investment company which is registered as a public company limited by shares under the Companies Act 2006. The Company is structured as an externally managed company with a board of\u2026",
+    "business_description": "",
     "company_name": "Home REIT Ord",
     "currency": "GBp",
     "data_source": "yfinance:HOME.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-06T18:50:55.411424+00:00",
-    "market_cap": "",
-    "market_cap_display": "",
+    "last_updated": "2026-11-19T19:51:43.671646+00:00",
+    "market_cap": "64826776",
+    "market_cap_display": "\u00a364.8m",
     "ticker": "HOME"
   },
   "HPOW.L": {
@@ -7001,9 +7014,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:24.107178+00:00",
-    "market_cap": "63870952",
-    "market_cap_display": "\u00a363.9m",
+    "last_updated": "2026-11-19T19:51:41.125608+00:00",
+    "market_cap": "68222656",
+    "market_cap_display": "\u00a368.2m",
     "ticker": "KOO"
   },
   "KP2.L": {
@@ -11629,9 +11642,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T19:50:52.771692+00:00",
-    "market_cap": "7054884",
-    "market_cap_display": "\u00a37.1m",
+    "last_updated": "2026-11-19T19:51:43.063699+00:00",
+    "market_cap": "13889303",
+    "market_cap_display": "\u00a313.9m",
     "ticker": "TAVI"
   },
   "TBLD.L": {
