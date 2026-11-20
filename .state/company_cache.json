@@ -59,7 +59,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:17.559941+00:00",
+    "last_updated": "2026-11-20T19:51:23.635551+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "17TZ"
@@ -85,7 +85,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-12T19:51:15.969722+00:00",
+    "last_updated": "2026-11-20T19:51:22.310038+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "33JE"
@@ -137,7 +137,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-11T19:50:18.903474+00:00",
+    "last_updated": "2026-11-20T19:51:21.597013+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "38OI"
@@ -6507,7 +6507,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:12.059133+00:00",
+    "last_updated": "2026-11-20T19:51:18.131241+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "ITRK"
@@ -7807,9 +7807,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T07:49:16.320926+00:00",
-    "market_cap": "128651696",
-    "market_cap_display": "\u00a3128.7m",
+    "last_updated": "2026-11-20T19:51:20.914574+00:00",
+    "market_cap": "136448768",
+    "market_cap_display": "\u00a3136.4m",
     "ticker": "MKA"
   },
   "MNKS.L": {
@@ -8171,7 +8171,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T18:50:55.241453+00:00",
+    "last_updated": "2026-11-20T19:51:22.975663+00:00",
     "market_cap": "3075635456",
     "market_cap_display": "$3.08bn",
     "ticker": "MYSE"
@@ -10854,6 +10854,19 @@
     "market_cap_display": "\u00a37.11bn",
     "ticker": "SMIN"
   },
+  "SMJ.L": {
+    "business_description": "J. Smart & Co. (Contractors) PLC, together with its subsidiaries, engages in the contracting, developing, and constructing public works, shopping centers, offices, factories, warehouses, local authority, and landlords\u2026",
+    "company_name": "J. Smart & Co. (Contractors) PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:SMJ.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-20T19:51:20.193443+00:00",
+    "market_cap": "42478724",
+    "market_cap_display": "\u00a342.5m",
+    "ticker": "SMJ"
+  },
   "SML.L": {
     "business_description": "Strategic Minerals Plc engages in the exploration, development, and operation of mining projects. The company operates the Cobre mine in New Mexico, which sells magnetite for use in the cement, fertilizer, dense\u2026",
     "company_name": "Strategic Minerals Plc",
@@ -11096,9 +11109,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:11.332793+00:00",
-    "market_cap": "997488448",
-    "market_cap_display": "\u00a3997.5m",
+    "last_updated": "2026-11-20T19:51:19.504948+00:00",
+    "market_cap": "999491520",
+    "market_cap_display": "\u00a3999.5m",
     "ticker": "SPI"
   },
   "SPR.L": {
