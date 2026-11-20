@@ -65,16 +65,16 @@
     "ticker": "17TZ"
   },
   "1SN.L": {
-    "business_description": "First Tin Plc engages in the exploitation and production of tin properties in Germany and Australia. Its flagship assets include the Tellerh\u00e4user Project located in Saxony, Germany; and the Taronga Project which covers\u2026",
+    "business_description": "First Tin Plc engages in the exploitation and production of tin properties in Germany and Australia. Its flagship assets include the Tellerh\u00e4user Project located in Saxony, Germany; and the Taronga Project located in\u2026",
     "company_name": "First Tin Plc",
     "currency": "GBp",
     "data_source": "yfinance:1SN.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-06T19:50:18.123989+00:00",
-    "market_cap": "75861560",
-    "market_cap_display": "\u00a375.9m",
+    "last_updated": "2026-11-20T07:48:13.563399+00:00",
+    "market_cap": "76945296",
+    "market_cap_display": "\u00a376.9m",
     "ticker": "1SN"
   },
   "33JE.L": {
@@ -956,7 +956,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-13T07:47:54.014598+00:00",
+    "last_updated": "2026-11-20T07:48:21.612236+00:00",
     "market_cap": "134652544",
     "market_cap_display": "\u00a3134.7m",
     "ticker": "ALL"
@@ -3868,9 +3868,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-12T07:50:22.979270+00:00",
-    "market_cap": "2863312640",
-    "market_cap_display": "\u00a32.86bn",
+    "last_updated": "2026-11-20T07:48:22.419407+00:00",
+    "market_cap": "2822889472",
+    "market_cap_display": "\u00a32.82bn",
     "ticker": "DRX"
   },
   "DSG.L": {
@@ -4015,6 +4015,19 @@
     "market_cap": "18879030",
     "market_cap_display": "\u00a318.9m",
     "ticker": "EDEN"
+  },
+  "EDIN.L": {
+    "business_description": "",
+    "company_name": "Edinburgh Investment Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:EDIN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-20T07:48:15.204170+00:00",
+    "market_cap": "1022602688",
+    "market_cap_display": "\u00a31.02bn",
+    "ticker": "EDIN"
   },
   "EDX.L": {
     "business_description": "EDX Medical Group Plc engages in developing a range of diagnostics testing solutions in the United Kingdom. It engages in the development of tests for diabetes, obesity, inflammatory disorders, and kidney and liver\u2026",
@@ -4544,8 +4557,8 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-17T06:48:29.688218+00:00",
-    "market_cap": "4855500",
+    "last_updated": "2026-11-20T07:48:14.365333+00:00",
+    "market_cap": "4854167",
     "market_cap_display": "\u00a34.9m",
     "ticker": "FADL"
   },
@@ -4882,9 +4895,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T18:50:20.249349+00:00",
-    "market_cap": "305157504",
-    "market_cap_display": "\u00a3305.2m",
+    "last_updated": "2026-11-20T07:48:16.792231+00:00",
+    "market_cap": "298980224",
+    "market_cap_display": "\u00a3299.0m",
     "ticker": "FRP"
   },
   "FSFL.L": {
@@ -8020,6 +8033,19 @@
     "market_cap_display": "\u00a3263.1m",
     "ticker": "MSI"
   },
+  "MTC.L": {
+    "business_description": "Mothercare plc, through its subsidiaries, operates as a specialist franchisor of products for parents and young children under the Mothercare brand. The company provides clothing, footwear, and accessories, nursery,\u2026",
+    "company_name": "Mothercare plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MTC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-20T07:48:15.991204+00:00",
+    "market_cap": "902114",
+    "market_cap_display": "\u00a3902.1k",
+    "ticker": "MTC"
+  },
   "MTE.L": {
     "business_description": "",
     "company_name": "Montanaro European Smaller Ord",
@@ -8230,15 +8256,15 @@
   },
   "NAVF.L": {
     "business_description": "",
-    "company_name": "Nippon Active Value Fund plc",
+    "company_name": "Nippon Active Value Ord",
     "currency": "GBp",
     "data_source": "yfinance:NAVF.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-16T06:48:54.906498+00:00",
-    "market_cap": "438236864",
-    "market_cap_display": "\u00a3438.2m",
+    "last_updated": "2026-11-20T07:48:19.993081+00:00",
+    "market_cap": "418496416",
+    "market_cap_display": "\u00a3418.5m",
     "ticker": "NAVF"
   },
   "NBB.L": {
@@ -8795,9 +8821,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-09T18:50:12.861641+00:00",
-    "market_cap": "21932084",
-    "market_cap_display": "\u00a321.9m",
+    "last_updated": "2026-11-20T07:48:20.812884+00:00",
+    "market_cap": "17342586",
+    "market_cap_display": "\u00a317.3m",
     "ticker": "PALM"
   },
   "PAM.L": {
@@ -8990,7 +9016,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-23T06:48:20.797819+00:00",
+    "last_updated": "2026-11-20T07:48:19.200001+00:00",
     "market_cap": "124235216",
     "market_cap_display": "\u00a3124.2m",
     "ticker": "PHAR"
@@ -9124,6 +9150,19 @@
     "market_cap": "2321755648",
     "market_cap_display": "\u00a32.32bn",
     "ticker": "PLUS"
+  },
+  "PMG.L": {
+    "business_description": "The Parkmead Group plc, an independent oil and gas company, engages in the exploration and production of oil and gas properties in Europe. It operates through three segments: Oil and Gas Exploration and Production;\u2026",
+    "company_name": "The Parkmead Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PMG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-20T07:48:17.594825+00:00",
+    "market_cap": "19668048",
+    "market_cap_display": "\u00a319.7m",
+    "ticker": "PMG"
   },
   "PMP.L": {
     "business_description": "Portmeirion Group PLC, together with its subsidiaries, manufactures, markets, and distributes ceramics, home fragrances, and associated homeware products in the United Kingdom, South Korea, North America, and\u2026",
@@ -11854,6 +11893,19 @@
     "market_cap": "699627776",
     "market_cap_display": "\u00a3699.6m",
     "ticker": "THRL"
+  },
+  "THRU.L": {
+    "business_description": "Thruvision Group plc engages in the development, manufacture, and sale of people screening security technology in the United Kingdom, Europe, the Americas, the Middle East, Africa, the Asia Pacific, and internationally.\u2026",
+    "company_name": "Thruvision Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:THRU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-20T07:48:18.394341+00:00",
+    "market_cap": "8298342",
+    "market_cap_display": "\u00a38.3m",
+    "ticker": "THRU"
   },
   "THS.L": {
     "business_description": "Tharisa plc, an investment holding company, engages in the mining, processing, sale, and logistics of platinum group metals (PGMs) and chrome concentrates in South Africa, China, Singapore, Hong Kong, the United Arab\u2026",
