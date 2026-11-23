@@ -111,7 +111,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T18:49:21.489059+00:00",
+    "last_updated": "2026-11-23T07:50:03.857918+00:00",
     "market_cap": "5522864640",
     "market_cap_display": "$5.52bn",
     "ticker": "37QB"
@@ -974,6 +974,19 @@
     "market_cap_display": "\u00a323.0m",
     "ticker": "ALRT"
   },
+  "ALT.L": {
+    "business_description": "Altitude Group plc provides end-to-end solutions for branded merchandise in corporate promotional products industry, print vertical markets, and the higher-education and collegiate sectors in North America, the United\u2026",
+    "company_name": "Altitude Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ALT.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:49:58.334816+00:00",
+    "market_cap": "13930950",
+    "market_cap_display": "\u00a313.9m",
+    "ticker": "ALT"
+  },
   "ALU.L": {
     "business_description": "The Alumasc Group plc, together with its subsidiaries, manufactures and sells building products and solutions in the United Kingdom, Europe, North America, the Middle East, the Far East, and internationally. It operates\u2026",
     "company_name": "The Alumasc Group plc",
@@ -1424,9 +1437,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:38.132952+00:00",
-    "market_cap": "43458252",
-    "market_cap_display": "\u00a343.5m",
+    "last_updated": "2026-11-23T07:49:55.899880+00:00",
+    "market_cap": "40481660",
+    "market_cap_display": "\u00a340.5m",
     "ticker": "ATC"
   },
   "ATG.L": {
@@ -2599,6 +2612,19 @@
     "market_cap_display": "\u00a3268.6m",
     "ticker": "CAPD"
   },
+  "CAR.L": {
+    "business_description": "Carclo plc, together with its subsidiaries, operates as a plastics company in the United Kingdom, the rest of Europe, North America, and internationally. It operates in two segments, CTP and Speciality. The company\u2026",
+    "company_name": "Carclo plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CAR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:49:57.113592+00:00",
+    "market_cap": "27532196",
+    "market_cap_display": "\u00a327.5m",
+    "ticker": "CAR"
+  },
   "CARD.L": {
     "business_description": "Card Factory plc operates as a specialist retailer of cards, gifts, and celebration essentials in the United Kingdom, South Africa, Republic of Ireland, the United States, and internationally. It operates through four\u2026",
     "company_name": "Card Factory plc",
@@ -2789,9 +2815,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T07:49:00.776667+00:00",
-    "market_cap": "265873568",
-    "market_cap_display": "\u00a3265.9m",
+    "last_updated": "2026-11-23T07:49:57.723599+00:00",
+    "market_cap": "252875312",
+    "market_cap_display": "\u00a3252.9m",
     "ticker": "CER"
   },
   "CGEO.L": {
@@ -3166,9 +3192,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-12T07:50:21.695044+00:00",
-    "market_cap": "37406108",
-    "market_cap_display": "\u00a337.4m",
+    "last_updated": "2026-11-23T07:50:05.078046+00:00",
+    "market_cap": "32578874",
+    "market_cap_display": "\u00a332.6m",
     "ticker": "COBR"
   },
   "CODE.L": {
@@ -3205,9 +3231,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:11.432838+00:00",
-    "market_cap": "32009350",
-    "market_cap_display": "\u00a332.0m",
+    "last_updated": "2026-11-23T07:50:01.446485+00:00",
+    "market_cap": "28381624",
+    "market_cap_display": "\u00a328.4m",
     "ticker": "COIL"
   },
   "COM.L": {
@@ -3352,6 +3378,19 @@
     "market_cap": "80260344",
     "market_cap_display": "\u00a380.3m",
     "ticker": "CRPR"
+  },
+  "CRST.L": {
+    "business_description": "Crest Nicholson Holdings plc engages in building residential homes in the United Kingdom. It develops and sells apartments, houses, and commercial properties. The company was founded in 1963 and is headquartered in\u2026",
+    "company_name": "Crest Nicholson Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CRST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:50:02.657699+00:00",
+    "market_cap": "160489312",
+    "market_cap_display": "\u00a3160.5m",
+    "ticker": "CRST"
   },
   "CRTA.L": {
     "business_description": "Cirata plc, together with its subsidiaries, engages in the development and provision of collaboration software in North America, the United Kingdom, and internationally. The company provides Data Migrator, an automated\u2026",
@@ -3873,6 +3912,19 @@
     "market_cap_display": "\u00a32.82bn",
     "ticker": "DRX"
   },
+  "DSCV.L": {
+    "business_description": "discoverIE Group plc designs, manufactures, and supplies specialist electronic components for industrial applications in the United Kingdom, Europe, North America, Asia, and internationally. It operates through\u2026",
+    "company_name": "discoverIE Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DSCV.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:50:05.684909+00:00",
+    "market_cap": "724796224",
+    "market_cap_display": "\u00a3724.8m",
+    "ticker": "DSCV"
+  },
   "DSG.L": {
     "business_description": "Dillistone Group Plc, together with its subsidiaries, provides software and services in the United Kingdom, Europe, the Americas, Australia, and internationally. It operates through Ikiru People and Central segments.\u2026",
     "company_name": "Dillistone Group Plc",
@@ -3885,6 +3937,19 @@
     "market_cap": "5135613",
     "market_cap_display": "\u00a35.1m",
     "ticker": "DSG"
+  },
+  "DSW.L": {
+    "business_description": "DSW Capital plc provides professional services in the United Kingdom. It offers asset based lending risk management, business planning and recovery, corporate finance advice, debt and tax advisory, DSW venture,\u2026",
+    "company_name": "DSW Capital plc",
+    "currency": "GBp",
+    "data_source": "yfinance:DSW.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:49:58.941970+00:00",
+    "market_cap": "11937276",
+    "market_cap_display": "\u00a311.9m",
+    "ticker": "DSW"
   },
   "DXRX.L": {
     "business_description": "Diaceutics PLC, a diagnostic commercialization company, provides data, data analytics, and implementation services for pharma and biotech companies. The company offers DXRX, a diagnostic commercialization platform for\u2026",
@@ -4973,9 +5038,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:38.791519+00:00",
-    "market_cap": "3261121",
-    "market_cap_display": "\u00a33.3m",
+    "last_updated": "2026-11-23T07:50:06.295231+00:00",
+    "market_cap": "2860892",
+    "market_cap_display": "\u00a32.9m",
     "ticker": "FUM"
   },
   "FVA.L": {
@@ -6780,9 +6845,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:34.808463+00:00",
-    "market_cap": "196174496",
-    "market_cap_display": "\u00a3196.2m",
+    "last_updated": "2026-11-23T07:50:02.050878+00:00",
+    "market_cap": "185838960",
+    "market_cap_display": "\u00a3185.8m",
     "ticker": "JSE"
   },
   "JSG.L": {
@@ -7911,9 +7976,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-06T06:48:21.642984+00:00",
-    "market_cap": "60885316",
-    "market_cap_display": "\u00a360.9m",
+    "last_updated": "2026-11-23T07:49:59.546444+00:00",
+    "market_cap": "31648926",
+    "market_cap_display": "\u00a331.6m",
     "ticker": "MPAL"
   },
   "MPE.L": {
@@ -8643,6 +8708,19 @@
     "market_cap": "61133840",
     "market_cap_display": "\u00a361.1m",
     "ticker": "OMI"
+  },
+  "OMIP.L": {
+    "business_description": "One Media iP Group Plc engages in the acquisition and exploitation of mixed media intellectual property rights for distribution through the digital medium and traditional media outlets in the United Kingdom, Europe,\u2026",
+    "company_name": "One Media iP Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:OMIP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:49:55.292073+00:00",
+    "market_cap": "9898858",
+    "market_cap_display": "\u00a39.9m",
+    "ticker": "OMIP"
   },
   "OMU.L": {
     "business_description": "Old Mutual Limited, together with its subsidiaries, provides financial solutions to retail and corporate customers in South Africa and rest of Africa. It operates through Old Mutual Life and Savings, Old Mutual\u2026",
@@ -10750,6 +10828,19 @@
     "market_cap_display": "\u00a31.50bn",
     "ticker": "SHAW"
   },
+  "SHI.L": {
+    "business_description": "SIG plc supplies specialist insulation and sustainable construction products and solutions in the United Kingdom, Ireland, France, Germany, Poland, and Benelux. The company offers insulation and interiors products,\u2026",
+    "company_name": "SIG plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SHI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:50:03.258817+00:00",
+    "market_cap": "104368760",
+    "market_cap_display": "\u00a3104.4m",
+    "ticker": "SHI"
+  },
   "SHR.L": {
     "business_description": "Shaires Holdings Ltd is a venture capital firm specializing in mid to late stage investments with lesser weighting on earlier stage. The firm is sector agnostic and prefers to invest in technology, energy, materials,\u2026",
     "company_name": "Shaires Holdings Ltd",
@@ -10914,9 +11005,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T06:48:56.159525+00:00",
-    "market_cap": "8583748608",
-    "market_cap_display": "\u00a38.58bn",
+    "last_updated": "2026-11-23T07:50:04.470529+00:00",
+    "market_cap": "9574672384",
+    "market_cap_display": "\u00a39.57bn",
     "ticker": "SN"
   },
   "SNDA.L": {
@@ -12050,6 +12141,19 @@
     "market_cap_display": "\u00a39.9m",
     "ticker": "TND"
   },
+  "TON.L": {
+    "business_description": "Titon Holdings Plc, together with its subsidiaries, designs, manufactures, and supplies mechanical ventilation systems, and window and door hardware products in the United Kingdom, North America, Europe, and\u2026",
+    "company_name": "Titon Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TON.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T07:49:54.684822+00:00",
+    "market_cap": "9730169",
+    "market_cap_display": "\u00a39.7m",
+    "ticker": "TON"
+  },
   "TOO.L": {
     "business_description": "Tooru Plc focuses on the health and wellness sector. It provides gluten-free food products through its brand. Tooru Plc is based in London, United Kingdom.",
     "company_name": "Tooru Plc",
@@ -12344,8 +12448,8 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-18T18:49:16.904820+00:00",
-    "market_cap": "14158348288",
+    "last_updated": "2026-11-23T07:50:00.155507+00:00",
+    "market_cap": "14155543552",
     "market_cap_display": "$14.16bn",
     "ticker": "TTST"
   },
