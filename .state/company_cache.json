@@ -826,9 +826,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T19:51:04.056051+00:00",
-    "market_cap": "55619200",
-    "market_cap_display": "\u00a355.6m",
+    "last_updated": "2026-11-23T19:51:53.458619+00:00",
+    "market_cap": "53784600",
+    "market_cap_display": "\u00a353.8m",
     "ticker": "AIC"
   },
   "AIE.L": {
@@ -1567,9 +1567,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-29T07:48:20.178356+00:00",
-    "market_cap": "229745936",
-    "market_cap_display": "\u00a3229.7m",
+    "last_updated": "2026-11-23T19:51:56.422677+00:00",
+    "market_cap": "219477952",
+    "market_cap_display": "\u00a3219.5m",
     "ticker": "AUSC"
   },
   "AUTO.L": {
@@ -2438,9 +2438,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T19:51:06.849442+00:00",
-    "market_cap": "524394304",
-    "market_cap_display": "\u00a3524.4m",
+    "last_updated": "2026-11-23T19:51:51.990573+00:00",
+    "market_cap": "557333632",
+    "market_cap_display": "\u00a3557.3m",
     "ticker": "BUR"
   },
   "BVC.L": {
@@ -4141,9 +4141,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-12T19:51:16.590021+00:00",
-    "market_cap": "255543648",
-    "market_cap_display": "\u00a3255.5m",
+    "last_updated": "2026-11-23T19:51:55.678408+00:00",
+    "market_cap": "247971984",
+    "market_cap_display": "\u00a3248.0m",
     "ticker": "EGL"
   },
   "EGT.L": {
@@ -6161,6 +6161,19 @@
     "market_cap_display": "\u00a357.1m",
     "ticker": "ICFG"
   },
+  "ICGC.L": {
+    "business_description": "Irish Continental Group plc operates as a maritime transport company in Ireland, the United Kingdom, and Continental Europe. It operates through two segments, Ferries, and Container and Terminal. The Ferries segment\u2026",
+    "company_name": "Irish Continental Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:ICGC.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-23T19:51:57.900409+00:00",
+    "market_cap": "972235968",
+    "market_cap_display": "\u00a3972.2m",
+    "ticker": "ICGC"
+  },
   "ICON.L": {
     "business_description": "Iconic Labs Plc does not have significant operations. Previously, it was engaged in the identification and acquisition of companies in the online media, artificial intelligence, and big data gathering, processing, and\u2026",
     "company_name": "Iconic Labs Plc",
@@ -6481,9 +6494,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T07:48:57.134570+00:00",
-    "market_cap": "13557824512",
-    "market_cap_display": "\u00a313.56bn",
+    "last_updated": "2026-11-23T19:51:54.193917+00:00",
+    "market_cap": "11836616704",
+    "market_cap_display": "\u00a311.84bn",
     "ticker": "IPC"
   },
   "IPO.L": {
@@ -6884,9 +6897,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-29T07:48:19.526243+00:00",
-    "market_cap": "426977280",
-    "market_cap_display": "\u00a3427.0m",
+    "last_updated": "2026-11-23T19:51:54.936375+00:00",
+    "market_cap": "410913984",
+    "market_cap_display": "\u00a3410.9m",
     "ticker": "JUGI"
   },
   "JUSC.L": {
@@ -7573,9 +7586,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T18:50:07.660473+00:00",
-    "market_cap": "9832637",
-    "market_cap_display": "\u00a39.8m",
+    "last_updated": "2026-11-23T19:51:57.160381+00:00",
+    "market_cap": "5314939",
+    "market_cap_display": "\u00a35.3m",
     "ticker": "MBO"
   },
   "MCB.L": {
@@ -12071,9 +12084,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:06.756283+00:00",
-    "market_cap": "326487456",
-    "market_cap_display": "\u00a3326.5m",
+    "last_updated": "2026-11-23T19:51:52.725485+00:00",
+    "market_cap": "123171376",
+    "market_cap_display": "\u00a3123.2m",
     "ticker": "TLW"
   },
   "TMG.L": {
