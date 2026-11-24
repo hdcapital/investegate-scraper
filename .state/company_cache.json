@@ -1143,6 +1143,19 @@
     "market_cap_display": "\u00a335.21bn",
     "ticker": "ANTO"
   },
+  "AO.L": {
+    "business_description": "AO World plc, together with its subsidiaries, engages in the online retailing of domestic appliances and ancillary services in the United Kingdom and Germany. It retails fridges and freezers, laundry products, and\u2026",
+    "company_name": "AO World plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:41.160831+00:00",
+    "market_cap": "505959904",
+    "market_cap_display": "\u00a3506.0m",
+    "ticker": "AO"
+  },
   "AOF.L": {
     "business_description": "Africa Opportunity Fund Limited is close ended balanced mutual fund launched and managed by Africa Opportunity Partners Limited. The fund invests in equity and fixed income markets of Africa. It seeks to invest in\u2026",
     "company_name": "Africa Opportunity Fund Limited",
@@ -1164,9 +1177,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:48:57.385028+00:00",
-    "market_cap": "161401872",
-    "market_cap_display": "\u00a3161.4m",
+    "last_updated": "2026-11-24T07:49:40.546830+00:00",
+    "market_cap": "49885492",
+    "market_cap_display": "\u00a349.9m",
     "ticker": "AOM"
   },
   "AOTI.L": {
@@ -1450,9 +1463,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-13T07:47:53.272092+00:00",
-    "market_cap": "582441728",
-    "market_cap_display": "\u00a3582.4m",
+    "last_updated": "2026-11-24T07:49:36.245513+00:00",
+    "market_cap": "538365120",
+    "market_cap_display": "\u00a3538.4m",
     "ticker": "ATG"
   },
   "ATM.L": {
@@ -1663,6 +1676,19 @@
     "market_cap_display": "\u00a373.6m",
     "ticker": "AXL"
   },
+  "AXS.L": {
+    "business_description": "Accsys Technologies PLC, together with its subsidiaries, engages in the production and sale of solid wood and wood elements in the United Kingdom, Ireland, rest of Europe, the Americas, and internationally. It offers\u2026",
+    "company_name": "Accsys Technologies PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:AXS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:38.104080+00:00",
+    "market_cap": "133997832",
+    "market_cap_display": "\u00a3134.0m",
+    "ticker": "AXS"
+  },
   "AZN.L": {
     "business_description": "AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi,\u2026",
     "company_name": "AstraZeneca PLC",
@@ -1723,9 +1749,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T06:50:31.889649+00:00",
-    "market_cap": "13860008",
-    "market_cap_display": "\u00a313.9m",
+    "last_updated": "2026-11-24T07:49:51.017490+00:00",
+    "market_cap": "12870007",
+    "market_cap_display": "\u00a312.9m",
     "ticker": "BANK"
   },
   "BARC.L": {
@@ -1814,9 +1840,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:43.358690+00:00",
-    "market_cap": "4127398400",
-    "market_cap_display": "\u00a34.13bn",
+    "last_updated": "2026-11-24T07:49:49.190850+00:00",
+    "market_cap": "4047450368",
+    "market_cap_display": "\u00a34.05bn",
     "ticker": "BBY"
   },
   "BEM.L": {
@@ -2274,6 +2300,19 @@
     "market_cap_display": "\u00a34.14bn",
     "ticker": "BRBY"
   },
+  "BRCK.L": {
+    "business_description": "BRCK Group plc, together with its subsidiaries, distributes specialist products and services to the construction industry in the United Kingdom. It operates through two segments: Distribution; and Design and Install.\u2026",
+    "company_name": "BRCK Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:BRCK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:38.717077+00:00",
+    "market_cap": "112498184",
+    "market_cap_display": "\u00a3112.5m",
+    "ticker": "BRCK"
+  },
   "BRES.L": {
     "business_description": "Blencowe Resources Plc engages in the exploration, evaluation, and development of mineral resources in Uganda. The company holds a 100% interest in the Orom-Cross graphite project covering an area of approximately\u2026",
     "company_name": "Blencowe Resources Plc",
@@ -2546,6 +2585,19 @@
     "market_cap": "33688300",
     "market_cap_display": "\u00a333.7m",
     "ticker": "BZT"
+  },
+  "CABP.L": {
+    "business_description": "CAB Payments Holdings plc, through its subsidiaries, provides business-to-business cross-border payments and foreign exchange (FX) services in the Americas, the United Kingdom, the rest of Europe, Africa, the Middle\u2026",
+    "company_name": "CAB Payments Holdings plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CABP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:52.246270+00:00",
+    "market_cap": "209183232",
+    "market_cap_display": "\u00a3209.2m",
+    "ticker": "CABP"
   },
   "CAGL.L": {
     "business_description": "Coastal Africa Group Limited is a principal investment firm. Coastal Africa Group Limited is based in Road Town, British Virgin Islands. Coastal Africa Group Limited operates as a subsidiary of The Crest Trust.",
@@ -3054,6 +3106,19 @@
     "market_cap_display": "\u00a3215.7m",
     "ticker": "CLIG"
   },
+  "CLX.L": {
+    "business_description": "Calnex Solutions plc engages in the design, production, and marketing of test and measurement instrumentation and solutions in the Americas, North Asia, and internationally. The company offers time and synchronization\u2026",
+    "company_name": "Calnex Solutions plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CLX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:46.751986+00:00",
+    "market_cap": "42363560",
+    "market_cap_display": "\u00a342.4m",
+    "ticker": "CLX"
+  },
   "CMCL.L": {
     "business_description": "Caledonia Mining Corporation Plc engages in the exploration, development, and production of gold in Zimbabwe. The company is also involved in the exploration and development of mineral properties for precious metals. It\u2026",
     "company_name": "Caledonia Mining Corporation Plc",
@@ -3184,6 +3249,19 @@
     "market_cap_display": "\u00a33.7m",
     "ticker": "CNSL"
   },
+  "COA.L": {
+    "business_description": "Coats Group plc engages in the provision of essential materials, components, and software solutions for the apparel and footwear industries in Europe, the Middle East, Africa, the Americas, and Asia. The company\u2026",
+    "company_name": "Coats Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:COA.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:51.635686+00:00",
+    "market_cap": "1435564288",
+    "market_cap_display": "\u00a31.44bn",
+    "ticker": "COA"
+  },
   "COBR.L": {
     "business_description": "Cobra Resources plc, together with its subsidiaries, engages in the exploration, development, and mining of precious base metal projects in the United Kingdom and Australia. The company primarily explores rare earths,\u2026",
     "company_name": "Cobra Resources plc",
@@ -3289,16 +3367,16 @@
     "ticker": "CORA"
   },
   "CORD.L": {
-    "business_description": "Cordiant Digital Infrastructure Limited is an infrastructure investment fund specializes in investments in buy & build, capital expenditure and bolt-on acquisitions and digital infrastructure assets in the\u2026",
-    "company_name": "Cordiant Digital Infrastructure Limited",
+    "business_description": "Corilis Digital Infrastructure Limited is an infrastructure investment fund specializes in investments in buy & build, capital expenditure and bolt-on acquisitions and digital infrastructure assets in the middle-market.\u2026",
+    "company_name": "Corilis Digital Infrastructure Limited",
     "currency": "GBp",
     "data_source": "yfinance:CORD.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-11T19:50:20.209577+00:00",
-    "market_cap": "934176128",
-    "market_cap_display": "\u00a3934.2m",
+    "last_updated": "2026-11-24T07:49:37.491211+00:00",
+    "market_cap": "911204608",
+    "market_cap_display": "\u00a3911.2m",
     "ticker": "CORD"
   },
   "CORO.L": {
@@ -3313,6 +3391,19 @@
     "market_cap": "3093060",
     "market_cap_display": "\u00a33.1m",
     "ticker": "CORO"
+  },
+  "CPG.L": {
+    "business_description": "Compass Group PLC provides food and support services in North America and internationally. The company offers support services, such as cleaning in hospitals; reception services at corporate headquarters; managing\u2026",
+    "company_name": "Compass Group PLC",
+    "currency": "USD",
+    "data_source": "yfinance:CPG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:36.859592+00:00",
+    "market_cap": "57487843328",
+    "market_cap_display": "$57.49bn",
+    "ticker": "CPG"
   },
   "CPH2.L": {
     "business_description": "Clean Power Hydrogen plc, a green hydrogen technology and manufacturing company, engages in the development of hydrogen and oxygen production solutions. The company also provides membrane-free electrolyser technology,\u2026",
@@ -3573,6 +3664,19 @@
     "market_cap": "880351616",
     "market_cap_display": "\u00a3880.4m",
     "ticker": "CVSG"
+  },
+  "CWK.L": {
+    "business_description": "Cranswick plc engages in the production and supply of food products to grocery retailers, food service sector, and other food producers in the United Kingdom, Continental Europe, and internationally. The company offers\u2026",
+    "company_name": "Cranswick plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CWK.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:46.139092+00:00",
+    "market_cap": "2894877184",
+    "market_cap_display": "\u00a32.89bn",
+    "ticker": "CWK"
   },
   "CWR.L": {
     "business_description": "Ceres Power Holdings plc engages in the development and commercialization of fuel cell and electrochemical technology in Europe, Asia, and North America. The company offers cell, stack, and factory; power system and\u2026",
@@ -4011,9 +4115,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:25.951825+00:00",
-    "market_cap": "122116936",
-    "market_cap_display": "\u00a3122.1m",
+    "last_updated": "2026-11-24T07:49:49.799465+00:00",
+    "market_cap": "122166960",
+    "market_cap_display": "\u00a3122.2m",
     "ticker": "ECEL"
   },
   "ECO.L": {
@@ -4315,6 +4419,19 @@
     "market_cap_display": "\u00a314.0m",
     "ticker": "EMH"
   },
+  "EML.L": {
+    "business_description": "Emmerson PLC engages in the exploration and development of potash in Morocco. The company's project, includes the Khemisset Potash project located in northern Morocco. Emmerson PLC was incorporated in 2016 and is based\u2026",
+    "company_name": "Emmerson PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:EML.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:48.580427+00:00",
+    "market_cap": "14031845",
+    "market_cap_display": "\u00a314.0m",
+    "ticker": "EML"
+  },
   "EMR.L": {
     "business_description": "Empresaria Group plc provides staffing and recruitment services in the United Kingdom, Europe, the Asia Pacific, and the Americas. The company offers permanent placement, temporary and contract staffing, executive\u2026",
     "company_name": "Empresaria Group plc",
@@ -4388,9 +4505,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T19:51:39.511049+00:00",
-    "market_cap": "248168752",
-    "market_cap_display": "\u00a3248.2m",
+    "last_updated": "2026-11-24T07:49:50.409023+00:00",
+    "market_cap": "246189728",
+    "market_cap_display": "\u00a3246.2m",
     "ticker": "ENRG"
   },
   "ENSI.L": {
@@ -5133,6 +5250,19 @@
     "market_cap": "983921536",
     "market_cap_display": "\u00a3983.9m",
     "ticker": "GAMA"
+  },
+  "GBG.L": {
+    "business_description": "GB Group plc, together with its subsidiaries, provides identity data intelligence products and services in the United Kingdom, the United States, Australia, and internationally. It operates through the Location and\u2026",
+    "company_name": "GB Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GBG.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:34.995664+00:00",
+    "market_cap": "319715968",
+    "market_cap_display": "\u00a3319.7m",
+    "ticker": "GBG"
   },
   "GCG.L": {
     "business_description": "Golden Rock Global plc does not have significant operations. The company intends to acquire a company or businesses in the financial and technology sector. Golden Rock Global plc was incorporated in 2016 and is based in\u2026",
@@ -6265,6 +6395,19 @@
     "market_cap_display": "\u00a33.19bn",
     "ticker": "IGG"
   },
+  "IGP.L": {
+    "business_description": "Intercede Group plc, a cybersecurity company, develops and supplies identity and credential management software for digital trust primarily in the United Kingdom, rest of Europe, the United States, and internationally.\u2026",
+    "company_name": "Intercede Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IGP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:47.359273+00:00",
+    "market_cap": "89078312",
+    "market_cap_display": "\u00a389.1m",
+    "ticker": "IGP"
+  },
   "IGR.L": {
     "business_description": "IG Design Group plc engages in the design, production, and distribution of gift packaging, arty, goods not for resale, craft, stationery, and homeware consumable products in the United Kingdom, Europe, and Australia.\u2026",
     "company_name": "IG Design Group plc",
@@ -6273,9 +6416,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-25T06:47:47.974707+00:00",
-    "market_cap": "81595576",
-    "market_cap_display": "\u00a381.6m",
+    "last_updated": "2026-11-24T07:49:35.619407+00:00",
+    "market_cap": "86025280",
+    "market_cap_display": "\u00a386.0m",
     "ticker": "IGR"
   },
   "IHC.L": {
@@ -6707,6 +6850,19 @@
     "market_cap_display": "\u00a3856.9m",
     "ticker": "JDW"
   },
+  "JEGI.L": {
+    "business_description": "",
+    "company_name": "JPMorgan European Growth & Income Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:JEGI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:43.012870+00:00",
+    "market_cap": "799046592",
+    "market_cap_display": "\u00a3799.0m",
+    "ticker": "JEGI"
+  },
   "JEL.L": {
     "business_description": "Jersey Electricity plc, together with its subsidiaries, engages in the importation, generation, transmission, distribution, and supply of electricity in Jersey. It operates through Energy, Building Services, Retail,\u2026",
     "company_name": "Jersey Electricity plc",
@@ -7066,9 +7222,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-02T06:48:04.716008+00:00",
-    "market_cap": "42594492",
-    "market_cap_display": "\u00a342.6m",
+    "last_updated": "2026-11-24T07:49:53.466277+00:00",
+    "market_cap": "34993016",
+    "market_cap_display": "\u00a335.0m",
     "ticker": "KMK"
   },
   "KNOS.L": {
@@ -7339,9 +7495,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:10.634728+00:00",
-    "market_cap": "4375605248",
-    "market_cap_display": "\u00a34.38bn",
+    "last_updated": "2026-11-24T07:49:34.384676+00:00",
+    "market_cap": "4473165824",
+    "market_cap_display": "\u00a34.47bn",
     "ticker": "LMP"
   },
   "LND.L": {
@@ -7521,9 +7677,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T06:48:47.929127+00:00",
-    "market_cap": "294211200",
-    "market_cap_display": "\u00a3294.2m",
+    "last_updated": "2026-11-24T07:49:39.936853+00:00",
+    "market_cap": "365297536",
+    "market_cap_display": "\u00a3365.3m",
     "ticker": "MARS"
   },
   "MATD.L": {
@@ -8982,6 +9138,19 @@
     "market_cap_display": "\u00a3498.2m",
     "ticker": "PCGH"
   },
+  "PCIP.L": {
+    "business_description": "PCI-PAL PLC, through its subsidiaries, engages in the provision of payment card industry (PCI) compliance solutions and telephony services primarily in the United Kingdom, the United States, Canada, rest of Europe, and\u2026",
+    "company_name": "PCI-PAL PLC",
+    "currency": "GBp",
+    "data_source": "yfinance:PCIP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:45.524037+00:00",
+    "market_cap": "59824536",
+    "market_cap_display": "\u00a359.8m",
+    "ticker": "PCIP"
+  },
   "PCTN.L": {
     "business_description": "Picton Property Income Limited owns and actively manages a 702 million pounds UK commercial property portfolio. It has invested across 45 assets and with around 300 occupiers (as at 30 June 2026). Through an occupier\u2026",
     "company_name": "Picton Property Income Limited",
@@ -9332,6 +9501,19 @@
     "market_cap": "541242624",
     "market_cap_display": "\u00a3541.2m",
     "ticker": "POLN"
+  },
+  "POLR.L": {
+    "business_description": "Polar Capital Holdings plc is a publicly owned investment manager. The firm provides its services to professional and institutional investors. It launches and manages equity and balanced mutual funds. The firm also\u2026",
+    "company_name": "Polar Capital Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:POLR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:42.404103+00:00",
+    "market_cap": "667774016",
+    "market_cap_display": "\u00a3667.8m",
+    "ticker": "POLR"
   },
   "POW.L": {
     "business_description": "Power Metal Resources plc, together with its subsidiaries, engages in the exploration and exploitation of mineral resources in Africa, Australia, North America, and the Middle East. It primarily explores nickel,\u2026",
@@ -10108,9 +10290,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-01T06:50:35.454938+00:00",
-    "market_cap": "745720384",
-    "market_cap_display": "\u00a3745.7m",
+    "last_updated": "2026-11-24T07:49:43.653255+00:00",
+    "market_cap": "815384256",
+    "market_cap_display": "\u00a3815.4m",
     "ticker": "RNWH"
   },
   "ROAD.L": {
@@ -10511,9 +10693,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-24T06:48:27.541905+00:00",
-    "market_cap": "24621022",
-    "market_cap_display": "\u00a324.6m",
+    "last_updated": "2026-11-24T07:49:44.263032+00:00",
+    "market_cap": "10366747",
+    "market_cap_display": "\u00a310.4m",
     "ticker": "SBTX"
   },
   "SCF.L": {
@@ -10788,6 +10970,19 @@
     "market_cap": "356901632",
     "market_cap_display": "\u00a3356.9m",
     "ticker": "SFOR"
+  },
+  "SFR.L": {
+    "business_description": "Severfield plc, a structural steelwork company, engages in the designing, fabrication, and erection of structural steelwork in the United Kingdom, Republic of Ireland, Europe, and internationally. The company offers\u2026",
+    "company_name": "Severfield plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SFR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:39.325713+00:00",
+    "market_cap": "112207264",
+    "market_cap_display": "\u00a3112.2m",
+    "ticker": "SFR"
   },
   "SFT.L": {
     "business_description": "Software Circle plc, together with its subsidiaries, licenses a suite of mission critical software in the United Kingdom, Ireland, Europe, Belgium, the Netherlands, New Zealand, South Africa, and the United States. It\u2026",
@@ -11517,6 +11712,19 @@
     "market_cap_display": "\u00a323.29bn",
     "ticker": "SUNB"
   },
+  "SUP.L": {
+    "business_description": "Supreme Plc owns, manufactures, and distributes fast-moving branded and discounted consumer goods in the United Kingdom, Ireland, Spain, France, Rest of Europe, and internationally. The company offers batteries under\u2026",
+    "company_name": "Supreme Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:SUP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:44.874721+00:00",
+    "market_cap": "143127712",
+    "market_cap_display": "\u00a3143.1m",
+    "ticker": "SUP"
+  },
   "SUPR.L": {
     "business_description": "Supermarket Income REIT plc, a FTSE 250 company, is the only LSE listed company dedicated to investing in grocery properties which are an essential part of national food infrastructure. The Company focuses on grocery\u2026",
     "company_name": "Supermarket Income REIT plc",
@@ -11880,6 +12088,19 @@
     "market_cap": "89511392",
     "market_cap_display": "\u00a389.5m",
     "ticker": "TENG"
+  },
+  "TEP.L": {
+    "business_description": "Telecom Plus Plc provides utility services in the United Kingdom. It is involved in the resale of various services, including gas, electricity, fixed line telephony, mobile telephony, broadband, and insurance under the\u2026",
+    "company_name": "Telecom Plus Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TEP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T07:49:41.792695+00:00",
+    "market_cap": "672713280",
+    "market_cap_display": "\u00a3672.7m",
+    "ticker": "TEP"
   },
   "TERA.L": {
     "business_description": "NeoTerra Group Plc, a junior exploration company, engages in the exploration and development of critical raw materials mining projects in Africa. Its flagship project is the Monte Muambe located in Northwest Mozambique,\u2026",
@@ -12539,9 +12760,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-11T07:49:41.332749+00:00",
-    "market_cap": "6792656",
-    "market_cap_display": "\u00a36.8m",
+    "last_updated": "2026-11-24T07:49:54.078764+00:00",
+    "market_cap": "5611324",
+    "market_cap_display": "\u00a35.6m",
     "ticker": "UFO"
   },
   "UJO.L": {
@@ -12981,9 +13202,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T19:49:32.330545+00:00",
-    "market_cap": "",
-    "market_cap_display": "",
+    "last_updated": "2026-11-24T07:49:52.857025+00:00",
+    "market_cap": "1164517888",
+    "market_cap_display": "\u00a31.16bn",
     "ticker": "VSVS"
   },
   "VTU.L": {
