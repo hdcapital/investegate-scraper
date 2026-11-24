@@ -1437,9 +1437,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-12T07:50:10.407585+00:00",
-    "market_cap": "489284576",
-    "market_cap_display": "\u00a3489.3m",
+    "last_updated": "2026-11-24T19:50:22.475971+00:00",
+    "market_cap": "490894048",
+    "market_cap_display": "\u00a3490.9m",
     "ticker": "AT"
   },
   "ATC.L": {
@@ -5290,6 +5290,19 @@
     "market_cap_display": "\u00a3614.5m",
     "ticker": "GCP"
   },
+  "GDR.L": {
+    "business_description": "genedrive plc engages in the design, development, and manufacture of molecular diagnostics testing equipment for use in genotyping, pathogen detection, infectious disease detection, and other clinical indications. The\u2026",
+    "company_name": "genedrive plc",
+    "currency": "GBp",
+    "data_source": "yfinance:GDR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T19:50:21.584527+00:00",
+    "market_cap": "12105985",
+    "market_cap_display": "\u00a312.1m",
+    "ticker": "GDR"
+  },
   "GDWN.L": {
     "business_description": "Goodwin PLC, together with its subsidiaries, provides refractory engineering and technological solutions in the United Kingdom, rest of Europe, the United States, the Pacific Basin, and internationally. It designs,\u2026",
     "company_name": "Goodwin PLC",
@@ -7005,6 +7018,19 @@
     "market_cap": "33320980",
     "market_cap_display": "\u00a333.3m",
     "ticker": "JOG"
+  },
+  "JPEL.L": {
+    "business_description": "JPEL Private Equity Limited is a private equity fund managers specializing in direct, secondary direct, and fund of funds investments. The fund primarily invests in private equity partnerships, buyout funds, venture\u2026",
+    "company_name": "JPEL Private Equity Limited",
+    "currency": "USD",
+    "data_source": "yfinance:JPEL.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-24T19:50:25.073448+00:00",
+    "market_cap": "19839470",
+    "market_cap_display": "$19.8m",
+    "ticker": "JPEL"
   },
   "JSE.L": {
     "business_description": "Jadestone Energy plc operates as an independent oil and gas development and production company in Australia, Malaysia, Indonesia, and Vietnam. Its flagship asset is the 100%-owned Akatara gas, liquefied petroleum gas,\u2026",
@@ -9120,9 +9146,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T18:51:16.776407+00:00",
-    "market_cap": "30033792",
-    "market_cap_display": "\u00a330.0m",
+    "last_updated": "2026-11-24T19:50:24.239768+00:00",
+    "market_cap": "27809068",
+    "market_cap_display": "\u00a327.8m",
     "ticker": "PCA"
   },
   "PCGH.L": {
@@ -9133,9 +9159,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T19:51:50.202467+00:00",
-    "market_cap": "498189216",
-    "market_cap_display": "\u00a3498.2m",
+    "last_updated": "2026-11-24T19:50:25.901329+00:00",
+    "market_cap": "504666240",
+    "market_cap_display": "\u00a3504.7m",
     "ticker": "PCGH"
   },
   "PCIP.L": {
@@ -12513,9 +12539,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-17T07:49:23.494967+00:00",
-    "market_cap": "118568056",
-    "market_cap_display": "\u00a3118.6m",
+    "last_updated": "2026-11-24T19:50:28.430560+00:00",
+    "market_cap": "90479040",
+    "market_cap_display": "\u00a390.5m",
     "ticker": "TRI"
   },
   "TRIG.L": {
@@ -12942,9 +12968,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T19:52:47.981244+00:00",
-    "market_cap": "194366016",
-    "market_cap_display": "\u00a3194.4m",
+    "last_updated": "2026-11-24T19:50:27.618109+00:00",
+    "market_cap": "191653936",
+    "market_cap_display": "\u00a3191.7m",
     "ticker": "UTL"
   },
   "UU.L": {
@@ -13514,9 +13540,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T06:48:20.791526+00:00",
-    "market_cap": "122818040",
-    "market_cap_display": "\u00a3122.8m",
+    "last_updated": "2026-11-24T19:50:23.435223+00:00",
+    "market_cap": "112302800",
+    "market_cap_display": "\u00a3112.3m",
     "ticker": "XAR"
   },
   "XGDU.L": {
@@ -13696,9 +13722,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:17.797496+00:00",
-    "market_cap": "30012218",
-    "market_cap_display": "\u00a330.0m",
+    "last_updated": "2026-11-24T19:50:26.791070+00:00",
+    "market_cap": "30531254",
+    "market_cap_display": "\u00a330.5m",
     "ticker": "ZEN"
   },
   "ZIN.L": {
