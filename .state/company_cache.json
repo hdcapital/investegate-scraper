@@ -618,9 +618,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-17T07:49:30.196016+00:00",
-    "market_cap": "390296256",
-    "market_cap_display": "\u00a3390.3m",
+    "last_updated": "2026-11-25T19:50:38.492837+00:00",
+    "market_cap": "341509216",
+    "market_cap_display": "\u00a3341.5m",
     "ticker": "ACG"
   },
   "ACSO.L": {
@@ -774,9 +774,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T18:50:22.467921+00:00",
-    "market_cap": "83287024",
-    "market_cap_display": "\u00a383.3m",
+    "last_updated": "2026-11-25T19:50:42.709383+00:00",
+    "market_cap": "90017672",
+    "market_cap_display": "\u00a390.0m",
     "ticker": "AEX"
   },
   "AFP.L": {
@@ -1352,16 +1352,16 @@
     "ticker": "ASAI"
   },
   "ASC.L": {
-    "business_description": "ASOS Plc, together with its subsidiaries, operates as an online fashion retailer in the United Kingdom, the European Union, the United States, and internationally. The company sells fashion products under the ASOS\u2026",
+    "business_description": "ASOS Plc, together with its subsidiaries, operates as an online fashion retailer in the United Kingdom, the European Union, the United States, and internationally. The company offers fashion products under the ASOS\u2026",
     "company_name": "ASOS Plc",
     "currency": "GBp",
     "data_source": "yfinance:ASC.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T07:48:49.099299+00:00",
-    "market_cap": "572258048",
-    "market_cap_display": "\u00a3572.3m",
+    "last_updated": "2026-11-25T19:50:43.372859+00:00",
+    "market_cap": "577840704",
+    "market_cap_display": "\u00a3577.8m",
     "ticker": "ASC"
   },
   "ASHM.L": {
@@ -6923,9 +6923,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-27T07:48:39.326946+00:00",
-    "market_cap": "504116320",
-    "market_cap_display": "\u00a3504.1m",
+    "last_updated": "2026-11-25T19:50:39.855289+00:00",
+    "market_cap": "448958496",
+    "market_cap_display": "\u00a3449.0m",
     "ticker": "JEMI"
   },
   "JET2.L": {
@@ -10927,9 +10927,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T07:49:51.694507+00:00",
-    "market_cap": "180224976",
-    "market_cap_display": "\u00a3180.2m",
+    "last_updated": "2026-11-25T19:50:41.974915+00:00",
+    "market_cap": "155987008",
+    "market_cap_display": "\u00a3156.0m",
     "ticker": "SEE"
   },
   "SEED.L": {
@@ -10966,9 +10966,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T07:48:54.967421+00:00",
-    "market_cap": "100877856",
-    "market_cap_display": "\u00a3100.9m",
+    "last_updated": "2026-11-25T19:50:36.405515+00:00",
+    "market_cap": "89669200",
+    "market_cap_display": "\u00a389.7m",
     "ticker": "SEI"
   },
   "SEIT.L": {
@@ -13181,6 +13181,19 @@
     "market_cap_display": "\u00a312.1m",
     "ticker": "VINO"
   },
+  "VIP.L": {
+    "business_description": "",
+    "company_name": "Value and Indexed Property Income Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:VIP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T19:50:37.091153+00:00",
+    "market_cap": "88398736",
+    "market_cap_display": "\u00a388.4m",
+    "ticker": "VIP"
+  },
   "VLE.L": {
     "business_description": "Volvere plc is a private equity and venture capital firm specializing in start-up, early or development-stage, distressed/vulture, growth capital, acquisitions, emerging growth and turnaround investments. The firm\u2026",
     "company_name": "Volvere plc",
@@ -13644,7 +13657,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-17T19:51:57.098934+00:00",
+    "last_updated": "2026-11-25T19:50:37.764873+00:00",
     "market_cap": "",
     "market_cap_display": "",
     "ticker": "XGDU"
