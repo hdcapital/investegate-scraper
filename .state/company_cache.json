@@ -1034,9 +1034,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:05.635113+00:00",
-    "market_cap": "32912520",
-    "market_cap_display": "\u00a332.9m",
+    "last_updated": "2026-11-25T07:48:45.825294+00:00",
+    "market_cap": "35239668",
+    "market_cap_display": "\u00a335.2m",
     "ticker": "AMGO"
   },
   "AMIF.L": {
@@ -2204,9 +2204,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-22T06:48:30.861503+00:00",
-    "market_cap": "189108640",
-    "market_cap_display": "\u00a3189.1m",
+    "last_updated": "2026-11-25T07:48:43.241130+00:00",
+    "market_cap": "196511472",
+    "market_cap_display": "\u00a3196.5m",
     "ticker": "BOOT"
   },
   "BOW.L": {
@@ -2755,6 +2755,19 @@
     "market_cap_display": "$5.64bn",
     "ticker": "CBKD"
   },
+  "CBOX.L": {
+    "business_description": "Cake Box Holdings Plc, together with its subsidiaries, engages in the retail of fresh cream celebration cakes in the United Kingdom and France. It operates through two segments, Cake Box and Ambala. The company sells\u2026",
+    "company_name": "Cake Box Holdings Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CBOX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T07:48:46.468952+00:00",
+    "market_cap": "73920000",
+    "market_cap_display": "\u00a373.9m",
+    "ticker": "CBOX"
+  },
   "CCC.L": {
     "business_description": "Computacenter plc provides technology and services to corporate and public sector organizations in the United Kingdom, Germany, Western Europe, North America, and internationally. It offers procurement, specialist,\u2026",
     "company_name": "Computacenter plc",
@@ -3036,9 +3049,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:08.854950+00:00",
-    "market_cap": "9320061",
-    "market_cap_display": "\u00a39.3m",
+    "last_updated": "2026-11-25T07:48:45.178683+00:00",
+    "market_cap": "7828851",
+    "market_cap_display": "\u00a37.8m",
     "ticker": "CLA"
   },
   "CLBS.L": {
@@ -4381,16 +4394,16 @@
     "ticker": "EMAN"
   },
   "EME.L": {
-    "business_description": "Empyrean Energy Plc engages in the exploration, development, and production of energy resource projects. It holds an 8.5% operating interest in the Duyung PSC project that covers an area of approximately 1,100- square\u2026",
+    "business_description": "Empyrean Energy Plc engages in the exploration, development, and production of energy resource projects in Australia, Indonesia, and North America. The company was incorporated in 2005 and is based in Subiaco, Australia.",
     "company_name": "Empyrean Energy Plc",
     "currency": "GBp",
     "data_source": "yfinance:EME.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T18:49:30.022175+00:00",
-    "market_cap": "3860779",
-    "market_cap_display": "\u00a33.9m",
+    "last_updated": "2026-11-25T07:48:51.111330+00:00",
+    "market_cap": "2915901",
+    "market_cap_display": "\u00a32.9m",
     "ticker": "EME"
   },
   "EMG.L": {
@@ -4661,9 +4674,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-10T19:52:21.549148+00:00",
-    "market_cap": "892381440",
-    "market_cap_display": "\u00a3892.4m",
+    "last_updated": "2026-11-25T07:48:40.025926+00:00",
+    "market_cap": "847416512",
+    "market_cap_display": "\u00a3847.4m",
     "ticker": "EWI"
   },
   "EXPN.L": {
@@ -6039,9 +6052,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-23T06:48:30.272775+00:00",
-    "market_cap": "210682448",
-    "market_cap_display": "\u00a3210.7m",
+    "last_updated": "2026-11-25T07:48:38.724877+00:00",
+    "market_cap": "212386080",
+    "market_cap_display": "\u00a3212.4m",
     "ticker": "HLCL"
   },
   "HLMA.L": {
@@ -6130,9 +6143,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T19:52:08.613885+00:00",
-    "market_cap": "20044406",
-    "market_cap_display": "\u00a320.0m",
+    "last_updated": "2026-11-25T07:48:47.755314+00:00",
+    "market_cap": "18017444",
+    "market_cap_display": "\u00a318.0m",
     "ticker": "HREE"
   },
   "HSBA.L": {
@@ -6351,9 +6364,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-30T06:51:02.918041+00:00",
-    "market_cap": "171757696",
-    "market_cap_display": "\u00a3171.8m",
+    "last_updated": "2026-11-25T07:48:37.404311+00:00",
+    "market_cap": "158156976",
+    "market_cap_display": "\u00a3158.2m",
     "ticker": "IEM"
   },
   "IES.L": {
@@ -6667,6 +6680,19 @@
     "market_cap": "627233600",
     "market_cap_display": "\u00a3627.2m",
     "ticker": "IPO"
+  },
+  "IPX.L": {
+    "business_description": "Impax Asset Management Group Plc is a publicly owned investment manager. Through its subsidiaries, it provides investment services to funds specializing in the environmental markets sector, with a focus on alternative\u2026",
+    "company_name": "Impax Asset Management Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:IPX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T07:48:41.312399+00:00",
+    "market_cap": "97805616",
+    "market_cap_display": "\u00a397.8m",
+    "ticker": "IPX"
   },
   "IQE.L": {
     "business_description": "IQE plc, together with its subsidiaries, develops, manufactures, and sells advanced semiconductor materials. It operates through three segments: Wireless, Photonics, and CMOS++. The company manufactures and sells\u2026",
@@ -7794,9 +7820,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:01.547173+00:00",
-    "market_cap": "239917584",
-    "market_cap_display": "\u00a3239.9m",
+    "last_updated": "2026-11-25T07:48:38.080540+00:00",
+    "market_cap": "271110528",
+    "market_cap_display": "\u00a3271.1m",
     "ticker": "MCG"
   },
   "MCJ.L": {
@@ -8496,9 +8522,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-19T06:48:27.840392+00:00",
-    "market_cap": "4843817",
-    "market_cap_display": "\u00a34.8m",
+    "last_updated": "2026-11-25T07:48:39.370791+00:00",
+    "market_cap": "3995465",
+    "market_cap_display": "\u00a34.0m",
     "ticker": "NANO"
   },
   "NAS.L": {
@@ -8721,6 +8747,19 @@
     "market_cap": "247425",
     "market_cap_display": "\u00a3247.4k",
     "ticker": "NOG"
+  },
+  "NRR.L": {
+    "business_description": "NewRiver REIT plc (NewRiver) is a leading Real Estate Investment Trust specializing in buying, managing and developing resilient retail assets throughout the UK. Following the completion of its acquisition of Capital &\u2026",
+    "company_name": "NewRiver REIT plc",
+    "currency": "GBp",
+    "data_source": "yfinance:NRR.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T07:48:40.670976+00:00",
+    "market_cap": "342813504",
+    "market_cap_display": "\u00a3342.8m",
+    "ticker": "NRR"
   },
   "NTBR.L": {
     "business_description": "Northern Bear PLC, together with its subsidiaries, provides construction and building services for residential, commercial, and public sectors in the United Kingdom. It operates through three segments: Roofing\u2026",
@@ -9254,6 +9293,19 @@
     "market_cap": "14289161",
     "market_cap_display": "\u00a314.3m",
     "ticker": "PEN"
+  },
+  "PETS.L": {
+    "business_description": "Pets at Home Group Plc engages in the omnichannel retailing of pet food, pet related products, and pet accessories in the United Kingdom. The company operates through four segments: Retail, Vet Group, Insurance, and\u2026",
+    "company_name": "Pets at Home Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:PETS.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T07:48:43.884816+00:00",
+    "market_cap": "1123146368",
+    "market_cap_display": "\u00a31.12bn",
+    "ticker": "PETS"
   },
   "PEYS.L": {
     "business_description": "Princess Private Equity Holding Limited specializes in private equity and debt investments in non-public companies or assets through privately negotiated transactions. The fund invests in primary and secondary fund\u2026",
@@ -10043,9 +10095,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:26.299823+00:00",
-    "market_cap": "29175776",
-    "market_cap_display": "$29.2m",
+    "last_updated": "2026-11-25T07:48:51.754904+00:00",
+    "market_cap": "28714132",
+    "market_cap_display": "$28.7m",
     "ticker": "RCOI"
   },
   "RDT.L": {
@@ -10381,9 +10433,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-03T06:48:25.242120+00:00",
-    "market_cap": "3380400384",
-    "market_cap_display": "\u00a33.38bn",
+    "last_updated": "2026-11-25T07:48:49.783047+00:00",
+    "market_cap": "3044337152",
+    "market_cap_display": "\u00a33.04bn",
     "ticker": "ROSE"
   },
   "RPI.L": {
@@ -10945,6 +10997,19 @@
     "market_cap_display": "\u00a34.97bn",
     "ticker": "SEPL"
   },
+  "SEQI.L": {
+    "business_description": "",
+    "company_name": "Sequoia Economic Infrastructure Income Fund Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SEQI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T07:48:42.603966+00:00",
+    "market_cap": "1184432000",
+    "market_cap_display": "\u00a31.18bn",
+    "ticker": "SEQI"
+  },
   "SER.L": {
     "business_description": "Serica Energy plc, together with its subsidiaries, engages in identifying, acquiring, exploring, and exploiting of oil and gas reserves in the United Kingdom. It produces and sale gas, oil, and natural gas liquids. The\u2026",
     "company_name": "Serica Energy plc",
@@ -11018,9 +11083,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-02T06:48:18.598411+00:00",
-    "market_cap": "60462908",
-    "market_cap_display": "\u00a360.5m",
+    "last_updated": "2026-11-25T07:48:44.525575+00:00",
+    "market_cap": "62413328",
+    "market_cap_display": "\u00a362.4m",
     "ticker": "SFT"
   },
   "SGE.L": {
@@ -11200,9 +11265,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-06T07:48:20.419751+00:00",
-    "market_cap": "137752528",
-    "market_cap_display": "\u00a3137.8m",
+    "last_updated": "2026-11-25T07:48:47.110796+00:00",
+    "market_cap": "126507416",
+    "market_cap_display": "\u00a3126.5m",
     "ticker": "SML"
   },
   "SMT.L": {
@@ -12726,6 +12791,19 @@
     "market_cap_display": "\u00a3716.0m",
     "ticker": "TUN"
   },
+  "TUNE.L": {
+    "business_description": "Focusrite plc engages in the development, manufacturing, and marketing of professional audio and electronic music products in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company operates\u2026",
+    "company_name": "Focusrite plc",
+    "currency": "GBp",
+    "data_source": "yfinance:TUNE.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T07:48:50.465291+00:00",
+    "market_cap": "139858880",
+    "market_cap_display": "\u00a3139.9m",
+    "ticker": "TUNE"
+  },
   "TXP.L": {
     "business_description": "Touchstone Exploration Inc. engages in the exploration, development, acquisition, production, and sale of petroleum and natural gas properties in the Republic of Trinidad and Tobago. The company also operates upstream\u2026",
     "company_name": "Touchstone Exploration Inc.",
@@ -13193,6 +13271,19 @@
     "market_cap": "4179691",
     "market_cap_display": "\u00a34.2m",
     "ticker": "VOX"
+  },
+  "VP.L": {
+    "business_description": "Vp plc provides equipment rental and related services in the United Kingdom and internationally. The company provides materials handling solutions, including telehandlers and plant and equipment for residential\u2026",
+    "company_name": "Vp plc",
+    "currency": "GBp",
+    "data_source": "yfinance:VP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-25T07:48:41.953109+00:00",
+    "market_cap": "197181120",
+    "market_cap_display": "\u00a3197.2m",
+    "ticker": "VP"
   },
   "VRCI.L": {
     "business_description": "Verici Dx plc, together with its subsidiary, Verici Dx Inc, develops prognostic and diagnostic tests for kidney transplant patients in the United Kingdom and the United States. The company develops Tutivia, a\u2026",
