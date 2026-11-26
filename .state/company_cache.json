@@ -1320,9 +1320,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:39.262924+00:00",
-    "market_cap": "8510481",
-    "market_cap_display": "\u00a38.5m",
+    "last_updated": "2026-11-26T19:50:20.595776+00:00",
+    "market_cap": "6078914",
+    "market_cap_display": "\u00a36.1m",
     "ticker": "ARS"
   },
   "ART.L": {
@@ -2392,16 +2392,16 @@
     "ticker": "BSRT"
   },
   "BSV.L": {
-    "business_description": "British Smaller Companies VCT plc is an evergreen fund and a venture capital trust specializing in private equity and venture capital investments with a focus on early stage, mid and late venture, later stage,\u2026",
-    "company_name": "British Smaller Companies VCT plc",
+    "business_description": "",
+    "company_name": "British Smaller Companies VCT Ord",
     "currency": "GBp",
     "data_source": "yfinance:BSV.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-10T18:49:29.267265+00:00",
-    "market_cap": "302755200",
-    "market_cap_display": "\u00a3302.8m",
+    "last_updated": "2026-11-26T19:50:17.229903+00:00",
+    "market_cap": "301533216",
+    "market_cap_display": "\u00a3301.5m",
     "ticker": "BSV"
   },
   "BTC.L": {
@@ -5285,9 +5285,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T07:49:14.177987+00:00",
-    "market_cap": "163406608",
-    "market_cap_display": "\u00a3163.4m",
+    "last_updated": "2026-11-26T19:50:18.618947+00:00",
+    "market_cap": "150836864",
+    "market_cap_display": "\u00a3150.8m",
     "ticker": "GAL"
   },
   "GAMA.L": {
@@ -5532,9 +5532,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-19T07:49:14.774505+00:00",
-    "market_cap": "3174984960",
-    "market_cap_display": "\u00a33.17bn",
+    "last_updated": "2026-11-26T19:50:21.996192+00:00",
+    "market_cap": "3079182080",
+    "market_cap_display": "\u00a33.08bn",
     "ticker": "GGP"
   },
   "GHH.L": {
@@ -5766,9 +5766,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-28T07:48:26.033726+00:00",
-    "market_cap": "77075234816",
-    "market_cap_display": "\u00a377.08bn",
+    "last_updated": "2026-11-26T19:50:23.319937+00:00",
+    "market_cap": "78402002944",
+    "market_cap_display": "\u00a378.40bn",
     "ticker": "GSK"
   },
   "GTC.L": {
@@ -5922,9 +5922,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T07:49:05.125886+00:00",
-    "market_cap": "1929337216",
-    "market_cap_display": "\u00a31.93bn",
+    "last_updated": "2026-11-26T19:50:22.652575+00:00",
+    "market_cap": "1859811584",
+    "market_cap_display": "\u00a31.86bn",
     "ticker": "HCM"
   },
   "HDD.L": {
@@ -5965,6 +5965,19 @@
     "market_cap": "8429680",
     "market_cap_display": "\u00a38.4m",
     "ticker": "HEAD"
+  },
+  "HELD.L": {
+    "business_description": "Hellenic Dynamics Plc engages in the cultivation and supply of tetrahydrocannabinol (THC) dominant strains of medical cannabis flowers in Europe. It offers medical cannabis product. The company was incorporated in 2007\u2026",
+    "company_name": "Hellenic Dynamics Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:HELD.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-26T19:50:23.972542+00:00",
+    "market_cap": "1395621",
+    "market_cap_display": "\u00a31.4m",
+    "ticker": "HELD"
   },
   "HEMO.L": {
     "business_description": "Hemogenyx Pharmaceuticals Plc, a clinical-stage biotechnology company, focuses on the discovery, development, and commercialization of treatments for blood cancer in the United Kingdom and the United States. The\u2026",
@@ -6533,9 +6546,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-17T07:49:25.919912+00:00",
-    "market_cap": "22225098752",
-    "market_cap_display": "\u00a322.23bn",
+    "last_updated": "2026-11-26T19:50:19.280942+00:00",
+    "market_cap": "25531207680",
+    "market_cap_display": "\u00a325.53bn",
     "ticker": "IMB"
   },
   "IMI.L": {
@@ -9900,9 +9913,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:16.217992+00:00",
-    "market_cap": "1634974848",
-    "market_cap_display": "\u20ac1.63bn",
+    "last_updated": "2026-11-26T19:50:19.938713+00:00",
+    "market_cap": "1700373760",
+    "market_cap_display": "\u20ac1.70bn",
     "ticker": "PTSB"
   },
   "PULS.L": {
@@ -10205,16 +10218,16 @@
     "ticker": "RENX"
   },
   "RESI.L": {
-    "business_description": "Residential Secure Income plc is a real estate investment trust (REIT) focused on delivering secure, inflation-linked returns. With a focus on two residential sub-sectors in UK residential - independent retirement\u2026",
-    "company_name": "Residential Secure Income plc",
+    "business_description": "",
+    "company_name": "Residential Secure Income Ord",
     "currency": "GBp",
     "data_source": "yfinance:RESI.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-13T18:50:19.920863+00:00",
-    "market_cap": "12591104",
-    "market_cap_display": "\u00a312.6m",
+    "last_updated": "2026-11-26T19:50:21.326266+00:00",
+    "market_cap": "13146593",
+    "market_cap_display": "\u00a313.1m",
     "ticker": "RESI"
   },
   "REVB.L": {
@@ -11668,7 +11681,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T07:49:43.705267+00:00",
+    "last_updated": "2026-11-26T19:50:17.920914+00:00",
     "market_cap": "187013312",
     "market_cap_display": "\u00a3187.0m",
     "ticker": "SRT"
