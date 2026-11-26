@@ -761,9 +761,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T07:49:48.808281+00:00",
-    "market_cap": "159944144",
-    "market_cap_display": "\u00a3159.9m",
+    "last_updated": "2026-11-26T07:48:42.729765+00:00",
+    "market_cap": "159309456",
+    "market_cap_display": "\u00a3159.3m",
     "ticker": "AEWU"
   },
   "AEX.L": {
@@ -1255,9 +1255,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:49:04.622052+00:00",
-    "market_cap": "130967408",
-    "market_cap_display": "\u00a3131.0m",
+    "last_updated": "2026-11-26T07:48:55.386591+00:00",
+    "market_cap": "141167360",
+    "market_cap_display": "\u00a3141.2m",
     "ticker": "ARBB"
   },
   "ARC.L": {
@@ -1547,16 +1547,16 @@
     "ticker": "ATYM"
   },
   "AURA.L": {
-    "business_description": "Aura Energy Limited, together with its subsidiaries, explores and evaluates mineral properties in Mauritania and Sweden. The company explores for uranium, vanadium, gold, and base metals. Its flagship property is the\u2026",
+    "business_description": "Aura Energy Limited, together with its subsidiaries, explores and evaluates mineral properties in Mauritania and Sweden. The company explores for uranium, vanadium, gold, and base metals. Its flagship properties include\u2026",
     "company_name": "Aura Energy Limited",
     "currency": "GBp",
     "data_source": "yfinance:AURA.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T06:48:22.987211+00:00",
-    "market_cap": "44258712",
-    "market_cap_display": "\u00a344.3m",
+    "last_updated": "2026-11-26T07:48:54.604392+00:00",
+    "market_cap": "33066854",
+    "market_cap_display": "\u00a333.1m",
     "ticker": "AURA"
   },
   "AURR.L": {
@@ -1671,9 +1671,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-27T06:47:58.694209+00:00",
-    "market_cap": "73610072",
-    "market_cap_display": "\u00a373.6m",
+    "last_updated": "2026-11-26T07:48:47.462658+00:00",
+    "market_cap": "84329984",
+    "market_cap_display": "\u00a384.3m",
     "ticker": "AXL"
   },
   "AXS.L": {
@@ -3144,6 +3144,19 @@
     "market_cap": "306944384",
     "market_cap_display": "\u00a3306.9m",
     "ticker": "CMCL"
+  },
+  "CMCX.L": {
+    "business_description": "CMC Markets Plc, together with its subsidiaries, provides a platform for investing, trading, and brokerage in the United Kingdom, Australia, and internationally. It operates through Trading and Investing segments. The\u2026",
+    "company_name": "CMC Markets Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CMCX.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-26T07:48:44.279075+00:00",
+    "market_cap": "1753077504",
+    "market_cap_display": "\u00a31.75bn",
+    "ticker": "CMCX"
   },
   "CMET.L": {
     "business_description": "Capital Metals Limited engages in the mineral sands project. The company is based in British Virgin Islands.",
@@ -4926,6 +4939,19 @@
     "market_cap_display": "\u00a34.4m",
     "ticker": "FIN"
   },
+  "FIPP.L": {
+    "business_description": "Frontier IP Group Plc, through its subsidiaries, engages in the commercialization of intellectual property developed by universities, academics, scientists, and engineers in the United Kingdom. The company also provides\u2026",
+    "company_name": "Frontier IP Group Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FIPP.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-26T07:48:45.130124+00:00",
+    "market_cap": "12387656",
+    "market_cap_display": "\u00a312.4m",
+    "ticker": "FIPP"
+  },
   "FKE.L": {
     "business_description": "Fiske plc, together with its subsidiaries, provides financial intermediation services in the United Kingdom. It offers discretionary investment management, such as investment management in line with the agreed strategy,\u2026",
     "company_name": "Fiske plc",
@@ -5056,6 +5082,19 @@
     "market_cap_display": "\u00a3106.3m",
     "ticker": "FOXT"
   },
+  "FPO.L": {
+    "business_description": "First Property Group plc is a real estate investment firm. It provides fund management, financial, and technical services to the property industry in the United Kingdom and other European countries. The firm manages\u2026",
+    "company_name": "First Property Group plc",
+    "currency": "GBp",
+    "data_source": "yfinance:FPO.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-26T07:48:50.630751+00:00",
+    "market_cap": "23654896",
+    "market_cap_display": "\u00a323.7m",
+    "ticker": "FPO"
+  },
   "FRAS.L": {
     "business_description": "Frasers Group Plc, together with its subsidiaries, engages in the retail of sports and leisure clothing, footwear and equipment, and premium and luxury apparel through department stores, shops, and online. It operates\u2026",
     "company_name": "Frasers Group Plc",
@@ -5116,9 +5155,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-08T06:48:37.920896+00:00",
-    "market_cap": "495571680",
-    "market_cap_display": "\u00a3495.6m",
+    "last_updated": "2026-11-26T07:48:49.854390+00:00",
+    "market_cap": "468695040",
+    "market_cap_display": "\u00a3468.7m",
     "ticker": "FSG"
   },
   "FSJ.L": {
@@ -6039,9 +6078,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T19:52:48.658714+00:00",
-    "market_cap": "2544781568",
-    "market_cap_display": "\u00a32.54bn",
+    "last_updated": "2026-11-26T07:48:43.501128+00:00",
+    "market_cap": "2604134912",
+    "market_cap_display": "\u00a32.60bn",
     "ticker": "HICL"
   },
   "HLCL.L": {
@@ -7630,6 +7669,19 @@
     "market_cap_display": "\u00a3243.8m",
     "ticker": "LSL"
   },
+  "LTHM.L": {
+    "business_description": "James Latham plc, together with its subsidiaries, distributes timber, panels, and decorative surfaces in the United Kingdom, the Republic of Ireland, the rest of Europe, and internationally. The company offers melamine,\u2026",
+    "company_name": "James Latham plc",
+    "currency": "GBp",
+    "data_source": "yfinance:LTHM.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-26T07:48:52.230885+00:00",
+    "market_cap": "211680016",
+    "market_cap_display": "\u00a3211.7m",
+    "ticker": "LTHM"
+  },
   "LUCE.L": {
     "business_description": "Luceco plc, together with its subsidiaries, designs, manufactures, and delivers residential and commercial electrification products and systems in the United Kingdom, Europe, the Americas, the Middle East, Africa, and\u2026",
     "company_name": "Luceco plc",
@@ -7655,6 +7707,19 @@
     "market_cap": "1651986432",
     "market_cap_display": "\u00a31.65bn",
     "ticker": "LWDB"
+  },
+  "MAB.L": {
+    "business_description": "Mitchells & Butlers plc operates and manages restaurants, pubs, and bars in the United Kingdom and Germany. The company offers its products and services under the Alex, All Bar One, Browns, Castle, Ego, Ember Inns,\u2026",
+    "company_name": "Mitchells & Butlers plc",
+    "currency": "GBp",
+    "data_source": "yfinance:MAB.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-26T07:48:46.688060+00:00",
+    "market_cap": "1823730176",
+    "market_cap_display": "\u00a31.82bn",
+    "ticker": "MAB"
   },
   "MAB1.L": {
     "business_description": "Mortgage Advice Bureau (Holdings) plc, together with its subsidiaries, provides mortgage advice, and advice on protection and general insurance products in the United Kingdom. The company provides advice on protection\u2026",
@@ -8340,9 +8405,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:12.173481+00:00",
-    "market_cap": "202445824",
-    "market_cap_display": "\u00a3202.4m",
+    "last_updated": "2026-11-26T07:48:48.237669+00:00",
+    "market_cap": "190195760",
+    "market_cap_display": "\u00a3190.2m",
     "ticker": "MTE"
   },
   "MTEC.L": {
@@ -9731,9 +9796,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-18T07:49:03.469768+00:00",
-    "market_cap": "35457140",
-    "market_cap_display": "\u00a335.5m",
+    "last_updated": "2026-11-26T07:48:49.080079+00:00",
+    "market_cap": "25075546",
+    "market_cap_display": "\u00a325.1m",
     "ticker": "PRO"
   },
   "PRTC.L": {
@@ -10381,9 +10446,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-16T18:50:23.585705+00:00",
-    "market_cap": "95369704",
-    "market_cap_display": "\u00a395.4m",
+    "last_updated": "2026-11-26T07:48:45.901851+00:00",
+    "market_cap": "106956680",
+    "market_cap_display": "\u00a3107.0m",
     "ticker": "ROAD"
   },
   "ROC.L": {
@@ -10407,9 +10472,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T06:50:27.307277+00:00",
-    "market_cap": "11508876",
-    "market_cap_display": "\u00a311.5m",
+    "last_updated": "2026-11-26T07:48:53.827026+00:00",
+    "market_cap": "14988302",
+    "market_cap_display": "\u00a315.0m",
     "ticker": "ROCK"
   },
   "ROR.L": {
@@ -11556,6 +11621,19 @@
     "market_cap_display": "\u00a31.59bn",
     "ticker": "SRE"
   },
+  "SREI.L": {
+    "business_description": "Schroder Real Estate Investment Trust Limited as of 30 June 2025, the underlying portfolio comprised 37 properties valued at 481.6 million pounds. It generated annual rent of 29.0 million pounds, reflecting a net\u2026",
+    "company_name": "Schroder Real Estate Investment Trust Limited",
+    "currency": "GBp",
+    "data_source": "yfinance:SREI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-26T07:48:51.442710+00:00",
+    "market_cap": "398832448",
+    "market_cap_display": "\u00a3398.8m",
+    "ticker": "SREI"
+  },
   "SRES.L": {
     "business_description": "Sunrise Resources plc, together with its subsidiaries, engages in the acquisition, exploration, and development of mineral projects in the United States and Western Australia. The company explores for gold, copper,\u2026",
     "company_name": "Sunrise Resources plc",
@@ -11681,9 +11759,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-14T18:50:23.215245+00:00",
-    "market_cap": "38628796",
-    "market_cap_display": "\u00a338.6m",
+    "last_updated": "2026-11-26T07:48:53.053483+00:00",
+    "market_cap": "29937362",
+    "market_cap_display": "\u00a329.9m",
     "ticker": "STAR"
   },
   "STB.L": {
