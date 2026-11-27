@@ -3686,9 +3686,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T19:51:37.991216+00:00",
-    "market_cap": "51894328",
-    "market_cap_display": "\u00a351.9m",
+    "last_updated": "2026-11-27T19:50:12.582641+00:00",
+    "market_cap": "52359936",
+    "market_cap_display": "\u00a352.4m",
     "ticker": "CTHT"
   },
   "CTL.L": {
@@ -3803,9 +3803,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T19:52:49.367764+00:00",
-    "market_cap": "135788480",
-    "market_cap_display": "\u00a3135.8m",
+    "last_updated": "2026-11-27T19:50:13.252967+00:00",
+    "market_cap": "133767824",
+    "market_cap_display": "\u00a3133.8m",
     "ticker": "CYN"
   },
   "DAR.L": {
@@ -8886,9 +8886,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-18T19:50:51.104869+00:00",
-    "market_cap": "247425",
-    "market_cap_display": "\u00a3247.4k",
+    "last_updated": "2026-11-27T19:50:09.858032+00:00",
+    "market_cap": "123712",
+    "market_cap_display": "\u00a3123.7k",
     "ticker": "NOG"
   },
   "NRR.L": {
@@ -10888,9 +10888,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-22T06:48:54.165759+00:00",
-    "market_cap": "7844432384",
-    "market_cap_display": "\u00a37.84bn",
+    "last_updated": "2026-11-27T19:50:11.925457+00:00",
+    "market_cap": "7406178816",
+    "market_cap_display": "\u00a37.41bn",
     "ticker": "SBRY"
   },
   "SBSI.L": {
@@ -12500,9 +12500,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T07:49:48.087534+00:00",
-    "market_cap": "305179072",
-    "market_cap_display": "\u00a3305.2m",
+    "last_updated": "2026-11-27T19:50:13.951084+00:00",
+    "market_cap": "263698432",
+    "market_cap_display": "\u00a3263.7m",
     "ticker": "THS"
   },
   "TIA.L": {
@@ -12539,9 +12539,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-05T07:49:06.843917+00:00",
-    "market_cap": "53999012",
-    "market_cap_display": "\u00a354.0m",
+    "last_updated": "2026-11-27T19:50:10.504932+00:00",
+    "market_cap": "54295392",
+    "market_cap_display": "\u00a354.3m",
     "ticker": "TIME"
   },
   "TLW.L": {
