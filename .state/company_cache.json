@@ -514,7 +514,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:11.086366+00:00",
+    "last_updated": "2026-11-27T07:48:16.333959+00:00",
     "market_cap": "34980572",
     "market_cap_display": "\u00a335.0m",
     "ticker": "AAU"
@@ -1416,6 +1416,19 @@
     "market_cap_display": "$21.7m",
     "ticker": "ASPL"
   },
+  "AST.L": {
+    "business_description": "Ascent Resources Plc engages in the onshore oil and gas and helium production and development operations in the United States and Slovenia. The company was incorporated in 2004 and is headquartered in London, the United\u2026",
+    "company_name": "Ascent Resources Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:AST.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-27T07:48:21.787841+00:00",
+    "market_cap": "3879992",
+    "market_cap_display": "\u00a33.9m",
+    "ticker": "AST"
+  },
   "ASY.L": {
     "business_description": "Andrews Sykes Group plc, an investment holding company, engages in the hire, sale, and installation of environmental control equipment in the United Kingdom, Rest of Europe, the Middle East, Africa, and internationally.\u2026",
     "company_name": "Andrews Sykes Group plc",
@@ -1853,7 +1866,7 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-12T06:48:56.566731+00:00",
+    "last_updated": "2026-11-27T07:48:19.371831+00:00",
     "market_cap": "3447406",
     "market_cap_display": "\u00a33.4m",
     "ticker": "BEM"
@@ -1896,6 +1909,19 @@
     "market_cap": "162755600",
     "market_cap_display": "\u00a3162.8m",
     "ticker": "BGCG"
+  },
+  "BGEU.L": {
+    "business_description": "",
+    "company_name": "Baillie Gifford European Growth Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:BGEU.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-27T07:48:18.141607+00:00",
+    "market_cap": "346101856",
+    "market_cap_display": "\u00a3346.1m",
+    "ticker": "BGEU"
   },
   "BGFD.L": {
     "business_description": "",
@@ -2789,9 +2815,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-16T07:48:56.404103+00:00",
-    "market_cap": "15446006784",
-    "market_cap_display": "\u00a315.45bn",
+    "last_updated": "2026-11-27T07:48:20.576660+00:00",
+    "market_cap": "15905232896",
+    "market_cap_display": "\u00a315.91bn",
     "ticker": "CCH"
   },
   "CCP.L": {
@@ -2832,6 +2858,19 @@
     "market_cap": "53532544",
     "market_cap_display": "\u00a353.5m",
     "ticker": "CCT"
+  },
+  "CDFF.L": {
+    "business_description": "Cardiff Property Plc including Campmoss, specialises in property investment and development in the Thames Valley. The total portfolio under management, valued in excess of 22m pounds, is primarily located to the west of\u2026",
+    "company_name": "Cardiff Property Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CDFF.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-27T07:48:21.180284+00:00",
+    "market_cap": "27153280",
+    "market_cap_display": "\u00a327.2m",
+    "ticker": "CDFF"
   },
   "CDGP.L": {
     "business_description": "Chapel Down Group Plc, through its subsidiaries, engages in the production and sale of alcoholic beverages in the United Kingdom and internationally. The company offers wines and spirits, including gin, vodka,\u2026",
@@ -2884,6 +2923,19 @@
     "market_cap": "252875312",
     "market_cap_display": "\u00a3252.9m",
     "ticker": "CER"
+  },
+  "CFYN.L": {
+    "business_description": "Caffyns plc operates as a motor vehicle retailer in the south-east of the United Kingdom. The company offers a range of new and used cars; and sells tires, oil, parts, and accessories, as well as provides aftersales,\u2026",
+    "company_name": "Caffyns plc",
+    "currency": "GBp",
+    "data_source": "yfinance:CFYN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-27T07:48:19.972800+00:00",
+    "market_cap": "12952352",
+    "market_cap_display": "\u00a313.0m",
+    "ticker": "CFYN"
   },
   "CGEO.L": {
     "business_description": "Georgia Capital PLC is a private equity and venture capital firm specializing in early stage, organic growth and acquisitions. It considers Greenfields through mature stage companies. The firm typically invests in\u2026",
@@ -2949,6 +3001,19 @@
     "market_cap": "41516828",
     "market_cap_display": "\u00a341.5m",
     "ticker": "CHH"
+  },
+  "CHI.L": {
+    "business_description": "",
+    "company_name": "CT UK High Income Ord",
+    "currency": "GBp",
+    "data_source": "yfinance:CHI.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-27T07:48:16.937456+00:00",
+    "market_cap": "133159008",
+    "market_cap_display": "\u00a3133.2m",
+    "ticker": "CHI"
   },
   "CHL.L": {
     "business_description": "Cloudfield Holdings Limited does not have significant operations. It intends to seek the acquisition of, or a merger with, an existing company or business. Previously, the company provided cyber security services to the\u2026",
@@ -3536,16 +3601,16 @@
     "ticker": "CRTM"
   },
   "CRW.L": {
-    "business_description": "Craneware plc, together with its subsidiaries, develops, licenses, and supports computer software for the healthcare industry in the United States. It provides solutions, such as Trisus Pricing Analyzer and\u2026",
+    "business_description": "Craneware plc, together with its subsidiaries, develops, licenses, and supports computer software for the healthcare industry in the United States. It offers Trisus, a cloud-native healthcare financial intelligence\u2026",
     "company_name": "Craneware plc",
     "currency": "GBp",
     "data_source": "yfinance:CRW.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-29T19:50:00.992608+00:00",
-    "market_cap": "369761184",
-    "market_cap_display": "\u00a3369.8m",
+    "last_updated": "2026-11-27T07:48:26.101857+00:00",
+    "market_cap": "356224864",
+    "market_cap_display": "\u00a3356.2m",
     "ticker": "CRW"
   },
   "CSN.L": {
@@ -3640,16 +3705,16 @@
     "ticker": "CTL"
   },
   "CTPE.L": {
-    "business_description": "CT Private Equity Trust PLC, formerly known as BMO Private Equity Trust Plc specializes in secondary indirect, direct, and investing in other funds. Within investing in other funds, the fund specializes in private\u2026",
-    "company_name": "CT Private Equity Trust PLC",
+    "business_description": "",
+    "company_name": "CT Private Equity Trust Ord",
     "currency": "GBp",
     "data_source": "yfinance:CTPE.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-08-28T06:47:38.861225+00:00",
-    "market_cap": "345916256",
-    "market_cap_display": "\u00a3345.9m",
+    "last_updated": "2026-11-27T07:48:18.769728+00:00",
+    "market_cap": "332721504",
+    "market_cap_display": "\u00a3332.7m",
     "ticker": "CTPE"
   },
   "CTUK.L": {
@@ -4193,9 +4258,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-11-09T07:49:45.920342+00:00",
-    "market_cap": "5340294",
-    "market_cap_display": "\u00a35.3m",
+    "last_updated": "2026-11-27T07:48:24.881049+00:00",
+    "market_cap": "4254602",
+    "market_cap_display": "\u00a34.3m",
     "ticker": "ECR"
   },
   "EDEN.L": {
@@ -5298,9 +5363,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:08.325974+00:00",
-    "market_cap": "983921536",
-    "market_cap_display": "\u00a3983.9m",
+    "last_updated": "2026-11-27T07:48:17.540393+00:00",
+    "market_cap": "988341120",
+    "market_cap_display": "\u00a3988.3m",
     "ticker": "GAMA"
   },
   "GBG.L": {
@@ -5727,9 +5792,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-30T07:48:12.604408+00:00",
-    "market_cap": "157689536",
-    "market_cap_display": "\u00a3157.7m",
+    "last_updated": "2026-11-27T07:48:23.031938+00:00",
+    "market_cap": "126463888",
+    "market_cap_display": "\u00a3126.5m",
     "ticker": "GRX"
   },
   "GSC.L": {
@@ -6799,16 +6864,16 @@
     "ticker": "ITIM"
   },
   "ITM.L": {
-    "business_description": "ITM Power Plc designs and manufactures proton exchange membrane (PEM) electrolysers in the United Kingdom, Germany, rest of Europe, the United States, Australia, and internationally. Its product portfolio comprises\u2026",
+    "business_description": "ITM Power Plc designs and manufactures proton exchange membrane (PEM) electrolysers in the United Kingdom, Germany, rest of Europe, the United States, Australia, and internationally. It offers TRIDENT, a PEM\u2026",
     "company_name": "ITM Power Plc",
     "currency": "GBp",
     "data_source": "yfinance:ITM.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-19T06:49:09.861532+00:00",
-    "market_cap": "634640448",
-    "market_cap_display": "\u00a3634.6m",
+    "last_updated": "2026-11-27T07:48:23.641114+00:00",
+    "market_cap": "433282368",
+    "market_cap_display": "\u00a3433.3m",
     "ticker": "ITM"
   },
   "ITRK.L": {
@@ -8288,9 +8353,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-14T06:49:42.535401+00:00",
-    "market_cap": "979442240",
-    "market_cap_display": "\u00a3979.4m",
+    "last_updated": "2026-11-27T07:48:22.421991+00:00",
+    "market_cap": "910126912",
+    "market_cap_display": "\u00a3910.1m",
     "ticker": "MPE"
   },
   "MPL.L": {
@@ -9607,16 +9672,16 @@
     "ticker": "PNN"
   },
   "PNPL.L": {
-    "business_description": "Pineapple Power Corporation plc does not have significant operations. It focuses on identifying companies, businesses, or assets for acquisition. The company was incorporated in 2014 and is based in London, the United\u2026",
+    "business_description": "Pineapple Power Corporation plc does not have significant operations. It focuses on identification and evaluation of potential companies, businesses or assets for acquisition, with a focus on the clean and renewable\u2026",
     "company_name": "Pineapple Power Corporation plc",
     "currency": "GBp",
     "data_source": "yfinance:PNPL.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-21T06:48:53.483541+00:00",
-    "market_cap": "4957561",
-    "market_cap_display": "\u00a35.0m",
+    "last_updated": "2026-11-27T07:48:25.490462+00:00",
+    "market_cap": "1085597",
+    "market_cap_display": "\u00a31.1m",
     "ticker": "PNPL"
   },
   "PNS.L": {
@@ -10010,16 +10075,16 @@
     "ticker": "QDE"
   },
   "QED.L": {
-    "business_description": "Quadrise Plc, together with its subsidiaries, manufactures and markets emulsion fuels for use in power generation, industrial, marine diesel engines, and steam generation applications in the United Kingdom. It produces\u2026",
+    "business_description": "Quadrise Plc, together with its subsidiaries, manufactures and markets emulsion fuels for use in power generation, industrial, marine diesel engines, and steam generation applications in the United Kingdom. The company\u2026",
     "company_name": "Quadrise Plc",
     "currency": "GBp",
     "data_source": "yfinance:QED.L",
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-10-26T07:49:51.411283+00:00",
-    "market_cap": "20408610",
-    "market_cap_display": "\u00a320.4m",
+    "last_updated": "2026-11-27T07:48:24.272724+00:00",
+    "market_cap": "45496904",
+    "market_cap_display": "\u00a345.5m",
     "ticker": "QED"
   },
   "QHE.L": {
@@ -13332,9 +13397,9 @@
     "enrichment_error": "",
     "enrichment_status": "ok",
     "exchange": "LSE",
-    "last_updated": "2026-09-28T18:51:48.633281+00:00",
-    "market_cap": "60951484",
-    "market_cap_display": "\u00a361.0m",
+    "last_updated": "2026-11-27T07:48:26.713810+00:00",
+    "market_cap": "48851480",
+    "market_cap_display": "\u00a348.9m",
     "ticker": "VNH"
   },
   "VOD.L": {
@@ -13648,6 +13713,19 @@
     "market_cap": "66072924",
     "market_cap_display": "\u00a366.1m",
     "ticker": "WRKS"
+  },
+  "WSBN.L": {
+    "business_description": "Wishbone Gold Plc, together with its subsidiaries, engages exploration business in Australia. The company explores for gold, copper, silver, lead, and other metals. Its flagship project is Red Setter located in the\u2026",
+    "company_name": "Wishbone Gold Plc",
+    "currency": "GBp",
+    "data_source": "yfinance:WSBN.L",
+    "enrichment_error": "",
+    "enrichment_status": "ok",
+    "exchange": "LSE",
+    "last_updated": "2026-11-27T07:48:27.949408+00:00",
+    "market_cap": "2895381",
+    "market_cap_display": "\u00a32.9m",
+    "ticker": "WSBN"
   },
   "WSL.L": {
     "business_description": "Worldsec Limited, a closed-ended investment company, invests in small and medium sized trading companies in the Greater China and South East Asian regions. The company was founded in 1991 and is based in Sheung Wan,\u2026",
